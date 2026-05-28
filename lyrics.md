@@ -1538,3 +1538,53 @@ buscando entre papa y maíz la respuesta que no va.
 ¡Ay, qué vaina, mi hermano, hasta los curas dudan ya!
 
 ---
+
+# Svarta Ögon
+
+## Notes
+Original text by Carlos Thompson ca. 1991.
+
+## Style
+dubstep, deep baritone vocals
+
+## Lyrics
+ögona dina, svarta ögon.
+Dom vill jà å bli mina.
+
+---
+
+# [title]
+
+## Notes
+
+## Style
+
+
+## Lyrics
+
+
+---
+
+# [title]
+
+## Notes
+
+## Style
+
+
+## Lyrics
+
+
+---
+
+# [title]
+
+## Notes
+
+## Style
+
+
+## Lyrics
+
+
+---
