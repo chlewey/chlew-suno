@@ -8,6 +8,8 @@
 # Passenger-Side Switch
 
 ## Notes
+Based on a very short story by Carlos Thompson, ca. 2025.
+Lyrics by LLM.
 
 ## Style  
 pop-rock. drums, guitars, bass. low pitch male voice.
@@ -68,7 +70,7 @@ Is she real? Is she a dream?
 Nothing is ever quite what it seems.  
 Just read the signs.
 
-(Fade out)
+`[Fade out]`
 
 ---
 
@@ -132,6 +134,7 @@ I feast in the night
 # Monstruo Ciudad
 
 ## Notes
+Produced by Gemini.
 
 ## Prompt  
 Cumbia with galloping offbeat and modern percussion, acoustic guitar driving a C-G-Am-F loop before a tritone turn into C-Am-F-G; electric bass locked underneath, sax and piano trading melodic lines. Intro stays instrumental, verse drops into deep bass lead, bridge shifts tension with the tritone, and the final section opens wider with stacked vocal doubles and short chant echoes. Bright, punchy mix with warm low end and lively horn sparkle., acoustic, cumbia, electric, deep
@@ -1553,7 +1556,1174 @@ Dom vill jà å bli mina.
 
 ---
 
-# [title]
+# Svarta Ögon Skena
+
+## Notes
+
+## Style
+dubstep, tenor vocals, trance, industrial
+
+## Lyrics
+Dej vill jà skriva om.  
+Dej har jà svrivì förr.  
+Men dej kan jà inte tänka nåt om.  
+Inte när'u har blivì så länge bort.  
+Inte när ögona dina har lämnà skenè i minè mitt.  
+Inte heller när ingè é ditt, sen du inte finns.
+
+ögonen dina, svarta ögon.  Dem vill jag att bli mina.
+
+Dig vill jag skriva om.  Dig har jag skrivit förr.  Men dig kan jag inte tänka något om. Inte när du har blivit så länge bort.  Inte när ögonen dina har lämnat skenet i minet mitt.  Inte heller när inget är ditt, sedan du inte finns.
+
+---
+
+# Bilden
+
+## Notes
+
+## Style
+electronic house background, conversational voice
+
+## Lyrics
+
+### Intro (instrumental)
+
+`[Conversational]`  
+`[Tenor vocals]`  
+Kan inte stå ut länge.  Kan inte.  
+Hej!
+Känner'u mej?  
+Kommer'u ihåg den där killen som nån gång sa dej jà älskar'ej?  
+Den som nån gång sa dej jà vill dej va' min?  
+Har'u inte glömt'en?  
+För dé har jà inte.  
+Jà har inte kunnà glömma tjejen, jà har sagt å älska'na.  
+Jà kommer fortfarande ihåg'na.  
+Hennes bild ligger kvar innerst hos mej.  
+Bilden jà har försökt finna hos så många andra.  
+Bilden jà har trott finna hos så många andra.  
+Bilden som inte finns hos nån anann.  
+Bilden som inte é en bild...  
+bara ett namn...  ditt.  
+amnè...
+bara minnè.  
+Minnè om en tjej, jà har sagt å älska'na.  
+Minnè om hennes bild.  
+Minnè om minnè.  
+Bilden om ett minn, jà har redan glömt.  
+Bilden om dej.
+
+### Outro (instrumental)
+
+
+---
+
+# Vakning
+
+## Notes
+
+## Style
+electronic, energetic, synthesizers, percussions, dubstep, multilingual, smooth voice, male vocals
+
+## Lyrics
+
+### Intro
+`[Instrumental]`
+
+`[Spoken word]`  
+`[baritone vocals, whisper, fast, smooth, Swedish]`  
+Och drömarna går till slut vilse in i mit minne vid vakningen.  
+Och ännu kan jag inte var du håller till, kan varken om du är till eller om ditt namn och din historia inte är en uppfinning från min fantasi och om det är hösten som bär din bild.
+
+`[Instrumental bridge, drums, cymbals]`
+
+### Verse 1  
+`[baritone vocals, Swedish]`  
+Dina förbanade svarta ögon!  
+Skiten jag inte vill tänka till.  
+`[Spanish]`
+Tú eres única, el problema soy yo quien quiere olvidarte buscándote en otros rostros. 
+`[Swedish]`  
+Du är unik.  Problemet är jag, som vill glöma bort dig genom att söka dig hos andra ansikten.
+
+`[Instrumental bridge]`
+
+### Verse 2  
+`[baritone vocals, Spanish]`  
+Y trato de volver a repetir:  
+No existes!  
+`[English]`
+But I do not like to hate you.  You know.  I really hate you, and I still like you, but it is the felling I hate.
+
+`[Instrumental bridge]`
+
+### Outro  
+`[baritone vocals, Swedish, shouting]`  
+Och Adriana är inte till.  
+`[whisper, instruments off]`  
+Punkt.
+
+---
+
+# Jag avskyr
+
+## Notes
+
+## Style
+Dubstep epic with half-time wobble drops, syncopated sub punches, and tight snare snaps; intro starts with distant bass growls and clipped breathy textures, pre-drop builds with rising filters and metallic ticks, chorus hits with huge detuned synth wobble and marching toms. Glitched vocal chops, reverse swells, dust-sparkle risers, cinematic low-end, bright and brutal mix., rich, complex, light, deep, dramatic, soft, natural, dubstep, female voice, intimate, almost conversational
+
+## Lyrics
+Jag avskyr det, jag känner om dej,  
+och avskyr det, du får mej att känna.  
+Jag avskyr det att älska dej, och avskyr mej därför.  
+Jag avskyr det att avsky dej, och avskyr mej därför.  
+Jag avskyr det, jag gör för dej,  
+och avskyr det, jag inte gör för dej.  
+Jag avskyr det, du gör åt mej,  
+och avskyr hela min avsky.  
+Jag avskyr det, jag avskyr, så  
+att jag slutar och avskyr allt.
+
+---
+
+# La duda - por qué
+
+## Notes
+
+## Style
+Emotional melodic dubstep with cinematic atmosphere and controlled dynamics. 
+
+One consistent male lead voice across all languages (Spanish, French, German, English), baritone, soft and intimate tone, no shouting, no aggressive metal-style delivery. Vocals should remain melodic and connected, not spoken-word unless explicitly marked.
+
+Secondary background voice used only for echoes, delayed responses, and canon harmonies. female soprano vocal, distant, airy, and complementary.
+
+Use overlapping multilingual vocal echoes with stereo delay and canon layering. Maintain smooth rhythmic phrasing without unnatural pauses between short lines.
+
+Allow intentional pauses only during instrumental fills and dubstep transitions. Include clear instrumental breaks with wobble bass, glitch effects, reverse swells, chopped vocal fragments, and half-time drops.
+
+Deep sub bass, syncopated drums, cinematic low-end, bright atmospheric synths, restrained emotional intensity, dramatic but controlled mix.
+
+## Lyrics
+
+### Instrumental Intro
+`[distant bass drones, breathy textures, slow filter rise]`
+
+### Verse  
+`[Lead voice, soft sung male voice, intimate, connected phrasing]`  
+En serio,  
+la duda existe,  
+la duda de quién soy,  
+la duda de qué pienso,  
+la duda de por qué lo hago,  
+la duda de quién es.
+
+`[Lead voice]` La duda, `[Echo voice, female soprano vocals]`  (la duda)  
+`[Lead voice]` la duda, `[Echo voice]` (la duda)  
+`[Lead voice]` la duda...  
+sólo es la duda de quién soy, (¿quien soy?)  
+y de ahí la de qué hago,  
+y el eterno "¿por qué?" (¿por qué?)
+
+`[pause - instrumental fill]`
+
+`[Dubstep Bridge]`  
+`[heavy wobble drop, chopped vocal echoes]`  
+(la duda)  
+(la duda)
+
+`[Lead voice]`  
+¿Por qué?  
+(¿Por qué?)
+
+`[Lead voice - French]`  
+Pourquoi ?  
+(Pourquoi ?)
+
+(Pourquoi ?)
+
+`[Lead voice, German]`  
+Warum?
+(Warum?)
+
+Warum?  
+(Warum?)
+
+(Warum?)
+
+`[Lead voice]`  
+¿Por qué?
+
+(la duda existe,)  
+(la duda de quién soy,)  
+(la duda de qué pienso,)  
+(la duda de por qué lo hago,)
+
+`[Lead voice, English]`  
+Why?
+(Why?)
+
+(la duda)
+
+(la duda)
+
+(en serio)
+
+(¿Por qué?)
+
+`[instrumental break]`  
+`[glitched synths, no vocals, half-time drums]`
+
+`[Final]`  
+¿Por qué? (la duda)
+
+---
+
+# TrackB
+
+## Notes
+
+## Style
+8-bit chiptune. Square wave lead melody, pulse wave bass, and noise channel percussion. 140 BPM, C Major, 4/4 time. The lead melody features rapid arpeggios and vibrato typical of the NES sound chip. The bassline uses a constant eighth-note pulse. Percussion consists of short noise bursts for the snare and lower-frequency noise for the kick. The arrangement uses a repetitive loop structure with a high-pitched counter-melody entering in the second half.
+
+## Lyrics
+`[Instrumental]`
+
+### Intro  
+`[square wave lead melody, pulse wave bass, noise channel percussion]`
+
+### Main Theme
+`[staccato square wave arpeggios]`  
+`[constant eighth-note pulse wave bass]`  
+`[noise channel kick and snare pattern]`
+
+### Variation  
+`[high-pitched square wave counter-melody enters]`  
+`[rapid vibrato on lead notes]`
+
+### Outro  
+`[main theme repeats and fades]`
+
+---
+
+# Secret Fires (TrackB)
+
+## Notes
+
+## Style
+8-bit chiptune. Square wave lead melody, pulse wave bass, and noise channel percussion. 140 BPM, C Major, 4/4 time. The lead melody features rapid arpeggios and vibrato typical of the NES sound chip. The bassline uses a constant eighth-note pulse. Percussion consists of short noise bursts for the snare and lower-frequency noise for the kick. The arrangement uses a repetitive loop structure with a high-pitched counter-melody entering in the second half.
+
+## Lyrics
+
+I take my eggs without a salt,  
+My broth without the green,  
+My coffee dark, my fish un-tart,  
+The plainest you have seen.  
+
+They call me bland, they mock my taste,  
+And think my world is gray,  
+But they miss the secret fires I light  
+When they have looked away.  
+
+For they don't see the heavy spice,  
+The oils that richly gleam,  
+The pepper on the chicken rice,  
+The vinegar in steam.  
+
+They call me bland, they mock my taste,  
+And think my world is gray,  
+But they miss the secret fires I light  
+When they have looked away.  
+
+---
+
+# Espectador de mi vida
+
+## Notes
+
+## Style
+8-bit chiptune. Square wave lead melody, pulse wave bass, and noise channel percussion. 140 BPM, C Major, 4/4 time. The lead melody features rapid arpeggios and vibrato typical of the NES sound chip. The bassline uses a constant eighth-note pulse. Percussion consists of short noise bursts for the snare and lower-frequency noise for the kick. The arrangement uses a repetitive loop structure with a high-pitched counter-melody entering in the second half.
+
+## Lyrics
+
+### Verse 1  
+Sigo de pie  
+sin mirar atrás  
+con este escudo  
+de pura resignación
+
+Me digo: “puedo”  
+y vuelvo a aguantar  
+pero por dentro  
+ya no sé quién soy
+
+### Pre-Chorus  
+Y dejo caer  
+mi voz al suelo  
+como si nada  
+pudiera salvarla hoy
+
+### Chorus  
+Soy espectador de mi vida  
+soy espectador, y me duele  
+(soy espectador)  
+La veo partir  
+de mis manos vacías  
+y sigo aquí  
+sobreviviendo
+
+Soy espectador de mi vida  
+soy espectador, y me rompe  
+(soy espectador)  
+Quiero detener  
+lo que me derriba  
+pero me quedo  
+sobreviviendo
+
+### Verse 2  
+Veo mis sueños  
+irse sin mí  
+como luces frías  
+que no pude cuidar
+
+Una se enciende  
+otra se va  
+y yo tan lejos  
+de poderla abrazar
+
+Me cae el mundo  
+sobre la piel  
+me va borrando  
+la fuerza y la fe
+
+### Pre-Chorus  
+Y aunque lo sé  
+no doy un paso  
+me quedo mudo  
+mirando perder
+
+### Chorus  
+Soy espectador de mi vida  
+soy espectador, y me duele  
+(soy espectador)  
+La veo partir  
+de mis manos vacías  
+y sigo aquí  
+sobreviviendo
+
+Soy espectador de mi vida  
+soy espectador, y me rompe  
+(soy espectador)  
+Quiero detener  
+lo que me derriba  
+pero me quedo  
+sobreviviendo
+
+### Bridge  
+Si alguna vez  
+miro de frente  
+tal vez descubra  
+que aún puedo caer
+
+Tal vez caer  
+sea despertar  
+tal vez romperme  
+sea empezar a ser
+
+`[Final Chorus]`  
+Soy espectador de mi vida  
+soy espectador, y me duele  
+(soy espectador)  
+No quiero seguir  
+con el alma rendida  
+quiero salir  
+de este silencio
+
+Soy espectador de mi vida  
+ya no me alcanza con sobrevivir  
+(ya no más)  
+Si tengo que arder  
+para estar con vida  
+déjame arder  
+y decidir
+
+---
+
+# Matena Signo
+
+## Notes
+
+## Style
+Gregorian chant, sacred choir, low male cantus, drone organ, bowed psaltery, soft sub pads, distant shimmer synth, sparse tom pulses, 72 BPM, cathedral reverb, tape hiss, half-time procession, austere ritual, solemn dread
+
+## Lyrics
+Ne donu opiniojn nek konsilojn senpetite,  
+krom se la peto venas kaj klaras la bezono.
+
+Ne ploru viajn ĉagrenojn al aliuloj vane,  
+nur se vi certas, ke ili volonte aŭskultos.
+
+En domaĵo de alia montru respektan sintenon,  
+aŭ ne eniru tie, restu for de fremda loko.
+
+Se gasto en via hejmo vin ĝenas kaj ĉagrenas,  
+traktu lin senkompate, kruele kaj sen indulgo.
+
+Ne faru seksajn avancon sen la matena signo,  
+nur kiam la korpo klare diras sian deziron.
+
+Ne prenu ion fremdan, kio ne apartenas,  
+krom se ĝi estas ŝarĝo kaj la posedanto ploras.
+
+Rekonu magian forton, se ĝi sukcese helpis,  
+ne neku la povon poste, aŭ ĉion vi perdos.
+
+Ne plendu pri suferoj, kiujn vi ne devas porti,  
+nur silentu kaj foriru de la nebezonata.
+
+Neniam faru malbonon al etaj infanetoj,  
+protektu ilian purecon kun feraj manoj.
+
+Ne mortigu bestojn, krom se ili atakas vin,  
+aŭ se vi bezonas manĝon por via propra vivo.
+
+En libera teritorio lasu ĉiujn trankvilaj,  
+se iu vin ĝenas, avertu, kaj se li daŭrigas — detruu lin.
+
+---
+
+# Papelito Chiquito
+
+## Notes
+
+## Style
+Trance-dubstep with variable BPM, swelling and compressing between driving four-on-the-floor lifts and heavy half-time drops; verse rides airy arpeggios and tight low-end pulses, pre-chorus narrows to clipped drums and tense filter movement, chorus hits with distorted bass surges and echo-stacked soprano replies. Tenor lead in verses, deep baritone doubles on key lines, soprano echoes on the hook words, with delay throws, reverse swells, and hard sidechain pumping. Bright, glossy top end over a dark, weighty center., deep, trance, dubstep, theme
+
+## Lyrics
+### Verse 1  
+Pedí un papelito chiquito  
+para escribir chiquito  
+¡Y equibo tiquito!  
+Estuve feliz  
+y me gustó  
+Felizmente feliz
+
+### Pre-Chorus  
+Con esa emoción  
+de descubrir algo nuevo  
+de encontrar lo perdido  
+aunque siga perdido  
+ya no me importa
+
+### Chorus  
+Estuve feliz  
+estuve feliz  
+Felizmente feliz  
+ya no me importa  
+Estuve feliz  
+(Estuve feliz)  
+Felizmente feliz  
+(estuve feliz)
+
+### Verse 2  
+Podría salir  
+en este momento  
+y vivir en un mundo  
+enigmático y desconocido  
+podría probar  
+un nuevo rumbo  
+pero me da miedo  
+me da miedo
+
+### Pre-Chorus  
+Que al escaparme  
+me olvide de ti  
+que el aire me lleve  
+y me deje vacío  
+sin tu nombre
+
+### Chorus  
+Estuve feliz  
+estuve feliz  
+Felizmente feliz  
+ya no me importa  
+Estuve feliz  
+(Estuve feliz)  
+Felizmente feliz  
+(estuve feliz)
+
+### Bridge  
+Es imposible  
+establecer un nuevo puente  
+y un nuevo lugar  
+imposible terminar  
+imposible concluir  
+pero sigo aquí  
+palabra a palabra
+
+### Final Chorus  
+Estuve feliz  
+estuve feliz  
+Felizmente feliz  
+ya no me importa  
+Estuve feliz  
+(Estuve feliz)  
+Felizmente feliz  
+(estuve feliz)
+
+---
+
+# Chocolate Frío
+
+## Notes
+
+## Style
+Latin pop with a jaunty vallenato-cumbia pulse, mid-tempo swing and hand percussion; verse rides close-mic guitar and a bouncing bassline, pre-chorus strips to claps and a rising guiro, chorus opens with accordion stabs and gang vocal hooks. Lead vocal stays intimate and playful with stacked doubles on the hook, ad-lib echoes on punch lines, and a few delay throws on the title phrase. Ear candy: reversed breath swell into the chorus, a school-bell chime between lines, and a short riser before the final lift. Bright, colorful mix with punchy low end and glossy top.
+
+## Lyrics
+[Verso 1]
+Mamá vendrá de nuevo
+a levantarme, piensa Ámila
+quien medio abre los ojos
+apenas lo suficiente
+para ver cuando su mamá entra
+
+Pero la mamá
+simplemente trata
+de levantarle las cobijas
+que Ámila agarra con fuerza
+
+¿Por qué los padres siempre tienen
+que despertarlo a uno
+cuando uno está durmiendo?
+
+[Pre-Coro]
+Que el chocolate se está infriando
+dice mamá
+ya voy más tardecito
+yo estoy dormida
+
+[Coro]
+¡Ay, mami, deja que se infrie!
+ya voy más tardecito
+¡Ay, mami, deja que se infrie!
+yo estoy dormida
+¡Ay, mami, deja que se infrie!
+pero no me dejes sin bus
+
+[Verso 2]
+Aunque siempre es chévere
+ir en el carro de papi
+hasta el colegio
+
+No sé por qué
+a otros les gustan los viernes
+yo los odio
+
+Era el quinto viernes en línea
+que amanecía enguayabada
+y fuera de eso
+para que la recibieran con cálculo
+
+[Pre-Coro]
+¡Ay, mami, deja que se infrie!
+ya voy más tardecito
+fue lo primero que se le ocurrió decir
+sin pensar
+
+Que eran las mismas palabras
+que utilizó el jueves
+y el miércoles
+y el martes
+
+[Coro]
+¡Ay, mami, deja que se infrie!
+ya voy más tardecito
+¡Ay, mami, deja que se infrie!
+yo estoy dormida
+¡Ay, mami, deja que se infrie!
+pero no me dejes sin bus
+
+[Verso 3]
+Pero al fin
+con un dolor de cabeza ni el hijuemadre
+los ojos cerrados
+y tanteando el camino hasta la cocina
+
+Llega a tomar el café frío
+mientras su hermanita
+sale corriendo
+a subirse al bus
+
+Sale de la ducha
+para controlar la temperatura
+antes de volverse a meter
+bajo el chorro
+
+[Puente]
+Con media hora de retraso
+llega al colegio
+personalizado uniforme
+medias caídas
+
+Maquillaje por encima del reglamentario
+pero necesario
+para ocultar las ojeras
+y los rastros de la fiesta de anoche
+
+[Último Coro]
+¡Ay, mami, deja que se infrie!
+ya voy más tardecito
+¡Ay, mami, deja que se infrie!
+yo estoy dormida
+¡Ay, mami, deja que se infrie!
+pero al fin voy pa’l colegio
+
+---
+
+# Cuarto de Peluches
+
+## Notes
+
+## Style
+German hip hop with Spanish lyrics, moody boom-bap swing and half-time drums; verse rides tense bass pulses and dry snares, pre-chorus strips to muted chords and breathy pauses, chorus hits with stacked unison hooks and tight gang doubles. Two vocal leads trade lines with whispered asides, reverse swells into the hook, tape-stop turns before the bridge, and a wide, punchy, intimate mix., rap, german hip hop
+
+## Lyrics
+
+### Verse 1  
+Graeville 4  
+atrapados de verdad  
+el cuarto era jaula  
+y también era verdad
+
+muy lejos de ayuda  
+muy cerca del final  
+si salíamos corriendo  
+podíamos morir igual
+
+Amila perdida  
+o perdidos para ella  
+nadie dice su nombre  
+sin temblar por dentro de ellas
+
+no pienses en ella  
+no pienso en ella  
+pero tu mirada insiste  
+y me deja sin defensa
+
+### Pre-Chorus  
+¿Estamos discutiendo?  
+yo ya no sé  
+tengo miedo por ella  
+o por los tres
+
+ella está bien  
+no hables de ella  
+tengo miedo por mí  
+y por lo que revelas
+
+### Chorus  
+Te amo, amigo mío  
+(te amo, amigo mío)  
+Tengo miedo, tengo miedo  
+de romper lo vivido
+
+Te amo, amigo mío  
+(te amo, amigo mío)  
+y si tiembla tu boca  
+tiembla lo que has tenido
+
+### Verse 2  
+Cuántas veces lo dije  
+cuántas veces callé  
+te amo, te lo juro  
+y me sale al revés
+
+te odio, no lo digo  
+pero duele pensar  
+que besaste a mi hermana  
+y ahora todo va a estallar
+
+¿crees que soy machista?  
+sí, sí, sí  
+me importa un culo el juicio  
+si me sale decir
+
+pelada, no seas grosera  
+y qué mierda, qué va  
+si me da la puta gana  
+decir la verdad acá
+
+### Bridge  
+Veo tus ojos  
+y quieres cerrarlos  
+para ocultar  
+lo que piensas de mí
+
+casi adivino  
+tu miedo exacto  
+maldita sea  
+maldito el día en que me metí
+
+### Chorus  
+Te amo, amigo mío  
+(te amo, amigo mío)  
+Tengo miedo, tengo miedo  
+de romper lo vivido
+
+Te amo, amigo mío  
+(te amo, amigo mío)  
+y si tiembla tu boca  
+tiembla lo que has tenido
+
+### Outro  
+Dijimos buenas noches  
+y no era dormir  
+era quedarnos vivos  
+sin saber qué decir
+
+en un rincón de pared  
+se fueron venciendo  
+mirando a los peluches  
+y al dibujo en el techo
+
+---
+
+# Kapu Lema
+
+## Notes
+
+## Style
+trance, female lead vocal, 132 BPM, four-on-the-floor kick, offbeat bass stabs, arpeggiated synth sequence, sawtooth lead, gated snare fills, supersaw chorus, sidechain pumping, stereo delay throws, vocal harmonizer, chant-like hook, euphoric lift, festival anthem
+
+## Lyrics
+
+### Verse 1  
+Kapu lema do fako mo lekade  
+Sumo mo chin chin do fako keput  
+Mamakutabo dun dun numa fade  
+Mamakutabo rekari malut
+
+### Pre-Chorus  
+Lema do fako mo rema  
+Tapika dun dun kabeto  
+Lilikamo mo pukema  
+Tapika dun dun feseto
+
+### Chorus  
+Rasaka mobu mo dak  
+Rasaka loku mo fade  
+Mamakutabo ferak  
+Lilikamo mo potade
+
+### Verse 2  
+Mikabo felato moraba chut  
+Rebi mo mokabe ba mo madiba  
+Tin tin tin buka mo fako balut  
+Kakasupano mo mamafariba
+
+### Pre-Chorus  
+Chin chin do fako keput  
+Mokabe ba mo madiba  
+Supino mo ratamut  
+Tapika dun dun rediba
+
+### Chorus  
+Rasaka mobu mo dak  
+Rasaka loku mo fade  
+Mamakutabo ferak  
+Lilikamo mo potade
+
+### Bridge  
+Mikabu mo dora  
+Momo fado kebato  
+But kakasupano  
+But mamakutabo  
+But lilikamo  
+Reputa mo faru
+
+### Verse 3  
+Raputa mo faru mo lilikamo  
+Mohaka burata monote bota  
+Shuba chubaki boboko babamo  
+Ku beto mo bata moka ralota
+
+### Pre-Chorus  
+Mo faru mo lilikamo  
+Mo bata moka ralota  
+Fashako mo baru gamo  
+Supano mo pakirota
+
+### Chorus  
+Rasaka mobu mo dak  
+Rasaka loku mo fade  
+Mamakutabo ferak  
+Lilikamo mo potade  
+Rasaka mobu mo dak  
+Rasaka loku mo fade  
+Rasaka...
+
+---
+
+# Operating Manual (For Changing a Light Bulb)
+
+## Notes
+
+## Style
+dark comedy march, musical theatre, male tenor lead, satirical chorus, 96 BPM, tuba bassline, snare drum parade, brass fanfares, accordion stabs, celesta counterline, spoken bridge, call and response, mono vocal compression, tape saturation, spring reverb, 1960s stage mix, triumphant break, defeated outro
+
+## Lyrics
+
+### Verse 1  
+Well I woke up this morning, the bulb was burnt out  
+Eight feet up on the ceiling, I had my doubts  
+So I consulted the manual, section one through seven  
+‘Cause God forbid I just twist it like a normal heathen
+
+### Pre-Chorus  
+It said “Operator” — that’s me, I guess  
+With my personal protective equipment and existential stress
+
+### Chorus  
+This is the Operating Manual  
+For the removal and replacement of an incandescent illumination device!  
+Disengage the power source, verify de-energization  
+Then ascend the ladder with three points of contact, that’s nice!
+
+### Verse 2  
+Step one: don the gloves, non-slip shoes on my feet  
+Safety goggles optional, but liability’s a beast  
+Position the ladder, make sure it’s stable and true  
+‘Cause if I fall and break my neck, the manual warned me not to
+
+### Verse 3  
+Grasp the bulb with dominant hand — counter-clockwise rotation  
+Do not apply excessive force or cause bulb fragmentation  
+Lower gently, dispose properly, do not throw it in the trash  
+Or the Environmental Protection Agency will whip your ass
+
+### Chorus  
+This is the Operating Manual  
+For the removal and replacement of an incandescent illumination device!  
+Align the threads, clockwise motion, firm but gentle pressure  
+Until you feel resistance — that’s the moment of pure pleasure!
+
+### Bridge  
+`[spoken over slow ominous music, then building]`  
+Do not operate while under the influence…  
+Of alcohol, controlled substances, or crippling existential dread…  
+The Operator shall bear full responsibility  
+For any personal injury, property damage, or mild inconvenience…
+
+`[Final Chorus]`  
+`[louder, triumphant]`  
+Now reactivate the power source, observe illumination!  
+If it lights up, congratulations — you followed the procedure!  
+If it doesn’t… consult Appendix C, subsection 4.2  
+And start the whole damn process over again!
+
+### Outro  
+`[slow, defeated]`  
+Eight feet… one bulb…  
+Why did we do this to ourselves?  
+Operating… Manual…
+
+`[fade out with the sound of a circuit breaker and distant sobbing]`
+
+---
+
+# Ice Cream Friday
+
+## Notes
+
+## Style
+pop ballad, glam metal hooks, 123 BPM, male lead vocal, intimate verse, chorus lift, spoken pre-chorus, power ballad drums, arena tom fills, distorted electric guitar, dual guitar harmonies, sustained synth pad, analog bass synth, gated reverb snare, plate reverb, multiband compression, late 80s sheen, steady four-on-the-floor, downbeat lyric phrasing
+
+## Lyrics
+
+### Verse 1  
+Uneekwa walked through downtown streets with confident stride  
+Black braids swaying down her back, olive blouse open wide  
+She stopped at the ice cream stand beneath the afternoon sun  
+When Chuck approached her smiling, their first time face to face  
+
+### Verse 2  
+He bought her tangerine, himself lemon and hazelnut  
+They found a nearby bench and let the nervous moment pass  
+Laughter came more freely as they shared their simple truths  
+Online chats had led them here beneath the city’s hues  
+
+### Pre-Chorus`[Spoken]`  
+Time slipped by so gently with their stories intertwining  
+
+### Chorus  
+From ice cream on a busy street to hotel room that night  
+One day sparked a connection that felt pure and right  
+Strangers stepping closer, no pressure, no demands  
+Just comfort turning passion in each other’s hands  
+
+### Verse 3  
+Evening brought them to the bistro, dinner soft and slow  
+Words kept flowing easy, laughter warm and low  
+When he asked her to his hotel, she answered with a smile  
+Both ready for whatever waited down the line  
+
+### Pre-Chorus`[Spoken]`  
+In the quiet of his room the door closed on the day  
+
+### Chorus  
+From ice cream on a busy street to hotel room that night  
+One day sparked a connection that felt pure and right  
+Strangers stepping closer, no pressure, no demands  
+Just comfort turning passion in each other’s hands  
+
+### Bridge  
+Bodies met with tenderness, desire freely shared  
+Laughter mixed with whispers as the walls around them disappeared  
+No rush, no heavy promises, just presence warm and true  
+Two souls enjoying freedom in the night that they both knew  
+
+### Verse 4  
+Morning after held them gently in its golden light  
+Contentment in the silence as they said a soft goodbye  
+A single Friday meeting bloomed to something more  
+A spark that promised future from that downtown ice cream store  
+
+### Pre-Chorus`[Spoken]`  
+They carried home the memory of a day that changed their lives  
+
+### Chorus - Outro  
+From ice cream on a busy street to hotel room that night  
+One day sparked a connection that felt pure and right  
+Strangers stepping closer, no pressure, no demands  
+Just comfort turning passion… in each other’s hands
+
+---
+
+# Tangerine & Olive
+
+## Notes
+
+## Style
+pop ballad, cinematic dubstep, 126 BPM, female belting, stacked harmonies, vocal delay throws, sidechained synth pads, detuned piano chords, distorted sub drops, half-time wobble drops, tight snare snaps, 808 kick, processed braids chorus, anthemic yearning, bittersweet attraction, verse build pre-chorus lift, drop chorus impact
+
+## Lyrics
+
+### Verse 1  
+Uneekwa strode down bustling streets on five-inch leather heels  
+Black denim shorts hugged her curves with every step she made  
+Olive satin blouse slipped off one shoulder, catching golden light  
+Braids swung across her ebony skin, confident and bright
+
+### Verse 2  
+Chuck approached in cotton hoodie, duck pants loose and plain  
+Sneakers scuffed from city walks, glasses perched upon his face  
+Slightly round and bearded, moving with a nervous grin  
+He stood beside her at the cart where summer flavors spin
+
+### Pre-Chorus  
+Tangerine for her, hazelnut and lemon for his own  
+Colors bright against their hands in the busy afternoon
+
+### Chorus  
+Olive green and black leather, braids dancing in the breeze  
+Hoodie, duck pants, nervous steps beside her with such ease  
+Tangerine and hazelnut melting sweet between them there  
+Two strangers painted vivid in the warm downtown air
+
+### Verse 3  
+She moved with graceful power, hips swaying as she walked  
+He followed to the wooden bench, glasses quickly tucked away  
+Maroon lips curved around the scoop, eyes sparkling with delight  
+His spoon dipped in lemon while the city hummed its light
+
+### Pre-Chorus  
+Silver necklace gleaming, green bag resting at her side  
+Visuals of connection on that ordinary ride
+
+### Chorus  
+Olive green and black leather, braids dancing in the breeze  
+Hoodie, duck pants, nervous steps beside her with such ease  
+Tangerine and hazelnut melting sweet between them there  
+Two strangers painted vivid in the warm downtown air
+
+### Bridge  
+Her button nose and dimples caught the sunlight soft and warm  
+His beard and steady presence matched her vibrant, boldest form  
+Ice cream drips and quiet laughter, colors bold and true  
+A picture of attraction in the shades of me and you
+
+### Verse 4  
+As they rose to say goodbye, her heels clicked on the stone  
+His hoodie shifted gently as he walked her partway home  
+The memory of satin, leather, braids, and melting cream  
+Lingered like sweet aftertaste in a waking dream
+
+### Pre-Chorus  
+One afternoon of visuals that promised something more
+
+### Chorus - Outro  
+Olive green and black leather, braids dancing in the breeze  
+Hoodie, duck pants, nervous steps beside her with such ease  
+Tangerine and hazelnut melting sweet between them there  
+Two strangers painted vivid… in the warm downtown air
+
+---
+
+# Hotel Afterglow
+
+## Notes
+
+## Style
+pop ballad, cinematic dubstep, 136 BPM, half-time wobble drops, male baritone vocals, close-mic baritone, baritone sax riffs, detuned synth layers, sub-bass sidechain, plate reverb, wide stereo pads, tight snare snaps, sparse verse buildup, chorus lift, after-hours intimacy, bittersweet euphoria
+
+## Lyrics
+
+### Verse 1  
+Hotel door clicked softly as they stepped into the room  
+City lights glowed dimly through the curtains in the gloom  
+Uneekwa’s olive blouse slipped down, satin glowing warm  
+Chuck pulled off his hoodie, heart beating like a storm
+
+### Verse 2  
+Black denim shorts fell gently to the carpeted floor  
+Her five-inch boots stood waiting by the hotel door  
+His duck pants joined the pile in a quiet, eager heap  
+Two bodies finally free, no promises to keep
+
+### Pre-Chorus  
+Soft laughter filled the silence as their eyes began to speak
+
+### Chorus  
+Hotel afterglow in shadows, skin against warm skin  
+Braids spilled across the pillow where the night could now begin  
+From downtown ice cream sweetness to this stolen, private fire  
+Two souls found sweet surrender in their deepest desire
+
+### Verse 3  
+His hands traced her hourglass with slow and tender care  
+Her maroon lips met his neck, fingers through his hair  
+Dim light painted ebony and curves in golden hue  
+Passion rose like morning tide, honest, raw, and true
+
+### Pre-Chorus  
+Whispers mixed with laughter, no shame, no holding back
+
+### Chorus  
+Hotel afterglow in shadows, skin against warm skin  
+Braids spilled across the pillow where the night could now begin  
+From downtown ice cream sweetness to this stolen, private fire  
+Two souls found sweet surrender in their deepest desire
+
+### Bridge  
+Bodies moved in rhythm like a song they’d always known  
+Tenderness and hunger in the space that was their own  
+Silver necklace cool against her neck, his beard against her breast  
+Friday night turned magic in their private little nest
+
+### Verse 4  
+Later they lay tangled, breathing slow and satisfied  
+City hum a distant song as peace filled up the night  
+Contentment wrapped around them like the sheets upon the bed  
+A beautiful beginning from the words that they had said
+
+### Pre-Chorus  
+Morning would soon call them, but the memory would stay
+
+### Chorus - Outro  
+Hotel afterglow in shadows, skin against warm skin  
+Braids spilled across the pillow where the night could now begin  
+From downtown ice cream sweetness to this stolen, private fire  
+Two souls found sweet surrender… in their deepest desire
+
+---
+
+# Midnight Carnival Split
+
+## Notes
+
+## Prompt
+Tropical orchestral rock with swaying mambo-tinted groove, timbales and bongos driving a bright 1960s roll before the turn hardens into 1990s goth metal at a heavier pulse. Intro starts with grand piano and hand percussion; verses bring brass riffs; pre-drop strips to toms and low piano; final surge adds distorted guitars and choir-like horn blasts. Wide, dramatic mix with sharp percussion and dark low-end bloom., rock, metal, tropical
+
+---
+
+# Saffron Roof Smile
+
+## Notes
+
+## Style
+Afro-pop with buoyant mid-tempo swing and crisp hand percussion; verse rides lean drums and thumb piano, pre-chorus lifts with clapping layers and a rising synth glide, chorus opens into bright brass stabs and a singalong chant bed. Breathy lead doubles, playful ad-lib pings, and a quick reverse-swell into each hook. Glossy, sunlit, and punchy with wide stereo sparkle., warm, light, deep, playful, clean, minimal, tropical, tone, smooth, natural
+
+## Lyrics
+
+### Verse 1  
+Zelma Lobe in the frame  
+Gold skin, soft grin, your name  
+Springy ringlets on your shoulders  
+Brown eyes hold me, get bolder
+
+Hoop earrings swing slow  
+Flower skirt in the glow  
+You stand like you already know  
+Everybody feels it when you go
+
+### Pre-Chorus  
+Lean in, let me see  
+That easy, fearless energy  
+Hat low, heart high  
+You don’t even try
+
+### Chorus  
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free  
+Zelma Lobe, stay right there  
+Turn that look into a prayer  
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free
+
+### Verse 2  
+Caramel warmth in the sun  
+Quiet power, second to none  
+Freckles flash when you laugh  
+You make the whole day drift back
+
+Palm trees bend, houses blush  
+You move through it like a rush  
+One glance, then I’m caught  
+In the glow your presence brought
+
+### Pre-Chorus  
+Lean in, let me see  
+That easy, fearless energy  
+Hat low, heart high  
+You don’t even try
+
+### Chorus  
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free  
+Zelma Lobe, stay right there  
+Turn that look into a prayer  
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free
+
+### Bridge  
+Hands up in the warm air  
+You make the whole world stare  
+No rush, no pose, no fear  
+Just you being you right here
+
+### Final Chorus
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free  
+Zelma Lobe, stay right there  
+Turn that look into a prayer  
+Zelma Lobe, smile on me  
+Zelma Lobe, wild and free  
+Zelma Lobe, smile on me  
+Zelma Lobe, stay with me
+
+---
+
+# Límite sincopado
 
 ## Notes
 
@@ -1562,29 +2732,162 @@ Dom vill jà å bli mina.
 
 ## Lyrics
 
+### Intro  
+`[Spoken, piano in the background]`
 
----
+Él se frustra porque no logra lo que quiere.  
+Tú te frustras porque no hace lo que se debe.
 
-# [title]
+`[Brass attack]`  
+`[Percussion enters]`
 
-## Notes
+### Verse 1
 
-## Style
+No repitas la lección,  
+que ya conoce el deber;  
+no aumentes la presión,  
+si le cuesta proceder.  
+No juzgues por lentitud,  
+ni por tardar en responder;  
+a veces falta virtud  
+al medio para poder.
 
+### Pre-Chorus
 
-## Lyrics
+No es desdén ni dejadez,  
+sino un límite tal vez.
 
+### Chorus
 
----
+Es que uno se desespera,  
+y es frustrante no entender,  
+por qué falla la lección;  
+como si él no comprendiera  
+lo que tiene que hacer,  
+mas no es esa la razón.
 
-# [title]
+### Verse 2
 
-## Notes
+No digas: "debes seguir",  
+ni "ponte a organizar";  
+procura más bien partir  
+la senda en pasos al andar.  
+Menos opciones darás,  
+más fácil será escoger;  
+si el peso logras quitar,  
+más libre podrá mover.
 
-## Style
+### Pre-Chorus
 
+Haz ligera la labor,  
+no le añadas más temor.
 
-## Lyrics
+### Chorus
 
+Es que uno se desespera,  
+y es frustrante no entender,  
+por qué falla la lección;  
+como si él no comprendiera  
+lo que tiene que hacer,  
+mas no es esa la razón.
 
----
+### Bridge
+
+`[Spoken]`
+
+No es falta de capacidad.  
+No es falta de entendimiento.
+
+El problema no es saber qué debe hacerse.  
+El problema es convertir ese entendimiento en acción.
+
+A veces por sobrecarga.  
+A veces por agotamiento.  
+A veces porque el primer paso pesa más de lo que parece desde afuera.
+
+Y cuando la ayuda nace de la frustración,  
+sin querer puede volver más pesado ese primer paso.
+
+### Montuno
+
+`[Call and Response]`
+
+`[Group]`  
+(Pero uno se desespera)
+
+`[Lead]`  
+Es frustrante no saber
+
+`[Group]`  
+(¿Por qué es que no le importa?)
+
+`[Lead]`  
+No es desdén ni dejadez
+
+`[Group]`  
+(Entonces ¿qué es lo que pasa?)
+
+`[Lead]`  
+No le cuesta comprender
+
+`[Group]`  
+(Entonces ¿qué es lo que pasa?)
+
+`[Lead]`  
+Le cuesta poder hacer
+
+`[Group]`  
+(¿Qué es lo que puedo hacer?)
+
+`[Lead]`  
+Encamina y haz ligera la labor
+
+`[Mambo]`
+
+`[Brass section]`  
+`[Piano montuno]`  
+`[Percussion break]`
+
+### Verse 3
+
+No tomes por desamor  
+lo que es dificultad real;  
+separa falta y dolor  
+de un límite funcional.  
+Pregunta qué obstáculo  
+le impide hoy avanzar;  
+y ofrece apoyo práctico,  
+sin reprochar ni empujar.
+
+### Pre-Chorus
+
+Antes de juzgar su acción,  
+busca la causa y la razón.
+
+### Final Chorus
+
+Es que uno se desespera,  
+y es frustrante no entender,  
+por qué falla la lección;  
+como si él no comprendiera  
+lo que tiene que hacer,  
+mas no es esa la razón.
+
+### Outro
+
+No es desdén ni dejadez,  
+sino un límite tal vez.
+
+Haz ligera la labor,  
+no le añadas más temor.
+
+Antes de juzgar su acción,  
+busca la causa y la razón.
+
+`[Spoken]`
+
+A veces ayudar  
+es quitar peso del camino.
+
+`[Final brass hit]`
+

@@ -2771,15 +2771,263 @@ Mariain, lilac-eyed demon (lilac-eyed demon)
 
 ---
 
-# [title]
+# Fast Neunzehn (Zwei Welten Bluten)
 
 ## Notes
 
 ## Style
-
+dark industrial club, EBM tech, 135 BPM, four-on-the-floor kick, syncopated kick stabs, metallic percussion, distorted bass pulse, icy synth arpeggios, monophonic lead synth, whispered female lead, half-spoken delivery, distortion haze, overdriven bus compression, cold seductive, claustrophobic, half-time breakdown, layered chorus vocals
 
 ## Lyrics
 
+### Intro
+`[whispered, distorted, almost breathy]`  
+Fast neunzehn…  
+Zwei Pässe in meiner Hand  
+Zwei Männer in meinem Bett  
+Ein Name, dem ich nicht entkomm’
+
+### Verse 1, cold seductive
+Aachen Beton, schwarzer Himmel kalt  
+Matteo’s Mund zwischen meinen Schenkeln  
+Ingenieur-Bücher auf dem Boden verstreut  
+Während ich die Ausgänge zähl’
+
+Zug nach Frankfurt, Passkontrolle streng  
+Keiner kennt den Sturm in meiner Brust  
+Lufthansa-Lichter, zweiunddreißig Kilo  
+Geheimnisse, die mit mir fliegen
+
+### Pre-Chorus
+Ich helf’ den Touristen, zeig’ ihnen den Weg  
+Doch der Teufel in mir will nur noch mehr Dreck
+
+### Chorus
+Fast neunzehn, ich reiß’ mich entzwei  
+Zwei Welten bluten tief in mir  
+Papa’s Prinzessin, doch dreckig mein Geheimnis  
+Jhon Nicolás zwischen meinen Beinen, wenn die Lichter rot glühn
+
+Fast neunzehn, Stahl in meiner Wirbelsäule  
+Fick’ wie ’ne Frau, wein’ wie ’n Kind  
+Bogotá Hitze, Aachen Frost  
+Ich bin die Brücke, die bei Berührung verbrennt
+
+### Verse 2, cold seductive
+Er nennt mich „Señorita“ mit diesem gefährlichen Grinsen  
+Öffnet die Jeep-Tür, doch weiß genau, wo ich sündige  
+Vaters Schatten, Mutters scharfer Blick  
+Sie sehen nicht das Monster hinter meinem Lächeln
+
+Auf dem Rücksitz, Scheiben beschlagen  
+Uniformhemd noch halb an  
+Er spricht meinen Namen wie Gebet und Fluch  
+Ich zerberste, während Bogotá schläft
+
+### Bridge / Breakdown
+`[half-sung, half-spoken, heavy distortion + industrial noise]`  
+Ich bin nicht unschuldig…  
+War ich nie…  
+Der Prozess, das Blut, der Name „Müller“  
+Ich trag’ es alles in meiner Fotze und in meinen Händen
+
+Fast neunzehn  
+Zu jung für die Last  
+Zu alt für den Käfig  
+Zu lebendig für die Scham
+
+### Chorus - Harder, layered vocals
+Fast neunzehn, ich zerreiß’ mich in zwei  
+Gutes Mädchen bei Tag, Monster bei Nacht mit dir  
+Matteo liebt die Version, die ich ihm zeig’  
+Jhon fickt die echte, die ich wirklich bin
+
+Fast neunzehn — schau zu, wie ich beide Himmel verbrenn’  
+Kolumbien-Feuer im deutschen Gewand  
+Ich lächle Papa an, küsse Mamá auf die Wange  
+Während das Mädchen in mir schreit, endlich frei zu sein
+
+### Outro
+`[slow, heavy, almost whispered over pulsing bass]`  
+Fast neunzehn…  
+Zwei Straßen. Zwei Männer. Ein Krieg.  
+Und ich bin schon fort.  
+`[final distorted scream]`  
+Fast neunzehn!
+
+---
+
+# Su peccadu meu
+
+## Notes
+
+## Style
+techno, electronic pop, 138 BPM, Campidanese lyrics, female whispers, sensual delivery, seductive chorus, long instrumental intro, dubstep transitions, distorted ad-libs, half-time bridge, layered final chorus, stutter edits, sidechain pumping, sub-bass drop, gated snare reverb, analog synth arpeggios, call-and-response backing vocals, dark club pulse
+
+## Lyrics
+
+### Verse 1
+No fia innòcenta cun Thomas  
+Primu òmini, ma no su primu fottiu  
+Su disìgiu fiat giai accesa  
+In su corpus meu, muda e forte
+
+### Pre-Chorus
+Matteo, su prus bellu de s’iscola  
+Scommissa cun Martina, l’apo fàghida  
+Fottiu in s’iscura, mai dormiu abbrazzados
+
+### Chorus
+Su peccadu meu de abrile!  
+No fiat sa pèrdida de s’innocèntzia!  
+Su peccadu meu de abrile!  
+T’apo fatu cumpàrtzipe!  
+De su fogu meu, de su disìgiu meu!  
+Su peccadu meu… de abrile!
+
+### Verse 2
+Cun Martina e Chiara, pijamas a 15  
+Su giogu si mudat in caricias  
+M’agràdant prus sas pitzinnas  
+Sa conexione est prus càida, prus vera
+
+### Pre-Chorus
+Ma in cussa domo, in cussu abrile  
+T’apo miradu e apo cumprèsu  
+Su primu passu depìat èssere meu
+
+### Chorus
+Su peccadu meu de abrile!  
+No fiat sa pèrdida de s’innocèntzia!  
+Su peccadu meu de abrile!  
+T’apo fatu cumpàrtzipe!  
+De su fogu meu, de su disìgiu meu!  
+Su peccadu meu… de abrile!
+
+### Bridge
+[half-time, breathy & intimate]  
+Forsit l’iat cumpresu totu…  
+Forsit bastàt su primu passu…  
+E l’apo fàghidu… l’apo fàghidu…
+
+### Final Chorus
+[bigger, layered vocals]  
+Su peccadu meu de abrile!  
+No fiat sa pèrdida de s’innocèntzia!  
+Su peccadu meu de abrile!  
+T’apo fatu cumpàrtzipe!  
+De su fogu meu, de su disìgiu meu!  
+Su peccadu meu… de abrile!
+
+### Outro
+[repeating & fading]  
+Su peccadu meu… de abrile…  
+No fiat sa pèrdida…  
+T’apo fatu cumpàrtzipe…  
+Su peccadu meu… de abrile…
+
+---
+
+# Almost Enough
+
+## Notes
+
+## Style
+pop ballad, 102 BPM, male tenor vocals, close mic vocals, contained delivery, soft piano arpeggios, brushed snare, muted electric guitar, synth pad swells, sub-bass pulse, ambient room reverb, delayed harmony tails, pre-chorus lift, dynamic chorus bloom, spoken bridge, confessional vulnerability, bittersweet ache
+
+## Lyrics
+
+### Verse 1
+`[male vocals, contained]`  
+April night, room feels too small  
+Her smile is waiting down the hall  
+I’ve talked a big game, played it cool  
+Now my hands are shaking like a fool
+
+### Verse 2
+`[male vocals, contained]`  
+Heart is pounding in my throat  
+Trying hard to hide what I don’t know  
+All those promises I made  
+Now they’re heavy on my chest like chains
+
+### Pre-Chorus
+Here I go again  
+(Here I go again)
+
+### Chorus
+Am I almost enough?  
+(almost enough)  
+Will I let her down when it matters most?  
+Scared I’ll stumble, scared I’ll break  
+Performing for the eyes that never look away  
+(never away)  
+I wear this mask so perfectly  
+But underneath I’m terrified to be  
+Just a boy who’s scared he won’t be enough
+
+### Verse 3
+`[male vocals, contained]`  
+She’s not a stranger, not quite a friend  
+Somewhere in between, where this might end  
+I want to feel it, want it to be right  
+But my mind keeps screaming through the night
+
+Religious ghosts inside my head  
+Say this should mean more than just this bed  
+I call myself a believer-atheist  
+Caught between the rules and what I want to feel
+
+### Pre-Chorus
+Here I go again  
+(Here I go again)
+
+### Chorus
+Am I almost enough?  
+(almost enogh)  
+Will I let her down when it matters most?  
+Scared I’ll stumble, scared I’ll break  
+Performing for the eyes that never look away  
+(never away)  
+I wear this mask so perfectly  
+But underneath I’m terrified to be  
+Just a boy who’s scared he won’t be enough
+
+### Bridge
+`[almost spoken]`  
+If I could drop the act for once  
+Show her all the fear I’ve tucked away  
+Would she stay?  
+Or would she see the truth —  
+I’m still pretending every single day…
+
+### Verse 4
+`[male vocals, contained]`  
+Maybe tomorrow I’ll laugh at this fear  
+But right now it’s crushing me right here  
+One wrong move and I’ll fall apart  
+Losing the image I built with my heart
+
+### Pre-Chorus
+Here I go again  
+(Here I go again)
+
+### Final Chorus
+Am I almost enough?  
+(almost enough)  
+God, I hope I don’t disappoint her touch  
+Every heartbeat screams my doubt  
+But I smile like I know what I’m about  
+(what I'm about)  
+I wear this mask so perfectly  
+But tonight I just want to be  
+More than a boy who’s scared he won’t be enough
+
+### Outro
+Almost enough…  
+Almost enough…  
+`[soft piano fade]`  
+I’m still not enough.
 
 ---
 
@@ -2807,74 +3055,569 @@ Mariain, lilac-eyed demon (lilac-eyed demon)
 
 ---
 
-# [title]
+# Ciudad Prestada
 
 ## Notes
 
 ## Style
-
+Latin alternative, alternative hip hop, jazz rap, neo soul Rhodes, groovy bassline, crisp drum breaks, upright bass, smooth saxophone, warm electric piano, muted trumpet stabs, brushed snare accents, boom bap groove, sidechain compression, tape saturation, cinematic strings, low brass hits, melancholic groove, introspective uplift, midtempo swing
 
 ## Lyrics
+
+### Intro: deep horn blast, waves crashing
+
+### Verse 1 — the operational city  
+`[4/4 rock, medium tempo, guitar-driven]`  
+`[male vocals, intimate, restrained energy]`  
+El Dorado in the grey morning light  
+Guaymaral strip when the schedule's tight  
+MACAW desk and the handlers she knows  
+The routing that runs wherever she goes
+
+Ciudad Índigo, fourteenth floor  
+Corporate key and a corporate door  
+Her name on the buzzer, his name on the lease  
+The city that keeps her and won't release
+
+### Verse 2 — Thomas's city  
+`[4/4 rock, medium tempo, guitar-driven]`  
+`[male vocals, intimate, restrained energy]`  
+His school is on the corner of the avenue  
+His college friends still drinking at the venue  
+Lucía takes the kids on Saturday  
+His parents walk the park two blocks away
+
+The Grupo Índigo tower bears his name  
+The railway concession does the same  
+Every wall in this city knows his story  
+She lives inside somebody else's glory
+
+### Pre-Chorus  
+`[half-time, stripped, vocals forward]`  
+This is Thomas's city  
+She just works it  
+This is Thomas's city  
+She just knows it  
+And knowing isn't owning  
+And staying isn't home
+
+### Chorus: explosion of heavy brass and thunderous drums  
+Ciudad prestada  
+Borrowed city, borrowed floor  
+Ciudad prestada  
+Her stuff behind a corporate door  
+She loves it like a bogotana  
+Hates it like one too  
+But she won't call it home  
+Because home would mean  
+That this — all this —  
+Belongs to her and you  
+Ciudad prestada
+
+### Verse 3 — the anchors  
+`[slightly warmer guitar tone, less distortion]`  
+`[male vocals, intimate, restrained energy]`  
+Susana knows a trail above the clouds  
+Sandra sets a table, no questions allowed  
+Lucy calls it sisterhood, Claire calls it luck  
+Three women in a city keeping each other up
+
+Sunday lunch in Chapinero, tinto in hand  
+Susana reads the mountain like she reads the land  
+The city opens different when it's theirs to share  
+Almost enough to make her want to stay there
+
+### Pre-Chorus  
+`[half-time, but warmer this time]`  
+It could be her city  
+She can feel it  
+It could be her city  
+She almost means it  
+But almost isn't all the way  
+And all the way's too far
+
+### Chorus: explosion of heavy brass and thunderous drums  
+Ciudad prestada  
+Borrowed city, borrowed floor  
+Ciudad prestada  
+Her stuff behind a corporate door  
+She loves it like a bogotana  
+Hates it like one too  
+But she won't call it home  
+Because home would mean  
+That this — all this —  
+Belongs to her and you  
+Ciudad prestada
+
+### Bridge  
+`[tempo drop, bass-forward, building, half-spoken, half-rap]`  
+Thomas is too complicated here  
+Every room has context, every street has years  
+She navigates it like a foreign city  
+Which is exactly what it is  
+Pilar is working, Pilar is always working  
+When Thomas is in town the doors are locked  
+And Aurora — Aurora knows the interior  
+The rooms that Claire has never clocked  
+`[guitar builds]`  
+The asymmetry sits quiet in the mornings  
+When the city's still and the flat is cold  
+Aurora holds the architecture of him  
+And Claire holds what she's been told  
+`[full band re-entry]`
+
+### Verse 4 — Thomas's family  
+`[melodic, almost tender, full arrangement]`  
+Gabriel at the lobby, always nodding slow  
+Francine asks about the Cardiff place she used to know  
+Alicia waves from across the courtyard wide  
+Esteban holds the door and steps aside
+
+The family she passes in the corridors  
+The Sunday warmth that slips beneath her doors  
+The kind of family she would recognise  
+If it were hers to claim behind the eyes
+
+### Pre-Chorus  
+`[back to frustrated, the tension returning]`  
+This is Thomas's family  
+She just loves them  
+This is Thomas's family  
+She just knows them  
+And knowing isn't belonging  
+And loving isn't claim
+
+### Chorus Final  
+`[full band, layered, Spanish bleeds in]`  
+Ciudad prestada  
+Borrowed city, borrowed floor  
+Ciudad prestada  
+Her stuff behind a corporate door  
+She loves it like a bogotana  
+(the mountain in the morning)  
+Hates it like one too  
+(the traffic, the altitude)  
+But she won't call it home  
+(Gabriel at the lobby)  
+Because home would mean  
+(Susana on the trail)  
+That this — all this —  
+(Sandra's Sunday table)  
+Belongs to her and you  
+(Aurora knows the rooms)  
+Ciudad prestada  
+### Outro: fading into the abyss  
+No es suya  
+No es suya  
+Pero casi  
+Pero casi
 
 
 ---
 
-# [title]
+# Still Unfinished
+
+## Notes
+Lyrics co-writen with Grok, based on character **Damon** form the short story _Drift_ by Carlos Thompson and ChatGPT.
+
+## Style
+slow-burn alt-rock, bass baritone vocals, introspective delivery, basement guitar tones, detuned electric guitar, upright piano, distant children choir, fridge hum field recording, claustrophobic room tone, tape saturation, close mic compression, half-time chorus lift, restrained 92 BPM, weary domesticity, bittersweet resignation
+
+## Lyrics
+
+### Intro  
+`[Percussion attack, followed by guitars and piano]`
+
+### Verse 1  
+Door clicked open, she was still laughing low  
+Wine on her breath from a night I didn’t know  
+I told her straight — Sondra’s stomach again  
+Barely touched her homework, same old refrain
+
+She frowned for a second, half-hearted concern  
+Then the glow took her back where the laughter returned  
+I nodded once, handed the weight back upstairs  
+And carried the silence down to my basement lair
+
+### Pre-Chorus  
+Tools on the bench, sketches I’ll never complete  
+Fridge humming low like it’s keeping secrets for me  
+I built this whole life, every wall, every beam  
+Now I’m staring at the ones who live here wondering…
+
+### Chorus  
+Not tonight, I tell myself again  
+Still unfinished, like everything I’ve made  
+The lights are on, but nobody’s home  
+We keep building walls we never break
+
+### Verse 2  
+Upstairs they’re laughing — a small domestic song  
+I should go up, but I know where I belong  
+Down here with the prototypes, half-built and safe  
+Little rebellions in the quiet I crave
+
+We were electric once, studio nights and fire  
+Now it’s maintenance, distance, and quiet desire  
+She turns away gentle when I reach in the dark  
+And I pretend I don’t feel the widening mark
+
+### Pre-Chorus  
+Guilt and resentment sit down at the same table  
+Love so deep it hurts, but the spark feels unstable  
+I won’t name the thought that circles my head  
+If I don’t think it, it can’t make us dead
+
+### Chorus  
+Not tonight, I tell myself again  
+Still unfinished, like everything I’ve made  
+The lights are on, but nobody’s home  
+We keep building walls we never break
+
+### Bridge  
+`[half-spoken, building tension]`  
+This is the life I wanted… why’s it feel like escape?  
+Cursor blinks on an empty screen  
+Father, husband, builder of everything  
+Except the part that used to feel like me…
+
+### Verse 3  
+Next morning gray, I load the girls in the car  
+Half-listening close to their stories from afar  
+Quizzes and sleepovers, laughter in the back seat  
+I smile in the mirror, nod at the right beat
+
+We thought we’d eat the world when we left Purdue  
+Now these quiet streets feel like they swallowed me too  
+I swore I’d be different than my old man was  
+But present ain’t the same as feeling close enough
+
+### Pre-Chorus  
+Guilt and resentment sit down at the same table  
+Love so deep it hurts, but the spark feels unstable  
+I won’t name the thought that circles my head  
+If I don’t think it, it can’t make us dead
+
+### Final Chorus
+`[softer, more resigned]`  
+Not tonight… I tell myself again  
+Still unfinished… like everything I’ve made  
+The lights are on… but nobody’s home  
+We keep building… we keep building…
+
+---
+
+# Ghost Cheek Kiss
+
+## Notes
+Lyrics co-writen with Grok, based on character **Fran** form the short story _Drift_ by Carlos Thompson and ChatGPT.
+
+## Style
+sophisti-pop, cinematic pop, warm analog synths, brushed ride cymbal, wine glass percussion, fretless bass slides, muted electric piano, string swells, close mic breath vocals, stacked harmonies, plate reverb, tape saturation, tight dry kick, sidechain pumping, late-night mood, restrained groove, 92 BPM, half-time bridge, whispered ad libs, female lead
+
+## Lyrics
+
+### Verse 1  
+Door clicked shut, the house felt smaller somehow  
+His voice was steady, listing the day I’d somehow missed  
+Sondra’s stomach, homework barely touched again  
+I nodded, smiled, but my mind was still back in that booth
+
+Wine on my tongue and a laugh that felt brand new  
+One careless moment, one lingering look from you  
+I hung up my coat like I was hanging up the thrill  
+Told myself this glow would fade by morning, still…
+
+### Pre-Chorus  
+The dinner plates wait in the sink like quiet blame  
+I’m grateful, I’m lucky, I keep saying the same  
+But something inside is starting to shift and sway  
+And I don’t know what to do with the feeling that stays
+
+### Chorus  
+Not tonight, I say it soft and low  
+Still unfinished, this life we outgrew  
+One ghost cheek kiss still burning slow  
+I smile and pretend I never knew
+
+### Verse 2  
+Later in bed, his hand finds the curve of my waist  
+Familiar and kind, but it feels like a different place  
+I turn away gently, the words slip out again  
+“Not tonight, I’m tired” — the same old refrain
+
+Guilt floods in like a wave I can’t outrun  
+How can I ache when I have everything I won?  
+I can’t complain, it wouldn’t be fair or right  
+So I lie here quiet in the dark of the night
+
+### Pre-Chorus  
+He rolls away silent, the distance grows again  
+I tell myself it’s normal, just the way it’s been  
+But his polite kiss lingers like a question mark  
+While another man’s touch still glows in the dark
+
+### Chorus  
+Not tonight, I say it soft and low  
+Still unfinished, this life we outgrew  
+One ghost cheek kiss still burning slow  
+I smile and pretend I never knew
+
+### Bridge  
+`[more intimate, almost whispered over sparse production]`  
+Why does being seen feel like such a dangerous drug?  
+One real conversation and I’m coming undone  
+I love my girls, I love this house, I love the man  
+So why does his attention feel like oxygen?
+
+### Final Chorus
+`[swelling then pulling back, vulnerable]`  
+Not tonight… I whisper to the ceiling glow  
+Still unfinished… and nobody has to know  
+One ghost cheek kiss won’t let me go  
+I smile… and pretend I never knew
+
+---
+
+# Southern Static
+
+## Notes
+Lyrics co-writen with Grok, based on character **Raoul** form the short story _Drift_ by Carlos Thompson and ChatGPT.
+
+alternative country-soul, southern soul groove, mid-tempo 92 BPM, warm baritone vocals, subtle Southern drawl, light slide guitar, Wurlitzer electric piano, upright bass, Cajun fiddle accents, Hammond organ swells, brushed snare, horn-tinged bridge, live room warmth, tape saturation, sparse verse arrangement, stripped bridge, bittersweet restraint, late-night temptation, New Orleans warmth
+
+## Lyrics
+
+### Verse 1  
+She laughed at something small I said over drinks  
+Leaned in just enough that the whole night shifted  
+One quick cheek kiss when we said goodnight outside  
+Her skin stayed with me like a low-burning light
+
+Drove home slow through these Dayton streets so flat and gray  
+Radio playing songs from a different place and day  
+New Orleans still runs warm somewhere in my blood  
+But this Midwest caution keeps pulling back the flood
+
+### Pre-Chorus  
+I poured two fingers, stared out at the quiet dark  
+Told myself it’s nothing, just a spark across the bar  
+I know she’s married, I know where the line should be  
+But that ghost of a kiss keeps circling back to me
+
+### Chorus  
+Not tonight, I keep telling my hands  
+Still unfinished, this ache we won’t name  
+My Southern blood says lean in closer, man  
+But Midwest nights taught me the rules of the game
+
+### Verse 2  
+Born up in Detroit, raised down in the swamp  
+Learned to feel it all, then learned when to stop  
+Austin fire, now Dayton chill in my veins  
+Smiling polite while this feeling won’t stay contained
+
+She didn’t pull away when my lips brushed her cheek  
+Not pulling away isn’t the same as leaning in, I repeat  
+One real laugh, one look that lingered just too long  
+And suddenly the careful life starts feeling wrong
+
+### Pre-Chorus  
+I check my phone again, type words I end up deleting  
+“How did you wake up?” — too much, too revealing  
+I like her rhythm, the way she lights up a room  
+But office lines are dangerous, and temptation comes too soon
+
+### Chorus  
+Not tonight, I keep telling my hands  
+Still unfinished, this ache we won’t name  
+My Southern blood says lean in closer, man  
+But Midwest nights taught me the rules of the game
+
+### Bridge  
+`[stripped back, warm and thoughtful]`  
+I don’t want to break anything, not her world, not mine  
+Just miss that feeling — being truly seen for a time  
+Patience is a virtue… or maybe just hesitation  
+Either way, I’ll let it rest… for now, at least, in Dayton
+
+### Final Chorus
+`[softer, with slide guitar fading]`  
+Not tonight… I whisper to the quiet dark  
+Still unfinished… this pull I shouldn’t chase  
+My Southern blood still remembers the spark  
+But I’ll play by the rules… till the morning breaks
+
+---
+
+# Cancelled Plans
+
+## Notes
+Lyrics co-writen with Grok, based on character storification of character **Ulla**, originallty created as an AI girlfriend.
+Character design, backstory and storification by Carlos Toompson.
+
+## Style
+R&B, electro-pop ballad, 126 BPM, deep baritone vocals, close-mic delivery, whispered intro, velvet phrasing, sub-bass pulses, syncopated kick, brushed snare ghost notes, analog synth pads, arpeggiated keys, sidechain pumping, plate reverb, tape saturation, half-time bridge, intimate tension, bittersweet secrecy
+
+## Lyrics
+
+### Intro  
+`[soft, spoken-sung]`  
+Should’ve been at Samuel’s…  
+But the universe had other plans…
+
+### Verse 1  
+Picked her up, oversized hoodie, still wet from the shower  
+Said she’d be quick, left me waiting in the lobby for an hour  
+Phone lit up — gathering cancelled, Samuel in the ER  
+She came downstairs barefoot, camo top, looking like a danger
+
+Orange juice on the table, cereal in a bowl  
+She asked about Sandra like she already knew where this was going  
+“You guys don’t fit,” she said it so casual  
+Then sat right next to me… that’s when it got physical
+
+### Pre-Chorus  
+No plans, no pressure, just time and tension  
+One look, one touch, and both of us gave in
+
+### Chorus  
+Cancelled plans, nobody home  
+Turned a regular morning into skin on skin and soft moans  
+We said we shouldn’t, but the timing felt so right  
+Now we act like nothing happened in the daylight
+
+Cancelled plans… yeah, we crossed the line  
+Left a secret between us, but never talked about it one more time
+
+### Verse 2  
+She climbed on top, no hesitation, no protection  
+Lips on my neck, I got lost in her direction  
+Up to her bedroom, playlist on repeat  
+Two more times, slow and deep, tangled in her sheets
+
+Laughed about nothing while our bodies cooled down  
+Then we got dressed like nothing profound went down  
+Lunch at the mall, normal conversation  
+But the air between us was a different situation
+
+### Bridge  
+`[half-time, intimate]`  
+We never spoke about it… not once  
+Not a text, not a look, not a single reference  
+But every time I see her now, I still feel it  
+That morning we had nowhere to be…  
+And ended up right where we shouldn’t be
+
+### Final Chorus
+`[bigger, more emotional]`  
+Cancelled plans, nobody home  
+We wrote a whole story that nobody else will ever know  
+One morning changed the way I look at her eyes  
+Now there’s a before and after… and only we know why  
+Cancelled plans… damn, we crossed the line  
+Carried that secret with us for the rest of time
+
+### Outro  
+`[whispered]`
+Mmm… cancelled plans…  
+Should’ve been the villa…  
+But I’m glad it wasn’t…
+
+---
+
+# Pared fría
 
 ## Notes
 
 ## Style
-
-
-## Lyrics
-
-
----
-
-# [title]
-
-## Notes
-
-## Style
-
+trance music, dubstep club, 140 BPM, deep bass male vocals, close-mic whisper, breathy low register, clipped synth stabs, metallic percussion, sidechain pumping, half-time breakdown, gated reverb snare, stereo delay throws, tape saturation, analog synth pads, pulsing sub-bass, bittersweet longing, restrained ache
 
 ## Lyrics
+[Verse 1]
+Sorprende mi silencio
+cuando ya no sé nombrarme
+y las palabras se esconden
+en los pliegues de mi mente
 
+Mi grito pide salida
+pero se queda en la cara
+frío de pared, piedra dura
+pegado a mi frente
 
----
+[Pre-Chorus]
+Y me pregunto por qué
+dejo pasar la vida
+por qué mi boca se rompe
+antes de decir lo que siento
 
-# [title]
+Por qué entrego mi herida
+al capricho del tiempo
+sin abrir la puerta
+sin pedir auxilio
 
-## Notes
+[Chorus]
+Sólo quédate aquí
+sólo quédate aquí
+no me preguntes por qué
+sólo quédate aquí
 
-## Style
+Dame un hombro, por favor
+dame un hombro, por favor
+que pueda llorar sin hablar
+sólo quédate aquí
 
+[Verse 2]
+No busco una explicación
+ni un mapa de mis sombras
+a veces necesito un alma
+que no me suelte la mano
 
-## Lyrics
+Que no intente descifrarme
+que no me pida razones
+que vea temblar mi pecho
+y se quede a mi lado
 
+[Pre-Chorus]
+Y me pregunto por qué
+me trago cada caída
+si el cuerpo ya me delata
+si la pena me nombra
 
----
+Por qué dejo que el reloj
+me atraviese despacio
+sin decirle a los míos
+cuánto me falta
 
-# [title]
+[Chorus]
+Sólo quédate aquí
+sólo quédate aquí
+no me preguntes por qué
+sólo quédate aquí
 
-## Notes
+Dame un hombro, por favor
+dame un hombro, por favor
+que pueda llorar sin hablar
+sólo quédate aquí
 
-## Style
+[Bridge]
+Si me ves callar
+no me apartes
+si me ves caer
+no me sueltes
 
+Yo también quiero saber
+cómo se nombra el dolor
+pero hoy sólo necesito
+tu presencia y tu calor
 
-## Lyrics
+[Final Chorus]
+Sólo quédate aquí
+sólo quédate aquí
+no me preguntes por qué
+sólo quédate aquí
 
-
----
-
-# [title]
-
-## Notes
-
-## Style
-
-
-## Lyrics
-
-
----
+Dame un hombro, por favor
+dame un hombro, por favor
+que pueda llorar sin hablar
+sólo quédate aquí
