@@ -1,0 +1,32 @@
+\documentclass{memoir}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{arabic}
+\setmainfont{Noto Sans}
+%\setmonofont{Noto Mono}
+\newfontfamily\lyricsfont{Noto Serif}
+\newfontfamily\arabicfont[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Naskh Arabic}
+\newfontfamily\arabicfontsf[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Sans Arabic}
+\setsecnumdepth{none}
+\newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
+\newcommand\songpart[1]{\par\textbf{\normalsize #1}\par}
+\newcommand\annotation[1]{\texttt{\,\footnotesize[#1]\,}}
+\newenvironment{lyrics}[1][1em]{\subsection*{Lyrics}\small\ignorespaces
+\begin{adjustwidth}{#1}{#1}%
+\setlength{\parskip}{1em}%
+\setlength{\parindent}{0pt}%
+\lyricsfont\selectfont
+}{\end{adjustwidth}\medskip}
+\begin{document}
+\include{chlewey}
+\include{rataflechera}
+\include{gabisson}
+\include{wyomee}
+\end{document}
