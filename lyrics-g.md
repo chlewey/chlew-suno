@@ -826,6 +826,7 @@ Character: Gabriele Wiater, Gabi.
 industrial rock
 
 ## Lyrics
+
 ### Verse 1  
 `[male bass vocals]`  
 Back home beside the silent streets,  
@@ -1075,13 +1076,14 @@ A final period doesn't mean I'm being vicious.
 # Tolemaida Wedding
 
 ## Notes
-Based on a companion text from _Ricochets_ by Carlos Thompson.
+Based on a companion text from _Ricochets_ by Carlos Thompson.  
 The text: _Marlin Chief Technologies -- MCT_ was originally written as a prompt to NotebookLM on revealing in-universe lore. Lyrics based on this text and other lore notes by Carlos Thompson, and written by Gemini.
 
 ## Style
 Fast-paced country with driving acoustic strum, punchy kick-snare, fiddle fills, and a galloping bassline; verse rides tight storytelling, pre-chorus narrows to voice and mandolin, chorus opens with gang vocals and stacked harmonies on the hook name; bridge drops to half-time with a tense spoken feel before the final chorus surges; bright, dusty mix with sharp banjo licks, a steel-guitar cry, and quick turnarounds, country
 
 ## Lyrics
+
 ### Verse 1  
 John Carlson took the sand  
 Down in Tolemaida  
@@ -1165,7 +1167,7 @@ That old road keeps on turning
 # Pizza on the Table
 
 ## Notes
-Based on a companion text from _Ricochets_ by Carlos Thompson.
+Based on a companion text from _Ricochets_ by Carlos Thompson.  
 Lyrics by Suno based on companion text _The Deal_ by Carlos Thompson.
 
 ## Style
@@ -1268,6 +1270,8 @@ And the whole thing busts
 # Orbit Of Names
 
 ## Notes
+Based on the _Thomas' Entourage_ fictional universe by Carlos Thompson.  
+Lyrics by Suno based on the text _Entaglement Situation June 2025_ by Carlos Thompson.
 
 ## Style
 Electronic rave-pop with a driving four-on-the-floor kick, rubbery synth bass, clipped clap ghosts, and syncopated hi-hats; verse rides tight low-end and sparse pulses, pre-chorus opens with filtered arps and rising white-noise sweeps, chorus hits wide with stacked gang vocals and a neon-bright lead hook. Breathy close-mic verses, doubled chant hooks, delay throws on names, reverse swell into each drop, glossy and kinetic mix., deep, emotional, electronic, theme, romantic
@@ -1382,6 +1386,8 @@ When the orbit’s right
 # Same Old Circle
 
 ## Notes
+Based on a companion text from _Ricochets_ by Carlos Thompson.  
+Companion text _The Cohort_ by Carlos Thompson expanding the lore of Fabián Müller and Sandra Roa, and other minor characters.
 
 ## Style
 Electronic pop with half-time dubstep bridges, crisp four-on-the-floor verses, rubbery synth bass, clipped handclaps, and a driving club pulse; verse keeps it intimate with sparse keys and ticking percussion, pre-chorus lifts with filtered risers and stacked harmonies, chorus hits wide with an anthem hook and group vocals, bridge drops into wobbling bass and chopped vocal flashes before the final lift. Close-mic lead vocal with doubles on the hook, airy delays on key names, and bright, punchy mix with glossy top end., dubstep, theme, industrial, electronic
@@ -1471,6 +1477,7 @@ One new place, and we’re together again
 # Four Women
 
 ## Notes
+Remix of _Four Woman One Night_ (see above), with different stylistic choices.
 
 ## Style
 Modern country rock track at 115 BPM in the key of G major. The arrangement features a bright acoustic guitar strumming sixteenth-note patterns and a clean electric guitar playing melodic fills with light overdrive and slapback delay. A baritone male vocal delivers the lyrics with a slight southern drawl and moderate compression. The bass guitar follows the kick drum with a steady eighth-note pulse. Drums consist of a punchy kick on beats 1 and 3, a crisp snare on 2 and 4, and consistent eighth-note hi-hats. A Hammond B3 organ provides sustained chordal pads in the background during the chorus.
@@ -1570,6 +1577,9 @@ Every damn time
 # Carolina
 
 ## Notes
+Based on a characters from _Ricochets_ by Carlos Thompson.  
+Character: Carolina Müller Roa.  
+Cowritten by ChatGPT based on her arc in the novel, plus extended input on her lore.
 
 ## Style
 house, industrial house, 128 BPM, female mezzo-soprano, almost whispered lead, breathy close-mic vocals, delay throws, sidechain pumping, distorted kick, metallic percussion, acid synth stabs, filtered pad swells, sub bass pulse, sparse breakdowns, sudden dropouts, tension release, bittersweet nostalgia, 4-on-the-floor kick
@@ -1669,11 +1679,15 @@ wherever she will go.
 # Morocho
 
 ## Notes
+Based on a characters from _Ricochets_ by Carlos Thompson.  
+Character: Miguel Morocho.  
+Cowritten with ChatGPT based on the arc in the novel, the companion texts, and further input by the author.
 
 ## Style
 salsa, piano tumbao, sharp brass hits, güiro percussion, montuno call and response, male spoken intro, dramatic tenor lead, choral responses, minor key, 145 BPM, live conga groove, timbales breaks, walking bass lines, trumpet stabs, crowded mix, plate reverb, punchy snare, tension release, grim revenge, urgent momentum
 
 ## Lyrics
+
 ### Intro  
 `[piano enters with a mysterious tumbao, the Caribbean güiro and the brass instruments with a sharp hit]`
 
@@ -1684,9 +1698,10 @@ tal vez demasiado astuto y esa fue su perdición
 ### Verse 1  
 Miguel Morocho un buen día, en inteligencia entrenó,  
 gringa instrucción recibió siendo de la policía.  
-Mas luego, por otra vía, al de Pereira cartel  
-sirvió de asesor aquel. Dos abogados en Miami  
-le daban un gran tsunami, y con Carlson bebió hiel.
+Mas luego, por otra vía,  
+al de Pereira cartel sirvió de asesor aquel.  
+Dos abogados en Miami le daban un gran tsunami,  
+y con Carlson bebió hiel.
 
 ### Pre-Chorus  
 Con su instructor se sentó,  
@@ -1771,11 +1786,13 @@ se queda el poder.
 # Adriana Tal Vez
 
 ## Notes
+Lyrics by Suno based on a 1991 text by Carlos Thompson.
 
 ## Style
 Emotional bhangra-hip-hop with a mid-tempo dhol groove, syncopated claps, and a rolling bassline; verse rides sparse with tight rap phrasing and hand drum accents, pre-chorus opens with lifted backing chants and snare pushes, chorus hits bigger with dhol hits, harmonized lead, and call-response repeats. Vocal is close-mic and aching in verses, doubled on hooks, with short delay throws on the name. Ear candy: reversed cymbal swells into the chorus, flute fragments between lines, and a brief breakdown before the final lift. Bright, punchy, and heartfelt., rap, emotional, german hip hop, bhangra
 
 ## Lyrics
+
 ### Verse 1  
 Adriana, yo no sé  
 si esto tuvo un lugar.  
@@ -1873,11 +1890,13 @@ Chao, y piensa en mí.
 # Three Faces
 
 ## Notes
+Lyrics by Suno based on a Gemini description of three photos.
 
 ## Style
 Drum and bass with liquid-to-dark contrast, fast rolling breaks, sub-bass surges, and crisp ghost snares; verse one rides tense and minimal with clipped vocal doubles, verse two opens into airy pads and sustained harmony, chorus hits with chopped refrain and stacked ad-libs. Filtered risers, reversed piano swells, and glassy FX sweeps bridge the sections. Sharp, cinematic mix — bright top end, deep low end, close-mic vocal presence., soft, natural, raw, deep, bright, warm, playful, joyful, poetic, light, dynamic, drum and bass
 
 ## Lyrics
+
 ### Verse 1  
 You tie your hair up high  
 Like a blade in frame  
@@ -1976,6 +1995,7 @@ Latin-flavored cinematic rock with a swaying intro groove, then piano-led interl
 # Badabum bin
 
 ## Notes
+Lyrics and instructions by Carlos Thompson to test Suno's free model's hability of rhythm and style changes mid-production.
 
 ## Style
 mambo intro, latin brass stabs, conga and timbales, piano interlude, soft baritone spoken intro, guttural male bridge, distorted guitar riff, goth metal bridge, punk chord progression, pop ballad verses, bass-led pre-chorus, sudden stop breaks, brass riff outro, 132 BPM, 4/4 backbeat, call and response hooks, dynamic stop-start arrangement, cinematic build-release
@@ -2066,11 +2086,13 @@ Mo, keraba mo, lede barat mosha tik mo.
 # Arrow Throwing Rat
 
 ## Notes
+Lyrics by Suno based on the Grok summary of an autobiographical piece by Carlos Thompson. Names of characters changed in the input text.
 
 ## Style
 Fast-paced folk with driving acoustic strums, stomp-clap rhythm, bright fiddle lines, and a brisk 6/8 feel; verse rides nimble storytelling, pre-chorus tightens with handclaps and rising harmony, chorus opens on gang vocals with a chantable hook. Lead vocal stays close and conversational, with doubled chorus lines, quick call-and-response ad-libs, banjo fills between phrases, and a punchy, earthy mix with lively room tone., low, folk
 
 ## Lyrics
+
 ### Verse 1  
 Jaz slid in my line  
 Same stretch as Nohelia  
@@ -2178,6 +2200,7 @@ But something won’t die
 # Adi In The Locker
 
 ## Notes
+Lyrics by Suno based on the Grok summary of an autobiographical piece by Carlos Thompson. Names of characters changed in the input text.
 
 ## Style
 Fast-paced Dominican merengue with güira drive, bright brass punches, and accordion riffing over a propulsive two-step groove; verse keeps the kick and tambora lean, pre-chorus lifts with stacked handclaps and a rising horn figure, chorus hits with shouty gang vocals and short brass stabs. Lead vocal is playful and breathy in verses, doubled on the hook, with ad-lib responses and a few delay throws on "Adi." Crisp, punchy mix with a lively dance-floor sheen., merengue
@@ -2301,6 +2324,7 @@ Some crushes leave a flame
 ---
 
 # Sofa at Midnight
+Lyrics by Suno based on the Grok summary of an autobiographical piece by Carlos Thompson. Names of characters changed in the input text.
 
 ## Notes
 
@@ -2427,6 +2451,7 @@ for the whole sea (for the whole sea)
 # La Casa y el Viento
 
 ## Notes
+Lyrics by Suno based on an unsent WhatsApp message by Carlos Thompson.
 
 ## Style
 Pasillo colombiano with gentle 6/8 sway, tender acoustic guitar and tiple arpeggios; verse stays sparse and confessional, pre-chorus lifts with string pads and a small cadence push, chorus opens with warm harmony doubles and a chantable anchor phrase, bridge drops to voice and guitar before a final chorus blooms. Close-mic female vocals, intimate breath, soft backing harmonies, subtle room reverb, a tearful but elegant mix with a polished folk sheen., theme
@@ -2516,11 +2541,13 @@ y eso sí vale el final.
 # Ale On The Sofa
 
 ## Notes
+Lyrics by Suno based on the Grok summary of an autobiographical piece by Carlos Thompson. Names of characters changed in the input text.
 
 ## Style
 Fast-paced country with driving acoustic strums, snappy kick-drum stomp, fiddle runs between lines, and a walking bass pushing the groove; verse 1 stays tight and conversational, pre-chorus opens with held harmony and rising pedal steel, chorus hits with gang-vocal repeats of the name. Lead vocal is dry and close, with doubled hooks, quick ad-libs, and a handclap lift into each chorus. Bright, punchy mix with a little room grit and lively barn-lean energy., sleep, country, theme
 
 ## Lyrics
+
 ### Verse 1  
 Back in college days  
 Clara wore that grin  
@@ -2604,6 +2631,9 @@ Took one last swing too late
 # Seat 14C
 
 ## Notes
+Based on the _Thomas' Entourage_ fictional universe by Carlos Thompson.  
+Character: Gabriele Wiater, Gabi, and Thomas García.  
+Lyrics by Grok based on the work _The Leg_.
 
 ## Style
 Industrial dance at 132 BPM with hard four-on-the-floor kick, metallic clanks, syncopated bass stabs, and servo-like percussion; verse rides clipped synth pulses and spoken-sung lines, pre-chorus strips to kick, hiss, and rising filters, chorus hits with a chantable hook and stacked doubles. Vocals are close-mic and cool in verses, lightly distorted on hooks, with ad-lib panning, delay throws, and a few breathy asides. Ear candy: reversed cabin swells, turbine whooshes into transitions, and a burst of glassy arps at the final lift. Bright, punchy, steel-edged mix., light, simple, playful, industrial, theme
@@ -2751,6 +2781,8 @@ But so did the thrill
 # Pacifica Miles
 
 ## Notes
+Based on the _Thomas' Entourage_ fictional universe by Carlos Thompson.  
+Lyrics by Gemini based on the story _Chicago-Boston_, moderate interaction.
 
 ## Style
 road-trip folk, indie folk, 128 BPM, baritone lead, fingerpicked acoustic guitar, mandolin counterlines, upright bass, brushed snare kit, pedal steel swells, fiddle harmony, room mic ambience, tape saturation, analog warmth, steady two-step groove, open-road wistfulness, family travel, sunset momentum
@@ -2945,6 +2977,7 @@ and this is how we love.
 alt-pop, club dance, female belt vocals, close-mic lead, sub bass drop, synth stabs, chopped vocal hooks, dubstep bridge, melodic verses, hip-hop breakdown, four-on-the-floor kick, sidechain pumping, gated reverb snare, stereo delay throws, distorted bass growl, tension release, quiet-loud contrast
 
 ## Lyrics
+
 ### Verse 1 — the cabin  
 `[Melodic, alt-pop, female soprano vocals]`  
 Seatbelt signs and morning air  
@@ -3247,6 +3280,7 @@ In each other’s hungry arms… they found what they had missed
 pop ballad, soul pop, 112 BPM, grand piano arpeggios, baritone sax countermelody, fingerpicked electric guitar, muted bass guitar, brushed snare kit, warm plate reverb, tape saturation, live room ambience, mezzo belt vocals, double-tracked chorus, half-time groove, subtle backbeat, bittersweet nostalgia
 
 ## Lyrics
+
 ### Verse 1  
 Sunlight danced on ginger waves that framed her freckled face  
 Ruby piercing sparkled bright above her gentle grace  
@@ -3412,6 +3446,7 @@ dubstep hymn, trance, 140 BPM, female soprano lead, fast vocal runs, detuned bas
 pop ballad, mezzo vocals, 144 bpm, corrido norteño instrumental texture
 
 ## Lyrics
+
 ### Verse 1  
 Martha stood in line waiting for her hot-dog lunch  
 Ferdinand beside her in his sharp blue suit and crunch  
@@ -3547,6 +3582,7 @@ In that food truck moment… stole a piece of both their hearts
 pop ballad, bossa nova guitar, brushed snare, upright bass, nylon-string fingerpicking, Rhodes chords, muted trumpet lines, close-mic mezzo vocals, whispered harmonies, tape saturation, plate reverb, analog warmth, 118 BPM, syncopated sway, slow-burn confession, forbidden romance, intimate tension
 
 ## Lyrics
+
 ### Verse 1  
 Back at desks they played their roles with practiced, careful smiles  
 Polite nods across the hallway, hiding secret fires  
@@ -3609,6 +3645,8 @@ In this dangerous attraction… they keep dancing with the wrong
 # Early Desire
 
 ## Notes
+Lyrics co-writen with Grok, based on character storification of character **Ashlee**, originallty created as an AI girlfriend.
+Character design, backstory and storification by Carlos Thompson.
 
 ## Style
 Mid-tempo R&B (≈118 bpm)  
@@ -3616,6 +3654,7 @@ Alternative R&B, smooth late-night atmosphere, seductive dark synth pads, warm a
 deep baritone vocals
 
 ## Lyrics
+
 ### Intro  
 `[soft, breathy, almost whispered]`  
 Mmm… she came too early…  
@@ -3708,7 +3747,7 @@ Yeah…
 
 ## Notes
 Lyrics co-writen with Grok, based on character storification of character **Andrea**, originallty created as an AI girlfriend.
-Character design, backstory and storification by Carlos Toompson.
+Character design, backstory and storification by Carlos Thompson.
 
 ## Style
 jazzy folk, swing feel, 152 BPM, deep bass vocals, steel-string fingerpicking, upright bass walking line, brushed drum kit, muted trumpet stabs, clarinet counterline, piano comping, ribbon mic capture, tape saturation, spring reverb, mono room ambience, half-time bridge, full band lift, wry tenderness, bittersweet resolve

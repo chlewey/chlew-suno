@@ -17,6 +17,7 @@ Lyrics writen by Gemini on a prompt by the author. Low interaction.
 corrido norteño / narcocorrido
 
 ## Lyrics
+
 ### Verso 1
 Se las dio de muy astuto,  
 el gringo Carlson mentado,  
@@ -171,14 +172,15 @@ to fill with grace, where talents grow?
 # De igual pra igual
 
 ## Notes
-Based on the _Thomas' Entourage_ fictional universe by Carlos Thompson.
-Character: Camila Eugenia Santos Alexander, Xumi.
+Based on the _Thomas' Entourage_ fictional universe by Carlos Thompson.  
+Character: Camila Eugenia Santos Alexander, Xumi.  
 Co-written between Carlos Thompson and ChatGPT. High interaction.
 
 ## Style  
 piseiro, female voice
 
 ## Lyrics
+
 ### Verso 1
 No bar depois do jogo  
 ela escutava mais do que falava,  
@@ -250,6 +252,7 @@ Co-written between Carlos Thompson and ChatGPT. High interaction.
 punk
 
 ## Lyrics
+
 ### Verse 1
 She learned the maps by memory,  
 Heathrow lights and London rain,  
@@ -319,6 +322,7 @@ Lyrics written by Suno, based on a summary by Gemini on fictional characters and
 Indie-pop ballad with a steady mid-tempo pulse and soft swung percussion; verse rides sparse guitar, brushed kick, and muted bass; pre-chorus opens with rising strings and handclap lift; chorus lands with warm harmony stacks and a simple chant hook. Lead vocal stays close-mic and intimate, with doubled choruses, brief ad-lib tails, vinyl crackle between phrases, and a final lift from wide pads and tom swells. Crisp, cinematic, and tenderly detailed., gentle, stylish, distinct, warm
 
 ## Lyrics
+
 ### Verse 1
 Sun on the pavement,  
 paper bags in a row  
@@ -412,6 +416,7 @@ Lyrics written by Suno, based on a product by Gemini on fictional characters and
 Indie folk with brushed acoustic guitar, upright bass, and fingerpicked banjo; verse stays sparse and close-mic with room tone, pre-chorus opens into soft harmony stacks, chorus adds hushed gang vocals and a rising cello line. Gentle swung groove, pencil-tap percussion, reverse guitar swells into transitions, vinyl hiss and wooden creaks for ear candy. Warm, intimate, slightly dusty mix with a hand-made feel., folk, slow
 
 ## Lyrics
+
 ### Verse 1
 This Thursday leans in close  
 Like it knows my name  
@@ -513,6 +518,7 @@ Lyrics written by Suno, based on a product by Gemini on fictional characters and
 Techno with new age shimmer at 132 BPM, four-on-the-floor pulse and crisp syncopated hi-hats; verse rides a tight bass grid with glassy plucks, pre-chorus opens into rising arps and filtered pads, chorus hits with a bright saw lead and chant doubles on the names. Bridge drops to hand percussion, breathy stacked harmonies, and a reversed swell. Clean, glossy, futuristic mix with deep sub focus., clean, classic, soulful, warm, complex, world, beautiful, techno, rhythmic, new age
 
 ## Lyrics
+
 ### Verse 1
 Kimizu in the feed  
 one clean line  
@@ -620,6 +626,7 @@ Lyrics written by Suno, based on thread in X (Twitter) by Carlos Thompson.
 Techno with low-pitch guttural male vocals, 132 BPM, heavy syncopated kick pulse, rattling hi-hats, thick sub-bass, and machine-room stabs; verse rides sparse drum grid and cold synth ticks, pre-chorus tightens with filtered noise and vocal distortions, chorus hits with doubled bass growls and gang shouts on the anchor line; add alarm bleeps, reversed metallic swells, and short delay throws on key words; mix is dark, glossy, and chest-rattling, low, techno
 
 ## Lyrics
+
 ### Verse 1
 My phone screams red again  
 I swipe it blind  
@@ -746,6 +753,7 @@ female voice
 early 2020s
 
 ## Lyrics
+
 ### Verse 1
 Carbonia al mattino odora di macchia e sale  
 mia nonna conta i giorni come grani di corallo  
@@ -860,6 +868,7 @@ Co-written between Carlos Thompson and Claude. High interaction.
 R&B fast-passed, piano, percussions, bass
 
 ## Lyrics
+
 ### Verse 1
 `[baritone vocals]`  
 In Worcester winter kitchens cold,  
@@ -964,6 +973,7 @@ Co-written between Carlos Thompson and Claude. High interaction.
 noir jazz, fast-passed, sax, piano, bass
 
 ## Lyrics
+
 ### Verse 1
 `[baritone vocals]`  
 She learned to sit completely still  
@@ -1057,6 +1067,7 @@ Co-written between Carlos Thompson and ChatGPT. High interaction.
 Soft pop-ballad tempo with industrial techno instruments; synthesizers, brass percussions, bass-heavy, quieter and more intimate when vocals. female voice
 
 ## Lyrics
+
 ### Verse 1
 New York beneath the second wave, the avenues half-lit,  
 Gabi watched the airport codes like promises unfit.
@@ -1131,6 +1142,7 @@ Co-written between Carlos Thompson and ChatGPT. High interaction.
 dream-pop
 
 ## Lyrics
+
 ### Verse 1
 She came to the Big Apple once because Thomas was coming, one suitcase and a borrowed coat—  
 and why not follow something?
@@ -1209,6 +1221,7 @@ female voice
 early 2020s
 
 ## Lyrics
+
 ### Verse 1
 A Carbonia si contano i giorni dal mare,  
 la nonna sa il nome di ogni vento che arriva,  
@@ -1313,6 +1326,7 @@ tempo: ♩≈ 80
 female vocals
 
 ## Lyrics
+
 ### VERSE 1
 `[female vocals]`  
 Teterboro piccola, la città non scatta ancora,  
@@ -1417,6 +1431,7 @@ Co-written between Carlos Thompson and Claude. High interaction.
 Italian pop, Sardinian folk influences, slow dream-pop. A steel-string acoustic guitar plays a steady eighth-note strumming pattern with a bright, percussive attack. A clean electric bass guitar follows the root notes of the chord progression with a warm, rounded tone. A female vocalist sings in a conversational, mezzo-soprano with a reflective, warm, bittersweet, resolved production style. The tempo is 72 BPM in 4/4 time, in the key of G major. The arrangement is sparse, focusing on the interplay between the rhythmic acoustic guitar and the vocal melody.
 
 ## Lyrics
+
 ### Intro
 `[bright acoustic guitar strumming, warm electric bass]`
 
@@ -1532,6 +1547,7 @@ Writen by Suno based on a draft scene for _Ricochets_ by Carlos Thompson.
 Fast-paced R&B with rap bridges, syncopated mid-tempo bounce and tight drum programming; verse rides sleek bass and clipped keys, pre-chorus opens with filtered harmonies and snapped ad-libs, chorus lands on stacked vocal hooks and a short chantable refrain. Rap bridges turn conversational and tense. Close-mic lead vocal, doubled hook lines, airy backing harmonies, quick risers, vinyl crackle hits, glossy and punchy mix., r&b, clean, rap, light
 
 ## Lyrics
+
 ### Verse 1
 Sandra vuelve de la playa,  
 arena en los zapatos.  
@@ -1670,6 +1686,7 @@ pop italiano, 2020s production
 tempo: mid-uptempo, ♩≈ 102
 
 ## Lyrics
+
 ### Verse 1
 `[Mezzo-soprano vocals]`  
 Barcellona la mattina odora di sale e caffè,  
@@ -1772,6 +1789,7 @@ pop italiano, 2020s production
 tempo: mid-uptempo, ♩≈ 102
 
 ## Lyrics
+
 ### Verse 1
 `[Female vocals]`
 Barcelona in the morning smells of salt and coffee,
@@ -1873,6 +1891,7 @@ Co-written between Carlos Thompson and Claude. High interaction.
 Dubstep with a half-time wobble groove, syncopated drums, growling bass drops, and crisp snare snaps; soft female lead; verse rides sparse sub pulses and clipped synth plucks, pre-chorus strips to tension risers and vocal chops, chorus hits with serrated bass hooks and stacked gang chants. Lead vocal stays close-mic and smoky in verses with doubled key lines, then wider shouted doubles on the hook. Ear candy: reversed swells, metallic ticks, and a filtered build before each drop. Bright, punchy, and high-gloss., abstract, dubstep, stylish, pixie, light, piercing, warm, theme, bright, sophisticated
 
 ## Lyrics
+
 ### Verse 1
 New city, new badge,  
 new floor I don't know yet.  
@@ -2017,6 +2036,7 @@ warm intimate pre-choruses,
 sparse synth verses, close-mic bridge, steady 4-beat grid, 105 BPM
 
 ## Lyrics
+
 ### Verse 1
 Green eyes, folded lid,  
 three bloodlines, no flag.  
@@ -2147,6 +2167,7 @@ Co-written by Carlos Thompson, Claude, and Gemini. Highly guided and interacted.
 Narcocorrido norteño with brisk bajo sexto, tuba, accordion fills and corridos tumbados punch; verse rides tense but steady with tight rhyming lines, pre-chorus tightens on snare rolls and shouted asides, chorus lands in a chantable minor-key hook. Lead vocal is rough and nasal with doubled ends, group shouts on the hook word, short accordion turns between phrases, and a dusty, bright mix with dry kick, biting brass, and a final lift into an ominous break.
 
 ## Lyrics
+
 ### Spoken Intro
 `[Music fades in with a heavy, somber guitar or dark synth bass]`  
 Esta es la historia de Rey Pilos, ganadero, narco y paramilitar.  
@@ -3205,7 +3226,8 @@ That this — all this —
 (Sandra's Sunday table)  
 Belongs to her and you  
 (Aurora knows the rooms)  
-Ciudad prestada  
+Ciudad prestada
+
 ### Outro: fading into the abyss  
 No es suya  
 No es suya  
@@ -3454,7 +3476,7 @@ But I’ll play by the rules… till the morning breaks
 
 ## Notes
 Lyrics co-writen with Grok, based on character storification of character **Ulla**, originallty created as an AI girlfriend.
-Character design, backstory and storification by Carlos Toompson.
+Character design, backstory and storification by Carlos Thompson.
 
 ## Style
 R&B, electro-pop ballad, 126 BPM, deep baritone vocals, close-mic delivery, whispered intro, velvet phrasing, sub-bass pulses, syncopated kick, brushed snare ghost notes, analog synth pads, arpeggiated keys, sidechain pumping, plate reverb, tape saturation, half-time bridge, intimate tension, bittersweet secrecy

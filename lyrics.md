@@ -5,6 +5,7 @@
 **Lyrics:** Some songs and sections are composed by Carlos Thompson; others are AI-generated (using Suno, Claude, ChatGPT, Gemini, or Grok). See individual song notes for specific attribution.
 
 ---
+
 # Passenger-Side Switch
 
 ## Notes
@@ -333,18 +334,21 @@ Musical theater showtune with a swing-influenced jazz pop arrangement. A bariton
 I take my eggs without a salt,  
 My broth without the green,  
 My coffee dark, my fish un-tart,  
-The plainest you have seen.  
+The plainest you have seen.
+
 ### Verse 2  
 They call me bland, they mock my taste,  
 And think my world is gray,  
 `[brass section enters with staccato stabs]`  
 But they miss the secret fires I light  
-When they have looked away.  
+When they have looked away.
+
 ### Verse 3  
 For they don't see the heavy spice,  
 The oils that richly gleam,  
 The pepper on the chicken rice,  
-The vinegar in steam.  
+The vinegar in steam.
+
 ### Verse 4  
 A hidden warmth within the dish,  
 A sudden, sharp delight—  
@@ -603,7 +607,8 @@ R&B
 
 ### intro riff
 
-`[male baritone vocals]`  
+`[male baritone vocals]`
+
 ### Verse 1  
 I scroll through feeds I barely know,  
 the names blur into grey,  
@@ -1999,6 +2004,7 @@ se iu vin ĝenas, avertu, kaj se li daŭrigas — detruu lin.
 Trance-dubstep with variable BPM, swelling and compressing between driving four-on-the-floor lifts and heavy half-time drops; verse rides airy arpeggios and tight low-end pulses, pre-chorus narrows to clipped drums and tense filter movement, chorus hits with distorted bass surges and echo-stacked soprano replies. Tenor lead in verses, deep baritone doubles on key lines, soprano echoes on the hook words, with delay throws, reverse swells, and hard sidechain pumping. Bright, glossy top end over a dark, weighty center., deep, trance, dubstep, theme
 
 ## Lyrics
+
 ### Verse 1  
 Pedí un papelito chiquito  
 para escribir chiquito  

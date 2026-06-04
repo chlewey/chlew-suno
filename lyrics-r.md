@@ -356,6 +356,7 @@ Lyrics and production by Gemini
 Pop rock with elements of musical theater. Features a clean electric guitar playing palm-muted eighth-note arpeggios, a melodic electric bass, and a standard drum kit with a prominent snare. A baritone male vocal delivers a theatrical, narrative performance with clear diction. The arrangement builds with sustained electric guitar chords and driving eighth-note kick patterns. Key of D major, 145 BPM, 4/4 time signature.
 
 ## Lyrics
+
 ### Intro  
 `[clean electric guitar arpeggio, palm-muted]`
 
@@ -737,6 +738,7 @@ A tireless guard I have to keep.
 Electronic, house
 
 ## Lyrics
+
 ### Verse 1  
 `[female voice]`  
 `[whispering]`
@@ -1867,6 +1869,7 @@ ya me elegí yo
 House with dubstep drops, playful swung groove and half-time bass hits; verse stays intimate and minimal with clipped synth plucks, pre-chorus opens into rising chords and filtered tension, chorus lands with a wide sub drop and bright vocal doubles, bridge strips to pads and heartbeat kick before the final lift. Soft female vocals with Latin-American pronunciation, airy stacks on hooks, delay throws on key words, reversed swells and glittery risers between lines, glossy and dark-bright mix., dubstep, female vocals, soft, playful, latin
 
 ## Lyrics
+
 ### Verse 1  
 Palabras en hemorragia  
 salen de una esfera entintada  
@@ -3403,6 +3406,7 @@ Together we can harmonize
 house, club dubstep, 132 BPM, female belt vocals, received pronunciation, punchy kick drum, syncopated house bass, sidechained synth bass, metallic percussion, filtered trance pads, gated snare, wide stereo claps, plate reverb, tape saturation, half-time bridge, spoken-sung delivery, anthemic release, late-night isolation
 
 ## Lyrics
+
 ### Verse 1 — *Cardiff, the leaving*  
 `[female vocals, house beat, soothing]`  
 She loved the city that she left behind  

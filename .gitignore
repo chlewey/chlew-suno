@@ -1,6 +1,10 @@
 *.wav
 *.mp3
 *.m4a
+*.pdf
+*.aux
+*.log
+*.out
 
 .venv/
 __pycache__/
