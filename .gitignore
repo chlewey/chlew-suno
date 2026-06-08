@@ -5,6 +5,8 @@
 *.aux
 *.log
 *.out
+*.gz
+*.docx
 
 .venv/
 __pycache__/

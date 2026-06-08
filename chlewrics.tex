@@ -1,4 +1,4 @@
-\documentclass{memoir}
+\documentclass[letterpaper,landscape,twocolumn]{memoir}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
@@ -12,18 +12,29 @@
 ]{Noto Naskh Arabic}
 \newfontfamily\arabicfontsf[
   Script=Arabic,
-  Scale=MatchLowercase
+  Scale=MatchLowercase		
 ]{Noto Sans Arabic}
 \setsecnumdepth{none}
 \newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
 \newcommand\songpart[1]{\par\textbf{\normalsize #1}\par}
 \newcommand\annotation[1]{\texttt{\,\footnotesize[#1]\,}}
-\newenvironment{lyrics}[1][1em]{\subsection*{Lyrics}\small\ignorespaces
-\begin{adjustwidth}{#1}{#1}%
+\newcommand\tag[1]{\texttt{\,\footnotesize\textbf{\##1}\,}}
+\makeatletter
+\newlength{\x@indent}
+\newlength{\x@left}
+\newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
+\setlength\x@indent{1em}%
+\else
+\setlength\x@left{\dimexpr\columnwidth - #1\relax}%
+\setlength\x@indent{0.5\x@left}%
+\fi
+\subsection*{Lyrics}\small\ignorespaces
+\begin{adjustwidth}{\x@indent}{\x@indent}%
 \setlength{\parskip}{1em}%
 \setlength{\parindent}{0pt}%
 \lyricsfont\selectfont
 }{\end{adjustwidth}\medskip}
+\makeatother
 \begin{document}
 \include{chlewey}
 \include{rataflechera}
