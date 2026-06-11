@@ -7,6 +7,8 @@
 *.out
 *.gz
 *.docx
+*.bak
+*.backup
 
 .venv/
 __pycache__/

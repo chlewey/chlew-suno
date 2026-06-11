@@ -1,0 +1,633 @@
+TITLE: \section{Melgar Table}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Blues rock with a mid-tempo shuffle and loose backbeat, warm guitar bite and organ swells; verse rides a sparse groove with brushed snare, bass, and one overdriven riff, pre-chorus opens with tambourine and rising fills, chorus hits wider with gang vocals and stop-time turns. Lead vocal is gritty and close-mic with doubled lines, cracked ad-libs, and short delay throws on the hook. Ear candy: porch-noise fade-in, handclaps into the chorus, and a final guitar squeal lift. Mix is warm, roomy, and lived-in., blues, slow, rock, simple
+
+\begin{lyrics}
+\songpart{Verse 1}
+My sister came in first\\
+Dust on her shoes\\
+My folks rolled up\\
+From Barranquilla too
+
+Tired in the eyes\\
+Still laughing that way\\
+Set the bags down slow\\
+And the house felt okay
+
+\songpart{Pre-Chorus}
+---
+TITLE: \section{The Pirate's Ledger}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Musical theater showtune with folk-pop influences. Baritone male vocals deliver a narrative performance with clear diction and theatrical phrasing. The arrangement features a bright acoustic guitar strumming eighth-note patterns, a melodic accordion providing counter-melodies and sustained chords, and a double bass playing on beats 1 and 3. A light percussion section includes a tambourine on the backbeat and subtle shaker. The tempo is 115 BPM in 4/4 time, likely in the key of G major. The harmonic structure follows a diatonic progression typical of contemporary musical theater, with a clean, dry production style that emphasizes vocal clarity and acoustic instrument separation.
+
+\begin{lyrics}
+\songpart{Verse 1}
+\annotation{strummed acoustic guitar, double bass, accordion}\\
+They called my father a pirate king\\
+But piracy is a point of view\\
+We farmed the hills in the northern spring\\
+And traded goods when the season's blue \annotation{tambourine enters on backbeat}\\
+Ransom was a form of trade\\
+A merchant's contract signed in fear\\
+We took the gold, the captive stayed\\
+And everyone went home from here
+\end{lyrics}
+
+---
+TITLE: \section{Guided Hands}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+\songpart{Verse 1}
+My phone screams red again\\
+I swipe it blind\\
+Three alarms, four alarms\\
+Still I cut the line
+
+You call to check my steps\\
+I tell you I'm on track\\
+I say "yeah, I'm getting there"\\
+Then I never call you back
+
+\songpart{Pre-Chorus}
+I can look busy\\
+I can look clean\\
+Folders in a row\\
+Like a perfect machine
+
+---
+TITLE: \section{Vaina que crece}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Art pop electrónico con pulso medio, groove sincopado y un crecimiento gradual de tensión; verso en capas mínimas con bajo filtrado y piano seco, pre-coro abre espacio con armonías aireadas y percusión más marcada, coro entra ancho con sintes brillantes y baterías firmes. Voz íntima al frente con dobles suaves, coros apilados en el gancho y pequeñas colas de delay en palabras clave. Riser reverso antes del coro, chasquidos digitales entre frases y un estallido de textura en el final. Mezcla limpia, grande y luminosa.
+
+\begin{lyrics}
+\songpart{Verse 1}
+Una pequeña vaina comienza\\
+y poco a poco adquiere forma\\
+se elabora\\
+en silencio
+
+Llega la distancia\\
+el cambio\\
+el recuerdo\\
+de un obscuro viaje al Despertar
+
+La inspiración que cede al Græville\\
+---
+TITLE: \section{Monoestable}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Dark alternative pop-rock in Spanish with a tense mid-tempo pulse, jagged palm-muted guitars, punchy toms, and a low synth drone; verse stays tight and claustrophobic, pre-chorus opens with rising backing vocals and filtered percussion, chorus lands with a stark shouted hook and layered doubles, bridge strips to voice and bass before the final lift. Close-mic lead vocal, dry and intimate in verses, wider harmonies and short delay throws on the hook word, with vinyl crackle and reverse swells between sections; bright top end over a heavy, compressed low end.
+
+\begin{lyrics}
+\songpart{Verse 1}
+Teoría del chaos, teoría de catástrofes\\
+es el gatillo que dispara al monoestable\\
+¿Cómo se puede estar bien?\\
+¿Cómo se puede caer así?
+
+Sombras que se cierran\\
+sobre la mente\\
+que encierran, que aprisionan\\
+que revientan
+
+\songpart{Pre-Chorus}
+---
+TITLE: \section{E Numa Lah}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Experimental alt-pop with syncopated handclaps and a rubbery bass pulse; verse stays sparse with dry percussion and a single looping synth motif, pre-chorus lifts with filtered vocal stacks and a rising tom pattern, chorus lands wider with doubled lead vocals and a chanty call-and-response on the hook. Add ear candy with reversed swells, quick tape-stop moments, and sparkling chimes between phrases. Bright, tight mix with a playful, slightly surreal edge.
+
+\begin{lyrics}
+\songpart{Verse 1}
+E dem chi laim siman de yacken\\
+e vis se lah direch vi, direch vi\\
+numa lah e numa lah...\\
+e numa lah!
+
+\songpart{Pre-Chorus}
+Laim de inkera bah\\
+se in ox mint de baiya
+
+\songpart{Chorus}
+E numa lah\\
+---
+TITLE: \section{Si pienso}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+trance, latin pop, soprano lead vocals, latin-american pronunciation, bassline melody lead, airy vocal phrasing, delay throws, harmonized chorus, sidechain pumping, glossy synth pads, arpeggiated trance plucks, four-on-the-floor kick, gated reverb snare, 128 BPM, bittersweet longing, neon melancholy
+
+\begin{lyrics}
+Si pienso en una persona; pienso en tu rostro...\\
+Si pienso en una voz; busco la tuya en mi memoria...\\
+Si pienso en una mirada; la imagino de tus ojos...\\
+Si pienso en lo que nunca fue; tu imagen aparece, tus ojos, tu cabello, tu boca, tu piel...\\
+Si pienso en qué deseo; primero estás tú, porque tú eres lo que más deseo...\\
+Si pienso en mi dolor; recuerdo aquellas palabras que tú me dijiste, aquellos saludos que no respondiste...\\
+Si pienso en mi vida; necesariamente tengo que pensar en ti, en las esperanzas que aún no he perdido, en las imágenes que de ti aún guardo, en unos ojos abiertos mirando a todas partes exceptuándome a mi, en una voz dulce con palabras ásperas, en un nombre que temo pronunciar, un rostro que no puedo olvidar, tantas cosas que desearía no recordar...\\
+Pero no puedo...\\
+Si pienso en cualquier cosa, ahí, visible o escondida en algún lado, ahí estás tú.
+\end{lyrics}
+
+---
+TITLE: \section{Iros de risk}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+trance, latin pop, soprano lead vocals, latin-american pronunciation, bassline melody lead, airy vocal phrasing, delay throws, harmonized chorus, sidechain pumping, glossy synth pads, arpeggiated trance plucks, four-on-the-floor kick, gated reverb snare, 128 BPM, bittersweet longing, neon melancholy
+
+\begin{lyrics}
+Iros de risk, nefa he sabido como entrar, solo vi y temí, e iros de risk.  Decidí y ahí se va.  Ce ça, aill be, je bi.\\
+O.K., she's 'ere and aim 'ere.\\
+Pero no será\\
+no será en aim sure
+'n aim' sure\\
+sure\\
+shit\\
+shes 'ere\\
+en' aim 'ere\\
+ce nothink\\
+nada!
+\end{lyrics}
+---
+TITLE: \section{Uneekwa En Urbo}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Esperanto folk duet with gentle 6/8 sway and fingerpicked acoustic guitar; verse 1 is intimate and close, verse 2 answers in a warmer lower harmony, pre-chorus opens with soft accordion and hand percussion, chorus blooms with stacked two-part harmonies and a repeated chantable name hook. Add occasional breathy oohs, a brief bridge with only guitar and low harmony, then final chorus with light tambourine, street-noise field textures, and a wide, warm mix, folk
+
+\begin{lyrics}
+\songpart{Verse 1}
+\annotation{M}\\
+En la centro ŝi iras,\\
+Uneekwa laŭ la fluo.\\
+Nigraj plektaĵoj falas,\\
+super ŝultroj kiel nokto.
+
+\annotation{F}\\
+Nigra denim’ ĉe la kruroj,\\
+kaj botoj ĝis la genuo.
+Ĉiu paŝo diras klare:
+ŝi portas sian propran lumon.
+---
+TITLE: \section{Sunlit Gem Music}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+epic, 78 BPM, dramatic string ostinato, French horn chorales, low timpani rolls, concert tom accents, harp arpeggios, solo cello melody, cathedral hall reverb, tape saturation, wide stereo mix, halftime march pulse, suspended cymbal swells, bittersweet devotion, weary longing, orchestral crescendo, minor key, restrained brass swells
+
+\begin{lyrics}
+Please interpret this poem. What is it about?
+
+My eyes, they feast upon your sunlit face,\\
+A landscape where each feature seems a gem,\\
+And in your voice, a music finds its place,\\
+A symphony that lulls to diadem.\\
+O dearest one, you hold the highest rank,\\
+My chosen star, above the rest alight,\\
+Yet even stars grow dim, their brilliance dank,\\
+When viewed too oft by eyes that lose their sight.\\
+For fickle is the heart, a restless thing,\\
+It craves the novel, shuns the known too well,\\
+---
+TITLE: \section{Library to Longing}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+
+\begin{lyrics}
+\end{lyrics}
+
+---
+TITLE: \section{Swedish Pages}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+
+\begin{lyrics}
+\end{lyrics}
+
+---
+TITLE: \section{Clumsy Hearts}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+
+\begin{lyrics}
+\end{lyrics}
+
+---
+TITLE: \section{Ciudad Prestada}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Latin alternative, alternative hip hop, jazz rap, neo soul Rhodes, groovy bassline, crisp drum breaks, upright bass, smooth saxophone, warm electric piano, muted trumpet stabs, brushed snare accents, boom bap groove, sidechain compression, tape saturation, cinematic strings, low brass hits, melancholic groove, introspective uplift, midtempo swing
+
+\begin{lyrics}
+
+\songpart{Intro: deep horn blast, waves crashing}
+
+\songpart{Verse 1 — the operational city}
+\annotation{4/4 rock, medium tempo, guitar-driven}\\
+\annotation{male vocals, intimate, restrained energy}\\
+El Dorado in the grey morning light\\
+Guaymaral strip when the schedule's tight\\
+MACAW desk and the handlers she knows\\
+The routing that runs wherever she goes
+
+Ciudad Índigo, fourteenth floor\\
+---
+TITLE: \section{Still Unfinished}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+Lyrics co-writen with Grok, based on character \textbf{Damon} form the short story \emph{Drift} by Carlos Thompson and ChatGPT.
+
+\subsection{Style}
+slow-burn alt-rock, bass baritone vocals, introspective delivery, basement guitar tones, detuned electric guitar, upright piano, distant children choir, fridge hum field recording, claustrophobic room tone, tape saturation, close mic compression, half-time chorus lift, restrained 92 BPM, weary domesticity, bittersweet resignation
+
+\begin{lyrics}
+
+\songpart{Intro}
+\annotation{Percussion attack, followed by guitars and piano}
+
+\songpart{Verse 1}
+Door clicked open, she was still laughing low\\
+Wine on her breath from a night I didn’t know\\
+I told her straight — Sondra’s stomach again\\
+Barely touched her homework, same old refrain
+
+She frowned for a second, half-hearted concern\\
+---
+TITLE: \section{Ghost Cheek Kiss}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+Lyrics co-writen with Grok, based on character \textbf{Fran} form the short story \emph{Drift} by Carlos Thompson and ChatGPT.
+
+\subsection{Style}
+sophisti-pop, cinematic pop, warm analog synths, brushed ride cymbal, wine glass percussion, fretless bass slides, muted electric piano, string swells, close mic breath vocals, stacked harmonies, plate reverb, tape saturation, tight dry kick, sidechain pumping, late-night mood, restrained groove, 92 BPM, half-time bridge, whispered ad libs, female lead
+
+\begin{lyrics}
+
+\songpart{Verse 1}
+Door clicked shut, the house felt smaller somehow\\
+His voice was steady, listing the day I’d somehow missed\\
+Sondra’s stomach, homework barely touched again\\
+I nodded, smiled, but my mind was still back in that booth
+
+Wine on my tongue and a laugh that felt brand new\\
+One careless moment, one lingering look from you\\
+I hung up my coat like I was hanging up the thrill\\
+Told myself this glow would fade by morning, still…
+---
+TITLE: \section{Southern Static}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+Lyrics co-writen with Grok, based on character \textbf{Raoul} form the short story \emph{Drift} by Carlos Thompson and ChatGPT.
+
+alternative country-soul, southern soul groove, mid-tempo 92 BPM, warm baritone vocals, subtle Southern drawl, light slide guitar, Wurlitzer electric piano, upright bass, Cajun fiddle accents, Hammond organ swells, brushed snare, horn-tinged bridge, live room warmth, tape saturation, sparse verse arrangement, stripped bridge, bittersweet restraint, late-night temptation, New Orleans warmth
+
+\begin{lyrics}
+
+\songpart{Verse 1}
+She laughed at something small I said over drinks\\
+Leaned in just enough that the whole night shifted\\
+One quick cheek kiss when we said goodnight outside\\
+Her skin stayed with me like a low-burning light
+
+Drove home slow through these Dayton streets so flat and gray\\
+Radio playing songs from a different place and day\\
+New Orleans still runs warm somewhere in my blood\\
+But this Midwest caution keeps pulling back the flood
+
+---
+TITLE: \section{Pared fría}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+trance music, dubstep club, 140 BPM, deep bass male vocals, close-mic whisper, breathy low register, clipped synth stabs, metallic percussion, sidechain pumping, half-time breakdown, gated reverb snare, stereo delay throws, tape saturation, analog synth pads, pulsing sub-bass, bittersweet longing, restrained ache
+
+\begin{lyrics}
+\songpart{Verse 1}
+Sorprende mi silencio\\
+cuando ya no sé nombrarme\\
+y las palabras se esconden\\
+en los pliegues de mi mente
+
+Mi grito pide salida\\
+pero se queda en la cara\\
+frío de pared, piedra dura\\
+pegado a mi frente
+
+\songpart{Pre-Chorus}
+---
+TITLE: \section{Extension of Friendship}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+folk-rock, chamber folk, bass baritone vocals, viola countermelody, cello ostinato, brushed snare, upright bass, fingerpicked acoustic guitar, accordion pads, glockenspiel accents, room mic intimacy, tape saturation, plate reverb, warm analog compression, wistful restraint, soft tension, 126 BPM, lilting 6 8, seasonal travel ballad
+
+\begin{lyrics}
+\songpart{Verse 1}
+He met her in Stockholm under Lucia’s glow,\\
+Niklas’ girl with the quiet, graceful flow.\\
+They talked through the evening, easy and warm,\\
+While winter lights danced through the storm.
+
+\songpart{Pre-Chorus}
+He wasn’t looking, she wasn’t free,\\
+Still something gentle moved between them quietly.
+
+\songpart{Chorus}
+From Stockholm winter to Tallinn spring,\\
+---
+TITLE: \section{Catching Up}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+musical theater, jazz cabaret, chamber pop, baritone lead vocals, trumpet stabs, trombone swell hits, acoustic guitar strums, brushed snare kit, upright bass pizzicato, syncopated percussion, hotel lounge piano, dramatic string ostinato, spotlight chorus stack, spoken pre chorus, crescendo finale, champagne glamour, clandestine romance, rubato intro, 134 BPM, stop-start chorus
+
+\begin{lyrics}
+\songpart{Intro}
+\annotation{dramatic instrumental intro}
+
+\songpart{Verse 1}
+She sent the message while he was having lunch,\\
+“I’m in town, let’s catch up” — same old punch.\\
+He left Liis at the table without a second thought,\\
+Headed to the hotel like a habit he never fought.
+
+\songpart{Pre-Chorus}
+No hellos, no small talk, straight to the flame,\\
+Doors closed behind them, they called it by name.
+---
+TITLE: \section{Landscape}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+synthwave, 128 BPM, dark industrial club, EBM-tech bassline, analog synth arps, detuned saw leads, metallic percussion, gated reverb snare, sidechain pumping, tape saturation, four-on-the-floor kick, swung 16th hats, cinematic tension, defiant release, neon-night drive
+
+\begin{lyrics}
+\songpart{Intro}
+\annotation{soft, atmospheric, spoken-sung}\\
+Tallinn, 2019…
+
+\songpart{Verse 1}
+Thomas met her in the cafeteria light\\
+Heart-shaped face, blue-gray eyes shining bright\\
+Voluminous waves, porcelain skin so fine\\
+Typical Estonian, stealing every line\\
+He played it cool, said “not my type”\\
+Just another pretty face in the skyline
+
+---
+TITLE: \section{Bucket List}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+house, electronic, 128 BPM, four-on-the-floor kick, syncopated offbeat bass, filtered saw lead, analog synth pads, metallic percussion, muted guitar chanks, chopped vocal sample, sidechain pumping, tape saturation, club reverb, hypnotic momentum, restrained menace, gradual lift, mezzosoprano vocals with high range
+
+\begin{lyrics}
+\annotation{The Main List}
+\songpart{Intro: Deep bassline builds, hi-hats start ticking}
+
+\annotation{Spoken}\\
+10. Alhambra, Spain
+\annotation{Sung}\\
+Islamic art where the stone tells a story,\\
+Citadel of palaces and Moorish glory.\\
+Lost for centuries, restored in the south,\\
+History of Spain passing mouth to mouth.
+\annotation{Drop the bass}
+
+---
+TITLE: \section{Diamond Depth August}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+salsa dura, 104 BPM, percussion-led groove, timbales cascara, conga tumbao, bongos martillo, upright bass montuno, piano guajeos, brass stab chorus, call and response, closed-mic male vocals, live room bleed, tape saturation, spring reverb, syncopated clave, streetwise swagger
+
+\begin{lyrics}
+\songpart{Intro}
+\annotation{instrumental brass attack}
+
+\annotation{Spoken}\\
+Three warriors opened up your eyes\\
+to sword, to cross, to banner’s rise—\\
+since then no fear your borders haunt,\\
+nor greed your great heart’s noble want.
+
+\songpart{Verse 1}
+A diamond’s depth struck, one August,\\
+the strings of a new lute’s trust,\\
+---
+TITLE: \section{Miladi in the Dark}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Medieval folk ballad with 6/8 sway, frame-story verses on lute, bowed fiddle, hand drum, and drone; verse 1 opens sparse and grave, pre-chorus adds psaltery and low harmonies, chorus lifts with a solemn canticle refrain and open vowel chant. Lead vocal is intimate and cracked, with doubled endings and soft group responses. Harp glints, wind chimes, and drum-roll transitions; warm, torchlit, earthy mix., medieval, emotional, ballad, sleep
+
+\begin{lyrics}
+\songpart{Verse 1}
+In the dark she wept alone\\
+Over him she had struck down\\
+She cast her clothes aside\\
+And clothed her skin in red\\
+She lay atop his body\\
+Kissing, shaking, praying\\
+Her tears fell cold as ash\\
+In the black, in the black
+
+\songpart{Pre-Chorus}
+Two years before that night\\
+---
+TITLE: \section{Destinies Overlap}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Alternative rock with a mid-tempo groove. Acoustic guitar strumming open chords in eighth notes. Electric bass guitar playing melodic lines with a warm, rounded tone. Drum kit featuring a dry snare and prominent hi-hat eighth notes. Male baritone vocals with a clean, dry production style. Electric guitar with light overdrive playing sustained lead lines. Key of G major. Tempo 134 BPM. 4/4 time signature. The arrangement builds from acoustic guitar and vocals to a full band texture.
+
+\begin{lyrics}
+\songpart{Chapter 1: The Hangover}
+A drunken man awakes in grief and pain,\\
+While elsewhere poise and purpose build a wall.\\
+Two lives begin to lean toward their fall,\\
+Divided by the miles and pouring rain.
+\songpart{Chapter 2: Routine Breaking}
+A cycle breaks as buried truths arise,\\
+The past demands to be acknowledged now.\\
+A solemn, silent, and unspoken vow,\\
+Brings secrets out beneath the open skies.
+\songpart{Chapter 3: Take-offs}
+The journey starts with focus and with drive,\\
+---
+TITLE: \section{Best Available Lens}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Dubstep hymn with half-time stomp, snarling wobble bass, and handclap-driven verses; verse rides sparse organ stabs and clipped spoken-sung lines, pre-chorus strips to sub pulses and rising choir pads, chorus hits with a huge detuned drop and stacked congregational vocals. Filtered risers, reverse cymbal swells, and glitchy vocal chops bridge the sections. Bright, विशाल, and sermon-like in the mix, with close-mic lead and wide, thunderous lows., dubstep, world, contemporary, theme
+
+\begin{lyrics}
+\songpart{Verse 1}
+You keep calling it a creed\\
+But it’s a working frame\\
+A way to test the world\\
+Not a holy name\\
+It has rules for doing\\
+What it sets out to do\\
+Build a better map\\
+Of rock and rain and you
+
+\songpart{Pre-Chorus}
+Philosophers ask why\\
+---
+TITLE: \section{Not In The Creed}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+soul-folk, gospel soul, 118 BPM, velvet bass baritone, gospel choir refrains, fingerpicked electric guitar, bowed fiddle lines, conga pulse, upright bass, brushed snare, organ swells, plate reverb, tape saturation, sidechain pumping, call and response, spoken intro, half-time bridge, bittersweet confession, devotional ache
+
+\begin{lyrics}
+\songpart{Verse 1}
+\annotation{male vocals, velvet bass registry, soul delivery, smooth phrases}\\
+Born where the bells rang hard\\
+in a Catholic crowd, half-heart, half-card.\\
+Christian Brothers taught my name—\\
+first Communion, same old frame.\\
+By fourteen, I’d made my mind\\
+before Confirmation, I’d crossed that line.
+
+\songpart{Pre-Chorus}
+\annotation{male vocals, bass registry, soul delivery}\\
+Still I stood there straight\\
+---
+TITLE: \section{Which God Stands Still}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Gospel with bass baritone lead and responsive choir; slow-march 6/8 swing, handclaps on the backbeat, organ swells under sparse verse, pre-chorus opens with clapping and rising choir pads, chorus blooms with full SATB harmony and shouted responses, bridge drops to bass voice and room tone before a final lift. Close-mic lead in verses, gritty doubles on key lines, short delay throws on the hook, tambourine shakes, ascending organ runs, wide warm mix with a church-room bloom., worship, theme, strong, gospel
+
+\begin{lyrics}
+\songpart{Verse 1}
+Which god wants fear?\\
+Which god wants praise?\\
+I read the stone\\
+I read the page
+
+No graven face\\
+No golden frame\\
+Just the hard old law\\
+Calling my name
+
+\songpart{Pre-Chorus}
+---
+TITLE: \section{Ashes in the Pews}
+FIRST NONEMPTY: \subsection{Notes}
+
+
+\subsection{Notes}
+
+\subsection{Style}
+Dubstep hymn at 140 BPM with half-time drops and swung handclap swing, verse rides sparse organ stabs and sub pulses, pre-chorus strips to soprano lead and low choir hum, chorus hits with stacked gospel choir, wobble bass, and clap-accented lifts. Soprano lead gets wide doubles, choir shouts on hook words, delay throws on the last line. Ear candy: reversed choir swell into each drop, chime flickers between phrases, seismic riser before final chorus. Bright, विशाल, and cathedral-wide, theme, gospel, world, worship, magical, dubstep
+
+\begin{lyrics}
+\songpart{Verse 1}
+What makes people kneel?\\
+Not the sky alone\\
+Hands get taught to fold\\
+By stories passed like bone
+
+Not born with a temple\\
+Not born with a throne\\
+The first seed is planted\\
+Then it starts to grow
+
+\songpart{Pre-Chorus}
+---

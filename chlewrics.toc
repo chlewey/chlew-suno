@@ -1,0 +1,750 @@
+\contentsline {chapter}{Chlewey Works}{1}{}%
+\contentsline {section}{Passenger-Side Switch}{1}{}%
+\contentsline {subsection}{Notes}{1}{}%
+\contentsline {subsection}{Style}{1}{}%
+\contentsline {section}{The Secret Fires}{2}{}%
+\contentsline {subsection}{Notes}{2}{}%
+\contentsline {subsection}{Style}{2}{}%
+\contentsline {section}{Monstruo Ciudad}{3}{}%
+\contentsline {subsection}{Notes}{3}{}%
+\contentsline {subsection}{Prompt}{3}{}%
+\contentsline {section}{Beside the Storm}{4}{}%
+\contentsline {subsection}{Notes}{4}{}%
+\contentsline {subsection}{Style}{4}{}%
+\contentsline {section}{In the Time of Noah's Ark}{5}{}%
+\contentsline {subsection}{Notes}{5}{}%
+\contentsline {subsection}{Style}{5}{}%
+\contentsline {section}{Je hais}{5}{}%
+\contentsline {subsection}{Notes}{6}{}%
+\contentsline {subsection}{Style}{6}{}%
+\contentsline {section}{Je hais}{6}{}%
+\contentsline {subsection}{Notes}{6}{}%
+\contentsline {subsection}{Style}{6}{}%
+\contentsline {section}{La haine que je te dois}{6}{}%
+\contentsline {subsection}{Notes}{6}{}%
+\contentsline {subsection}{Style}{6}{}%
+\contentsline {section}{The Secret Fires}{7}{}%
+\contentsline {subsection}{Notes}{7}{}%
+\contentsline {subsection}{Style}{7}{}%
+\contentsline {section}{In the Time of Noah's Ark}{8}{}%
+\contentsline {subsection}{Notes}{8}{}%
+\contentsline {subsection}{Style}{8}{}%
+\contentsline {section}{Círculo Convexo}{9}{}%
+\contentsline {subsection}{Notes}{9}{}%
+\contentsline {subsection}{Style}{9}{}%
+\contentsline {section}{Let Me Finish}{10}{}%
+\contentsline {subsection}{Notes}{10}{}%
+\contentsline {subsection}{Style}{10}{}%
+\contentsline {section}{Quiet Signal}{12}{}%
+\contentsline {subsection}{Notes}{12}{}%
+\contentsline {subsection}{Style}{12}{}%
+\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{13}{}%
+\contentsline {subsection}{Notes}{13}{}%
+\contentsline {subsection}{Style}{13}{}%
+\contentsline {section}{Bogotá}{14}{}%
+\contentsline {subsection}{Notes}{14}{}%
+\contentsline {subsection}{Style}{15}{}%
+\contentsline {section}{Amber in Focus}{16}{}%
+\contentsline {subsection}{Notes}{16}{}%
+\contentsline {subsection}{Style}{16}{}%
+\contentsline {section}{Succubus Portrait}{17}{}%
+\contentsline {subsection}{Notes}{17}{}%
+\contentsline {subsection}{Style}{17}{}%
+\contentsline {section}{Al despertar}{18}{}%
+\contentsline {subsection}{Notes}{18}{}%
+\contentsline {subsection}{Style}{18}{}%
+\contentsline {section}{Message trop tard}{20}{}%
+\contentsline {subsection}{Notes}{20}{}%
+\contentsline {subsection}{Style}{20}{}%
+\contentsline {section}{No Excuse}{21}{}%
+\contentsline {subsection}{Notes}{21}{}%
+\contentsline {subsection}{Style}{21}{}%
+\contentsline {section}{Traga tuitera}{23}{}%
+\contentsline {subsection}{Notes}{23}{}%
+\contentsline {subsection}{Style}{23}{}%
+\contentsline {section}{Little Velvet Ghost}{25}{}%
+\contentsline {subsection}{Notes}{25}{}%
+\contentsline {subsection}{Style}{25}{}%
+\contentsline {section}{Duda en Piravita}{26}{}%
+\contentsline {subsection}{Notes}{26}{}%
+\contentsline {subsection}{Style}{26}{}%
+\contentsline {section}{Padre Peter}{28}{}%
+\contentsline {subsection}{Notes}{28}{}%
+\contentsline {subsection}{Style}{28}{}%
+\contentsline {section}{Svarta Ögon}{29}{}%
+\contentsline {subsection}{Notes}{29}{}%
+\contentsline {subsection}{Style}{29}{}%
+\contentsline {section}{Svarta Ögon Skena}{29}{}%
+\contentsline {subsection}{Notes}{29}{}%
+\contentsline {subsection}{Style}{30}{}%
+\contentsline {section}{Bilden}{30}{}%
+\contentsline {subsection}{Notes}{30}{}%
+\contentsline {subsection}{Style}{30}{}%
+\contentsline {section}{Vakning}{31}{}%
+\contentsline {subsection}{Notes}{31}{}%
+\contentsline {subsection}{Style}{31}{}%
+\contentsline {section}{Jag avskyr}{31}{}%
+\contentsline {subsection}{Notes}{31}{}%
+\contentsline {subsection}{Style}{31}{}%
+\contentsline {section}{La duda - por qué}{32}{}%
+\contentsline {subsection}{Notes}{32}{}%
+\contentsline {subsection}{Style}{32}{}%
+\contentsline {section}{TrackB}{33}{}%
+\contentsline {subsection}{Notes}{33}{}%
+\contentsline {subsection}{Style}{33}{}%
+\contentsline {section}{Secret Fires (TrackB)}{34}{}%
+\contentsline {subsection}{Notes}{34}{}%
+\contentsline {subsection}{Style}{34}{}%
+\contentsline {section}{Espectador de mi vida}{35}{}%
+\contentsline {subsection}{Notes}{35}{}%
+\contentsline {subsection}{Style}{35}{}%
+\contentsline {section}{Matena Signo}{36}{}%
+\contentsline {subsection}{Notes}{36}{}%
+\contentsline {subsection}{Style}{36}{}%
+\contentsline {section}{Papelito Chiquito}{37}{}%
+\contentsline {subsection}{Notes}{37}{}%
+\contentsline {subsection}{Style}{37}{}%
+\contentsline {section}{Chocolate Frío}{39}{}%
+\contentsline {subsection}{Notes}{39}{}%
+\contentsline {subsection}{Style}{39}{}%
+\contentsline {section}{Cuarto de Peluches}{40}{}%
+\contentsline {subsection}{Notes}{40}{}%
+\contentsline {subsection}{Style}{40}{}%
+\contentsline {section}{Kapu Lema}{42}{}%
+\contentsline {subsection}{Notes}{42}{}%
+\contentsline {subsection}{Style}{42}{}%
+\contentsline {section}{Operating Manual (For Changing a Light Bulb)}{43}{}%
+\contentsline {subsection}{Notes}{43}{}%
+\contentsline {subsection}{Style}{43}{}%
+\contentsline {section}{Ice Cream Friday}{45}{}%
+\contentsline {subsection}{Notes}{45}{}%
+\contentsline {subsection}{Style}{45}{}%
+\contentsline {section}{Tangerine \& Olive}{46}{}%
+\contentsline {subsection}{Notes}{46}{}%
+\contentsline {subsection}{Style}{46}{}%
+\contentsline {section}{Hotel Afterglow}{47}{}%
+\contentsline {subsection}{Notes}{47}{}%
+\contentsline {subsection}{Style}{47}{}%
+\contentsline {section}{Midnight Carnival Split}{48}{}%
+\contentsline {subsection}{Notes}{48}{}%
+\contentsline {subsection}{Prompt}{48}{}%
+\contentsline {section}{Saffron Roof Smile}{49}{}%
+\contentsline {subsection}{Notes}{49}{}%
+\contentsline {subsection}{Style}{49}{}%
+\contentsline {section}{Límite sincopado}{50}{}%
+\contentsline {subsection}{Notes}{50}{}%
+\contentsline {subsection}{Style}{50}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{53}{}%
+\contentsline {subsection}{Notes}{53}{}%
+\contentsline {subsection}{Style}{53}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{54}{}%
+\contentsline {subsection}{Notes}{54}{}%
+\contentsline {subsection}{Style}{54}{}%
+\contentsline {section}{Crazy Town Recap}{57}{}%
+\contentsline {subsection}{Notes}{57}{}%
+\contentsline {subsection}{Style}{57}{}%
+\contentsline {section}{Blue-Point Mischief}{58}{}%
+\contentsline {subsection}{Notes}{58}{}%
+\contentsline {subsection}{Style}{58}{}%
+\contentsline {section}{Buba Kiki Riot}{60}{}%
+\contentsline {subsection}{Notes}{60}{}%
+\contentsline {subsection}{Style}{60}{}%
+\contentsline {section}{Blue Wall Grace}{61}{}%
+\contentsline {subsection}{Notes}{61}{}%
+\contentsline {subsection}{Sytle}{61}{}%
+\contentsline {section}{Zelma in the Mist}{63}{}%
+\contentsline {subsection}{Notes}{63}{}%
+\contentsline {subsection}{Style}{63}{}%
+\contentsline {section}{Crimson Wall Portrait}{64}{}%
+\contentsline {subsection}{Notes}{64}{}%
+\contentsline {subsection}{Style}{64}{}%
+\xpg@aux {}{english}
+\contentsline {chapter}{rataflechera Works}{67}{}%
+\contentsline {section}{Siento}{67}{}%
+\contentsline {subsection}{Notes}{67}{}%
+\contentsline {subsection}{Style}{67}{}%
+\contentsline {section}{A Someone or a Someone}{67}{}%
+\contentsline {subsection}{Notes}{68}{}%
+\contentsline {subsection}{Style}{68}{}%
+\contentsline {section}{Chiq}{68}{}%
+\contentsline {subsection}{Notes}{69}{}%
+\contentsline {subsection}{Style}{69}{}%
+\contentsline {section}{Dead Sea's barren dreams}{69}{}%
+\contentsline {subsection}{Notes}{69}{}%
+\contentsline {subsection}{Style}{69}{}%
+\contentsline {section}{Mellan is och hård betong}{69}{}%
+\contentsline {subsection}{Notes}{70}{}%
+\contentsline {subsection}{Style}{70}{}%
+\contentsline {section}{Love's Final Name}{71}{}%
+\contentsline {subsection}{Notes}{71}{}%
+\contentsline {subsection}{Style}{71}{}%
+\contentsline {section}{Burn the Glass}{72}{}%
+\contentsline {subsection}{Notes}{72}{}%
+\contentsline {subsection}{Style}{72}{}%
+\contentsline {section}{A Drunk Without A Drop}{72}{}%
+\contentsline {subsection}{Notes}{72}{}%
+\contentsline {subsection}{Style}{73}{}%
+\contentsline {section}{The Bitter Toll}{73}{}%
+\contentsline {subsection}{Notes}{73}{}%
+\contentsline {subsection}{Style}{73}{}%
+\contentsline {section}{Diana carries her own gravity}{74}{}%
+\contentsline {subsection}{Notes}{74}{}%
+\contentsline {subsection}{Style}{74}{}%
+\contentsline {section}{Diana porte sa propre gravité}{75}{}%
+\contentsline {subsection}{Notes}{75}{}%
+\contentsline {subsection}{Style}{75}{}%
+\contentsline {section}{A Drunk Without A Drop (Remix)}{77}{}%
+\contentsline {subsection}{Notes}{77}{}%
+\contentsline {subsection}{Style}{77}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{78}{}%
+\contentsline {subsection}{Notes}{79}{}%
+\contentsline {subsection}{Style}{79}{}%
+\contentsline {section}{Back Seat Proposal}{80}{}%
+\contentsline {subsection}{Notes}{80}{}%
+\contentsline {subsection}{Style}{80}{}%
+\contentsline {section}{Peccato bello}{82}{}%
+\contentsline {subsection}{Notes}{82}{}%
+\contentsline {subsection}{Style}{82}{}%
+\contentsline {section}{Comfort Zones}{82}{}%
+\contentsline {subsection}{Notes}{83}{}%
+\contentsline {subsection}{Style}{83}{}%
+\contentsline {section}{Andrea at Break}{83}{}%
+\contentsline {subsection}{Notes}{83}{}%
+\contentsline {subsection}{Style}{83}{}%
+\contentsline {section}{Boynton Bound}{85}{}%
+\contentsline {subsection}{Notes}{85}{}%
+\contentsline {subsection}{Style}{85}{}%
+\contentsline {section}{Fiona at the Desk}{87}{}%
+\contentsline {subsection}{Notes}{87}{}%
+\contentsline {subsection}{Style}{87}{}%
+\contentsline {section}{Je hais ma haine}{89}{}%
+\contentsline {subsection}{Notes}{89}{}%
+\contentsline {subsection}{Style}{89}{}%
+\contentsline {section}{Town and Country}{89}{}%
+\contentsline {subsection}{Notes}{89}{}%
+\contentsline {subsection}{Style}{89}{}%
+\contentsline {section}{Nomad Butterfly}{91}{}%
+\contentsline {subsection}{Notes}{91}{}%
+\contentsline {subsection}{Style}{91}{}%
+\contentsline {section}{Dig}{93}{}%
+\contentsline {subsection}{Notes}{93}{}%
+\contentsline {subsection}{Style}{93}{}%
+\contentsline {section}{No sé, pero vuelve}{94}{}%
+\contentsline {subsection}{Notes}{94}{}%
+\contentsline {subsection}{Style}{94}{}%
+\contentsline {section}{Líneas en blanco}{96}{}%
+\contentsline {subsection}{Notes}{96}{}%
+\contentsline {subsection}{Style}{96}{}%
+\contentsline {section}{Rabia en la boca}{98}{}%
+\contentsline {subsection}{Notes}{98}{}%
+\contentsline {subsection}{Style}{98}{}%
+\contentsline {section}{Esfera entintada}{100}{}%
+\contentsline {subsection}{Notes}{100}{}%
+\contentsline {subsection}{Style}{100}{}%
+\contentsline {section}{Si pienso en ti}{101}{}%
+\contentsline {subsection}{Notes}{101}{}%
+\contentsline {subsection}{Style}{101}{}%
+\contentsline {section}{No sé, vos sabés}{103}{}%
+\contentsline {subsection}{Notes}{103}{}%
+\contentsline {subsection}{Style}{103}{}%
+\contentsline {section}{Travel Notes}{105}{}%
+\contentsline {subsection}{Notes}{105}{}%
+\contentsline {subsection}{Style}{105}{}%
+\contentsline {section}{Güiro quemado}{107}{}%
+\contentsline {subsection}{Notes}{107}{}%
+\contentsline {subsection}{Style}{107}{}%
+\contentsline {section}{Memory Wakes}{109}{}%
+\contentsline {subsection}{Notes}{109}{}%
+\contentsline {subsection}{Style}{109}{}%
+\contentsline {section}{Kein Feuer}{111}{}%
+\contentsline {subsection}{Notes}{111}{}%
+\contentsline {subsection}{Style}{111}{}%
+\contentsline {section}{Ricochets Hangover}{111}{}%
+\contentsline {subsection}{Notes}{112}{}%
+\contentsline {subsection}{Style}{112}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{113}{}%
+\contentsline {subsection}{Notes}{113}{}%
+\contentsline {subsection}{Style}{113}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {section}{Espero}{115}{}%
+\contentsline {subsection}{Notes}{115}{}%
+\contentsline {subsection}{Style}{115}{}%
+\contentsline {section}{Dapich Sápica}{116}{}%
+\contentsline {subsection}{Notes}{116}{}%
+\contentsline {subsection}{Style}{116}{}%
+\contentsline {section}{Gota a gota}{116}{}%
+\contentsline {subsection}{Notes}{116}{}%
+\contentsline {subsection}{Style}{116}{}%
+\contentsline {section}{Cataplún Zap!}{117}{}%
+\contentsline {subsection}{Notes}{117}{}%
+\contentsline {subsection}{Style}{117}{}%
+\contentsline {section}{Street Corner Zambomba}{117}{}%
+\contentsline {subsection}{Notes}{117}{}%
+\contentsline {subsection}{Style}{117}{}%
+\contentsline {section}{Gabi’s Shoulder}{118}{}%
+\contentsline {subsection}{Notes}{118}{}%
+\contentsline {subsection}{Style}{118}{}%
+\contentsline {section}{Unspoken Rhythm}{120}{}%
+\contentsline {subsection}{Notes}{120}{}%
+\contentsline {subsection}{Style}{120}{}%
+\contentsline {section}{The Night}{121}{}%
+\contentsline {subsection}{Notes}{121}{}%
+\contentsline {subsection}{Style}{121}{}%
+\contentsline {section}{Strangers in the Light}{122}{}%
+\contentsline {subsection}{Notes}{122}{}%
+\contentsline {subsection}{Style}{122}{}%
+\contentsline {section}{Café Glance}{123}{}%
+\contentsline {subsection}{Notes}{123}{}%
+\contentsline {subsection}{Style}{123}{}%
+\contentsline {section}{Petals and Ink}{124}{}%
+\contentsline {subsection}{Notes}{124}{}%
+\contentsline {subsection}{Style}{124}{}%
+\contentsline {section}{Balance of Three}{126}{}%
+\contentsline {subsection}{Notes}{126}{}%
+\contentsline {subsection}{Style}{126}{}%
+\contentsline {section}{Royal Docks}{127}{}%
+\contentsline {subsection}{Notes}{127}{}%
+\contentsline {subsection}{Style}{127}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{129}{}%
+\contentsline {subsection}{Notes}{129}{}%
+\contentsline {subsection}{Style}{129}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{131}{}%
+\contentsline {subsection}{Notes}{131}{}%
+\contentsline {subsection}{Style}{131}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{132}{}%
+\contentsline {subsection}{Notes}{132}{}%
+\contentsline {subsection}{Style}{132}{}%
+\contentsline {section}{Unopened Door}{134}{}%
+\contentsline {subsection}{Notes}{134}{}%
+\contentsline {subsection}{Style}{134}{}%
+\contentsline {section}{Obsidian Gaze}{135}{}%
+\contentsline {subsection}{Notes}{135}{}%
+\contentsline {subsection}{Style}{135}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{136}{}%
+\contentsline {subsection}{Notes}{136}{}%
+\contentsline {subsection}{Style}{136}{}%
+\contentsline {section}{Uks, mis pole lahti}{137}{}%
+\contentsline {subsection}{Notes}{137}{}%
+\contentsline {subsection}{Style}{137}{}%
+\contentsline {section}{Liis Talveuks}{138}{}%
+\contentsline {subsection}{Notes}{138}{}%
+\contentsline {subsection}{Style}{138}{}%
+\contentsline {section}{Pacificate}{139}{}%
+\contentsline {subsection}{Notes}{139}{}%
+\contentsline {subsection}{Style}{139}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{140}{}%
+\contentsline {subsection}{Notes}{140}{}%
+\contentsline {subsection}{Style}{140}{}%
+\contentsline {section}{Critter Kin (Man's an Animal Too)}{140}{}%
+\contentsline {subsection}{Notes}{140}{}%
+\contentsline {subsection}{Style}{140}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{142}{}%
+\contentsline {subsection}{Notes}{142}{}%
+\contentsline {subsection}{Style}{142}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{143}{}%
+\contentsline {subsection}{Notes}{143}{}%
+\contentsline {subsection}{Style}{143}{}%
+\contentsline {section}{Then There's You}{144}{}%
+\contentsline {subsection}{Notes}{145}{}%
+\contentsline {subsection}{Style}{145}{}%
+\contentsline {chapter}{Gabisson Works}{147}{}%
+\contentsline {section}{She'll let you know}{147}{}%
+\contentsline {subsection}{Notes}{147}{}%
+\contentsline {subsection}{Style}{147}{}%
+\contentsline {section}{En la nube}{148}{}%
+\contentsline {subsection}{Notes}{148}{}%
+\contentsline {subsection}{Style}{148}{}%
+\contentsline {section}{Vor Barcelona}{148}{}%
+\contentsline {subsection}{Notes}{148}{}%
+\contentsline {subsection}{Style}{148}{}%
+\contentsline {section}{Minutes Home}{149}{}%
+\contentsline {subsection}{Notes}{149}{}%
+\contentsline {subsection}{Style}{149}{}%
+\contentsline {section}{Cuando despega la tormenta}{151}{}%
+\contentsline {subsection}{Notes}{151}{}%
+\contentsline {subsection}{Style}{151}{}%
+\contentsline {section}{Four Women One Night}{152}{}%
+\contentsline {subsection}{Notes}{152}{}%
+\contentsline {subsection}{Style}{152}{}%
+\contentsline {section}{Modo Pararrayos}{154}{}%
+\contentsline {subsection}{Notes}{154}{}%
+\contentsline {subsection}{Style}{154}{}%
+\contentsline {section}{Lightning Rod Mode}{156}{}%
+\contentsline {subsection}{Notes}{156}{}%
+\contentsline {subsection}{Style}{156}{}%
+\contentsline {section}{Somebody Out There}{158}{}%
+\contentsline {subsection}{Notes}{158}{}%
+\contentsline {subsection}{Style}{158}{}%
+\contentsline {section}{Vor Barcelona (Deutsch)}{160}{}%
+\contentsline {subsection}{Notes}{160}{}%
+\contentsline {subsection}{Style}{160}{}%
+\contentsline {section}{Vor Barcelona (English)}{161}{}%
+\contentsline {subsection}{Notes}{161}{}%
+\contentsline {subsection}{Style}{161}{}%
+\contentsline {section}{Abulón (The Shadow Crown)}{162}{}%
+\contentsline {subsection}{Notes}{162}{}%
+\contentsline {subsection}{Style}{162}{}%
+\contentsline {section}{Stop\emph {or}Ellipsis}{164}{}%
+\contentsline {subsection}{Notes}{164}{}%
+\contentsline {subsection}{Style}{164}{}%
+\contentsline {section}{Tolemaida Wedding}{165}{}%
+\contentsline {subsection}{Notes}{165}{}%
+\contentsline {subsection}{Style}{165}{}%
+\contentsline {section}{Pizza on the Table}{167}{}%
+\contentsline {subsection}{Notes}{167}{}%
+\contentsline {subsection}{Style}{167}{}%
+\contentsline {section}{Orbit Of Names}{169}{}%
+\contentsline {subsection}{Notes}{169}{}%
+\contentsline {subsection}{Style}{169}{}%
+\contentsline {section}{Same Old Circle}{171}{}%
+\contentsline {subsection}{Notes}{171}{}%
+\contentsline {subsection}{Style}{171}{}%
+\contentsline {section}{Four Women}{172}{}%
+\contentsline {subsection}{Notes}{172}{}%
+\contentsline {subsection}{Style}{172}{}%
+\contentsline {section}{Carolina}{174}{}%
+\contentsline {subsection}{Notes}{174}{}%
+\contentsline {subsection}{Style}{174}{}%
+\contentsline {section}{Morocho}{176}{}%
+\contentsline {subsection}{Notes}{176}{}%
+\contentsline {subsection}{Style}{176}{}%
+\contentsline {section}{Adriana Tal Vez}{178}{}%
+\contentsline {subsection}{Notes}{178}{}%
+\contentsline {subsection}{Style}{178}{}%
+\contentsline {section}{Three Faces}{179}{}%
+\contentsline {subsection}{Notes}{179}{}%
+\contentsline {subsection}{Style}{179}{}%
+\contentsline {section}{Tambor de Sombra}{181}{}%
+\contentsline {subsection}{Notes}{181}{}%
+\contentsline {subsection}{Prompt}{181}{}%
+\contentsline {section}{Badabum bin}{181}{}%
+\contentsline {subsection}{Notes}{181}{}%
+\contentsline {subsection}{Style}{181}{}%
+\contentsline {section}{Arrow Throwing Rat}{183}{}%
+\contentsline {subsection}{Notes}{183}{}%
+\contentsline {subsection}{Style}{183}{}%
+\contentsline {section}{Adi In The Locker}{185}{}%
+\contentsline {subsection}{Notes}{185}{}%
+\contentsline {subsection}{Style}{185}{}%
+\contentsline {section}{Sofa at Midnight}{187}{}%
+\contentsline {subsection}{Notes}{187}{}%
+\contentsline {subsection}{Style}{187}{}%
+\contentsline {section}{La Casa y el Viento}{189}{}%
+\contentsline {subsection}{Notes}{189}{}%
+\contentsline {subsection}{Style}{189}{}%
+\contentsline {section}{Ale On The Sofa}{191}{}%
+\contentsline {subsection}{Notes}{191}{}%
+\contentsline {subsection}{Style}{191}{}%
+\contentsline {section}{Seat 14C}{192}{}%
+\contentsline {subsection}{Notes}{192}{}%
+\contentsline {subsection}{Style}{192}{}%
+\contentsline {section}{Pacifica Miles}{195}{}%
+\contentsline {subsection}{Notes}{195}{}%
+\contentsline {subsection}{Style}{195}{}%
+\contentsline {section}{Room for Her}{196}{}%
+\contentsline {subsection}{Notes}{196}{}%
+\contentsline {subsection}{Style}{196}{}%
+\contentsline {subsection}{Breakdown}{197}{}%
+\contentsline {section}{Seamless}{198}{}%
+\contentsline {subsection}{Notes}{198}{}%
+\contentsline {subsection}{Style}{198}{}%
+\contentsline {section}{Espejo Luminoso}{200}{}%
+\contentsline {subsection}{Notes}{200}{}%
+\contentsline {subsection}{Style}{200}{}%
+\contentsline {section}{Park Bench Spark}{202}{}%
+\contentsline {subsection}{Notes}{202}{}%
+\contentsline {subsection}{Style}{202}{}%
+\contentsline {section}{Ginger on the Bench}{203}{}%
+\contentsline {subsection}{Notes}{203}{}%
+\contentsline {subsection}{Style}{203}{}%
+\contentsline {section}{Guiltless Flame}{204}{}%
+\contentsline {subsection}{Notes}{204}{}%
+\contentsline {subsection}{Style}{204}{}%
+\contentsline {section}{La perrilla (pasillo)}{206}{}%
+\contentsline {subsection}{Notes}{206}{}%
+\contentsline {subsection}{Style}{206}{}%
+\contentsline {section}{La perrilla (dance)}{206}{}%
+\contentsline {subsection}{Notes}{206}{}%
+\contentsline {subsection}{Style}{206}{}%
+\contentsline {section}{Food Truck Spark}{206}{}%
+\contentsline {subsection}{Notes}{206}{}%
+\contentsline {subsection}{Style}{206}{}%
+\contentsline {section}{Cross Between}{207}{}%
+\contentsline {subsection}{Notes}{207}{}%
+\contentsline {subsection}{Style}{207}{}%
+\contentsline {section}{Stolen Office Flame}{209}{}%
+\contentsline {subsection}{Notes}{209}{}%
+\contentsline {subsection}{Style}{209}{}%
+\contentsline {section}{Early Desire}{210}{}%
+\contentsline {subsection}{Notes}{210}{}%
+\contentsline {subsection}{Style}{210}{}%
+\contentsline {section}{Third Time’s Coffee}{212}{}%
+\contentsline {subsection}{Notes}{212}{}%
+\contentsline {subsection}{Style}{212}{}%
+\contentsline {section}{Steel \& Violet}{213}{}%
+\contentsline {subsection}{Notes}{213}{}%
+\contentsline {subsection}{Style}{213}{}%
+\contentsline {section}{So Wrong}{214}{}%
+\contentsline {subsection}{Notes}{214}{}%
+\contentsline {subsection}{Style}{214}{}%
+\contentsline {section}{Hallway Portraits}{216}{}%
+\contentsline {subsection}{Notes}{216}{}%
+\contentsline {subsection}{Style}{216}{}%
+\contentsline {section}{Le phases de Thomas}{217}{}%
+\contentsline {subsection}{Notes}{217}{}%
+\contentsline {subsection}{Style}{217}{}%
+\contentsline {section}{Three Notebooks}{219}{}%
+\contentsline {subsection}{Notes}{219}{}%
+\contentsline {subsection}{Style}{219}{}%
+\contentsline {section}{Unconfessed}{220}{}%
+\contentsline {subsection}{Notes}{220}{}%
+\contentsline {subsection}{Style}{220}{}%
+\contentsline {section}{Evi Sem Yike}{222}{}%
+\contentsline {subsection}{Notes}{222}{}%
+\contentsline {subsection}{Style}{222}{}%
+\contentsline {section}{Vinterfrostleende}{224}{}%
+\contentsline {subsection}{Notes}{224}{}%
+\contentsline {subsection}{Style}{224}{}%
+\contentsline {section}{Ökenskor av Salt}{225}{}%
+\contentsline {subsection}{Notes}{225}{}%
+\contentsline {subsection}{Style}{225}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{226}{}%
+\contentsline {subsection}{Notes}{226}{}%
+\contentsline {subsection}{Style}{227}{}%
+\contentsline {section}{Parapet of Ash}{228}{}%
+\contentsline {subsection}{Notes}{228}{}%
+\contentsline {subsection}{Style}{228}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{229}{}%
+\contentsline {subsection}{Notes}{229}{}%
+\contentsline {subsection}{Style}{229}{}%
+\contentsline {section}{Carroll Gardens}{231}{}%
+\contentsline {subsection}{Notes}{231}{}%
+\contentsline {subsection}{Style}{231}{}%
+\contentsline {section}{Australian Daughter, Colombian Name}{233}{}%
+\contentsline {subsection}{Notes}{233}{}%
+\contentsline {subsection}{Style}{233}{}%
+\contentsline {chapter}{Wyomee Works}{237}{}%
+\contentsline {section}{El corrido de Carlson}{237}{}%
+\contentsline {subsection}{Notes}{237}{}%
+\contentsline {subsection}{Style}{237}{}%
+\contentsline {section}{Retrogrades}{238}{}%
+\contentsline {subsection}{Notes}{238}{}%
+\contentsline {subsection}{Style}{238}{}%
+\contentsline {section}{Your Role}{239}{}%
+\contentsline {subsection}{Notes}{239}{}%
+\contentsline {subsection}{Style}{239}{}%
+\contentsline {section}{De igual pra igual}{240}{}%
+\contentsline {subsection}{Notes}{240}{}%
+\contentsline {subsection}{Style}{240}{}%
+\contentsline {section}{Open Hearts}{241}{}%
+\contentsline {subsection}{Notes}{241}{}%
+\contentsline {subsection}{Style}{241}{}%
+\contentsline {section}{Food Truck Line}{242}{}%
+\contentsline {subsection}{Notes}{242}{}%
+\contentsline {subsection}{Style}{242}{}%
+\contentsline {section}{Thursday Counter}{244}{}%
+\contentsline {subsection}{Notes}{244}{}%
+\contentsline {subsection}{Style}{244}{}%
+\contentsline {section}{Kimizu Mamba Vit}{246}{}%
+\contentsline {subsection}{Notes}{246}{}%
+\contentsline {subsection}{Style}{246}{}%
+\contentsline {section}{Alarm Cabinet}{247}{}%
+\contentsline {subsection}{Notes}{248}{}%
+\contentsline {subsection}{Style}{248}{}%
+\contentsline {section}{Callejón Azul}{249}{}%
+\contentsline {subsection}{Notes}{249}{}%
+\contentsline {subsection}{Prompt}{249}{}%
+\contentsline {section}{Peccato d'aprile}{250}{}%
+\contentsline {subsection}{Notes}{250}{}%
+\contentsline {subsection}{Style}{250}{}%
+\contentsline {section}{More Honestly Than Hearts}{252}{}%
+\contentsline {subsection}{Notes}{252}{}%
+\contentsline {subsection}{Style}{252}{}%
+\contentsline {section}{Hidden Things' Keeper}{254}{}%
+\contentsline {subsection}{Notes}{254}{}%
+\contentsline {subsection}{Style}{254}{}%
+\contentsline {section}{Official Plus One}{255}{}%
+\contentsline {subsection}{Notes}{255}{}%
+\contentsline {subsection}{Style}{255}{}%
+\contentsline {section}{The Motion and the Spark}{256}{}%
+\contentsline {subsection}{Notes}{257}{}%
+\contentsline {subsection}{Style}{257}{}%
+\contentsline {section}{Casa non è}{258}{}%
+\contentsline {subsection}{Notes}{258}{}%
+\contentsline {subsection}{Style}{258}{}%
+\contentsline {section}{Qualcosa di vero}{260}{}%
+\contentsline {subsection}{Notes}{260}{}%
+\contentsline {subsection}{Style}{260}{}%
+\contentsline {section}{Sa fiamma}{261}{}%
+\contentsline {subsection}{Notes}{262}{}%
+\contentsline {subsection}{Style}{262}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{263}{}%
+\contentsline {subsection}{Notes}{263}{}%
+\contentsline {subsection}{Style}{264}{}%
+\contentsline {section}{Resto qui}{266}{}%
+\contentsline {subsection}{Notes}{266}{}%
+\contentsline {subsection}{Style}{266}{}%
+\contentsline {section}{Choosing Here}{267}{}%
+\contentsline {subsection}{Notes}{267}{}%
+\contentsline {subsection}{Style}{268}{}%
+\contentsline {section}{Melgar Table}{269}{}%
+\contentsline {subsection}{Notes}{269}{}%
+\contentsline {subsection}{Style}{269}{}%
+\contentsline {section}{The Pirate's Ledger}{271}{}%
+\contentsline {subsection}{Notes}{271}{}%
+\contentsline {subsection}{Style}{271}{}%
+\contentsline {section}{Guided Hands}{271}{}%
+\contentsline {subsection}{Notes}{271}{}%
+\contentsline {subsection}{Style}{273}{}%
+\contentsline {section}{Last Night's Extranger}{273}{}%
+\contentsline {subsection}{Notes}{273}{}%
+\contentsline {subsection}{Style}{273}{}%
+\contentsline {section}{Kyou Park}{275}{}%
+\contentsline {subsection}{Notes}{276}{}%
+\contentsline {subsection}{Style}{276}{}%
+\contentsline {section}{Corona de alambre}{278}{}%
+\contentsline {subsection}{Notes}{278}{}%
+\contentsline {subsection}{Style}{278}{}%
+\contentsline {section}{¿Aceptás el trato?}{280}{}%
+\contentsline {subsection}{Notes}{280}{}%
+\contentsline {subsection}{Style}{280}{}%
+\contentsline {section}{Vaina que crece}{282}{}%
+\contentsline {subsection}{Notes}{282}{}%
+\contentsline {subsection}{Style}{282}{}%
+\contentsline {section}{Monoestable}{284}{}%
+\contentsline {subsection}{Notes}{284}{}%
+\contentsline {subsection}{Style}{284}{}%
+\contentsline {section}{E Numa Lah}{286}{}%
+\contentsline {subsection}{Notes}{286}{}%
+\contentsline {subsection}{Style}{286}{}%
+\contentsline {section}{Mirá}{287}{}%
+\contentsline {subsection}{Notes}{287}{}%
+\contentsline {subsection}{Style}{287}{}%
+\contentsline {section}{Si pienso}{287}{}%
+\contentsline {subsection}{Notes}{287}{}%
+\contentsline {subsection}{Style}{287}{}%
+\contentsline {section}{Iros de risk}{288}{}%
+\contentsline {subsection}{Notes}{288}{}%
+\contentsline {subsection}{Style}{288}{}%
+\contentsline {section}{Uneekwa En Urbo}{288}{}%
+\contentsline {subsection}{Notes}{288}{}%
+\contentsline {subsection}{Style}{288}{}%
+\contentsline {section}{Potsdam Leeres Büro}{290}{}%
+\contentsline {subsection}{Notes}{290}{}%
+\contentsline {subsection}{Style}{290}{}%
+\contentsline {section}{Sunlit Gem Music}{290}{}%
+\contentsline {subsection}{Notes}{290}{}%
+\contentsline {subsection}{Style}{290}{}%
+\contentsline {section}{Soap Line Logic}{291}{}%
+\contentsline {subsection}{Notes}{291}{}%
+\contentsline {subsection}{Style}{291}{}%
+\contentsline {section}{Equals}{293}{}%
+\contentsline {subsection}{Notes}{293}{}%
+\contentsline {subsection}{Style}{293}{}%
+\contentsline {section}{East Rock / The VIllage}{294}{}%
+\contentsline {subsection}{Notes}{294}{}%
+\contentsline {subsection}{Style}{294}{}%
+\contentsline {section}{Lilac-eyed Demon}{296}{}%
+\contentsline {subsection}{Notes}{296}{}%
+\contentsline {subsection}{Style}{296}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{296}{}%
+\contentsline {subsection}{Notes}{296}{}%
+\contentsline {subsection}{Style}{296}{}%
+\contentsline {section}{Su peccadu meu}{298}{}%
+\contentsline {subsection}{Notes}{298}{}%
+\contentsline {subsection}{Style}{298}{}%
+\contentsline {section}{Almost Enough}{299}{}%
+\contentsline {subsection}{Notes}{299}{}%
+\contentsline {subsection}{Style}{299}{}%
+\contentsline {section}{Library to Longing}{301}{}%
+\contentsline {subsection}{Notes}{301}{}%
+\contentsline {subsection}{Style}{301}{}%
+\contentsline {section}{Swedish Pages}{301}{}%
+\contentsline {subsection}{Notes}{301}{}%
+\contentsline {subsection}{Style}{301}{}%
+\contentsline {section}{Clumsy Hearts}{301}{}%
+\contentsline {subsection}{Notes}{301}{}%
+\contentsline {subsection}{Style}{301}{}%
+\contentsline {section}{Ciudad Prestada}{301}{}%
+\contentsline {subsection}{Notes}{301}{}%
+\contentsline {subsection}{Style}{301}{}%
+\contentsline {section}{Still Unfinished}{304}{}%
+\contentsline {subsection}{Notes}{304}{}%
+\contentsline {subsection}{Style}{304}{}%
+\contentsline {section}{Ghost Cheek Kiss}{306}{}%
+\contentsline {subsection}{Notes}{306}{}%
+\contentsline {subsection}{Style}{306}{}%
+\contentsline {section}{Southern Static}{307}{}%
+\contentsline {subsection}{Notes}{307}{}%
+\contentsline {section}{Cancelled Plans}{308}{}%
+\contentsline {subsection}{Notes}{308}{}%
+\contentsline {subsection}{Style}{308}{}%
+\contentsline {section}{Pared fría}{310}{}%
+\contentsline {subsection}{Notes}{310}{}%
+\contentsline {subsection}{Style}{310}{}%
+\contentsline {section}{Extension of Friendship}{311}{}%
+\contentsline {subsection}{Notes}{311}{}%
+\contentsline {subsection}{Style}{311}{}%
+\contentsline {section}{Catching Up}{312}{}%
+\contentsline {subsection}{Notes}{312}{}%
+\contentsline {subsection}{Style}{312}{}%
+\contentsline {section}{Landscape}{314}{}%
+\contentsline {subsection}{Notes}{314}{}%
+\contentsline {subsection}{Style}{314}{}%
+\contentsline {section}{Bucket List}{315}{}%
+\contentsline {subsection}{Notes}{315}{}%
+\contentsline {subsection}{Style}{315}{}%
+\contentsline {section}{Diamond Depth August}{317}{}%
+\contentsline {subsection}{Notes}{317}{}%
+\contentsline {subsection}{Style}{317}{}%
+\contentsline {section}{Miladi in the Dark}{319}{}%
+\contentsline {subsection}{Notes}{319}{}%
+\contentsline {subsection}{Style}{319}{}%
+\contentsline {section}{Destinies Overlap}{320}{}%
+\contentsline {subsection}{Notes}{320}{}%
+\contentsline {subsection}{Style}{320}{}%
+\contentsline {section}{Best Available Lens}{323}{}%
+\contentsline {subsection}{Notes}{323}{}%
+\contentsline {subsection}{Style}{323}{}%
+\contentsline {section}{Not In The Creed}{325}{}%
+\contentsline {subsection}{Notes}{325}{}%
+\contentsline {subsection}{Style}{325}{}%
+\contentsline {section}{Which God Stands Still}{327}{}%
+\contentsline {subsection}{Notes}{327}{}%
+\contentsline {subsection}{Style}{327}{}%
+\contentsline {section}{Ashes in the Pews}{329}{}%
+\contentsline {subsection}{Notes}{329}{}%
+\contentsline {subsection}{Style}{329}{}%
+\contentsline {section}{Neon Shutter // Only Herself}{330}{}%
+\contentsline {subsection}{Notes}{331}{}%
+\contentsline {subsection}{Style}{331}{}%
+\contentsline {section}{Copper In The Pines}{332}{}%
+\contentsline {subsection}{Notes}{332}{}%
+\contentsline {subsection}{Style}{332}{}%
+\contentsline {section}{Peeling Paint Girl}{334}{}%
+\contentsline {subsection}{Notes}{334}{}%
+\contentsline {subsection}{Style}{334}{}%
+\contentsline {section}{Ulla In The Hall}{335}{}%
+\contentsline {subsection}{Notes}{335}{}%
+\contentsline {subsection}{Style}{335}{}%
+\contentsline {chapter}{Contents}{338}{}%
+\contentsline {chapter}{Index of tags}{347}{}%

@@ -1,0 +1,49 @@
+% chlewrics.sty - package for chlewrics songbook setup
+\ProvidesPackage{chlewrics}[2026/06/10 v1 Chlewrics songbook macros]
+
+\RequirePackage{fontspec}
+\RequirePackage{polyglossia}
+\RequirePackage{imakeidx}
+
+\setdefaultlanguage{english}
+\setotherlanguage{arabic}
+\setmainfont{Noto Sans}
+%\setmonofont{Noto Mono}
+\newfontfamily\lyricsfont{Noto Serif}
+\newfontfamily\arabicfont[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Naskh Arabic}
+\newfontfamily\arabicfontsf[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Sans Arabic}
+
+\makeindex[name=tags,title={Index of tags}]
+\setsecnumdepth{none}
+
+\newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
+\newcommand\songpart[1]{\par\textbf{\normalsize #1}\par}
+\newcommand\annotation[1]{\texttt{\,\footnotesize[#1]\,}}
+\newcommand\tag{\@ifstar\tag@star\tag@nostar}
+\newcommand\tag@nostar[2][\@empty]{%
+\texttt{\,\footnotesize\textbf{\##2}\,}%
+\index[tags]{#2}%
+\ifx\@empty#1\relax\else\index[#1]{#2}\fi
+}
+\newcommand\tag@star[1]{\texttt{\,\footnotesize\textbf{\##1}\,}}
+
+\newlength{\x@indent}
+\newlength{\x@left}
+\newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
+  \setlength\x@indent{1em}%
+\else
+  \setlength\x@left{\dimexpr\columnwidth - #1\relax}%
+  \setlength\x@indent{0.5\x@left}%
+\fi
+\subsection*{Lyrics}\small\ignorespaces
+\begin{adjustwidth}{\x@indent}{\x@indent}%
+\setlength{\parskip}{1em}%
+\setlength{\parindent}{0pt}%
+\lyricsfont\selectfont
+}{\end{adjustwidth}\medskip}

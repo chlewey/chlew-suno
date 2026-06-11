@@ -1,0 +1,171 @@
+Siento
+original-lyrics,glam-metal
+---
+A Someone or a Someone
+social-media-seed,pop-ballad
+---
+Chiq
+original-lyrics,bolero,spanish-lyrics
+---
+Dead Sea's barren dreams
+original-idea,goth-metal
+---
+Mellan is och hård betong
+thomas-entourage,erika-czajka,glam-metal,swedish-lyrics
+---
+Love's Final Name
+thomas-entourage,erika-czajka,glam-metal,english-lyrics
+---
+Diana carries her own gravity
+thomas-entourage,diana-naji,r-and-b,moroccan-instrumentation,english-lyrics
+---
+Diana porte sa propre gravité
+thomas-entourage,diana-naji,chanson-francaise,mediterranean-pop,french-lyrics
+---
+A Drunk Without A Drop (Remix)
+gemini,remix,indie-folk,english-lyrics
+---
+The Bitter Toll (Remix)
+gemini,remix,pop-rock,musical-theater,english-lyrics
+---
+Back Seat Proposal
+thomas-entourage,thomas-garcia,gabriele-wiater,electronic,house,english-lyrics
+---
+Peccato bello
+thomas-entourage,sylvia-lai,electroswing,italian-lyrics,dance
+---
+Comfort Zones
+social-media-seed,electroswing,english-lyrics,dance
+---
+Andrea at Break
+encounters,andrea-lilliana,jazz,ballad,english-lyrics,portrait
+---
+Boynton Bound
+ricochets,john-carlson,miami,country-rap,english-lyrics,narrative
+---
+Fiona at the Desk
+thomas-entourage,fiona-levit,acapella,pop,dubstep,english-lyrics,portrait
+---
+Je hais ma haine
+original-lyrics,electroswing,french-lyrics,dance
+---
+Town and Country
+ricochets,john-carlson,country-rap,narrative,english-lyrics,lilith
+---
+Nomad Butterfly
+thomas-entourage,fiona-levit,punk-rock,industrial,english-lyrics,portrait
+---
+Dig
+original-lyrics,electroswing,swedish-lyrics,dance
+---
+No sé, pero vuelve
+original-source,house,dubstep,spanish-lyrics,female-vocals
+---
+Líneas en blanco
+original-source,house,dubstep,spanish-lyrics,female-vocals,salsa
+---
+Rabia en la boca
+original-source,house,dubstep,spanish-lyrics,female-vocals
+---
+Esfera entintada
+original-source,house,dubstep,spanish-lyrics,female-vocals,dark
+---
+Si pienso en ti
+original-source,house-pop,dubstep,spanish-lyrics,female-vocals,latin
+---
+No sé, vos sabés
+original-source,latin-house,dubstep,spanish-lyrics,female-vocals,rap,blues
+---
+Travel Notes
+original-source
+---
+Güiro quemado
+original-source
+---
+Kein Feuer
+
+---
+Ricochets Hangover
+ricochets
+---
+\textarabic{\sffamily ديانا كاتحمل ثقلها
+thomas-entourage,diana-naji,darija-lyrics
+---
+Espero
+
+---
+Dapich Sápica
+
+---
+Gota a gota
+
+---
+Cataplún Zap!
+
+---
+Street Corner Zambomba
+
+---
+Gabi’s Shoulder
+
+---
+Unspoken Rhythm
+
+---
+The Night
+
+---
+Strangers in the Light
+
+---
+Café Glance
+
+---
+Petals and Ink
+
+---
+Balance of Three
+
+---
+Royal Docks
+
+---
+Berent Steel (Opa's Shadow)
+
+---
+Chiang Mai to Bangkok
+
+---
+Indigo Portrait (Gray-Blue Eyes)
+thomas-entourage,liis-sepp,dream-pop,english-lyrics
+---
+Unopened Door
+thomas-entourage,liis-sepp,dream-pop,english-lyrics
+---
+Obsidian Gaze
+
+---
+Svarta Ögon-Glasbell
+
+---
+Liis Talveuks
+thomas-entourage,liis-sepp,electroswing,estonian-lyrics,dance
+---
+Pacificate
+thomas-entourage,thomas-garcia,electroswing,interlingua-lyrics
+---
+Jadhibiat Diana Alkhasa
+thomas-entourage,diana-naji,electroswing,arabic-lyrics
+---
+Critter Kin (Man's an Animal Too)
+quora-post
+---
+Terracotta View (Golden Mid-Glance)
+ai-portrait
+---
+Golden Hour Terrace (Portrait in Light)
+ai-portrait
+---
+Then There's You
+thomas-entourage,victoria-ospina,house,english-lyrics
+---

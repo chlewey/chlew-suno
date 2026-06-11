@@ -1,0 +1,149 @@
+TITLE: Chiq
+TAGS: ['original-lyrics', 'bolero', 'spanish-lyrics']
+STYLE: balada cubana, orchestra and piano
+PREVIEW: In yonder lands of arid climes,\\ | Where virtues shine in hospitality's rhymes,\\ | In Genesis' scrolls, 'neath Abraham's gaze,\\ | Lies tales of honor, and treachery's haze.\\
+
+TITLE: Mellan is och hård betong
+TAGS: ['thomas-entourage', 'erika-czajka', 'glam-metal', 'swedish-lyrics']
+STYLE: glam metal
+PREVIEW: \songpart{Verse 1} | She learned to turn on frozen lines\\ | with balance, edge, and grace,\\ | To hold a perfect shape in motion\\
+
+TITLE: Love's Final Name
+TAGS: ['thomas-entourage', 'erika-czajka', 'glam-metal', 'english-lyrics']
+STYLE: glam metal
+PREVIEW: \songpart{Intro} | \annotation{distorted electric guitar riff, driving drums, bass enters} | \songpart{Verse 1} | \annotation{gritty male vocals}\\
+
+TITLE: Diana carries her own gravity
+TAGS: ['thomas-entourage', 'diana-naji', 'r-and-b', 'moroccan-instrumentation', 'english-lyrics']
+STYLE: R\&B and traditional Arabic and Moroccan instrumentation.
+PREVIEW: \songpart{Verse 1} | Son père a bâti ses tours de pierre\\ | sur le sable de Casablanca,\\ | et regardé sa fille apprendre\\
+
+TITLE: Diana porte sa propre gravité
+TAGS: ['thomas-entourage', 'diana-naji', 'chanson-francaise', 'mediterranean-pop', 'french-lyrics']
+STYLE: fast-paced blend of chanson française and Mediterranean pop. It incorporates traditional Moroccan instrumentation like the oud and darbuka
+PREVIEW: \songpart{Intro} | \annotation{fingerpicked acoustic guitar, soft shaker} | \songpart{Verse 1} | \annotation{male bass vocals}
+
+TITLE: A Drunk Without A Drop (Remix)
+TAGS: ['gemini', 'remix', 'indie-folk', 'english-lyrics']
+STYLE: Indie folk ballad featuring a baritone male vocal. The arrangement centers on a fingerpicked acoustic guitar playing a steady eighth-note pattern. A clean electric guitar provides melodic counterpoint with light reverb and occasional slides. The bass guitar plays sustained root notes on the downbeats. A subtle percussion layer consists of a soft shaker and a dampened kick drum on beats one and three. The tempo is 74 BPM in 4/4 time, in the key of C major.
+PREVIEW: \songpart{Intro} | \annotation{clean electric guitar arpeggio, palm-muted} | \songpart{Verse 1} | \annotation{baritone male vocals}\\
+
+TITLE: The Bitter Toll (Remix)
+TAGS: ['gemini', 'remix', 'pop-rock', 'musical-theater', 'english-lyrics']
+STYLE: Pop rock with elements of musical theater. Features a clean electric guitar playing palm-muted eighth-note arpeggios, a melodic electric bass, and a standard drum kit with a prominent snare. A baritone male vocal delivers a theatrical, narrative performance with clear diction. The arrangement builds with sustained electric guitar chords and driving eighth-note kick patterns. Key of D major, 145 BPM, 4/4 time signature.
+PREVIEW: \songpart{Verse 1} | \annotation{female voice}\\ | \annotation{whispering} | Sylvia vanished past the gate,\\
+
+TITLE: Back Seat Proposal
+TAGS: ['thomas-entourage', 'thomas-garcia', 'gabriele-wiater', 'electronic', 'house', 'english-lyrics']
+STYLE: Electronic, house
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | Peccato d’aprile, peccato mio —\\ | \annotation{record scratch}\\
+
+TITLE: Peccato bello
+TAGS: ['thomas-entourage', 'sylvia-lai', 'electroswing', 'italian-lyrics', 'dance']
+STYLE: Electroswing with a high-tempo dance beat at 124 BPM in F minor. The track features a prominent brass section with trumpets and trombones playing syncopated staccato stabs. A synthesized upright bass provides a walking bassline that interacts with a four-on-the-floor kick drum and a crisp, high-frequency snare. A bright, processed female vocal performs repetitive melodic hooks with heavy compression and a slight slapback delay. Glitchy record scratches and vinyl crackle effects are layered over the percussion. A swing-style piano plays rhythmic chords on the off-beats. The arrangement uses sudden filter sweeps and momentary silences for rhythmic emphasis.
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | These empty pockets and this restless brain\\ | \annotation{record scratch}\\
+
+TITLE: Comfort Zones
+TAGS: ['social-media-seed', 'electroswing', 'english-lyrics', 'dance']
+STYLE: Electroswing with a high-tempo dance beat at 124 BPM in F minor. The track features a prominent brass section with trumpets and trombones playing syncopated staccato stabs. A synthesized upright bass provides a walking bassline that interacts with a four-on-the-floor kick drum and a crisp, high-frequency snare. A bright, processed female vocal performs repetitive melodic hooks with heavy compression and a slight slapback delay. Glitchy record scratches and vinyl crackle effects are layered over the percussion. A swing-style piano plays rhythmic chords on the off-beats. The arrangement uses sudden filter sweeps and momentary silences for rhythmic emphasis.
+PREVIEW: \songpart{Verse 1} | In the coffee room, she stands\\ | Phone in one sure hand\\ | Overcooked black coffee\\
+
+TITLE: Andrea at Break
+TAGS: ['encounters', 'andrea-lilliana', 'jazz', 'ballad', 'english-lyrics', 'portrait']
+STYLE: Jazz ballad with swung brushed drums, walking upright bass, muted trumpet replies, and brushed piano comping; verse keeps it intimate and conversational, pre-chorus lifts with chromatic turnarounds, chorus opens into a warm hook with doubled lead and soft gang hummed answers. Bridge strips to bass and voice, then final chorus blooms with sax fills, delay throws on the name, and a smoky, close-mic mix that feels satin-warm and lived-in., jazz, stylish, strong, warm
+PREVIEW: \songpart{Verse 1} | She works in West Palm\\ | Paralegal suit, neat hair\\ | Miami case on her phone\\
+
+TITLE: Boynton Bound
+TAGS: ['ricochets', 'john-carlson', 'miami', 'country-rap', 'english-lyrics', 'narrative']
+STYLE: Country rap with driving acoustic strums, snap-clap backbeat, and a fast two-step feel; verse rides tight storytelling with fiddle fills, pre-chorus tightens on muted bass and handclaps, chorus opens with stacked harmonies and a chantable hook, rap bridge drops to half-time with dry kick and talk-sung cadence, final chorus adds gang vocals and a steel-guitar lift. Lead vocal is close-mic and gritty, with doubled hook lines, reply shouts, and a few delay throws on key words. Ear candy includes banjo turnarounds, reverse cymbal swells, and a radio-style stop before the last lift. Mix is bright, punchy, and road-dust clear., rap, emotional, country
+PREVIEW: \songpart{Intro} | Mm-mm\\ | Fiona, Fiona\\ | (Levit)\\
+
+TITLE: Fiona at the Desk
+TAGS: ['thomas-entourage', 'fiona-levit', 'acapella', 'pop', 'dubstep', 'english-lyrics', 'portrait']
+STYLE: A cappella five-part pop with dubstep-inspired vocal bass, tight beatbox kick-snare, and syncopated mouth percussion; verse stays close and dry with lead voice over clustered harmonies, pre-chorus opens into stacked thirds and rising oohs, chorus hits with punchy gang vocals and octave bass hits, bridge strips to solo lead plus clipped ad-libs before a bigger final chorus. Close-mic intimate mix with crisp transients, wide harmony spread, breathy ear candy, and fast filter-sweep style vocal drops., dubstep, piercing
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | Je hais ce que je sens pour toi,\\ | Et je hais ce que tu me fais sentir.\\
+
+TITLE: Town and Country
+TAGS: ['ricochets', 'john-carlson', 'country-rap', 'narrative', 'english-lyrics', 'lilith']
+STYLE: Country rap with fiddle licks and muted banjo over a stomping kick; verse rides tight acoustic strums and finger snaps, pre-chorus narrows to bass and brushed snare, chorus opens with gang-vocal hook and steel guitar sighs. Rap bridge cuts to half-time with talk-sung lines, then final chorus adds handclaps, a grit-laced electric lead, and wide harmony on the last line. Bright, punchy mix with close-mic vocals and delay throws on names., rap, lilith, light, country
+PREVIEW: \songpart{Intro} | \annotation{distorted electric guitar palm-muted eighth notes, bass enters, driving drums} | \songpart{Verse 1} | \annotation{guitars muted}\\
+
+TITLE: Nomad Butterfly
+TAGS: ['thomas-entourage', 'fiona-levit', 'punk-rock', 'industrial', 'english-lyrics', 'portrait']
+STYLE: Punk rock with industrial electronic influences. Distorted electric guitars play palm-muted eighth notes in the verses and open power chords in the chorus. A clean electric guitar provides melodic counterpoint with bright, single-note lines. The bass guitar follows the root notes of the guitar progression with a picked attack. Drums feature a driving backbeat with eighth-note hi-hats and occasional crash cymbal accents. Male vocals are delivered in a mid-range tenor with a slight grit. Key of E Major. 160 BPM. 4/4 time signature.
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | Dig vill jag skriva om.\\ | Dig har jag svrivit förr.\\
+
+TITLE: No sé, pero vuelve
+TAGS: ['original-source', 'house', 'dubstep', 'spanish-lyrics', 'female-vocals']
+STYLE: House with dubstep bass hits and a playful bounce, mid-tempo four-on-the-floor verses; pre-chorus opens into filtered synth lifts and vocal stacks; chorus drops with wobbling bass, clap snaps, and chantable hooks. Soft peachy female vocals, lightly doubled in verses, wide harmonies on the hook, short delay throws on key phrases, glossy risers and a reverse swell into each drop, bright and polished mix with a club-ready low end., female vocals, soft, dubstep, playful
+PREVIEW: \songpart{Verse 1} | Y me encuentro otra vez\\ | ante líneas en blanco\\ | otra ocasión me llama\\
+
+TITLE: Líneas en blanco
+TAGS: ['original-source', 'house', 'dubstep', 'spanish-lyrics', 'female-vocals', 'salsa']
+STYLE: House with dubstep drops and playful female vocals, four-on-the-floor pulse and syncopated bass wobble; verse stays airy with sparse kick, plucked keys, and filtered handclaps, pre-chorus opens with rising synth sweeps and stacked breaths, chorus hits wide with sub drops and chopped vocal hooks. Soft close-mic lead, doubled on the hook, tiny ad-libs and echo throws, with reversed swells and glittery bell flickers between phrases. Bright, glossy, and buoyant mix with a punchy low end., soft, playful, dubstep, female vocals, salsa
+PREVIEW: \songpart{Verse 1} | No es sabor amargo en la boca\\ | ni dolor que me parta el pecho\\ | es un nudo de rabia\\
+
+TITLE: Rabia en la boca
+TAGS: ['original-source', 'house', 'dubstep', 'spanish-lyrics', 'female-vocals']
+STYLE: House-dubstep hybrid with bright four-on-the-floor verses and a half-time bass drop in the chorus; playful peachy female vocals, clipped rhythmic phrasing, stacked doubles on the hook, whispered ad-libs in the pre-chorus, riser sweeps into each drop, reverse cymbal tails and glossy sidechain pump, polished and punchy with a wide club-ready mix, soft, playful, female vocals, dubstep
+PREVIEW: \songpart{Verse 1} | Palabras en hemorragia\\ | salen de una esfera entintada\\ | me flotan, me hechizan\\
+
+TITLE: Esfera entintada
+TAGS: ['original-source', 'house', 'dubstep', 'spanish-lyrics', 'female-vocals', 'dark']
+STYLE: House with dubstep drops, playful swung groove and half-time bass hits; verse stays intimate and minimal with clipped synth plucks, pre-chorus opens into rising chords and filtered tension, chorus lands with a wide sub drop and bright vocal doubles, bridge strips to pads and heartbeat kick before the final lift. Soft female vocals with Latin-American pronunciation, airy stacks on hooks, delay throws on key words, reversed swells and glittery risers between lines, glossy and dark-bright mix., dubstep, female vocals, soft, playful, latin
+PREVIEW: \songpart{Verse 1} | Si pienso en una persona,\\ | pienso en tu rostro. | Si pienso en una voz,\\
+
+TITLE: Si pienso en ti
+TAGS: ['original-source', 'house-pop', 'dubstep', 'spanish-lyrics', 'female-vocals', 'latin']
+STYLE: House-pop with dubstep drops, swung four-on-the-floor verses, half-time chorus lift, and Latin American female vocals; verse stays airy with clipped percussion and a rubbery bass pulse, pre-chorus strips to handclaps and filtered pads, chorus opens into stacked harmonies and a heavy wobble bass hit. Use playful lead doubles, glossy ad-lib tails, reverse swells before drops, and a bright, punchy mix with intimate close-mic detail., female vocals, latin, soft, dubstep, playful
+PREVIEW: \songpart{Verse 1} | Hay veces en la existencia\\ | de cualquier ser, o la mía,\\ | cuando pasa un mal momento\\
+
+TITLE: No sé, vos sabés
+TAGS: ['original-source', 'latin-house', 'dubstep', 'spanish-lyrics', 'female-vocals', 'rap', 'blues']
+STYLE: Latin house-dubstep with a rolling dembow pulse and half-time bass drops; verse rides sparse kicks, palm-muted synth stabs, and a bouncy low-end groove; pre-chorus lifts with filtered claps and rising vocal stacks; chorus hits wider with chopped lead synths and gang doubles. Soft close-mic female vocals, airy doubles, playful ad-libs, delay throws, and bright punchy mix with shimmering risers and reversed swells., female vocals, blues, rap, german hip hop, playful, soft, latin, dubstep, rock
+PREVIEW: \songpart{Verse 1} | Chlewey closed the school gate\\ | No undergrad, not yet\\ | He wanted one last trip\\
+
+TITLE: Travel Notes
+TAGS: ['original-source']
+STYLE: House with dubstep drops, playful high-pitched female vocals, Latin-American pronunciation, four-on-the-floor pulse, rubbery bass hits, verse kept sparse and bouncy, pre-chorus filters up with risers and snapped claps, chorus opens into glittering synth stabs and a wobbling sub drop, whispered ad-libs and stacked doubles on the hook, bright punchy mix with glossy top end, playful, electronic, dubstep, latin, poetry, soft, female vocals
+PREVIEW: \songpart{Intro} | \annotation{piano enters with a mysterious tumbao, the Caribbean güiro and the brass instruments with a sharp hit} | \annotation{spoken, piano only}\\ | Y es de noche\\
+
+TITLE: Güiro quemado
+TAGS: ['original-source']
+STYLE: salsa, afro-cuban jazz, 180 BPM, male lead vocal, smooth clear vocals, piano tumbao, trombone stabs, brass shout chorus, güiro syncopation, tambora accents, handclap montuno, call and response chorus, minor key montuno, dynamic breakdowns, live room reverb, tape saturation, mono low end, bittersweet longing, urgent release
+PREVIEW: \songpart{Intro} | \annotation{piano enters with a mysterious tumbao, the Caribbean güiro and the brass instruments with a sharp hit} | \annotation{spoken}\annotation{piano only}\\ | And it is night\\
+
+TITLE: Ricochets Hangover
+TAGS: ['ricochets']
+STYLE: early 2000s tv theme, action rock, nu-metal riffs, alternating duet, male baritone, female soprano, distorted electric guitar, octave bass lines, punchy tom fills, programmed breakbeat, chorus doubled hooks, gated snare, dry close vocals, delay throws, half-time chorus, dynamic breakdowns, midnight noir, urban espionage, 132 BPM
+PREVIEW: \annotation{12em} | \songpart{Verse 1} | \begin{Arabic} | بّاها بنى البرج فوق الرمال\\
+
+TITLE: Indigo Portrait (Gray-Blue Eyes)
+TAGS: ['thomas-entourage', 'liis-sepp', 'dream-pop', 'english-lyrics']
+STYLE: Dream pop ballad with slow-swung pulse and airy harmonic motion; verses float over sparse kick, soft hand percussion, and glassy keys that mirror gentle camera moves, pre-chorus opens with filtered pads and a rising shimmer like lights blooming on porcelain skin, chorus blooms with wide synth chords and a rounded bass line that frames the emotional close‑up. Breathy, intimate female vocals with subtle layered harmonies, short delay throws on key phrases, reversed swells into transitions, and tiny chime accents that sparkle like jewelry. Polished, cinematic, and romantic with a deep velvet indigo sheen and warm, soft-focus glow.
+PREVIEW: \songpart{Verse 1} | She saw him first in the crowded noon light,\\ | Salt passed between strangers, words taking flight.\\ | Forty-six and unrushed, a man out of time,\\
+
+TITLE: Unopened Door
+TAGS: ['thomas-entourage', 'liis-sepp', 'dream-pop', 'english-lyrics']
+STYLE: Dream pop with slow-swung pulse and airy harmonic motion; verse rides a sparse kick, soft hand percussion, and glassy keys, pre-chorus opens with filtered pads and a rising shimmer, chorus blooms with wide synth chords and a rounded bass line. Breathy stacked vocals, short delay throws on key phrases, reversed swells into transitions, and tiny chime accents between lines. Polished, intimate, and cinematic with a deep velvet sheen., warm, refined, simple, smooth, deep, bright, soft
+PREVIEW: \songpart{Verse 1} | In the hush of the room, shadows trace your frame\\ | Black hair like a curtain, hiding half your name\\ | But your grey eyes cut through every drifting flame\\
+
+TITLE: Liis Talveuks
+TAGS: ['thomas-entourage', 'liis-sepp', 'electroswing', 'estonian-lyrics', 'dance']
+STYLE: Electroswing with a high-tempo dance beat at 124 BPM in F minor. The track features a prominent brass section with trumpets and trombones playing syncopated staccato stabs. A synthesized upright bass provides a walking bassline that interacts with a four-on-the-floor kick drum and a crisp, high-frequency snare. A bright, processed female vocal performs repetitive melodic hooks with heavy compression and a slight slapback delay. Glitchy record scratches and vinyl crackle effects are layered over the percussion. A swing-style piano plays rhythmic chords on the off-beats. The arrangement uses sudden filter sweeps and momentary silences for rhythmic emphasis.
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | \annotation{Interlingua} Thomas, Thomas, le quiete sententia\\ | \annotation{record scratch}\\
+
+TITLE: Pacificate
+TAGS: ['thomas-entourage', 'thomas-garcia', 'electroswing', 'interlingua-lyrics']
+STYLE: Electroswing with a high-tempo dance beat at 124 BPM in F minor. The track features a prominent brass section with trumpets and trombones playing syncopated staccato stabs. A synthesized upright bass provides a walking bassline that interacts with a four-on-the-floor kick drum and a crisp, high-frequency snare. A bright, processed female vocal performs repetitive melodic hooks with heavy compression and a slight slapback delay. Glitchy record scratches and vinyl crackle effects are layered over the percussion. A swing-style piano plays rhythmic chords on the off-beats. The arrangement uses sudden filter sweeps and momentary silences for rhythmic emphasis.
+PREVIEW: \songpart{Intro} | \annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\ | \annotation{Derija}\textarabic{ولكن ف وسط الحركة}\\ | \annotation{record scratch}\\
+
+TITLE: Jadhibiat Diana Alkhasa
+TAGS: ['thomas-entourage', 'diana-naji', 'electroswing', 'arabic-lyrics']
+STYLE: Electroswing with a high-tempo dance beat at 124 BPM in F minor. The track features a prominent brass section with trumpets and trombones playing syncopated staccato stabs. A synthesized upright bass provides a walking bassline that interacts with a four-on-the-floor kick drum and a crisp, high-frequency snare. A bright, processed female vocal performs repetitive melodic hooks with heavy compression and a slight slapback delay. Glitchy record scratches and vinyl crackle effects are layered over the percussion. A swing-style piano plays rhythmic chords on the off-beats. The arrangement uses sudden filter sweeps and momentary silences for rhythmic emphasis.
+PREVIEW: \songpart{Verse 1} \annotation{Fast-talking vocals, rhythmic delivery, heavy bass groove}\\ | Well I grew up in the holler where the words come plain,\\ | Called my kin "people," outsiders "them strangers" again.\\ | Man and animal, two words sharp as a knife,\\
+
+TITLE: Then There's You
+TAGS: ['thomas-entourage', 'victoria-ospina', 'house', 'english-lyrics']
+STYLE: house, UK garage swing, female lead vocals, stacked chorus hooks, spoken verse delivery, two-step percussion, sub-bass pulse, brass stabs, chopped vocal samples, tape saturation, plate reverb, sidechain pumping, breakdown drop, call-and-response chorus, 128 BPM, bittersweet longing, australian accent, australian pronunciation
+PREVIEW: 
