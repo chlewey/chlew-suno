@@ -1,7 +1,10 @@
-\documentclass[letterpaper,landscape,twocolumn]{memoir}
+\documentclass[a4paper,landscape]{memoir}
 \usepackage{chlewrics}
+\usepackage{multicol}
+\setlength{\columnsep}{6mm} 
 
 \begin{document}
+\begin{multicols*}{4}
 \include{chlewey}
 \include{rataflechera}
 \include{gabisson}
@@ -10,5 +13,8 @@
 \clearpage
 \tableofcontents
 \clearpage
+\printindex[songs]
+\clearpage
 \printindex[tags]
+\end{multicols*}
 \end{document}

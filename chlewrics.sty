@@ -20,6 +20,7 @@
 ]{Noto Sans Arabic}
 
 \makeindex[name=tags,title={Index of tags}]
+\makeindex[name=songs,title={Index of songs}]
 \setsecnumdepth{none}
 
 \newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
@@ -41,9 +42,23 @@
   \setlength\x@left{\dimexpr\columnwidth - #1\relax}%
   \setlength\x@indent{0.5\x@left}%
 \fi
+\columnbreak
 \subsection*{Lyrics}\small\ignorespaces
 \begin{adjustwidth}{\x@indent}{\x@indent}%
 \setlength{\parskip}{1em}%
 \setlength{\parindent}{0pt}%
 \lyricsfont\selectfont
 }{\end{adjustwidth}\medskip}
+
+\newcommand\songtitle[1]{\clearpage\section{#1}\index[songs]{#1}}
+\newenvironment{notes}{\subsection*{Notes}}{}
+\newenvironment{prompt}{\subsection*{Prompt}}{}
+\newenvironment{style}{\subsection*{Style}\par\small\raggedright\hyphenpenalty=10000\exhyphenpenalty=10000\sloppy}{}
+
+\setlength{\paperwidth}{297mm}
+\setlength{\paperheight}{210mm}
+%\allowframebreaks
+\settypeblocksize{170mm}{257mm}{*}
+\setlrmargins{20mm}{*}{*}
+\setulmargins{20mm}{*}{*}
+\checkandfixthelayout
