@@ -1,0 +1,26 @@
+%& -job-name=Ricochets_lyrics
+\documentclass[a4paper,landscape]{memoir}
+\usepackage{chlewrics}
+\usepackage{multicol}
+\setlength{\columnsep}{6mm} 
+
+\begin{document}
+\begin{multicols*}{2}
+\tableofcontents*
+\end{multicols*}
+\begin{multicols*}{4}
+\input{rataflechera/ricochets_hangover}
+\input{gabisson/tolemaida_wedding}
+\input{gabisson/pizza_on_the_table}
+\input{gabisson/same_old_circle}
+\input{gabisson/carolina}
+\input{gabisson/morocho}
+\input{rataflechera/boynton_bound}
+\input{rataflechera/town_and_country}
+\end{multicols*}
+\begin{multicols*}{3}
+\printindex[songs]
+\clearpage
+\printindex[tags]
+\end{multicols*}
+\end{document}

@@ -1,0 +1,52 @@
+\xpg@aux {}{english}
+\contentsline {chapter}{Draft}{3}{}%
+\contentsline {section}{Still Unfinished}{4}{}%
+\contentsline {section}{Ghost Cheek Kiss}{6}{}%
+\contentsline {section}{Southern Static}{7}{}%
+\contentsline {chapter}{Eiran}{9}{}%
+\contentsline {section}{Archivist's Map}{10}{}%
+\contentsline {section}{Black Stone Map}{11}{}%
+\contentsline {section}{Salt Flat Omen}{12}{}%
+\contentsline {section}{Mark of 87}{13}{}%
+\contentsline {chapter}{Monukae}{15}{}%
+\contentsline {section}{Abulón (The Shadow Crown)}{16}{}%
+\contentsline {section}{The Pirate's Ledger}{18}{}%
+\contentsline {chapter}{Early 1990s}{19}{}%
+\contentsline {section}{Almost Enough}{20}{}%
+\contentsline {section}{Evi Sem Yike}{21}{}%
+\contentsline {chapter}{Encounters}{23}{}%
+\contentsline {section}{Strangers in the Light}{24}{}%
+\contentsline {section}{Café Glance}{25}{}%
+\contentsline {section}{Petals and Ink}{26}{}%
+\contentsline {section}{Park Bench Spark}{27}{}%
+\contentsline {section}{Ginger on the Bench}{28}{}%
+\contentsline {section}{Guiltless Flame}{29}{}%
+\contentsline {section}{Ice Cream Friday}{30}{}%
+\contentsline {subsection}{Notes}{30}{}%
+\contentsline {subsection}{Style}{30}{}%
+\contentsline {section}{Tangerine \& Olive}{31}{}%
+\contentsline {subsection}{Notes}{31}{}%
+\contentsline {subsection}{Style}{31}{}%
+\contentsline {section}{Hotel Afterglow}{32}{}%
+\contentsline {subsection}{Notes}{32}{}%
+\contentsline {subsection}{Style}{32}{}%
+\contentsline {section}{Food Truck Spark}{33}{}%
+\contentsline {section}{Cross Between}{34}{}%
+\contentsline {section}{Stolen Office Flame}{35}{}%
+\contentsline {section}{Library to Longing}{36}{}%
+\contentsline {section}{Swedish Pages}{37}{}%
+\contentsline {section}{Clumsy Hearts}{38}{}%
+\contentsline {chapter}{Encounter-adjacent}{39}{}%
+\contentsline {section}{Andrea at Break}{40}{}%
+\contentsline {section}{Early Desire}{41}{}%
+\contentsline {section}{Third Time’s Coffee}{43}{}%
+\contentsline {chapter}{More}{45}{}%
+\contentsline {section}{Dead Sea's barren dreams}{46}{}%
+\contentsline {section}{Dapich Sápica}{47}{}%
+\contentsline {chapter}{Fragments}{49}{}%
+\contentsline {section}{Peccato bello}{50}{}%
+\contentsline {section}{Comfort Zones}{51}{}%
+\contentsline {section}{Kein Feuer}{52}{}%
+\contentsline {section}{Gota a gota}{53}{}%
+\contentsline {section}{Cataplún Zap!}{54}{}%
+\contentsline {section}{Street Corner Zambomba}{55}{}%
