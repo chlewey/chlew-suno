@@ -14,39 +14,124 @@
 \contentsline {chapter}{Early 1990s}{19}{}%
 \contentsline {section}{Almost Enough}{20}{}%
 \contentsline {section}{Evi Sem Yike}{21}{}%
-\contentsline {chapter}{Encounters}{23}{}%
-\contentsline {section}{Strangers in the Light}{24}{}%
-\contentsline {section}{Café Glance}{25}{}%
-\contentsline {section}{Petals and Ink}{26}{}%
-\contentsline {section}{Park Bench Spark}{27}{}%
-\contentsline {section}{Ginger on the Bench}{28}{}%
-\contentsline {section}{Guiltless Flame}{29}{}%
-\contentsline {section}{Ice Cream Friday}{30}{}%
-\contentsline {subsection}{Notes}{30}{}%
-\contentsline {subsection}{Style}{30}{}%
-\contentsline {section}{Tangerine \& Olive}{31}{}%
-\contentsline {subsection}{Notes}{31}{}%
-\contentsline {subsection}{Style}{31}{}%
-\contentsline {section}{Hotel Afterglow}{32}{}%
-\contentsline {subsection}{Notes}{32}{}%
-\contentsline {subsection}{Style}{32}{}%
-\contentsline {section}{Food Truck Spark}{33}{}%
-\contentsline {section}{Cross Between}{34}{}%
-\contentsline {section}{Stolen Office Flame}{35}{}%
-\contentsline {section}{Library to Longing}{36}{}%
-\contentsline {section}{Swedish Pages}{37}{}%
-\contentsline {section}{Clumsy Hearts}{38}{}%
-\contentsline {chapter}{Encounter-adjacent}{39}{}%
-\contentsline {section}{Andrea at Break}{40}{}%
-\contentsline {section}{Early Desire}{41}{}%
-\contentsline {section}{Third Time’s Coffee}{43}{}%
-\contentsline {chapter}{More}{45}{}%
-\contentsline {section}{Dead Sea's barren dreams}{46}{}%
-\contentsline {section}{Dapich Sápica}{47}{}%
-\contentsline {chapter}{Fragments}{49}{}%
-\contentsline {section}{Peccato bello}{50}{}%
-\contentsline {section}{Comfort Zones}{51}{}%
-\contentsline {section}{Kein Feuer}{52}{}%
-\contentsline {section}{Gota a gota}{53}{}%
-\contentsline {section}{Cataplún Zap!}{54}{}%
-\contentsline {section}{Street Corner Zambomba}{55}{}%
+\contentsline {section}{Mobisarna}{23}{}%
+\contentsline {section}{Miladi in the Dark}{24}{}%
+\contentsline {section}{Crazy Town Recap}{25}{}%
+\contentsline {subsection}{Notes}{25}{}%
+\contentsline {subsection}{Style}{25}{}%
+\contentsline {section}{Evi Sem Yike (single)}{26}{}%
+\contentsline {chapter}{Encounters}{29}{}%
+\contentsline {section}{Strangers in the Light}{30}{}%
+\contentsline {section}{Café Glance}{31}{}%
+\contentsline {section}{Petals and Ink}{32}{}%
+\contentsline {section}{Park Bench Spark}{33}{}%
+\contentsline {section}{Ginger on the Bench}{34}{}%
+\contentsline {section}{Guiltless Flame}{35}{}%
+\contentsline {section}{Ice Cream Friday}{36}{}%
+\contentsline {subsection}{Notes}{36}{}%
+\contentsline {subsection}{Style}{36}{}%
+\contentsline {section}{Tangerine \& Olive}{37}{}%
+\contentsline {subsection}{Notes}{37}{}%
+\contentsline {subsection}{Style}{37}{}%
+\contentsline {section}{Hotel Afterglow}{38}{}%
+\contentsline {subsection}{Notes}{38}{}%
+\contentsline {subsection}{Style}{38}{}%
+\contentsline {section}{Food Truck Spark}{39}{}%
+\contentsline {section}{Cross Between}{40}{}%
+\contentsline {section}{Stolen Office Flame}{41}{}%
+\contentsline {section}{Library to Longing}{42}{}%
+\contentsline {section}{Swedish Pages}{43}{}%
+\contentsline {section}{Clumsy Hearts}{44}{}%
+\contentsline {chapter}{Encounter-adjacent}{45}{}%
+\contentsline {section}{Andrea at Break}{46}{}%
+\contentsline {section}{Cancelled Plans}{47}{}%
+\contentsline {section}{Early Desire}{48}{}%
+\contentsline {section}{Third Time’s Coffee}{50}{}%
+\contentsline {chapter}{Portraits}{51}{}%
+\contentsline {section}{Four Women One Night}{52}{}%
+\contentsline {section}{Food Truck Line}{53}{}%
+\contentsline {section}{Thursday Counter}{54}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{55}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{56}{}%
+\contentsline {section}{Zahra in White}{57}{}%
+\contentsline {section}{Obsidian Gaze}{58}{}%
+\contentsline {section}{Liis Talveuks}{59}{}%
+\contentsline {section}{Three Faces}{60}{}%
+\contentsline {section}{Hallway Portraits}{61}{}%
+\contentsline {section}{Parapet of Ash}{62}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{63}{}%
+\contentsline {section}{Kimizu Mamba Vit}{64}{}%
+\contentsline {section}{Uneekwa En Urbo}{65}{}%
+\contentsline {section}{Neon Shutter // Only Herself}{66}{}%
+\contentsline {section}{Copper In The Pines}{67}{}%
+\contentsline {section}{Peeling Paint Girl}{68}{}%
+\contentsline {section}{Ulla In The Hall}{69}{}%
+\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{70}{}%
+\contentsline {subsection}{Notes}{70}{}%
+\contentsline {subsection}{Style}{70}{}%
+\contentsline {section}{Amber in Focus}{71}{}%
+\contentsline {subsection}{Notes}{71}{}%
+\contentsline {subsection}{Style}{71}{}%
+\contentsline {section}{Saffron Roof Smile}{72}{}%
+\contentsline {subsection}{Notes}{72}{}%
+\contentsline {subsection}{Style}{72}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{73}{}%
+\contentsline {subsection}{Notes}{73}{}%
+\contentsline {subsection}{Style}{73}{}%
+\contentsline {section}{Blue-Point Mischief}{74}{}%
+\contentsline {subsection}{Notes}{74}{}%
+\contentsline {subsection}{Style}{74}{}%
+\contentsline {section}{Blue Wall Grace}{75}{}%
+\contentsline {subsection}{Notes}{75}{}%
+\contentsline {subsection}{Sytle}{75}{}%
+\contentsline {section}{Zelma in the Mist}{76}{}%
+\contentsline {subsection}{Notes}{76}{}%
+\contentsline {subsection}{Style}{76}{}%
+\contentsline {section}{Crimson Wall Portrait}{77}{}%
+\contentsline {subsection}{Notes}{77}{}%
+\contentsline {subsection}{Style}{77}{}%
+\contentsline {section}{Moonstone Veil}{78}{}%
+\contentsline {section}{Five Reasons to Celebrate}{79}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{81}{}%
+\contentsline {chapter}{Self}{83}{}%
+\contentsline {section}{Adi In The Locker}{84}{}%
+\contentsline {section}{Sofa at Midnight}{85}{}%
+\contentsline {section}{Ale On The Sofa}{86}{}%
+\contentsline {section}{Unconfessed}{87}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{88}{}%
+\contentsline {subsection}{Notes}{88}{}%
+\contentsline {subsection}{Style}{88}{}%
+\contentsline {section}{Arrow Throwing Rat}{90}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{91}{}%
+\contentsline {chapter}{More}{93}{}%
+\contentsline {section}{Passenger-Side Switch}{94}{}%
+\contentsline {subsection}{Notes}{94}{}%
+\contentsline {subsection}{Style}{94}{}%
+\contentsline {section}{She'll let you know}{95}{}%
+\contentsline {section}{Dead Sea's barren dreams}{96}{}%
+\contentsline {section}{Dapich Sápica}{97}{}%
+\contentsline {section}{Vinterfrostleende}{98}{}%
+\contentsline {section}{Ökenskor av Salt}{99}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{100}{}%
+\contentsline {section}{Little Velvet Ghost}{101}{}%
+\contentsline {subsection}{Notes}{101}{}%
+\contentsline {subsection}{Style}{101}{}%
+\contentsline {section}{Duda en Piravita}{102}{}%
+\contentsline {subsection}{Notes}{102}{}%
+\contentsline {subsection}{Style}{102}{}%
+\contentsline {section}{Padre Peter}{104}{}%
+\contentsline {subsection}{Notes}{104}{}%
+\contentsline {subsection}{Style}{104}{}%
+\contentsline {chapter}{Fragments}{105}{}%
+\contentsline {section}{Peccato bello}{106}{}%
+\contentsline {section}{Comfort Zones}{107}{}%
+\contentsline {section}{Kein Feuer}{108}{}%
+\contentsline {section}{Gota a gota}{109}{}%
+\contentsline {section}{Cataplún Zap!}{110}{}%
+\contentsline {section}{Street Corner Zambomba}{111}{}%
+\contentsline {section}{Pacificate}{112}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{113}{}%
+\contentsline {chapter}{Covers}{115}{}%
+\contentsline {section}{La perrilla (pasillo)}{116}{}%
+\contentsline {section}{La perrilla (dance)}{117}{}%
+\contentsline {section}{Diamond Depth August}{118}{}%

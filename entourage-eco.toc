@@ -1,66 +1,98 @@
 \xpg@aux {}{english}
-\contentsline {chapter}{Unclassified}{3}{}%
+\contentsline {chapter}{World}{3}{}%
 \contentsline {section}{Le phases de Thomas}{4}{}%
-\contentsline {section}{Vor Barcelona (Deutsch)}{5}{}%
-\contentsline {section}{Mellan is och hård betong}{6}{}%
-\contentsline {section}{De igual pra igual}{7}{}%
-\contentsline {section}{Cuando despega la tormenta}{8}{}%
-\contentsline {section}{Diana porte sa propre gravité}{9}{}%
-\contentsline {section}{Peccato d'aprile}{10}{}%
-\contentsline {section}{Casa non è}{12}{}%
-\contentsline {section}{Qualcosa di vero}{14}{}%
-\contentsline {section}{Sa fiamma}{16}{}%
-\contentsline {section}{Resto qui}{18}{}%
-\contentsline {section}{Uks, mis pole lahti}{20}{}%
-\contentsline {section}{Vor Barcelona (English)}{21}{}%
-\contentsline {section}{Beside the Storm}{22}{}%
-\contentsline {subsection}{Notes}{22}{}%
-\contentsline {subsection}{Style}{22}{}%
-\contentsline {section}{Love's Final Name}{23}{}%
-\contentsline {section}{Open Hearts}{24}{}%
-\contentsline {section}{Minutes Home}{25}{}%
-\contentsline {section}{Diana carries her own gravity}{26}{}%
-\contentsline {section}{The Motion and the Spark}{27}{}%
-\contentsline {section}{Choosing Here}{28}{}%
-\contentsline {section}{More Honestly Than Hearts}{30}{}%
-\contentsline {section}{Hidden Things' Keeper}{31}{}%
-\contentsline {section}{Official Plus One}{32}{}%
-\contentsline {section}{Back Seat Proposal}{33}{}%
-\contentsline {section}{Fiona at the Desk}{34}{}%
-\contentsline {section}{Last Night's Extranger}{35}{}%
-\contentsline {section}{Kyou Park}{37}{}%
-\contentsline {section}{Melgar Table}{38}{}%
-\contentsline {section}{Gabi’s Shoulder}{39}{}%
-\contentsline {section}{Unspoken Rhythm}{41}{}%
-\contentsline {section}{Royal Docks}{42}{}%
-\contentsline {section}{Unopened Door}{44}{}%
-\contentsline {chapter}{Characters}{45}{}%
-\contentsline {section}{Australian Daughter, Colombian Name}{46}{}%
-\contentsline {section}{Tomorrow Morning}{48}{}%
-\contentsline {section}{Nomad Butterfly}{49}{}%
-\contentsline {section}{Seamless}{51}{}%
-\contentsline {section}{Su peccadu meu}{53}{}%
-\contentsline {section}{Lilac-eyed Demon}{54}{}%
-\contentsline {section}{Ciudad Prestada}{55}{}%
-\contentsline {section}{East Rock / The VIllage}{57}{}%
-\contentsline {section}{Whiteboard Queen}{58}{}%
-\contentsline {section}{Zahra in White}{59}{}%
-\contentsline {chapter}{Orbits}{61}{}%
-\contentsline {section}{Landscape}{62}{}%
-\contentsline {section}{Equals}{63}{}%
-\contentsline {section}{Room for Her}{64}{}%
-\contentsline {subsection}{Breakdown}{64}{}%
-\contentsline {section}{Then There's You}{65}{}%
-\contentsline {chapter}{Stories}{67}{}%
-\contentsline {section}{Potsdam Leeres Büro}{68}{}%
-\contentsline {section}{Seat 14C}{69}{}%
-\contentsline {section}{Steel \& Violet}{71}{}%
-\contentsline {section}{So Wrong}{72}{}%
-\contentsline {section}{Extension of Friendship}{73}{}%
-\contentsline {section}{Catching Up}{74}{}%
-\contentsline {section}{Carroll Gardens}{75}{}%
-\contentsline {section}{I Thought We Were Home}{77}{}%
-\contentsline {section}{The Other Local Girl}{78}{}%
-\contentsline {section}{Pacifica Miles}{80}{}%
-\contentsline {chapter}{World}{81}{}%
-\contentsline {section}{Orbit Of Names}{82}{}%
+\contentsline {section}{Orbit Of Names}{5}{}%
+\contentsline {chapter}{Characters}{7}{}%
+\contentsline {section}{Vor Barcelona (Deutsch)}{8}{}%
+\contentsline {section}{Beside the Storm}{9}{}%
+\contentsline {subsection}{Notes}{9}{}%
+\contentsline {subsection}{Style}{9}{}%
+\contentsline {section}{Mellan is och hård betong}{10}{}%
+\contentsline {section}{De igual pra igual}{11}{}%
+\contentsline {section}{Cuando despega la tormenta}{12}{}%
+\contentsline {section}{Diana porte sa propre gravité}{13}{}%
+\contentsline {section}{Uks, mis pole lahti}{14}{}%
+\contentsline {section}{Love's Final Name}{15}{}%
+\contentsline {section}{Open Hearts}{16}{}%
+\contentsline {section}{Minutes Home}{17}{}%
+\contentsline {section}{Australian Daughter, Colombian Name}{18}{}%
+\contentsline {section}{Tomorrow Morning}{20}{}%
+\contentsline {section}{Nomad Butterfly}{21}{}%
+\contentsline {section}{Fiona at the Desk}{23}{}%
+\contentsline {section}{Seamless}{24}{}%
+\contentsline {section}{Su peccadu meu}{26}{}%
+\contentsline {section}{Lilac-eyed Demon}{27}{}%
+\contentsline {section}{Ciudad Prestada}{28}{}%
+\contentsline {section}{East Rock / The VIllage}{30}{}%
+\contentsline {section}{Whiteboard Queen}{31}{}%
+\contentsline {section}{Kyou Park}{32}{}%
+\contentsline {section}{Royal Docks}{33}{}%
+\contentsline {section}{Hidden Things' Keeper}{35}{}%
+\contentsline {section}{More Honestly Than Hearts}{36}{}%
+\contentsline {section}{Pilar Venegas}{37}{}%
+\contentsline {section}{Rough Diamond}{38}{}%
+\contentsline {section}{Petrovna // Петровна}{39}{}%
+\contentsline {chapter}{Orbits}{41}{}%
+\contentsline {section}{Landscape}{42}{}%
+\contentsline {section}{Equals}{43}{}%
+\contentsline {section}{Room for Her}{44}{}%
+\contentsline {subsection}{Breakdown}{44}{}%
+\contentsline {section}{Then There's You}{45}{}%
+\contentsline {section}{Unspoken Rhythm}{46}{}%
+\contentsline {chapter}{Stories}{47}{}%
+\contentsline {section}{Potsdam Leeres Büro}{48}{}%
+\contentsline {section}{Xumi}{49}{}%
+\contentsline {section}{Una locura}{50}{}%
+\contentsline {section}{Seat 14C}{52}{}%
+\contentsline {section}{Steel \& Violet}{54}{}%
+\contentsline {section}{So Wrong}{55}{}%
+\contentsline {section}{Extension of Friendship}{56}{}%
+\contentsline {section}{Catching Up}{57}{}%
+\contentsline {section}{Carroll Gardens}{58}{}%
+\contentsline {section}{I Thought We Were Home}{60}{}%
+\contentsline {section}{Carbonia Villa Blues}{61}{}%
+\contentsline {section}{The Other Local Girl}{62}{}%
+\contentsline {section}{Paolo’s Text}{64}{}%
+\contentsline {section}{Quiet Cracked Routine}{65}{}%
+\contentsline {section}{Peccato d'aprile}{66}{}%
+\contentsline {section}{Casa non è}{68}{}%
+\contentsline {section}{Qualcosa di vero}{70}{}%
+\contentsline {section}{The Motion and the Spark}{72}{}%
+\contentsline {section}{Official Plus One}{73}{}%
+\contentsline {section}{Back Seat Proposal}{74}{}%
+\contentsline {section}{Sa fiamma}{75}{}%
+\contentsline {section}{Last Night's Extranger}{77}{}%
+\contentsline {section}{A Chance}{79}{}%
+\contentsline {section}{Pacifica Miles}{81}{}%
+\contentsline {section}{Gabi’s Shoulder}{82}{}%
+\contentsline {section}{Melgar Table}{84}{}%
+\contentsline {section}{Resto qui}{85}{}%
+\contentsline {chapter}{Translations}{87}{}%
+\contentsline {section}{Vor Barcelona (English)}{88}{}%
+\contentsline {section}{Diana carries her own gravity}{89}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{90}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {section}{Unopened Door}{91}{}%
+\contentsline {section}{Choosing Here}{92}{}%
+\contentsline {section}{Petrovna}{94}{}%
+\contentsline {chapter}{Drafts}{95}{}%
+\contentsline {section}{Vor Barcelona}{96}{}%

@@ -1,30 +1,21 @@
 \xpg@aux {}{english}
-\contentsline {section}{Ricochets Hangover}{2}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{4}{}%
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\xpg@aux {}{arabic}
-\xpg@aux {}{english}
-\contentsline {section}{Tolemaida Wedding}{5}{}%
+\contentsline {chapter}{Background}{3}{}%
+\contentsline {section}{Same Old Circle}{4}{}%
+\contentsline {section}{¿Aceptás el trato?}{5}{}%
 \contentsline {section}{Pizza on the Table}{6}{}%
-\contentsline {section}{Same Old Circle}{7}{}%
-\contentsline {section}{Carolina}{8}{}%
-\contentsline {section}{Morocho}{9}{}%
-\contentsline {section}{Boynton Bound}{11}{}%
-\contentsline {section}{Town and Country}{12}{}%
+\contentsline {section}{Tolemaida Wedding}{7}{}%
+\contentsline {section}{Boynton Bound}{8}{}%
+\contentsline {section}{Town and Country}{9}{}%
+\contentsline {chapter}{Promotion}{11}{}%
+\contentsline {section}{Ricochets Hangover}{12}{}%
+\contentsline {section}{Destinies Overlap}{14}{}%
+\contentsline {chapter}{Canonical}{17}{}%
+\contentsline {section}{Carolina}{18}{}%
+\contentsline {section}{Morocho}{19}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{21}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{22}{}%
+\contentsline {section}{Corona de alambre}{23}{}%
+\contentsline {chapter}{Extended}{25}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{26}{}%
+\contentsline {chapter}{Inspired}{27}{}%
+\contentsline {section}{El corrido de Carlson}{28}{}%
