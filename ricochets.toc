@@ -11,11 +11,19 @@
 \contentsline {section}{Destinies Overlap}{14}{}%
 \contentsline {chapter}{Canonical}{17}{}%
 \contentsline {section}{Carolina}{18}{}%
-\contentsline {section}{Morocho}{19}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{21}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{22}{}%
-\contentsline {section}{Corona de alambre}{23}{}%
-\contentsline {chapter}{Extended}{25}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{26}{}%
-\contentsline {chapter}{Inspired}{27}{}%
-\contentsline {section}{El corrido de Carlson}{28}{}%
+\contentsline {section}{The Healer and the Hurting}{19}{}%
+\contentsline {section}{Everybody Knows Henry}{20}{}%
+\contentsline {section}{The Asset}{21}{}%
+\contentsline {section}{Morocho}{23}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{25}{}%
+\contentsline {section}{Le Rêve des Autres}{26}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{27}{}%
+\contentsline {section}{Lo que queda}{28}{}%
+\contentsline {section}{Corona de alambre}{29}{}%
+\contentsline {chapter}{Extended}{31}{}%
+\contentsline {section}{Henry Little}{32}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{33}{}%
+\contentsline {section}{Cada uno en su lugar}{34}{}%
+\contentsline {section}{Sabbatical}{35}{}%
+\contentsline {chapter}{Inspired}{37}{}%
+\contentsline {section}{El corrido de Carlson}{38}{}%

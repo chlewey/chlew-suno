@@ -3,10 +3,10 @@ import re
 def maketag(title):
     tag = re.sub(r'[-\'’:\\\(\)¿\?,¡!/]', '', title.lower())
     tag = re.sub('[ñ&]', 'n', tag)
-    tag = re.sub('á', 'a', tag)
-    tag = re.sub('é', 'e', tag)
-    tag = re.sub('í', 'i', tag)
-    tag = re.sub('[óö]', 'o', tag)
+    tag = re.sub('[áäâà]', 'a', tag)
+    tag = re.sub('[éèêë]', 'e', tag)
+    tag = re.sub('[íìîï]', 'i', tag)
+    tag = re.sub('[óöòô]', 'o', tag)
     tag = re.sub('[úü]', 'u', tag)
     tag = re.sub(' ', '_', tag)
     tag = re.sub('_+', '_', tag)
@@ -38,7 +38,7 @@ if __name__ == '__main__':
             j += 1
             fnb, fn = f'{path}/{base}_{j}', f'{path}/{base}_{j}{ext}'
 
-        ofile.write(f'\\import{{{fnb}}}\n')
+        ofile.write(f'\\input{{{fnb}}}\n')
         with open(fn, 'w', encoding='utf-8') as f:
             f.write(f'\\songtitle{{{parts[i]}}}\n\n')
             f.write(parts[i+1])

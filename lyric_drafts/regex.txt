@@ -1,0 +1,11 @@
+
+\[((Vers|(Pre-|Final )?Chorus|Bridge|Breakdown|Intro|Outro|Movement|Chapter)[^\]\[]*)\]
+\\songpart{$1}
+
+([^\s\\\}%])( *\n[¿¡“\w])
+$1\\\\$2
+
+\[([^\]\[]*)\]
+\\annotation{$1}
+
+\. ([^%\s]+)

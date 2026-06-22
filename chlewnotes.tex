@@ -1,0 +1,48 @@
+\documentclass[letterpaper]{memoir}
+\usepackage{comment}
+\usepackage{polyglossia}
+\usepackage{imakeidx}
+\newcommand\songtitle[1]{\section{#1}\index[songs]{#1}}
+\newcommand\annotation[1]{\texttt{[#1]}}
+\newcommand\sepbar{~\par{\centering\rule{.5\textwidth}{.5pt}\par}}
+\makeindex[name=tags,title={Index of tags}]
+\makeindex[name=songs,title={Index of songs}]
+\makeatletter
+\newcommand\tag{\@ifstar\tag@star\tag@nostar}
+\newcommand\tag@nostar[2][\@empty]{\texttt{\,\footnotesize\textbf{\##2}\,}\index[tags]{#2}\ifx\@empty#1\relax\else\index[#1]{#2}\fi}
+\newcommand\tag@star[1]{\texttt{\,\footnotesize\textbf{\##1}\,}}
+\makeatother
+\newenvironment{lyrics}{}{}
+\newenvironment{notes}{\subsection*{Notes}}{}
+\newenvironment{style}{\subsection*{Style}}{}
+\newenvironment{prompt}{\subsection*{Prompt}}{}
+\excludecomment{lyrics}
+\setdefaultlanguage{english}
+\setotherlanguage{arabic}
+\setmainfont{Noto Sans}
+%\setmonofont{Noto Mono}
+\newfontfamily\lyricsfont{Noto Serif}
+\newfontfamily\arabicfont[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Naskh Arabic}
+\newfontfamily\arabicfontsf[
+  Script=Arabic,
+  Scale=MatchLowercase
+]{Noto Sans Arabic}
+\setsecnumdepth{none}
+\begin{document}
+\frontmatter
+\tableofcontents*
+
+\mainmatter
+\include{chlewey}
+\include{rataflechera}
+\include{gabisson}
+\include{wyomee}
+
+\backmatter
+\printindex[songs]
+\clearpage
+\printindex[tags]
+\end{document}

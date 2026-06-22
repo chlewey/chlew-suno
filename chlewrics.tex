@@ -4,17 +4,19 @@
 \setlength{\columnsep}{6mm} 
 
 \begin{document}
+\frontmatter
+\begin{multicols*}{3}
+\tableofcontents*
+\end{multicols*}
+\mainmatter
 \begin{multicols*}{4}
 \include{chlewey}
 \include{rataflechera}
 \include{gabisson}
 \include{wyomee}
-
-\clearpage
-\tableofcontents
-\clearpage
+\end{multicols*}
+\backmatter
 \printindex[songs]
 \clearpage
 \printindex[tags]
-\end{multicols*}
 \end{document}

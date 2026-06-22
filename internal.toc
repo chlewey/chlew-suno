@@ -63,114 +63,122 @@
 \contentsline {subsection}{Notes}{37}{}%
 \contentsline {subsection}{Style}{37}{}%
 \contentsline {section}{Septiembre}{38}{}%
-\contentsline {chapter}{Graeville}{39}{}%
+\contentsline {chapter}{Gr\ae ville}{39}{}%
 \contentsline {section}{Chocolate Frío}{40}{}%
 \contentsline {subsection}{Notes}{40}{}%
 \contentsline {subsection}{Style}{40}{}%
 \contentsline {section}{Cuarto de Peluches}{41}{}%
 \contentsline {subsection}{Notes}{41}{}%
 \contentsline {subsection}{Style}{41}{}%
-\contentsline {chapter}{Later Thoughts}{43}{}%
-\contentsline {section}{Your Role}{44}{}%
-\contentsline {section}{A Someone or a Someone}{45}{}%
-\contentsline {section}{Alarm Cabinet}{46}{}%
-\contentsline {section}{A Drunk Without A Drop (Remix)}{47}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{48}{}%
-\contentsline {section}{Modo Pararrayos}{49}{}%
-\contentsline {section}{Lightning Rod Mode}{50}{}%
-\contentsline {section}{Somebody Out There}{51}{}%
-\contentsline {section}{Guided Hands}{52}{}%
-\contentsline {section}{Vaina que crece}{53}{}%
-\contentsline {section}{Monoestable}{54}{}%
-\contentsline {section}{Soap Line Logic}{55}{}%
-\contentsline {section}{The Secret Fires}{56}{}%
-\contentsline {subsection}{Notes}{56}{}%
-\contentsline {subsection}{Style}{56}{}%
-\contentsline {section}{The Secret Fires}{57}{}%
-\contentsline {subsection}{Notes}{57}{}%
-\contentsline {subsection}{Style}{57}{}%
-\contentsline {section}{Let Me Finish}{58}{}%
-\contentsline {subsection}{Notes}{58}{}%
-\contentsline {subsection}{Style}{58}{}%
-\contentsline {section}{Quiet Signal}{59}{}%
-\contentsline {subsection}{Notes}{59}{}%
-\contentsline {subsection}{Style}{59}{}%
-\contentsline {section}{No Excuse}{60}{}%
-\contentsline {subsection}{Notes}{60}{}%
-\contentsline {subsection}{Style}{60}{}%
-\contentsline {section}{Traga tuitera}{62}{}%
-\contentsline {subsection}{Notes}{62}{}%
-\contentsline {subsection}{Style}{62}{}%
-\contentsline {section}{Secret Fires (TrackB)}{63}{}%
-\contentsline {subsection}{Notes}{63}{}%
-\contentsline {subsection}{Style}{63}{}%
-\contentsline {section}{Límite sincopado}{64}{}%
+\contentsline {chapter}{Midlife Thoughts}{43}{}%
+\contentsline {section}{Polilla en las flamas}{44}{}%
+\contentsline {section}{Temblando}{45}{}%
+\contentsline {section}{Vulnerable}{46}{}%
+\contentsline {section}{Ack-Rostica}{47}{}%
+\contentsline {section}{Awk-Rustica}{48}{}%
+\contentsline {section}{Across-Ticks}{49}{}%
+\contentsline {chapter}{Later Thoughts}{51}{}%
+\contentsline {section}{Your Role}{52}{}%
+\contentsline {section}{A Someone or a Someone}{53}{}%
+\contentsline {section}{Alarm Cabinet}{54}{}%
+\contentsline {section}{A Drunk Without A Drop (Remix)}{55}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{56}{}%
+\contentsline {section}{Modo Pararrayos}{57}{}%
+\contentsline {section}{Lightning Rod Mode}{58}{}%
+\contentsline {section}{Somebody Out There}{59}{}%
+\contentsline {section}{Guided Hands}{60}{}%
+\contentsline {section}{Vaina que crece}{61}{}%
+\contentsline {section}{Monoestable}{62}{}%
+\contentsline {section}{Soap Line Logic}{63}{}%
+\contentsline {section}{The Secret Fires}{64}{}%
 \contentsline {subsection}{Notes}{64}{}%
 \contentsline {subsection}{Style}{64}{}%
-\contentsline {section}{Frictionless}{66}{}%
-\contentsline {chapter}{Pray, Borther}{67}{}%
-\contentsline {section}{Slightest Amount}{68}{}%
-\contentsline {section}{Complete By What}{69}{}%
-\contentsline {section}{Complete By What}{70}{}%
-\contentsline {section}{Not In The Creed}{71}{}%
-\contentsline {section}{Which God Stands Still}{73}{}%
-\contentsline {section}{Ashes in the Pews}{74}{}%
-\contentsline {section}{In the Time of Noah's Ark}{75}{}%
-\contentsline {subsection}{Notes}{75}{}%
-\contentsline {subsection}{Style}{75}{}%
-\contentsline {section}{In the Time of Noah's Ark}{76}{}%
-\contentsline {subsection}{Notes}{76}{}%
-\contentsline {subsection}{Style}{76}{}%
-\contentsline {section}{Succubus Portrait}{77}{}%
-\contentsline {subsection}{Notes}{77}{}%
-\contentsline {subsection}{Style}{77}{}%
-\contentsline {section}{Morality Ain’t Imposed}{78}{}%
-\contentsline {section}{Categorical Error}{79}{}%
-\contentsline {section}{Antiphona: De Atheismi Utilitate}{80}{}%
-\contentsline {chapter}{Essays}{81}{}%
-\contentsline {section}{Retrogrades}{82}{}%
-\contentsline {section}{Balance of Three}{83}{}%
-\contentsline {section}{Critter Kin (Man's an Animal Too)}{84}{}%
-\contentsline {section}{La Casa y el Viento}{85}{}%
-\contentsline {section}{Espejo Luminoso}{86}{}%
-\contentsline {section}{Best Available Lens}{87}{}%
-\contentsline {section}{Todos al mismo lado}{88}{}%
-\contentsline {chapter}{More}{89}{}%
-\contentsline {section}{Chiq}{90}{}%
-\contentsline {section}{Callejón Azul}{91}{}%
-\contentsline {section}{E Numa Lah}{92}{}%
-\contentsline {section}{Bucket List}{93}{}%
-\contentsline {section}{Monstruo Ciudad}{95}{}%
-\contentsline {subsection}{Notes}{95}{}%
-\contentsline {subsection}{Prompt}{95}{}%
-\contentsline {section}{Bogotá}{96}{}%
-\contentsline {subsection}{Notes}{96}{}%
-\contentsline {subsection}{Style}{96}{}%
-\contentsline {section}{TrackB}{97}{}%
-\contentsline {subsection}{Notes}{97}{}%
-\contentsline {subsection}{Style}{97}{}%
-\contentsline {section}{Kapu Lema}{98}{}%
-\contentsline {subsection}{Notes}{98}{}%
-\contentsline {subsection}{Style}{98}{}%
-\contentsline {section}{Operating Manual (For Changing a Light Bulb)}{99}{}%
-\contentsline {subsection}{Notes}{99}{}%
-\contentsline {subsection}{Style}{99}{}%
-\contentsline {section}{Midnight Carnival Split}{100}{}%
-\contentsline {subsection}{Notes}{100}{}%
-\contentsline {subsection}{Prompt}{100}{}%
-\contentsline {section}{Buba Kiki Riot}{101}{}%
-\contentsline {subsection}{Notes}{101}{}%
-\contentsline {subsection}{Style}{101}{}%
-\contentsline {section}{Badiba Buka}{102}{}%
-\contentsline {section}{Le cœur léger}{103}{}%
-\contentsline {section}{Canta la Ruta}{104}{}%
-\contentsline {section}{March and Tumbao}{105}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{106}{}%
-\contentsline {section}{Güiro quemado}{107}{}%
-\contentsline {section}{Memory Wakes}{109}{}%
-\contentsline {section}{Espero}{111}{}%
-\contentsline {section}{The Night}{112}{}%
-\contentsline {chapter}{Fragments}{113}{}%
-\contentsline {section}{Burn the Glass}{114}{}%
-\contentsline {section}{A Drunk Without A Drop}{115}{}%
-\contentsline {section}{The Bitter Toll}{116}{}%
+\contentsline {section}{The Secret Fires}{65}{}%
+\contentsline {subsection}{Notes}{65}{}%
+\contentsline {subsection}{Style}{65}{}%
+\contentsline {section}{Let Me Finish}{66}{}%
+\contentsline {subsection}{Notes}{66}{}%
+\contentsline {subsection}{Style}{66}{}%
+\contentsline {section}{Quiet Signal}{67}{}%
+\contentsline {subsection}{Notes}{67}{}%
+\contentsline {subsection}{Style}{67}{}%
+\contentsline {section}{No Excuse}{68}{}%
+\contentsline {subsection}{Notes}{68}{}%
+\contentsline {subsection}{Style}{68}{}%
+\contentsline {section}{Traga tuitera}{70}{}%
+\contentsline {subsection}{Notes}{70}{}%
+\contentsline {subsection}{Style}{70}{}%
+\contentsline {section}{Secret Fires (TrackB)}{71}{}%
+\contentsline {subsection}{Notes}{71}{}%
+\contentsline {subsection}{Style}{71}{}%
+\contentsline {section}{Límite sincopado}{72}{}%
+\contentsline {subsection}{Notes}{72}{}%
+\contentsline {subsection}{Style}{72}{}%
+\contentsline {section}{Frictionless}{74}{}%
+\contentsline {chapter}{Pray, Borther}{75}{}%
+\contentsline {section}{Slightest Amount}{76}{}%
+\contentsline {section}{Complete By What}{77}{}%
+\contentsline {section}{Complete By What}{78}{}%
+\contentsline {section}{Not In The Creed}{79}{}%
+\contentsline {section}{Which God Stands Still}{81}{}%
+\contentsline {section}{Ashes in the Pews}{82}{}%
+\contentsline {section}{In the Time of Noah's Ark}{83}{}%
+\contentsline {subsection}{Notes}{83}{}%
+\contentsline {subsection}{Style}{83}{}%
+\contentsline {section}{In the Time of Noah's Ark}{84}{}%
+\contentsline {subsection}{Notes}{84}{}%
+\contentsline {subsection}{Style}{84}{}%
+\contentsline {section}{Succubus Portrait}{85}{}%
+\contentsline {subsection}{Notes}{85}{}%
+\contentsline {subsection}{Style}{85}{}%
+\contentsline {section}{Morality Ain’t Imposed}{86}{}%
+\contentsline {section}{Categorical Error}{87}{}%
+\contentsline {section}{Antiphona: De Atheismi Utilitate}{88}{}%
+\contentsline {section}{Talk To Me}{89}{}%
+\contentsline {chapter}{Essays}{91}{}%
+\contentsline {section}{Retrogrades}{92}{}%
+\contentsline {section}{Balance of Three}{93}{}%
+\contentsline {section}{Critter Kin (Man's an Animal Too)}{94}{}%
+\contentsline {section}{La Casa y el Viento}{95}{}%
+\contentsline {section}{Espejo Luminoso}{96}{}%
+\contentsline {section}{Best Available Lens}{97}{}%
+\contentsline {section}{Todos al mismo lado}{98}{}%
+\contentsline {chapter}{More}{99}{}%
+\contentsline {section}{Chiq}{100}{}%
+\contentsline {section}{Callejón Azul}{101}{}%
+\contentsline {section}{E Numa Lah}{102}{}%
+\contentsline {section}{Bucket List}{103}{}%
+\contentsline {section}{Monstruo Ciudad}{105}{}%
+\contentsline {subsection}{Notes}{105}{}%
+\contentsline {subsection}{Prompt}{105}{}%
+\contentsline {section}{Bogotá}{106}{}%
+\contentsline {subsection}{Notes}{106}{}%
+\contentsline {subsection}{Style}{106}{}%
+\contentsline {section}{TrackB}{107}{}%
+\contentsline {subsection}{Notes}{107}{}%
+\contentsline {subsection}{Style}{107}{}%
+\contentsline {section}{Kapu Lema}{108}{}%
+\contentsline {subsection}{Notes}{108}{}%
+\contentsline {subsection}{Style}{108}{}%
+\contentsline {section}{Operating Manual (For Changing a Light Bulb)}{109}{}%
+\contentsline {subsection}{Notes}{109}{}%
+\contentsline {subsection}{Style}{109}{}%
+\contentsline {section}{Midnight Carnival Split}{110}{}%
+\contentsline {subsection}{Notes}{110}{}%
+\contentsline {subsection}{Prompt}{110}{}%
+\contentsline {section}{Buba Kiki Riot}{111}{}%
+\contentsline {subsection}{Notes}{111}{}%
+\contentsline {subsection}{Style}{111}{}%
+\contentsline {section}{Badiba Buka}{112}{}%
+\contentsline {section}{Le cœur léger}{113}{}%
+\contentsline {section}{Canta la Ruta}{114}{}%
+\contentsline {section}{March and Tumbao}{115}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{116}{}%
+\contentsline {section}{Güiro quemado}{117}{}%
+\contentsline {section}{Memory Wakes}{119}{}%
+\contentsline {section}{Espero}{121}{}%
+\contentsline {section}{The Night}{122}{}%
+\contentsline {chapter}{Fragments}{123}{}%
+\contentsline {section}{Burn the Glass}{124}{}%
+\contentsline {section}{A Drunk Without A Drop}{125}{}%
+\contentsline {section}{The Bitter Toll}{126}{}%
