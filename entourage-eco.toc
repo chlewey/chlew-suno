@@ -44,33 +44,43 @@
 \contentsline {section}{Xumi}{49}{}%
 \contentsline {section}{Una locura}{50}{}%
 \contentsline {section}{Seat 14C}{52}{}%
-\contentsline {section}{Steel \& Violet}{54}{}%
-\contentsline {section}{So Wrong}{55}{}%
-\contentsline {section}{Extension of Friendship}{56}{}%
-\contentsline {section}{Catching Up}{57}{}%
-\contentsline {section}{Carroll Gardens}{58}{}%
-\contentsline {section}{I Thought We Were Home}{60}{}%
-\contentsline {section}{Carbonia Villa Blues}{61}{}%
-\contentsline {section}{The Other Local Girl}{62}{}%
-\contentsline {section}{Paolo’s Text}{64}{}%
-\contentsline {section}{Quiet Cracked Routine}{65}{}%
-\contentsline {section}{Peccato d'aprile}{66}{}%
-\contentsline {section}{Casa non è}{68}{}%
-\contentsline {section}{Qualcosa di vero}{70}{}%
-\contentsline {section}{The Motion and the Spark}{72}{}%
-\contentsline {section}{Official Plus One}{73}{}%
-\contentsline {section}{Back Seat Proposal}{74}{}%
-\contentsline {section}{Sa fiamma}{75}{}%
-\contentsline {section}{Last Night's Extranger}{77}{}%
-\contentsline {section}{A Chance}{79}{}%
-\contentsline {section}{Pacifica Miles}{81}{}%
-\contentsline {section}{Gabi’s Shoulder}{82}{}%
-\contentsline {section}{Melgar Table}{84}{}%
-\contentsline {section}{Resto qui}{85}{}%
-\contentsline {chapter}{Translations}{87}{}%
-\contentsline {section}{Vor Barcelona (English)}{88}{}%
-\contentsline {section}{Diana carries her own gravity}{89}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{90}{}%
+\contentsline {section}{The Motion and the Spark}{54}{}%
+\contentsline {section}{Official Plus One}{55}{}%
+\contentsline {section}{Back Seat Proposal}{56}{}%
+\contentsline {section}{Last Night's Extranger}{57}{}%
+\contentsline {section}{A Chance}{59}{}%
+\contentsline {section}{Pacifica Miles}{61}{}%
+\contentsline {section}{Gabi’s Shoulder}{62}{}%
+\contentsline {section}{Melgar Table}{64}{}%
+\contentsline {section}{Ciudad Punta Espada}{65}{}%
+\contentsline {chapter}{Tallin Series}{67}{}%
+\contentsline {section}{Steel \& Violet}{68}{}%
+\contentsline {section}{So Wrong}{69}{}%
+\contentsline {section}{Extension of Friendship}{70}{}%
+\contentsline {section}{Catching Up}{71}{}%
+\contentsline {section}{Carroll Gardens}{72}{}%
+\contentsline {section}{I Thought We Were Home}{74}{}%
+\contentsline {section}{Carbonia Villa Blues}{75}{}%
+\contentsline {section}{The Other Local Girl}{76}{}%
+\contentsline {section}{Paolo’s Text}{78}{}%
+\contentsline {section}{Quiet Cracked Routine}{79}{}%
+\contentsline {chapter}{Sylvia's diary}{81}{}%
+\contentsline {section}{Peccato d'aprile}{82}{}%
+\contentsline {section}{Casa non è}{84}{}%
+\contentsline {section}{Qualcosa di vero}{86}{}%
+\contentsline {section}{Sa fiamma}{88}{}%
+\contentsline {section}{Resto qui}{90}{}%
+\contentsline {chapter}{Gabi's bio}{93}{}%
+\contentsline {section}{Potsdam After the Fall}{94}{}%
+\contentsline {section}{Garage Lines}{95}{}%
+\contentsline {section}{Welding Certificate}{96}{}%
+\contentsline {section}{Queens Weld Shop}{97}{}%
+\contentsline {section}{Summer of Potsdam}{98}{}%
+\contentsline {section}{Summer Of Thirteen}{99}{}%
+\contentsline {chapter}{Translations}{101}{}%
+\contentsline {section}{Vor Barcelona (English)}{102}{}%
+\contentsline {section}{Diana carries her own gravity}{103}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{104}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -91,8 +101,8 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Unopened Door}{91}{}%
-\contentsline {section}{Choosing Here}{92}{}%
-\contentsline {section}{Petrovna}{94}{}%
-\contentsline {chapter}{Drafts}{95}{}%
-\contentsline {section}{Vor Barcelona}{96}{}%
+\contentsline {section}{Unopened Door}{105}{}%
+\contentsline {section}{Choosing Here}{106}{}%
+\contentsline {section}{Petrovna}{108}{}%
+\contentsline {chapter}{Drafts}{109}{}%
+\contentsline {section}{Vor Barcelona}{110}{}%

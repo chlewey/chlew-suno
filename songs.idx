@@ -1,116 +1,160 @@
-\indexentry{Siento}{4}
-\indexentry{Je hais ma haine}{5}
-\indexentry{Dig}{6}
-\indexentry{No sé, pero vuelve}{7}
-\indexentry{Líneas en blanco}{8}
-\indexentry{Rabia en la boca}{9}
-\indexentry{Esfera entintada}{10}
-\indexentry{Si pienso en ti}{11}
-\indexentry{No sé, vos sabés}{12}
-\indexentry{Travel Notes}{13}
-\indexentry{Ninety-Six Static}{14}
-\indexentry{Svarta Ögon-Glasbell}{15}
-\indexentry{En la nube}{16}
-\indexentry{Adriana Tal Vez}{17}
-\indexentry{Three Notebooks}{18}
-\indexentry{Mirá}{19}
-\indexentry{Si pienso}{20}
-\indexentry{Iros de risk}{21}
-\indexentry{Pared fría}{22}
-\indexentry{Papel en la escalera}{23}
-\indexentry{Je hais}{24}
-\indexentry{Je hais}{25}
-\indexentry{La haine que je te dois}{26}
-\indexentry{Círculo Convexo}{27}
-\indexentry{Al despertar}{28}
-\indexentry{Message trop tard}{29}
-\indexentry{Svarta Ögon}{30}
-\indexentry{Svarta Ögon Skena}{31}
-\indexentry{Bilden}{32}
-\indexentry{Vakning}{33}
-\indexentry{Jag avskyr}{34}
-\indexentry{La duda - por qué}{35}
-\indexentry{Espectador de mi vida}{36}
-\indexentry{Papelito Chiquito}{37}
-\indexentry{Septiembre}{38}
-\indexentry{Chocolate Frío}{40}
-\indexentry{Cuarto de Peluches}{41}
-\indexentry{Polilla en las flamas}{44}
-\indexentry{Temblando}{45}
-\indexentry{Vulnerable}{46}
-\indexentry{Ack-Rostica}{47}
-\indexentry{Awk-Rustica}{48}
-\indexentry{Across-Ticks}{49}
-\indexentry{Aconteceres}{50}
-\indexentry{The Loaded Mind}{51}
-\indexentry{The Loaded Mind (defiant)}{52}
-\indexentry{Your Role}{54}
-\indexentry{A Someone or a Someone}{55}
-\indexentry{Alarm Cabinet}{56}
-\indexentry{A Drunk Without A Drop (Remix)}{57}
-\indexentry{The Bitter Toll (Remix)}{58}
-\indexentry{Modo Pararrayos}{59}
-\indexentry{Lightning Rod Mode}{60}
-\indexentry{Somebody Out There}{61}
-\indexentry{Guided Hands}{62}
-\indexentry{Vaina que crece}{63}
-\indexentry{Monoestable}{64}
-\indexentry{Soap Line Logic}{65}
-\indexentry{The Secret Fires}{66}
-\indexentry{The Secret Fires}{67}
-\indexentry{Let Me Finish}{68}
-\indexentry{Quiet Signal}{69}
-\indexentry{No Excuse}{70}
-\indexentry{Traga tuitera}{72}
-\indexentry{Secret Fires (TrackB)}{73}
-\indexentry{Límite sincopado}{74}
-\indexentry{Frictionless}{76}
-\indexentry{Slightest Amount}{78}
-\indexentry{Complete By What}{79}
-\indexentry{Complete By What}{80}
-\indexentry{Not In The Creed}{81}
-\indexentry{Which God Stands Still}{83}
-\indexentry{Ashes in the Pews}{84}
-\indexentry{In the Time of Noah's Ark}{85}
-\indexentry{In the Time of Noah's Ark}{86}
-\indexentry{Succubus Portrait}{87}
-\indexentry{Morality Ain’t Imposed}{88}
-\indexentry{Categorical Error}{89}
-\indexentry{Antiphona: De Atheismi Utilitate}{90}
-\indexentry{Talk To Me}{91}
-\indexentry{Fallen Messenger}{92}
-\indexentry{Retrogrades}{94}
-\indexentry{Balance of Three}{95}
-\indexentry{Critter Kin (Man's an Animal Too)}{96}
-\indexentry{La Casa y el Viento}{97}
-\indexentry{Espejo Luminoso}{98}
-\indexentry{Best Available Lens}{99}
-\indexentry{Todos al mismo lado}{100}
-\indexentry{Limits of the Load}{101}
-\indexentry{Valdai Watershed}{102}
-\indexentry{Chiq}{104}
-\indexentry{E Numa Lah}{105}
-\indexentry{Bucket List}{106}
-\indexentry{Bogotá}{108}
-\indexentry{TrackB}{109}
-\indexentry{Kapu Lema}{110}
-\indexentry{Operating Manual (For Changing a Light Bulb)}{111}
-\indexentry{Midnight Carnival Split}{112}
-\indexentry{Buba Kiki Riot}{113}
-\indexentry{Badiba Buka}{114}
-\indexentry{Le cœur léger}{115}
-\indexentry{Canta la Ruta}{116}
-\indexentry{Chiang Mai to Bangkok}{117}
-\indexentry{Güiro quemado}{118}
-\indexentry{Memory Wakes}{120}
-\indexentry{Espero}{122}
-\indexentry{The Night}{123}
-\indexentry{Rainbow Candy Parade}{124}
-\indexentry{Callejón Azul}{126}
-\indexentry{Monstruo Ciudad}{127}
-\indexentry{March and Tumbao}{128}
-\indexentry{Candy Rock Day}{129}
-\indexentry{Clave and Chrome}{130}
-\indexentry{Burn the Glass}{132}
-\indexentry{A Drunk Without A Drop}{133}
-\indexentry{The Bitter Toll}{134}
+\indexentry{Siento}{6}
+\indexentry{Je hais ma haine}{7}
+\indexentry{Dig}{8}
+\indexentry{No sé, pero vuelve}{9}
+\indexentry{Líneas en blanco}{10}
+\indexentry{Rabia en la boca}{11}
+\indexentry{Esfera entintada}{12}
+\indexentry{Si pienso en ti}{13}
+\indexentry{Si pienso en ti}{14}
+\indexentry{No sé, vos sabés}{15}
+\indexentry{Travel Notes}{16}
+\indexentry{Ninety-Six Static}{17}
+\indexentry{Svarta Ögon-Glasbell}{18}
+\indexentry{En la nube}{19}
+\indexentry{Adriana Tal Vez}{20}
+\indexentry{Three Notebooks}{21}
+\indexentry{Mirá}{22}
+\indexentry{Si pienso}{23}
+\indexentry{Iros de risk}{24}
+\indexentry{Pared fría}{25}
+\indexentry{Papel en la escalera}{26}
+\indexentry{Je hais}{27}
+\indexentry{Je hais}{28}
+\indexentry{La haine que je te dois}{29}
+\indexentry{Círculo Convexo}{30}
+\indexentry{Al despertar}{31}
+\indexentry{Message trop tard}{32}
+\indexentry{Svarta Ögon}{33}
+\indexentry{Svarta Ögon Skena}{34}
+\indexentry{Bilden}{35}
+\indexentry{Vakning}{36}
+\indexentry{Jag avskyr}{37}
+\indexentry{La duda - por qué}{38}
+\indexentry{Espectador de mi vida}{39}
+\indexentry{Papelito Chiquito}{40}
+\indexentry{Septiembre}{41}
+\indexentry{Lluvia En Tu Mirada}{42}
+\indexentry{Chocolate Frío}{44}
+\indexentry{Cuarto de Peluches}{45}
+\indexentry{Polilla en las flamas}{48}
+\indexentry{Temblando}{49}
+\indexentry{Vulnerable}{50}
+\indexentry{Ack-Rostica}{51}
+\indexentry{Awk-Rustica}{52}
+\indexentry{Across-Ticks}{53}
+\indexentry{Aconteceres}{54}
+\indexentry{The Loaded Mind}{55}
+\indexentry{The Loaded Mind (defiant)}{56}
+\indexentry{Trembling Blues}{57}
+\indexentry{Pálpitos prohibidos}{58}
+\indexentry{Temblando}{59}
+\indexentry{Skälvning}{60}
+\indexentry{Cabeza Perdida}{61}
+\indexentry{El Mundo Gira}{62}
+\indexentry{Jugando}{63}
+\indexentry{Your Role}{66}
+\indexentry{A Someone or a Someone}{67}
+\indexentry{Alarm Cabinet}{68}
+\indexentry{A Drunk Without A Drop (Remix)}{69}
+\indexentry{The Bitter Toll (Remix)}{70}
+\indexentry{Modo Pararrayos}{71}
+\indexentry{Lightning Rod Mode}{72}
+\indexentry{Somebody Out There}{73}
+\indexentry{Guided Hands}{74}
+\indexentry{Vaina que crece}{75}
+\indexentry{Monoestable}{76}
+\indexentry{Soap Line Logic}{77}
+\indexentry{The Secret Fires}{78}
+\indexentry{The Secret Fires}{79}
+\indexentry{Let Me Finish}{80}
+\indexentry{Quiet Signal}{81}
+\indexentry{No Excuse}{82}
+\indexentry{Traga tuitera}{84}
+\indexentry{Secret Fires (TrackB)}{85}
+\indexentry{Límite sincopado}{86}
+\indexentry{Frictionless}{88}
+\indexentry{The Wrong Map}{89}
+\indexentry{The Wrong Map}{90}
+\indexentry{The Wrong Map}{92}
+\indexentry{Paper In My Hands}{93}
+\indexentry{Slightest Amount}{96}
+\indexentry{Complete By What}{97}
+\indexentry{Complete By What}{98}
+\indexentry{Not In The Creed}{99}
+\indexentry{Which God Stands Still}{101}
+\indexentry{Ashes in the Pews}{102}
+\indexentry{In the Time of Noah's Ark}{103}
+\indexentry{In the Time of Noah's Ark}{104}
+\indexentry{Succubus Portrait}{105}
+\indexentry{Morality Ain’t Imposed}{106}
+\indexentry{Categorical Error}{107}
+\indexentry{Antiphona: De Atheismi Utilitate}{108}
+\indexentry{Talk To Me}{109}
+\indexentry{Fallen Messenger}{110}
+\indexentry{Defined Or Dust}{111}
+\indexentry{Dead Sea's Barren Dreams}{112}
+\indexentry{Se Lēoþ of Sodoma and Gomorra}{113}
+\indexentry{Retrogrades}{116}
+\indexentry{Balance of Three}{117}
+\indexentry{Critter Kin (Man's an Animal Too)}{118}
+\indexentry{La Casa y el Viento}{119}
+\indexentry{Espejo Luminoso}{120}
+\indexentry{Best Available Lens}{121}
+\indexentry{Todos al mismo lado}{122}
+\indexentry{Limits of the Load}{123}
+\indexentry{Second Gun Salesman}{124}
+\indexentry{The Good Guy's Dilemma}{125}
+\indexentry{Draw The Tree}{126}
+\indexentry{Valdai Watershed}{128}
+\indexentry{Congo Ring}{129}
+\indexentry{Seidenstraße}{130}
+\indexentry{The Same Blue Field}{132}
+\indexentry{Mates and Rivers}{133}
+\indexentry{Red Bag Chichería}{134}
+\indexentry{From the Fields to the Flood}{135}
+\indexentry{Water Made Us}{136}
+\indexentry{Where Waters Sort}{137}
+\indexentry{Rif Valley Rave}{138}
+\indexentry{Пѣснь о Кругахъ Путей}{139}
+\indexentry{Ride The Circuits}{140}
+\indexentry{Circuit World}{141}
+\indexentry{Chiq}{144}
+\indexentry{E Numa Lah}{145}
+\indexentry{Bucket List}{146}
+\indexentry{Bogotá}{148}
+\indexentry{TrackB}{149}
+\indexentry{Kapu Lema}{150}
+\indexentry{Operating Manual (For Changing a Light Bulb)}{151}
+\indexentry{Midnight Carnival Split}{152}
+\indexentry{Buba Kiki Riot}{153}
+\indexentry{Badiba Buka}{154}
+\indexentry{Le cœur léger}{155}
+\indexentry{Canta la Ruta}{156}
+\indexentry{Chiang Mai to Bangkok}{157}
+\indexentry{Güiro quemado}{158}
+\indexentry{Memory Wakes}{160}
+\indexentry{Espero}{162}
+\indexentry{The Night}{163}
+\indexentry{Rainbow Candy Parade}{164}
+\indexentry{Cut Me Loose}{165}
+\indexentry{The Toxic Ghost}{166}
+\indexentry{Red and Yellow}{168}
+\indexentry{Bajo La Tricolor}{169}
+\indexentry{Colombia, Tu Papá}{170}
+\indexentry{Co Co Co Co}{171}
+\indexentry{Callejón Azul}{174}
+\indexentry{Monstruo Ciudad}{175}
+\indexentry{March and Tumbao}{176}
+\indexentry{Candy Rock Day}{177}
+\indexentry{Clave and Chrome}{178}
+\indexentry{Beachside Boogie}{179}
+\indexentry{Scraper Road}{180}
+\indexentry{Iron Pulse}{181}
+\indexentry{Stone Light Portrait}{182}
+\indexentry{Calle Tumbao}{183}
+\indexentry{Claim Ledger Drift}{184}
+\indexentry{The Great Gatsby}{185}
+\indexentry{Burn the Glass}{188}
+\indexentry{A Drunk Without A Drop}{189}
+\indexentry{The Bitter Toll}{190}

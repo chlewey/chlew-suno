@@ -1,125 +1,129 @@
 \begin{theindex}
 
-  \item ai-adapted, 28
-  \item ai-based, 108
-  \item ai-generated, 54
-  \item ai-seed, 87
-  \item alternative-rock, 64, 70
-  \item arabic-lyrics, 123
-  \item art-pop, 63
+  \item ai-adapted, 31
+  \item ai-based, 148
+  \item ai-generated, 66
+  \item ai-seed, 105
+  \item alternative-rock, 76, 82
+  \item arabic-lyrics, 163
+  \item art-pop, 75
 
   \indexspace
 
-  \item ballad, 15
-  \item ballad-pop, 29, 66, 69
-  \item biographical, 18
-  \item blues, 12
-  \item blues-rock, 72
-  \item bolero, 104
+  \item ballad, 18
+  \item ballad-pop, 32, 78, 81
+  \item biographical, 21
+  \item blues, 15
+  \item blues-rock, 84
+  \item bolero, 144
 
   \indexspace
 
-  \item children-rock, 85
-  \item country, 94
-  \item cumbia, 108
+  \item children-rock, 103
+  \item country, 116
+  \item cumbia, 148
 
   \indexspace
 
-  \item dance, 5, 6
-  \item dark, 10
-  \item dubstep, 7--12, 84, 99
+  \item dance, 7, 8
+  \item dark, 12
+  \item dubstep, 9--13, 15, 102, 121
 
   \indexspace
 
-  \item electronic-dubstep, 28, 31, 32
-  \item electronic-pop, 65
-  \item electroswing, 5, 6
-  \item english-lyrics, 57, 58, 133, 134
-  \item experimental-pop, 105
+  \item electronic-dubstep, 31, 34, 35
+  \item electronic-pop, 77
+  \item electroswing, 7, 8
+  \item english-lyrics, 69, 70, 189, 190
+  \item experimental-pop, 145
 
   \indexspace
 
-  \item female-vocals, 7--12
-  \item french-lyrics, 5
+  \item female-vocals, 9--13, 15
+  \item french-lyrics, 7
 
   \indexspace
 
-  \item gemini, 57, 58, 132--134
-  \item glam-metal, 4, 95
-  \item gospel, 81, 83, 84
-  \item gregorian-chant, 87
+  \item gemini, 69, 70, 188--190
+  \item glam-metal, 6, 117
+  \item gospel, 99, 101, 102
+  \item gregorian-chant, 105
 
   \indexspace
 
-  \item hard-rock, 24, 25, 132
-  \item heavy-metal, 132
-  \item house, 7--10, 106
-  \item house-pop, 11
+  \item hard-rock, 27, 28, 188
+  \item heavy-metal, 188
+  \item house, 9--12, 146
+  \item house-pop, 13
 
   \indexspace
 
-  \item indie-folk, 57, 133
-  \item instrumental, 126, 127
+  \item indie-folk, 69, 189
+  \item instrumental, 174, 175
 
   \indexspace
 
-  \item jazz-cumbia, 126
+  \item jazz-cumbia, 174
 
   \indexspace
 
-  \item k-pop, 117
+  \item k-pop, 157
 
   \indexspace
 
-  \item latin, 11
-  \item latin-house, 12
+  \item latin, 13
+  \item latin-house, 15
 
   \indexspace
 
-  \item musical-theater, 19, 58, 62, 67, 86, 134
+  \item musical-theater, 22, 70, 74, 79, 104, 190
 
   \indexspace
 
-  \item new-age-techno, 27
+  \item new-age-techno, 30
 
   \indexspace
 
-  \item original-idea, 54
-  \item original-lyrics, 4--6, 24--28, 31, 32, 38, 85, 86, 104
-  \item original-seed, 29, 66--70, 72, 108
-  \item original-source, 7--13, 118, 120
-  \item original-work, 14, 19--22, 62--65, 81, 83, 84, 99, 105, 106
+  \item original-idea, 66
+  \item original-lyrics, 6--8, 27--31, 34, 35, 41, 103, 104, 144, 
+		170, 171
+  \item original-seed, 32, 78--82, 84, 148
+  \item original-source, 9--13, 15, 16, 158, 160
+  \item original-work, 17, 22--25, 74--77, 99, 101, 102, 121, 145, 146
+  \item orignal-lyrics, 89, 90, 92
 
   \indexspace
 
-  \item pop-ballad, 15, 55
-  \item pop-rock, 26, 58, 68, 134
-  \item punk-rock, 54
+  \item pop-ballad, 18, 67
+  \item pop-rock, 29, 70, 80, 190
+  \item punk-rock, 66
 
   \indexspace
 
-  \item quora-post, 88--90, 96
+  \item quora, 111, 124, 125
+  \item quora-post, 106--108, 118
 
   \indexspace
 
-  \item rap, 12
-  \item remix, 57, 58
+  \item rap, 15
+  \item remix, 69, 70
+  \item roads, 128--130, 132--141
 
   \indexspace
 
-  \item salsa, 8
-  \item social-media-seed, 55, 56, 66--70, 72, 94, 132--134
-  \item soul, 81
-  \item spanish-lyrics, 7--12, 20--22, 63, 64, 104, 122
-  \item swedish-lyrics, 6, 15
+  \item salsa, 10
+  \item social-media-seed, 67, 68, 78--82, 84, 116, 188--190
+  \item soul, 99
+  \item spanish-lyrics, 9--13, 15, 23--25, 75, 76, 144, 162
+  \item swedish-lyrics, 8, 18
 
   \indexspace
 
-  \item techno, 56
-  \item trance, 20--22
+  \item techno, 68
+  \item trance, 23--25
 
   \indexspace
 
-  \item zamba, 122
+  \item zamba, 162
 
 \end{theindex}

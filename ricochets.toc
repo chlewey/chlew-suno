@@ -14,16 +14,19 @@
 \contentsline {section}{The Healer and the Hurting}{19}{}%
 \contentsline {section}{Everybody Knows Henry}{20}{}%
 \contentsline {section}{The Asset}{21}{}%
-\contentsline {section}{Morocho}{23}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{25}{}%
-\contentsline {section}{Le Rêve des Autres}{26}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{27}{}%
-\contentsline {section}{Lo que queda}{28}{}%
-\contentsline {section}{Corona de alambre}{29}{}%
-\contentsline {chapter}{Extended}{31}{}%
-\contentsline {section}{Henry Little}{32}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{33}{}%
-\contentsline {section}{Cada uno en su lugar}{34}{}%
-\contentsline {section}{Sabbatical}{35}{}%
-\contentsline {chapter}{Inspired}{37}{}%
-\contentsline {section}{El corrido de Carlson}{38}{}%
+\contentsline {section}{Before That Blows}{23}{}%
+\contentsline {section}{Khamid Khaled}{24}{}%
+\contentsline {section}{Morocho}{25}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{27}{}%
+\contentsline {section}{Le Rêve des Autres}{28}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{29}{}%
+\contentsline {section}{Lo que queda}{30}{}%
+\contentsline {section}{Corona de alambre}{31}{}%
+\contentsline {chapter}{Extended}{33}{}%
+\contentsline {section}{Henry Little}{34}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{35}{}%
+\contentsline {section}{Cada uno en su lugar}{36}{}%
+\contentsline {section}{Sabbatical}{37}{}%
+\contentsline {section}{The Spark in Her Eyes}{38}{}%
+\contentsline {chapter}{Inspired}{39}{}%
+\contentsline {section}{El corrido de Carlson}{40}{}%
