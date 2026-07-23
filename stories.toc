@@ -111,60 +111,63 @@
 \contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{96}{}%
 \contentsline {section}{Tide Like Gold}{98}{}%
 \contentsline {section}{Seven Archetypes}{99}{}%
-\contentsline {section}{Purple Under Dye}{100}{}%
-\contentsline {chapter}{Self}{101}{}%
-\contentsline {section}{Adi In The Locker}{102}{}%
-\contentsline {section}{Sofa at Midnight}{103}{}%
-\contentsline {section}{Ale On The Sofa}{104}{}%
-\contentsline {section}{Unconfessed}{105}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{106}{}%
-\contentsline {subsection}{Notes}{106}{}%
-\contentsline {subsection}{Style}{106}{}%
-\contentsline {section}{Arrow Throwing Rat}{108}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{109}{}%
-\contentsline {section}{A la distancia}{110}{}%
-\contentsline {section}{Watching from a Distance}{111}{}%
-\contentsline {section}{Bogotá Cathedral}{112}{}%
-\contentsline {section}{Паутина Андрея}{113}{}%
-\contentsline {chapter}{More}{115}{}%
-\contentsline {section}{Passenger-Side Switch}{116}{}%
-\contentsline {subsection}{Notes}{116}{}%
-\contentsline {subsection}{Style}{116}{}%
-\contentsline {section}{She'll let you know}{117}{}%
-\contentsline {section}{Dead Sea's barren dreams}{118}{}%
-\contentsline {section}{Dapich Sápica}{119}{}%
-\contentsline {section}{Vinterfrostleende}{120}{}%
-\contentsline {section}{Ökenskor av Salt}{121}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{122}{}%
-\contentsline {section}{Little Velvet Ghost}{123}{}%
-\contentsline {subsection}{Notes}{123}{}%
-\contentsline {subsection}{Style}{123}{}%
-\contentsline {section}{Duda en Piravita}{124}{}%
-\contentsline {subsection}{Notes}{124}{}%
-\contentsline {subsection}{Style}{124}{}%
-\contentsline {section}{Padre Peter}{126}{}%
+\contentsline {section}{Seven Men Deep}{100}{}%
+\contentsline {section}{Purple Under Dye}{101}{}%
+\contentsline {chapter}{Self}{103}{}%
+\contentsline {section}{Adi In The Locker}{104}{}%
+\contentsline {section}{Sofa at Midnight}{105}{}%
+\contentsline {section}{Ale On The Sofa}{106}{}%
+\contentsline {section}{Unconfessed}{107}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{108}{}%
+\contentsline {subsection}{Notes}{108}{}%
+\contentsline {subsection}{Style}{108}{}%
+\contentsline {section}{Arrow Throwing Rat}{110}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{111}{}%
+\contentsline {section}{A la distancia}{112}{}%
+\contentsline {section}{Watching from a Distance}{113}{}%
+\contentsline {section}{Bogotá Cathedral}{114}{}%
+\contentsline {section}{Паутина Андрея}{115}{}%
+\contentsline {chapter}{More}{117}{}%
+\contentsline {section}{Passenger-Side Switch}{118}{}%
+\contentsline {subsection}{Notes}{118}{}%
+\contentsline {subsection}{Style}{118}{}%
+\contentsline {section}{She'll let you know}{119}{}%
+\contentsline {section}{Dead Sea's barren dreams}{120}{}%
+\contentsline {section}{Dapich Sápica}{121}{}%
+\contentsline {section}{Vinterfrostleende}{122}{}%
+\contentsline {section}{Ökenskor av Salt}{123}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{124}{}%
+\contentsline {section}{Little Velvet Ghost}{125}{}%
+\contentsline {subsection}{Notes}{125}{}%
+\contentsline {subsection}{Style}{125}{}%
+\contentsline {section}{Duda en Piravita}{126}{}%
 \contentsline {subsection}{Notes}{126}{}%
 \contentsline {subsection}{Style}{126}{}%
-\contentsline {section}{Wild Cat}{127}{}%
-\contentsline {section}{Fallen Messenger}{128}{}%
-\contentsline {section}{Fallen Messenger}{129}{}%
-\contentsline {section}{Secreto de padre}{130}{}%
-\contentsline {section}{The Man I Taught You To Be}{132}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{134}{}%
-\contentsline {section}{Said and Done}{135}{}%
-\contentsline {section}{Pío}{137}{}%
-\contentsline {chapter}{Fragments}{139}{}%
-\contentsline {section}{Peccato bello}{140}{}%
-\contentsline {section}{Comfort Zones}{141}{}%
-\contentsline {section}{Kein Feuer}{142}{}%
-\contentsline {section}{Gota a gota}{143}{}%
-\contentsline {section}{Cataplún Zap!}{144}{}%
-\contentsline {section}{Street Corner Zambomba}{145}{}%
-\contentsline {section}{Pacificate}{146}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{147}{}%
-\contentsline {section}{Ik schreef mijn naam in}{148}{}%
-\contentsline {section}{Тепло без якоря}{149}{}%
-\contentsline {chapter}{Covers}{151}{}%
-\contentsline {section}{La perrilla (pasillo)}{152}{}%
-\contentsline {section}{La perrilla (dance)}{153}{}%
-\contentsline {section}{Diamond Depth August}{154}{}%
+\contentsline {section}{Padre Peter}{128}{}%
+\contentsline {subsection}{Notes}{128}{}%
+\contentsline {subsection}{Style}{128}{}%
+\contentsline {section}{Wild Cat}{129}{}%
+\contentsline {section}{Fallen Messenger}{130}{}%
+\contentsline {section}{Fallen Messenger}{131}{}%
+\contentsline {section}{Secreto de padre}{132}{}%
+\contentsline {section}{The Man I Taught You To Be}{134}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{136}{}%
+\contentsline {section}{Said and Done}{137}{}%
+\contentsline {section}{Pío}{139}{}%
+\contentsline {section}{The Laws of Hospitality}{140}{}%
+\contentsline {chapter}{Fragments}{141}{}%
+\contentsline {section}{Peccato bello}{142}{}%
+\contentsline {section}{Comfort Zones}{143}{}%
+\contentsline {section}{Kein Feuer}{144}{}%
+\contentsline {section}{Gota a gota}{145}{}%
+\contentsline {section}{Cataplún Zap!}{146}{}%
+\contentsline {section}{Street Corner Zambomba}{147}{}%
+\contentsline {section}{Pacificate}{148}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{149}{}%
+\contentsline {section}{Ik schreef mijn naam in}{150}{}%
+\contentsline {section}{Тепло без якоря}{151}{}%
+\contentsline {chapter}{Covers}{153}{}%
+\contentsline {section}{La perrilla (pasillo)}{154}{}%
+\contentsline {section}{La perrilla (dance)}{155}{}%
+\contentsline {section}{Diamond Depth August}{156}{}%
+\contentsline {section}{Tu puro vivir}{157}{}%
