@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+
+\setdefaultlanguage{english}
+\setotherlanguage{japanese}
+
+\newfontfamily\japanesefont{Yu Gothic}
+
+\begin{document}
+
+A: {\japanesefont 湖畔フェス}
+
+B: \textjapanese{湖畔フェス}
+
+C:
+\begin{japanese}
+湖畔フェス
+
+夏の終わりだった
+\end{japanese}
+
+\end{document}

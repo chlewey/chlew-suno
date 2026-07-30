@@ -37,3 +37,5 @@
 \contentsline {section}{Miguel Morocho}{45}{}%
 \contentsline {chapter}{Inspired}{47}{}%
 \contentsline {section}{El corrido de Carlson}{48}{}%
+\contentsline {section}{Two Faces in the Ledger}{49}{}%
+\contentsline {section}{Two Women One Case}{50}{}%
