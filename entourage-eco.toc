@@ -72,56 +72,63 @@
 \contentsline {section}{Tallinn Window}{81}{}%
 \contentsline {section}{Where's the Fun}{82}{}%
 \contentsline {section}{I'm Gonna Be Boring}{83}{}%
-\contentsline {chapter}{Tallin Series}{85}{}%
-\contentsline {section}{Tucanito to Tallinn}{86}{}%
-\contentsline {section}{Semestermap in Tallinn}{87}{}%
-\contentsline {section}{Tallinn By January}{88}{}%
-\contentsline {section}{Tallinn To Riga}{89}{}%
-\contentsline {section}{Villa in Sardinia}{90}{}%
-\contentsline {section}{Eight March Locked In}{91}{}%
-\contentsline {section}{Teal in Carbonia}{92}{}%
-\contentsline {chapter}{Tallin Stories}{93}{}%
-\contentsline {section}{Steel \& Violet}{94}{}%
-\contentsline {section}{So Wrong}{95}{}%
-\contentsline {section}{Extension of Friendship}{96}{}%
-\contentsline {section}{Catching Up}{97}{}%
-\contentsline {section}{Carroll Gardens}{98}{}%
-\contentsline {section}{I Thought We Were Home}{100}{}%
-\contentsline {section}{Carbonia Villa Blues}{101}{}%
-\contentsline {section}{The Other Local Girl}{102}{}%
-\contentsline {section}{Paolo’s Text}{104}{}%
-\contentsline {section}{Quiet Cracked Routine}{105}{}%
-\contentsline {chapter}{Sylvia's diary}{107}{}%
-\contentsline {section}{Peccato d'aprile}{108}{}%
-\contentsline {section}{Casa non è}{110}{}%
-\contentsline {section}{Qualcosa di vero}{112}{}%
-\contentsline {section}{Sa fiamma}{114}{}%
-\contentsline {section}{Resto qui}{116}{}%
-\contentsline {chapter}{Gabi's bio}{119}{}%
-\contentsline {section}{Potsdam After the Fall}{120}{}%
-\contentsline {section}{Garage Lines}{121}{}%
-\contentsline {section}{Welding Certificate}{122}{}%
-\contentsline {section}{Queens Weld Shop}{123}{}%
-\contentsline {section}{Summer of Potsdam}{124}{}%
-\contentsline {section}{Summer Of Thirteen}{125}{}%
-\contentsline {section}{Mariain}{126}{}%
-\contentsline {section}{Inherited Heat}{127}{}%
-\contentsline {section}{Clean Cut Winter}{128}{}%
-\contentsline {section}{Thomas In August}{129}{}%
-\contentsline {section}{What Thomas Gave}{130}{}%
-\contentsline {section}{Official Partner}{131}{}%
-\contentsline {section}{Potsdam 2021}{132}{}%
-\contentsline {section}{Queens Studio Key}{133}{}%
-\contentsline {section}{The Cleaner Exit}{134}{}%
-\contentsline {section}{Before Barcelona}{135}{}%
-\contentsline {section}{Still A Promise}{136}{}%
-\contentsline {chapter}{Places and projects}{137}{}%
-\contentsline {section}{Punta Espada 2026}{138}{}%
-\contentsline {section}{Tri-Spine País}{139}{}%
-\contentsline {chapter}{Translations}{141}{}%
-\contentsline {section}{Vor Barcelona (English)}{142}{}%
-\contentsline {section}{Diana carries her own gravity}{143}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{144}{}%
+\contentsline {section}{For Now}{84}{}%
+\contentsline {section}{Baguettine}{85}{}%
+\contentsline {section}{That Kind}{86}{}%
+\contentsline {section}{Footnotes and Maps}{87}{}%
+\contentsline {chapter}{Tallin Series}{89}{}%
+\contentsline {section}{Tucanito to Tallinn}{90}{}%
+\contentsline {section}{Semestermap in Tallinn}{91}{}%
+\contentsline {section}{Tallinn By January}{92}{}%
+\contentsline {section}{Tallinn To Riga}{93}{}%
+\contentsline {section}{Villa in Sardinia}{94}{}%
+\contentsline {section}{Eight March Locked In}{95}{}%
+\contentsline {section}{Teal in Carbonia}{96}{}%
+\contentsline {chapter}{Tallin Stories}{97}{}%
+\contentsline {section}{Steel \& Violet}{98}{}%
+\contentsline {section}{So Wrong}{99}{}%
+\contentsline {section}{Extension of Friendship}{100}{}%
+\contentsline {section}{Catching Up}{101}{}%
+\contentsline {section}{Carroll Gardens}{102}{}%
+\contentsline {section}{I Thought We Were Home}{104}{}%
+\contentsline {section}{Carbonia Villa Blues}{105}{}%
+\contentsline {section}{The Other Local Girl}{106}{}%
+\contentsline {section}{Paolo’s Text}{108}{}%
+\contentsline {section}{Quiet Cracked Routine}{109}{}%
+\contentsline {chapter}{Sylvia's diary}{111}{}%
+\contentsline {section}{Peccato d'aprile}{112}{}%
+\contentsline {section}{Casa non è}{114}{}%
+\contentsline {section}{Qualcosa di vero}{116}{}%
+\contentsline {section}{Sa fiamma}{118}{}%
+\contentsline {section}{Resto qui}{120}{}%
+\contentsline {chapter}{Gabi's bio}{123}{}%
+\contentsline {section}{Potsdam After the Fall}{124}{}%
+\contentsline {section}{Garage Lines}{125}{}%
+\contentsline {section}{Welding Certificate}{126}{}%
+\contentsline {section}{Queens Weld Shop}{127}{}%
+\contentsline {section}{Summer of Potsdam}{128}{}%
+\contentsline {section}{Summer Of Thirteen}{129}{}%
+\contentsline {section}{Mariain}{130}{}%
+\contentsline {section}{Inherited Heat}{131}{}%
+\contentsline {section}{Clean Cut Winter}{132}{}%
+\contentsline {section}{Thomas In August}{133}{}%
+\contentsline {section}{What Thomas Gave}{134}{}%
+\contentsline {section}{Official Partner}{135}{}%
+\contentsline {section}{Potsdam 2021}{136}{}%
+\contentsline {section}{Queens Studio Key}{137}{}%
+\contentsline {section}{The Cleaner Exit}{138}{}%
+\contentsline {section}{Before Barcelona}{139}{}%
+\contentsline {section}{Still A Promise}{140}{}%
+\contentsline {chapter}{Places and projects}{141}{}%
+\contentsline {section}{Punta Espada 2026}{142}{}%
+\contentsline {section}{Tri-Spine País}{143}{}%
+\contentsline {section}{Bogotá Bajo Tierra}{144}{}%
+\contentsline {section}{Nueva Concordia}{145}{}%
+\contentsline {section}{MACAW Alza Vuelo}{146}{}%
+\contentsline {chapter}{Translations}{147}{}%
+\contentsline {section}{Vor Barcelona (English)}{148}{}%
+\contentsline {section}{Diana carries her own gravity}{149}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{150}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -142,8 +149,8 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Unopened Door}{145}{}%
-\contentsline {section}{Choosing Here}{146}{}%
-\contentsline {section}{Petrovna}{148}{}%
-\contentsline {chapter}{Drafts}{149}{}%
-\contentsline {section}{Vor Barcelona}{150}{}%
+\contentsline {section}{Unopened Door}{151}{}%
+\contentsline {section}{Choosing Here}{152}{}%
+\contentsline {section}{Petrovna}{154}{}%
+\contentsline {chapter}{Drafts}{155}{}%
+\contentsline {section}{Vor Barcelona}{156}{}%

@@ -179,31 +179,28 @@
 \contentsline {section}{Two Ways to Think}{146}{}%
 \contentsline {section}{Los buenos somos más}{147}{}%
 \contentsline {section}{No Middle Seat}{148}{}%
-\contentsline {chapter}{Circuits and roads}{149}{}%
-\contentsline {section}{Valdai Watershed}{150}{}%
-\contentsline {section}{Congo Ring}{151}{}%
-\contentsline {section}{Seidenstraße}{152}{}%
-\contentsline {section}{The Same Blue Field}{154}{}%
-\contentsline {section}{Mates and Rivers}{155}{}%
-\contentsline {section}{Red Bag Chichería}{156}{}%
-\contentsline {section}{From the Fields to the Flood}{157}{}%
-\contentsline {section}{Water Made Us}{158}{}%
-\contentsline {section}{Where Waters Sort}{159}{}%
-\contentsline {section}{Rif Valley Rave}{160}{}%
-\contentsline {section}{Пѣснь о Кругахъ Путей}{161}{}%
-\contentsline {section}{Ride The Circuits}{162}{}%
-\contentsline {section}{Circuit World}{163}{}%
-\contentsline {chapter}{More}{165}{}%
-\contentsline {section}{Chiq}{166}{}%
-\contentsline {section}{E Numa Lah}{167}{}%
-\contentsline {section}{Bucket List}{168}{}%
-\contentsline {section}{Bogotá}{170}{}%
-\contentsline {subsection}{Notes}{170}{}%
-\contentsline {subsection}{Style}{170}{}%
-\contentsline {section}{TrackB}{171}{}%
+\contentsline {section}{Bogotá Backbone}{149}{}%
+\contentsline {chapter}{Circuits and roads}{151}{}%
+\contentsline {section}{Valdai Watershed}{152}{}%
+\contentsline {section}{Congo Ring}{153}{}%
+\contentsline {section}{Seidenstraße}{154}{}%
+\contentsline {section}{The Same Blue Field}{156}{}%
+\contentsline {section}{Mates and Rivers}{157}{}%
+\contentsline {section}{Red Bag Chichería}{158}{}%
+\contentsline {section}{From the Fields to the Flood}{159}{}%
+\contentsline {section}{Water Made Us}{160}{}%
+\contentsline {section}{Where Waters Sort}{161}{}%
+\contentsline {section}{Rif Valley Rave}{162}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{163}{}%
+\contentsline {section}{Ride The Circuits}{164}{}%
+\contentsline {section}{Circuit World}{165}{}%
+\contentsline {chapter}{More}{167}{}%
+\contentsline {section}{Chiq}{168}{}%
+\contentsline {section}{Bucket List}{169}{}%
+\contentsline {section}{Bogotá}{171}{}%
 \contentsline {subsection}{Notes}{171}{}%
 \contentsline {subsection}{Style}{171}{}%
-\contentsline {section}{Kapu Lema}{172}{}%
+\contentsline {section}{TrackB}{172}{}%
 \contentsline {subsection}{Notes}{172}{}%
 \contentsline {subsection}{Style}{172}{}%
 \contentsline {section}{Operating Manual (For Changing a Light Bulb)}{173}{}%
@@ -215,23 +212,22 @@
 \contentsline {section}{Buba Kiki Riot}{175}{}%
 \contentsline {subsection}{Notes}{175}{}%
 \contentsline {subsection}{Style}{175}{}%
-\contentsline {section}{Badiba Buka}{176}{}%
-\contentsline {section}{Le cœur léger}{177}{}%
-\contentsline {section}{Canta la Ruta}{178}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{179}{}%
-\contentsline {section}{Güiro quemado}{180}{}%
-\contentsline {section}{Memory Wakes}{182}{}%
-\contentsline {section}{Espero}{184}{}%
-\contentsline {section}{The Night}{185}{}%
-\contentsline {section}{Rainbow Candy Parade}{186}{}%
-\contentsline {section}{Cut Me Loose}{187}{}%
-\contentsline {section}{The Toxic Ghost}{188}{}%
-\contentsline {section}{Take Me South}{189}{}%
-\contentsline {section}{Sabor en la Mesa}{190}{}%
-\contentsline {section}{Taste the Menu}{191}{}%
-\contentsline {section}{The Laws of the Stranger}{192}{}%
-\contentsline {section}{Entre cajas y llamadas}{193}{}%
-\contentsline {section}{Parará Pa Pa}{194}{}%
+\contentsline {section}{Le cœur léger}{176}{}%
+\contentsline {section}{Canta la Ruta}{177}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{178}{}%
+\contentsline {section}{Güiro quemado}{179}{}%
+\contentsline {section}{Memory Wakes}{181}{}%
+\contentsline {section}{Espero}{183}{}%
+\contentsline {section}{The Night}{184}{}%
+\contentsline {section}{Rainbow Candy Parade}{185}{}%
+\contentsline {section}{Cut Me Loose}{186}{}%
+\contentsline {section}{The Toxic Ghost}{187}{}%
+\contentsline {section}{Take Me South}{188}{}%
+\contentsline {section}{Sabor en la Mesa}{189}{}%
+\contentsline {section}{Taste the Menu}{190}{}%
+\contentsline {section}{The Laws of the Stranger}{191}{}%
+\contentsline {section}{Entre cajas y llamadas}{192}{}%
+\contentsline {section}{Post-Capitalist Lonely}{193}{}%
 \contentsline {chapter}{Hymns and Chants}{195}{}%
 \contentsline {section}{Red and Yellow}{196}{}%
 \contentsline {section}{Bajo La Tricolor}{197}{}%
@@ -241,41 +237,55 @@
 \contentsline {section}{Lutz de la Tèrra}{201}{}%
 \contentsline {section}{Sal de la tierra}{202}{}%
 \contentsline {section}{Wingman}{203}{}%
-\contentsline {chapter}{instrumental}{205}{}%
-\contentsline {section}{Callejón Azul}{206}{}%
-\contentsline {section}{Monstruo Ciudad}{207}{}%
+\contentsline {chapter}{Conlangs and Glossolalia}{205}{}%
+\contentsline {section}{E Numa Lah}{206}{}%
+\contentsline {section}{Kapu Lema}{207}{}%
 \contentsline {subsection}{Notes}{207}{}%
-\contentsline {subsection}{Prompt}{207}{}%
-\contentsline {section}{March and Tumbao}{208}{}%
-\contentsline {section}{Candy Rock Day}{209}{}%
-\contentsline {section}{Clave and Chrome}{210}{}%
-\contentsline {section}{Beachside Boogie}{211}{}%
-\contentsline {section}{Scraper Road}{212}{}%
-\contentsline {section}{Iron Pulse}{213}{}%
-\contentsline {section}{Stone Light Portrait}{214}{}%
-\contentsline {section}{Calle Tumbao}{215}{}%
-\contentsline {section}{Claim Ledger Drift}{216}{}%
-\contentsline {section}{The Great Gatsby}{217}{}%
-\contentsline {section}{Migrant Echoes}{218}{}%
-\contentsline {chapter}{Fragments}{219}{}%
-\contentsline {section}{Burn the Glass}{220}{}%
-\contentsline {section}{A Drunk Without A Drop}{221}{}%
-\contentsline {section}{The Bitter Toll}{222}{}%
-\contentsline {chapter}{Adaptations}{223}{}%
-\contentsline {section}{The Wrong Map}{224}{}%
-\contentsline {section}{The Wrong Map}{226}{}%
-\contentsline {section}{They Multiply}{227}{}%
-\contentsline {section}{Deserve}{228}{}%
-\contentsline {section}{The Hardest Toll}{230}{}%
-\contentsline {section}{The Fault in Your Character (EBD)}{232}{}%
-\contentsline {section}{Vida simple}{234}{}%
-\contentsline {section}{Los buenos somos más}{235}{}%
-\contentsline {section}{Wild Cat, Wild Flower}{236}{}%
-\contentsline {section}{Carried Away}{237}{}%
-\contentsline {section}{Non-Aligned}{239}{}%
-\contentsline {section}{Si no te hace falta}{240}{}%
-\contentsline {section}{Piel / Stimuli}{241}{}%
-\contentsline {section}{Soundwall}{242}{}%
-\contentsline {section}{Crave Stimuli}{243}{}%
-\contentsline {section}{Crave Stimuli (rave)}{244}{}%
-\contentsline {section}{Keep Me}{245}{}%
+\contentsline {subsection}{Style}{207}{}%
+\contentsline {section}{Badiba Buka}{208}{}%
+\contentsline {section}{Parará Pa Pa}{209}{}%
+\contentsline {section}{O ku pater de nos}{210}{}%
+\contentsline {chapter}{Instrumental}{211}{}%
+\contentsline {section}{Callejón Azul}{212}{}%
+\contentsline {section}{Monstruo Ciudad}{213}{}%
+\contentsline {subsection}{Notes}{213}{}%
+\contentsline {subsection}{Prompt}{213}{}%
+\contentsline {section}{March and Tumbao}{214}{}%
+\contentsline {section}{Candy Rock Day}{215}{}%
+\contentsline {section}{Clave and Chrome}{216}{}%
+\contentsline {section}{Beachside Boogie}{217}{}%
+\contentsline {section}{Scraper Road}{218}{}%
+\contentsline {section}{Iron Pulse}{219}{}%
+\contentsline {section}{Stone Light Portrait}{220}{}%
+\contentsline {section}{Calle Tumbao}{221}{}%
+\contentsline {section}{Claim Ledger Drift}{222}{}%
+\contentsline {section}{The Great Gatsby}{223}{}%
+\contentsline {section}{Migrant Echoes}{224}{}%
+\contentsline {chapter}{Fragments}{225}{}%
+\contentsline {section}{Burn the Glass}{226}{}%
+\contentsline {section}{A Drunk Without A Drop}{227}{}%
+\contentsline {section}{The Bitter Toll}{228}{}%
+\contentsline {chapter}{Adaptations}{229}{}%
+\contentsline {section}{The Wrong Map}{230}{}%
+\contentsline {section}{The Wrong Map}{232}{}%
+\contentsline {section}{They Multiply}{233}{}%
+\contentsline {section}{Deserve}{234}{}%
+\contentsline {section}{The Hardest Toll}{236}{}%
+\contentsline {section}{The Fault in Your Character (EBD)}{238}{}%
+\contentsline {section}{Vida simple}{240}{}%
+\contentsline {section}{Los buenos somos más}{241}{}%
+\contentsline {section}{Wild Cat, Wild Flower}{242}{}%
+\contentsline {section}{Carried Away}{243}{}%
+\contentsline {section}{Non-Aligned}{245}{}%
+\contentsline {section}{Si no te hace falta}{246}{}%
+\contentsline {section}{Piel / Stimuli}{247}{}%
+\contentsline {section}{Soundwall}{248}{}%
+\contentsline {section}{Crave Stimuli}{249}{}%
+\contentsline {section}{Crave Stimuli (rave)}{250}{}%
+\contentsline {section}{Keep Me}{251}{}%
+\contentsline {section}{Sex Without Compromise}{252}{}%
+\contentsline {section}{New // Old}{253}{}%
+\contentsline {section}{Paper in the Grinder}{254}{}%
+\contentsline {section}{Grinder Glass}{255}{}%
+\contentsline {section}{Paper In My Teeth}{256}{}%
+\contentsline {section}{Paper Cup Engine}{257}{}%

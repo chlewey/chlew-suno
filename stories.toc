@@ -129,6 +129,7 @@
 \contentsline {section}{Watching from a Distance}{117}{}%
 \contentsline {section}{Bogotá Cathedral}{118}{}%
 \contentsline {section}{Паутина Андрея}{119}{}%
+\contentsline {section}{Tuit y Ceniza}{120}{}%
 \contentsline {chapter}{Summery}{121}{}%
 \contentsline {section}{El final del verano}{122}{}%
 \contentsline {section}{End of the Summer}{123}{}%
@@ -177,50 +178,40 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {chapter}{More}{129}{}%
-\contentsline {section}{Passenger-Side Switch}{130}{}%
-\contentsline {subsection}{Notes}{130}{}%
-\contentsline {subsection}{Style}{130}{}%
-\contentsline {section}{She'll let you know}{131}{}%
-\contentsline {section}{Dead Sea's barren dreams}{132}{}%
-\contentsline {section}{Dapich Sápica}{133}{}%
-\contentsline {section}{Vinterfrostleende}{134}{}%
-\contentsline {section}{Ökenskor av Salt}{135}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{136}{}%
-\contentsline {section}{Little Velvet Ghost}{137}{}%
-\contentsline {subsection}{Notes}{137}{}%
-\contentsline {subsection}{Style}{137}{}%
-\contentsline {section}{Duda en Piravita}{138}{}%
-\contentsline {subsection}{Notes}{138}{}%
-\contentsline {subsection}{Style}{138}{}%
-\contentsline {section}{Padre Peter}{140}{}%
+\contentsline {section}{Era el final del verano}{129}{}%
+\contentsline {chapter}{More}{131}{}%
+\contentsline {section}{Passenger-Side Switch}{132}{}%
+\contentsline {subsection}{Notes}{132}{}%
+\contentsline {subsection}{Style}{132}{}%
+\contentsline {section}{She'll let you know}{133}{}%
+\contentsline {section}{Dead Sea's barren dreams}{134}{}%
+\contentsline {section}{Dapich Sápica}{135}{}%
+\contentsline {section}{Vinterfrostleende}{136}{}%
+\contentsline {section}{Ökenskor av Salt}{137}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{138}{}%
+\contentsline {section}{Little Velvet Ghost}{139}{}%
+\contentsline {subsection}{Notes}{139}{}%
+\contentsline {subsection}{Style}{139}{}%
+\contentsline {section}{Duda en Piravita}{140}{}%
 \contentsline {subsection}{Notes}{140}{}%
 \contentsline {subsection}{Style}{140}{}%
-\contentsline {section}{Wild Cat}{141}{}%
-\contentsline {section}{Fallen Messenger}{142}{}%
-\contentsline {section}{Fallen Messenger}{143}{}%
-\contentsline {section}{Secreto de padre}{144}{}%
-\contentsline {section}{The Man I Taught You To Be}{146}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{148}{}%
-\contentsline {section}{Said and Done}{149}{}%
-\contentsline {section}{Pío}{151}{}%
-\contentsline {section}{The Laws of Hospitality}{152}{}%
-\contentsline {section}{Paper Cup Kisses}{153}{}%
-\contentsline {section}{Sin Retorno}{154}{}%
-\contentsline {section}{Saulon Forecast}{155}{}%
-\contentsline {chapter}{Fragments}{157}{}%
-\contentsline {section}{Peccato bello}{158}{}%
-\contentsline {section}{Comfort Zones}{159}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{160}{}%
-\contentsline {section}{Kein Feuer}{161}{}%
-\contentsline {section}{Gota a gota}{162}{}%
-\contentsline {section}{Cataplún Zap!}{163}{}%
-\contentsline {section}{Street Corner Zambomba}{164}{}%
-\contentsline {section}{Pacificate}{165}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{166}{}%
-\contentsline {section}{Ik schreef mijn naam in}{167}{}%
-\contentsline {section}{Тепло без якоря}{168}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{169}{}%
+\contentsline {section}{Padre Peter}{142}{}%
+\contentsline {subsection}{Notes}{142}{}%
+\contentsline {subsection}{Style}{142}{}%
+\contentsline {section}{Wild Cat}{143}{}%
+\contentsline {section}{Fallen Messenger}{144}{}%
+\contentsline {section}{Fallen Messenger}{145}{}%
+\contentsline {section}{Secreto de padre}{146}{}%
+\contentsline {section}{The Man I Taught You To Be}{148}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{150}{}%
+\contentsline {section}{Said and Done}{151}{}%
+\contentsline {section}{Pío}{153}{}%
+\contentsline {section}{The Laws of Hospitality}{154}{}%
+\contentsline {section}{Paper Cup Kisses}{155}{}%
+\contentsline {section}{Sin Retorno}{156}{}%
+\contentsline {section}{Saulon Forecast}{157}{}%
+\contentsline {section}{Stone Mason Bridge}{158}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{159}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -231,8 +222,51 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {chapter}{Covers}{171}{}%
-\contentsline {section}{La perrilla (pasillo)}{172}{}%
-\contentsline {section}{La perrilla (dance)}{173}{}%
-\contentsline {section}{Diamond Depth August}{174}{}%
-\contentsline {section}{Tu puro vivir}{175}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{Ute Där Vinden Vänder}{160}{}%
+\contentsline {chapter}{Fragments}{161}{}%
+\contentsline {section}{Peccato bello}{162}{}%
+\contentsline {section}{Comfort Zones}{163}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{164}{}%
+\contentsline {section}{Kein Feuer}{165}{}%
+\contentsline {section}{Gota a gota}{166}{}%
+\contentsline {section}{Cataplún Zap!}{167}{}%
+\contentsline {section}{Street Corner Zambomba}{168}{}%
+\contentsline {section}{Pacificate}{169}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{170}{}%
+\contentsline {section}{Ik schreef mijn naam in}{171}{}%
+\contentsline {section}{Тепло без якоря}{172}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{173}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{174}{}%
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\contentsline {section}{Xumi}{175}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{176}{}%
+\contentsline {chapter}{Covers}{177}{}%
+\contentsline {section}{La perrilla (pasillo)}{178}{}%
+\contentsline {section}{La perrilla (dance)}{179}{}%
+\contentsline {section}{Diamond Depth August}{180}{}%
+\contentsline {section}{Tu puro vivir}{181}{}%

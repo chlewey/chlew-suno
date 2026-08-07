@@ -28,13 +28,14 @@
 \contentsline {section}{Cada uno en su lugar}{36}{}%
 \contentsline {section}{Sabbatical}{37}{}%
 \contentsline {section}{The Spark in Her Eyes}{38}{}%
-\contentsline {chapter}{Fragments}{39}{}%
+\contentsline {chapter}{Fragments and Summaries}{39}{}%
 \contentsline {section}{One Year No Call}{40}{}%
 \contentsline {section}{Valise sur le tarmac}{41}{}%
 \contentsline {section}{Hangar at Olaya}{42}{}%
 \contentsline {section}{Blue Optra Morning}{43}{}%
 \contentsline {section}{Sophie Durand}{44}{}%
 \contentsline {section}{Miguel Morocho}{45}{}%
+\contentsline {section}{Florida Wire}{46}{}%
 \contentsline {chapter}{Inspired}{47}{}%
 \contentsline {section}{El corrido de Carlson}{48}{}%
 \contentsline {section}{Two Faces in the Ledger}{49}{}%
