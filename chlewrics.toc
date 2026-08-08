@@ -207,42 +207,46 @@
 \contentsline {section}{Baguettine}{118}{}%
 \contentsline {section}{That Kind}{119}{}%
 \contentsline {section}{Footnotes and Maps}{120}{}%
-\contentsline {chapter}{rataflechera Works}{121}{}%
-\contentsline {section}{Siento}{122}{}%
-\contentsline {section}{A Someone or a Someone}{123}{}%
-\contentsline {section}{Chiq}{124}{}%
-\contentsline {section}{Dead Sea's barren dreams}{125}{}%
-\contentsline {section}{Mellan is och hård betong}{126}{}%
-\contentsline {section}{Love's Final Name}{127}{}%
-\contentsline {section}{Burn the Glass}{128}{}%
-\contentsline {section}{A Drunk Without A Drop}{129}{}%
-\contentsline {section}{The Bitter Toll}{130}{}%
-\contentsline {section}{Diana carries her own gravity}{131}{}%
-\contentsline {section}{Diana porte sa propre gravité}{132}{}%
-\contentsline {section}{A Drunk Without A Drop (Remix)}{133}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{134}{}%
-\contentsline {section}{Back Seat Proposal}{135}{}%
-\contentsline {section}{Peccato bello}{136}{}%
-\contentsline {section}{Comfort Zones}{137}{}%
-\contentsline {section}{Andrea at Break}{138}{}%
-\contentsline {section}{Boynton Bound}{139}{}%
-\contentsline {section}{Fiona at the Desk}{140}{}%
-\contentsline {section}{Je hais ma haine}{141}{}%
-\contentsline {section}{Town and Country}{142}{}%
-\contentsline {section}{Nomad Butterfly}{143}{}%
-\contentsline {section}{Dig}{145}{}%
-\contentsline {section}{No sé, pero vuelve}{146}{}%
-\contentsline {section}{Líneas en blanco}{147}{}%
-\contentsline {section}{Rabia en la boca}{148}{}%
-\contentsline {section}{Esfera entintada}{149}{}%
-\contentsline {section}{Si pienso en ti}{150}{}%
-\contentsline {section}{No sé, vos sabés}{151}{}%
-\contentsline {section}{Travel Notes}{152}{}%
-\contentsline {section}{Güiro quemado}{153}{}%
-\contentsline {section}{Memory Wakes}{155}{}%
-\contentsline {section}{Kein Feuer}{157}{}%
-\contentsline {section}{Ricochets Hangover}{158}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{160}{}%
+\contentsline {section}{Baltic and Bogotá}{121}{}%
+\contentsline {section}{Measured Sip}{122}{}%
+\contentsline {section}{Just Trains}{123}{}%
+\contentsline {section}{Queens Changes Fast}{124}{}%
+\contentsline {chapter}{rataflechera Works}{125}{}%
+\contentsline {section}{Siento}{126}{}%
+\contentsline {section}{A Someone or a Someone}{127}{}%
+\contentsline {section}{Chiq}{128}{}%
+\contentsline {section}{Dead Sea's barren dreams}{129}{}%
+\contentsline {section}{Mellan is och hård betong}{130}{}%
+\contentsline {section}{Love's Final Name}{131}{}%
+\contentsline {section}{Burn the Glass}{132}{}%
+\contentsline {section}{A Drunk Without A Drop}{133}{}%
+\contentsline {section}{The Bitter Toll}{134}{}%
+\contentsline {section}{Diana carries her own gravity}{135}{}%
+\contentsline {section}{Diana porte sa propre gravité}{136}{}%
+\contentsline {section}{A Drunk Without A Drop (Remix)}{137}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{138}{}%
+\contentsline {section}{Back Seat Proposal}{139}{}%
+\contentsline {section}{Peccato bello}{140}{}%
+\contentsline {section}{Comfort Zones}{141}{}%
+\contentsline {section}{Andrea at Break}{142}{}%
+\contentsline {section}{Boynton Bound}{143}{}%
+\contentsline {section}{Fiona at the Desk}{144}{}%
+\contentsline {section}{Je hais ma haine}{145}{}%
+\contentsline {section}{Town and Country}{146}{}%
+\contentsline {section}{Nomad Butterfly}{147}{}%
+\contentsline {section}{Dig}{149}{}%
+\contentsline {section}{No sé, pero vuelve}{150}{}%
+\contentsline {section}{Líneas en blanco}{151}{}%
+\contentsline {section}{Rabia en la boca}{152}{}%
+\contentsline {section}{Esfera entintada}{153}{}%
+\contentsline {section}{Si pienso en ti}{154}{}%
+\contentsline {section}{No sé, vos sabés}{155}{}%
+\contentsline {section}{Travel Notes}{156}{}%
+\contentsline {section}{Güiro quemado}{157}{}%
+\contentsline {section}{Memory Wakes}{159}{}%
+\contentsline {section}{Kein Feuer}{161}{}%
+\contentsline {section}{Ricochets Hangover}{162}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{164}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -263,90 +267,90 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Espero}{161}{}%
-\contentsline {section}{Dapich Sápica}{162}{}%
-\contentsline {section}{Gota a gota}{163}{}%
-\contentsline {section}{Cataplún Zap!}{164}{}%
-\contentsline {section}{Street Corner Zambomba}{165}{}%
-\contentsline {section}{Gabi’s Shoulder}{166}{}%
-\contentsline {section}{Unspoken Rhythm}{168}{}%
-\contentsline {section}{The Night}{169}{}%
-\contentsline {section}{Strangers in the Light}{170}{}%
-\contentsline {section}{Café Glance}{171}{}%
-\contentsline {section}{Petals and Ink}{172}{}%
-\contentsline {section}{Balance of Three}{173}{}%
-\contentsline {section}{Royal Docks}{174}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{176}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{177}{}%
-\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{178}{}%
-\contentsline {section}{Unopened Door}{179}{}%
-\contentsline {section}{Obsidian Gaze}{180}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{181}{}%
-\contentsline {section}{Uks, mis pole lahti}{182}{}%
-\contentsline {section}{Liis Talveuks}{183}{}%
-\contentsline {section}{Pacificate}{184}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{185}{}%
-\contentsline {section}{Critter Kin (Man's an Animal Too)}{186}{}%
-\contentsline {section}{Terracotta View (Golden Mid-Glance)}{187}{}%
-\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{188}{}%
-\contentsline {section}{Then There's You}{189}{}%
-\contentsline {section}{Ninety-Six Static}{190}{}%
-\contentsline {section}{Whiteboard Queen}{191}{}%
-\contentsline {section}{Zahra in White}{192}{}%
-\contentsline {section}{I Thought We Were Home}{193}{}%
-\contentsline {section}{The Other Local Girl}{194}{}%
-\contentsline {section}{Badiba Buka}{196}{}%
-\contentsline {section}{Le cœur léger}{197}{}%
-\contentsline {section}{Rough Diamond}{198}{}%
-\contentsline {section}{Petrovna // Петровна}{199}{}%
-\contentsline {section}{Petrovna}{200}{}%
-\contentsline {section}{Canta la Ruta}{201}{}%
-\contentsline {section}{Everybody Knows Henry}{202}{}%
-\contentsline {section}{Henry Little}{203}{}%
-\contentsline {section}{The Asset}{204}{}%
-\contentsline {section}{Ack-Rostica}{206}{}%
-\contentsline {section}{Awk-Rustica}{207}{}%
-\contentsline {section}{Across-Ticks}{208}{}%
-\contentsline {section}{Candy Rock Day}{209}{}%
-\contentsline {section}{Rainbow Candy Parade}{210}{}%
-\contentsline {section}{Ik schreef mijn naam in}{211}{}%
-\contentsline {section}{Тепло без якоря}{212}{}%
-\contentsline {section}{Golden at the Shore}{213}{}%
-\contentsline {section}{Green Water Memory}{214}{}%
-\contentsline {section}{Teal Tips On The Bed}{215}{}%
-\contentsline {section}{Copper-Fire Crown}{216}{}%
-\contentsline {section}{Trembling Blues}{217}{}%
-\contentsline {section}{Pálpitos prohibidos}{218}{}%
-\contentsline {section}{Temblando}{219}{}%
-\contentsline {section}{Skälvning}{220}{}%
-\contentsline {section}{A la distancia}{221}{}%
-\contentsline {section}{Benches Cabins Diamonds}{222}{}%
-\contentsline {section}{Ciudad Punta Espada}{223}{}%
-\contentsline {section}{The Toxic Ghost}{224}{}%
-\contentsline {section}{Cut Me Loose}{225}{}%
-\contentsline {section}{Bogotá Cathedral}{226}{}%
-\contentsline {section}{Patria Invicta}{227}{}%
-\contentsline {section}{Seven Men Deep}{228}{}%
-\contentsline {section}{Sabor en la Mesa}{229}{}%
-\contentsline {section}{Taste the Menu}{230}{}%
-\contentsline {section}{Los buenos somos más}{231}{}%
-\contentsline {section}{Lutz de la Tèrra}{232}{}%
-\contentsline {section}{Sal de la tierra}{233}{}%
-\contentsline {section}{Dejándome llevar}{234}{}%
-\contentsline {section}{Vida simple}{235}{}%
-\contentsline {section}{Los buenos somos más}{236}{}%
-\contentsline {section}{Right Here}{237}{}%
-\contentsline {section}{Carried Away}{238}{}%
-\contentsline {section}{No Middle Seat}{240}{}%
-\contentsline {section}{Non-Aligned}{241}{}%
-\contentsline {section}{Stimuli}{242}{}%
-\contentsline {section}{Wingman}{243}{}%
-\contentsline {section}{Soundwall}{244}{}%
-\contentsline {section}{Crave Stimuli}{245}{}%
-\contentsline {section}{Crave Stimuli (rave)}{246}{}%
-\contentsline {section}{Connection}{247}{}%
-\contentsline {section}{Keep Me}{248}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{249}{}%
+\contentsline {section}{Espero}{165}{}%
+\contentsline {section}{Dapich Sápica}{166}{}%
+\contentsline {section}{Gota a gota}{167}{}%
+\contentsline {section}{Cataplún Zap!}{168}{}%
+\contentsline {section}{Street Corner Zambomba}{169}{}%
+\contentsline {section}{Gabi’s Shoulder}{170}{}%
+\contentsline {section}{Unspoken Rhythm}{172}{}%
+\contentsline {section}{The Night}{173}{}%
+\contentsline {section}{Strangers in the Light}{174}{}%
+\contentsline {section}{Café Glance}{175}{}%
+\contentsline {section}{Petals and Ink}{176}{}%
+\contentsline {section}{Balance of Three}{177}{}%
+\contentsline {section}{Royal Docks}{178}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{180}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{181}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{182}{}%
+\contentsline {section}{Unopened Door}{183}{}%
+\contentsline {section}{Obsidian Gaze}{184}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{185}{}%
+\contentsline {section}{Uks, mis pole lahti}{186}{}%
+\contentsline {section}{Liis Talveuks}{187}{}%
+\contentsline {section}{Pacificate}{188}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{189}{}%
+\contentsline {section}{Critter Kin (Man's an Animal Too)}{190}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{191}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{192}{}%
+\contentsline {section}{Then There's You}{193}{}%
+\contentsline {section}{Ninety-Six Static}{194}{}%
+\contentsline {section}{Whiteboard Queen}{195}{}%
+\contentsline {section}{Zahra in White}{196}{}%
+\contentsline {section}{I Thought We Were Home}{197}{}%
+\contentsline {section}{The Other Local Girl}{198}{}%
+\contentsline {section}{Badiba Buka}{200}{}%
+\contentsline {section}{Le cœur léger}{201}{}%
+\contentsline {section}{Rough Diamond}{202}{}%
+\contentsline {section}{Petrovna // Петровна}{203}{}%
+\contentsline {section}{Petrovna}{204}{}%
+\contentsline {section}{Canta la Ruta}{205}{}%
+\contentsline {section}{Everybody Knows Henry}{206}{}%
+\contentsline {section}{Henry Little}{207}{}%
+\contentsline {section}{The Asset}{208}{}%
+\contentsline {section}{Ack-Rostica}{210}{}%
+\contentsline {section}{Awk-Rustica}{211}{}%
+\contentsline {section}{Across-Ticks}{212}{}%
+\contentsline {section}{Candy Rock Day}{213}{}%
+\contentsline {section}{Rainbow Candy Parade}{214}{}%
+\contentsline {section}{Ik schreef mijn naam in}{215}{}%
+\contentsline {section}{Тепло без якоря}{216}{}%
+\contentsline {section}{Golden at the Shore}{217}{}%
+\contentsline {section}{Green Water Memory}{218}{}%
+\contentsline {section}{Teal Tips On The Bed}{219}{}%
+\contentsline {section}{Copper-Fire Crown}{220}{}%
+\contentsline {section}{Trembling Blues}{221}{}%
+\contentsline {section}{Pálpitos prohibidos}{222}{}%
+\contentsline {section}{Temblando}{223}{}%
+\contentsline {section}{Skälvning}{224}{}%
+\contentsline {section}{A la distancia}{225}{}%
+\contentsline {section}{Benches Cabins Diamonds}{226}{}%
+\contentsline {section}{Ciudad Punta Espada}{227}{}%
+\contentsline {section}{The Toxic Ghost}{228}{}%
+\contentsline {section}{Cut Me Loose}{229}{}%
+\contentsline {section}{Bogotá Cathedral}{230}{}%
+\contentsline {section}{Patria Invicta}{231}{}%
+\contentsline {section}{Seven Men Deep}{232}{}%
+\contentsline {section}{Sabor en la Mesa}{233}{}%
+\contentsline {section}{Taste the Menu}{234}{}%
+\contentsline {section}{Los buenos somos más}{235}{}%
+\contentsline {section}{Lutz de la Tèrra}{236}{}%
+\contentsline {section}{Sal de la tierra}{237}{}%
+\contentsline {section}{Dejándome llevar}{238}{}%
+\contentsline {section}{Vida simple}{239}{}%
+\contentsline {section}{Los buenos somos más}{240}{}%
+\contentsline {section}{Right Here}{241}{}%
+\contentsline {section}{Carried Away}{242}{}%
+\contentsline {section}{No Middle Seat}{244}{}%
+\contentsline {section}{Non-Aligned}{245}{}%
+\contentsline {section}{Stimuli}{246}{}%
+\contentsline {section}{Wingman}{247}{}%
+\contentsline {section}{Soundwall}{248}{}%
+\contentsline {section}{Crave Stimuli}{249}{}%
+\contentsline {section}{Crave Stimuli (rave)}{250}{}%
+\contentsline {section}{Connection}{251}{}%
+\contentsline {section}{Keep Me}{252}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{253}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -357,9 +361,9 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{Sex Without Compromise}{250}{}%
-\contentsline {section}{New // Old}{251}{}%
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{252}{}%
+\contentsline {section}{Sex Without Compromise}{254}{}%
+\contentsline {section}{New // Old}{255}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{256}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -370,130 +374,134 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{253}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{254}{}%
-\contentsline {chapter}{Gabisson Works}{255}{}%
-\contentsline {section}{She'll let you know}{256}{}%
-\contentsline {section}{En la nube}{257}{}%
-\contentsline {section}{Vor Barcelona}{258}{}%
-\contentsline {section}{Minutes Home}{259}{}%
-\contentsline {section}{Cuando despega la tormenta}{260}{}%
-\contentsline {section}{Four Women One Night}{261}{}%
-\contentsline {section}{Modo Pararrayos}{262}{}%
-\contentsline {section}{Lightning Rod Mode}{263}{}%
-\contentsline {section}{Somebody Out There}{264}{}%
-\contentsline {section}{Vor Barcelona (Deutsch)}{265}{}%
-\contentsline {section}{Vor Barcelona (English)}{266}{}%
-\contentsline {section}{Abulón (The Shadow Crown)}{267}{}%
-\contentsline {section}{Tolemaida Wedding}{269}{}%
-\contentsline {section}{Pizza on the Table}{270}{}%
-\contentsline {section}{Orbit Of Names}{271}{}%
-\contentsline {section}{Same Old Circle}{272}{}%
-\contentsline {section}{Four Women}{273}{}%
-\contentsline {section}{Carolina}{274}{}%
-\contentsline {section}{Morocho}{275}{}%
-\contentsline {section}{Adriana Tal Vez}{277}{}%
-\contentsline {section}{Three Faces}{278}{}%
-\contentsline {section}{Tambor de Sombra}{279}{}%
-\contentsline {section}{Badabum bin}{280}{}%
-\contentsline {section}{Arrow Throwing Rat}{281}{}%
-\contentsline {section}{Adi In The Locker}{282}{}%
-\contentsline {section}{Sofa at Midnight}{283}{}%
-\contentsline {section}{La Casa y el Viento}{284}{}%
-\contentsline {section}{Ale On The Sofa}{285}{}%
-\contentsline {section}{Seat 14C}{286}{}%
-\contentsline {section}{Pacifica Miles}{288}{}%
-\contentsline {section}{Room for Her}{289}{}%
-\contentsline {subsection}{Breakdown}{289}{}%
-\contentsline {section}{Seamless}{290}{}%
-\contentsline {section}{Espejo Luminoso}{292}{}%
-\contentsline {section}{Park Bench Spark}{293}{}%
-\contentsline {section}{Ginger on the Bench}{294}{}%
-\contentsline {section}{Guiltless Flame}{295}{}%
-\contentsline {section}{La perrilla (pasillo)}{296}{}%
-\contentsline {section}{La perrilla (dance)}{297}{}%
-\contentsline {section}{Food Truck Spark}{298}{}%
-\contentsline {section}{Cross Between}{299}{}%
-\contentsline {section}{Stolen Office Flame}{300}{}%
-\contentsline {section}{Early Desire}{301}{}%
-\contentsline {section}{Third Time’s Coffee}{303}{}%
-\contentsline {section}{Steel \& Violet}{304}{}%
-\contentsline {section}{So Wrong}{305}{}%
-\contentsline {section}{Hallway Portraits}{306}{}%
-\contentsline {section}{Le phases de Thomas}{307}{}%
-\contentsline {section}{Three Notebooks}{308}{}%
-\contentsline {section}{Unconfessed}{309}{}%
-\contentsline {section}{Evi Sem Yike}{310}{}%
-\contentsline {section}{Vinterfrostleende}{312}{}%
-\contentsline {section}{Ökenskor av Salt}{313}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{314}{}%
-\contentsline {section}{Parapet of Ash}{315}{}%
-\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{316}{}%
-\contentsline {section}{Carroll Gardens}{317}{}%
-\contentsline {section}{Australian Daughter, Colombian Name}{319}{}%
-\contentsline {section}{Tomorrow Morning}{321}{}%
-\contentsline {section}{Mobisarna}{322}{}%
-\contentsline {section}{Slightest Amount}{323}{}%
-\contentsline {section}{Complete By What}{324}{}%
-\contentsline {section}{Complete By What}{325}{}%
-\contentsline {section}{Evi Sem Yike (single)}{326}{}%
-\contentsline {section}{Carbonia Villa Blues}{328}{}%
-\contentsline {section}{Paolo’s Text}{329}{}%
-\contentsline {section}{Quiet Cracked Routine}{330}{}%
-\contentsline {section}{Pilar Venegas}{331}{}%
-\contentsline {section}{Una locura}{332}{}%
-\contentsline {section}{A Chance}{334}{}%
-\contentsline {section}{Líneas grises}{336}{}%
-\contentsline {section}{Efecto Locker}{337}{}%
-\contentsline {section}{Le Rêve des Autres}{338}{}%
-\contentsline {section}{El mejor delito}{339}{}%
-\contentsline {section}{Polilla en las flamas}{340}{}%
-\contentsline {section}{Temblando}{341}{}%
-\contentsline {section}{The Loaded Mind}{342}{}%
-\contentsline {section}{Wild Cat}{343}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{344}{}%
-\contentsline {section}{Stone Light Portrait}{345}{}%
-\contentsline {section}{Пѣснь о Кругахъ Путей}{346}{}%
-\contentsline {section}{Beachside Boogie}{347}{}%
-\contentsline {section}{Before That Blows}{348}{}%
-\contentsline {section}{Secreto de padre}{349}{}%
-\contentsline {section}{The Good Guy's Dilemma}{351}{}%
-\contentsline {section}{Second Gun Salesman}{352}{}%
-\contentsline {section}{Draw The Tree}{353}{}%
-\contentsline {section}{Bajo La Tricolor}{354}{}%
-\contentsline {section}{Cabeza Perdida}{355}{}%
-\contentsline {section}{El Mundo Gira}{356}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{357}{}%
-\contentsline {section}{Pío}{358}{}%
-\contentsline {section}{Scraper Road}{359}{}%
-\contentsline {section}{Iron Pulse}{360}{}%
-\contentsline {section}{Migrant Echoes}{361}{}%
-\contentsline {section}{After the Lights}{362}{}%
-\contentsline {section}{The Women He Chose}{363}{}%
-\contentsline {section}{El hilo}{364}{}%
-\contentsline {section}{For That Moment}{365}{}%
-\contentsline {section}{In That Moment}{366}{}%
-\contentsline {section}{Take Me South}{367}{}%
-\contentsline {section}{Entre cajas y llamadas}{368}{}%
-\contentsline {section}{Amber Eyes, Six Faces}{369}{}%
-\contentsline {section}{Tucanito to Tallinn}{370}{}%
-\contentsline {section}{Semestermap in Tallinn}{371}{}%
-\contentsline {section}{Tallinn By January}{372}{}%
-\contentsline {section}{Tallinn To Riga}{373}{}%
-\contentsline {section}{Villa in Sardinia}{374}{}%
-\contentsline {section}{Eight March Locked In}{375}{}%
-\contentsline {section}{Teal in Carbonia}{376}{}%
-\contentsline {section}{Piel}{377}{}%
-\contentsline {section}{Si no te hace falta}{378}{}%
-\contentsline {section}{Piel / Stimuli}{379}{}%
-\contentsline {section}{Paper Cup Kisses}{380}{}%
-\contentsline {section}{Punta Espada 2026}{381}{}%
-\contentsline {section}{Tri-Spine País}{382}{}%
-\contentsline {section}{Bogotá Bajo Tierra}{383}{}%
-\contentsline {section}{Nueva Concordia}{384}{}%
-\contentsline {section}{MACAW Alza Vuelo}{385}{}%
-\contentsline {section}{Stone Mason Bridge}{386}{}%
-\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{387}{}%
+\contentsline {section}{Xumi}{257}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{258}{}%
+\contentsline {section}{dij Schdzjarvk}{259}{}%
+\contentsline {section}{Tiempo Real}{260}{}%
+\contentsline {section}{The Final Offer}{261}{}%
+\contentsline {section}{Not Misreading Intention}{262}{}%
+\contentsline {chapter}{Gabisson Works}{263}{}%
+\contentsline {section}{She'll let you know}{264}{}%
+\contentsline {section}{En la nube}{265}{}%
+\contentsline {section}{Vor Barcelona}{266}{}%
+\contentsline {section}{Minutes Home}{267}{}%
+\contentsline {section}{Cuando despega la tormenta}{268}{}%
+\contentsline {section}{Four Women One Night}{269}{}%
+\contentsline {section}{Modo Pararrayos}{270}{}%
+\contentsline {section}{Lightning Rod Mode}{271}{}%
+\contentsline {section}{Somebody Out There}{272}{}%
+\contentsline {section}{Vor Barcelona (Deutsch)}{273}{}%
+\contentsline {section}{Vor Barcelona (English)}{274}{}%
+\contentsline {section}{Abulón (The Shadow Crown)}{275}{}%
+\contentsline {section}{Tolemaida Wedding}{277}{}%
+\contentsline {section}{Pizza on the Table}{278}{}%
+\contentsline {section}{Orbit Of Names}{279}{}%
+\contentsline {section}{Same Old Circle}{280}{}%
+\contentsline {section}{Four Women}{281}{}%
+\contentsline {section}{Carolina}{282}{}%
+\contentsline {section}{Morocho}{283}{}%
+\contentsline {section}{Adriana Tal Vez}{285}{}%
+\contentsline {section}{Three Faces}{286}{}%
+\contentsline {section}{Tambor de Sombra}{287}{}%
+\contentsline {section}{Badabum bin}{288}{}%
+\contentsline {section}{Arrow Throwing Rat}{289}{}%
+\contentsline {section}{Adi In The Locker}{290}{}%
+\contentsline {section}{Sofa at Midnight}{291}{}%
+\contentsline {section}{La Casa y el Viento}{292}{}%
+\contentsline {section}{Ale On The Sofa}{293}{}%
+\contentsline {section}{Seat 14C}{294}{}%
+\contentsline {section}{Pacifica Miles}{296}{}%
+\contentsline {section}{Room for Her}{297}{}%
+\contentsline {subsection}{Breakdown}{297}{}%
+\contentsline {section}{Seamless}{298}{}%
+\contentsline {section}{Espejo Luminoso}{300}{}%
+\contentsline {section}{Park Bench Spark}{301}{}%
+\contentsline {section}{Ginger on the Bench}{302}{}%
+\contentsline {section}{Guiltless Flame}{303}{}%
+\contentsline {section}{La perrilla (pasillo)}{304}{}%
+\contentsline {section}{La perrilla (dance)}{305}{}%
+\contentsline {section}{Food Truck Spark}{306}{}%
+\contentsline {section}{Cross Between}{307}{}%
+\contentsline {section}{Stolen Office Flame}{308}{}%
+\contentsline {section}{Early Desire}{309}{}%
+\contentsline {section}{Third Time’s Coffee}{311}{}%
+\contentsline {section}{Steel \& Violet}{312}{}%
+\contentsline {section}{So Wrong}{313}{}%
+\contentsline {section}{Hallway Portraits}{314}{}%
+\contentsline {section}{Le phases de Thomas}{315}{}%
+\contentsline {section}{Three Notebooks}{316}{}%
+\contentsline {section}{Unconfessed}{317}{}%
+\contentsline {section}{Evi Sem Yike}{318}{}%
+\contentsline {section}{Vinterfrostleende}{320}{}%
+\contentsline {section}{Ökenskor av Salt}{321}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{322}{}%
+\contentsline {section}{Parapet of Ash}{323}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{324}{}%
+\contentsline {section}{Carroll Gardens}{325}{}%
+\contentsline {section}{Australian Daughter, Colombian Name}{327}{}%
+\contentsline {section}{Tomorrow Morning}{329}{}%
+\contentsline {section}{Mobisarna}{330}{}%
+\contentsline {section}{Slightest Amount}{331}{}%
+\contentsline {section}{Complete By What}{332}{}%
+\contentsline {section}{Complete By What}{333}{}%
+\contentsline {section}{Evi Sem Yike (single)}{334}{}%
+\contentsline {section}{Carbonia Villa Blues}{336}{}%
+\contentsline {section}{Paolo’s Text}{337}{}%
+\contentsline {section}{Quiet Cracked Routine}{338}{}%
+\contentsline {section}{Pilar Venegas}{339}{}%
+\contentsline {section}{Una locura}{340}{}%
+\contentsline {section}{A Chance}{342}{}%
+\contentsline {section}{Líneas grises}{344}{}%
+\contentsline {section}{Efecto Locker}{345}{}%
+\contentsline {section}{Le Rêve des Autres}{346}{}%
+\contentsline {section}{El mejor delito}{347}{}%
+\contentsline {section}{Polilla en las flamas}{348}{}%
+\contentsline {section}{Temblando}{349}{}%
+\contentsline {section}{The Loaded Mind}{350}{}%
+\contentsline {section}{Wild Cat}{351}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{352}{}%
+\contentsline {section}{Stone Light Portrait}{353}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{354}{}%
+\contentsline {section}{Beachside Boogie}{355}{}%
+\contentsline {section}{Before That Blows}{356}{}%
+\contentsline {section}{Secreto de padre}{357}{}%
+\contentsline {section}{The Good Guy's Dilemma}{359}{}%
+\contentsline {section}{Second Gun Salesman}{360}{}%
+\contentsline {section}{Draw The Tree}{361}{}%
+\contentsline {section}{Bajo La Tricolor}{362}{}%
+\contentsline {section}{Cabeza Perdida}{363}{}%
+\contentsline {section}{El Mundo Gira}{364}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{365}{}%
+\contentsline {section}{Pío}{366}{}%
+\contentsline {section}{Scraper Road}{367}{}%
+\contentsline {section}{Iron Pulse}{368}{}%
+\contentsline {section}{Migrant Echoes}{369}{}%
+\contentsline {section}{After the Lights}{370}{}%
+\contentsline {section}{The Women He Chose}{371}{}%
+\contentsline {section}{El hilo}{372}{}%
+\contentsline {section}{For That Moment}{373}{}%
+\contentsline {section}{In That Moment}{374}{}%
+\contentsline {section}{Take Me South}{375}{}%
+\contentsline {section}{Entre cajas y llamadas}{376}{}%
+\contentsline {section}{Amber Eyes, Six Faces}{377}{}%
+\contentsline {section}{Tucanito to Tallinn}{378}{}%
+\contentsline {section}{Semestermap in Tallinn}{379}{}%
+\contentsline {section}{Tallinn By January}{380}{}%
+\contentsline {section}{Tallinn To Riga}{381}{}%
+\contentsline {section}{Villa in Sardinia}{382}{}%
+\contentsline {section}{Eight March Locked In}{383}{}%
+\contentsline {section}{Teal in Carbonia}{384}{}%
+\contentsline {section}{Piel}{385}{}%
+\contentsline {section}{Si no te hace falta}{386}{}%
+\contentsline {section}{Piel / Stimuli}{387}{}%
+\contentsline {section}{Paper Cup Kisses}{388}{}%
+\contentsline {section}{Punta Espada 2026}{389}{}%
+\contentsline {section}{Tri-Spine País}{390}{}%
+\contentsline {section}{Bogotá Bajo Tierra}{391}{}%
+\contentsline {section}{Nueva Concordia}{392}{}%
+\contentsline {section}{MACAW Alza Vuelo}{393}{}%
+\contentsline {section}{Stone Mason Bridge}{394}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{395}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -510,121 +518,125 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {chapter}{Wyomee Works}{389}{}%
-\contentsline {section}{El corrido de Carlson}{390}{}%
-\contentsline {section}{Retrogrades}{391}{}%
-\contentsline {section}{Your Role}{392}{}%
-\contentsline {section}{De igual pra igual}{393}{}%
-\contentsline {section}{Open Hearts}{394}{}%
-\contentsline {section}{Food Truck Line}{395}{}%
-\contentsline {section}{Thursday Counter}{396}{}%
-\contentsline {section}{Kimizu Mamba Vit}{397}{}%
-\contentsline {section}{Alarm Cabinet}{398}{}%
-\contentsline {section}{Callejón Azul}{399}{}%
-\contentsline {section}{Peccato d'aprile}{400}{}%
-\contentsline {section}{More Honestly Than Hearts}{402}{}%
-\contentsline {section}{Hidden Things' Keeper}{403}{}%
-\contentsline {section}{Official Plus One}{404}{}%
-\contentsline {section}{The Motion and the Spark}{405}{}%
-\contentsline {section}{Casa non è}{406}{}%
-\contentsline {section}{Qualcosa di vero}{408}{}%
-\contentsline {section}{Sa fiamma}{410}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{412}{}%
-\contentsline {section}{Resto qui}{413}{}%
-\contentsline {section}{Choosing Here}{415}{}%
-\contentsline {section}{Melgar Table}{417}{}%
-\contentsline {section}{The Pirate's Ledger}{418}{}%
-\contentsline {section}{Guided Hands}{419}{}%
-\contentsline {section}{Last Night's Extranger}{420}{}%
-\contentsline {section}{Kyou Park}{422}{}%
-\contentsline {section}{Corona de alambre}{423}{}%
-\contentsline {section}{¿Aceptás el trato?}{425}{}%
-\contentsline {section}{Vaina que crece}{426}{}%
-\contentsline {section}{Monoestable}{427}{}%
-\contentsline {section}{E Numa Lah}{428}{}%
-\contentsline {section}{Mirá}{429}{}%
-\contentsline {section}{Si pienso}{430}{}%
-\contentsline {section}{Iros de risk}{431}{}%
-\contentsline {section}{Uneekwa En Urbo}{432}{}%
-\contentsline {section}{Potsdam Leeres Büro}{433}{}%
-\contentsline {section}{Sunlit Gem Music}{434}{}%
-\contentsline {section}{Soap Line Logic}{435}{}%
-\contentsline {section}{Equals}{436}{}%
-\contentsline {section}{East Rock / The VIllage}{437}{}%
-\contentsline {section}{Lilac-eyed Demon}{438}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{439}{}%
-\contentsline {section}{Su peccadu meu}{440}{}%
-\contentsline {section}{Almost Enough}{441}{}%
-\contentsline {section}{Library to Longing}{442}{}%
-\contentsline {section}{Swedish Pages}{443}{}%
-\contentsline {section}{Clumsy Hearts}{444}{}%
-\contentsline {section}{Ciudad Prestada}{445}{}%
-\contentsline {section}{Still Unfinished}{447}{}%
-\contentsline {section}{Ghost Cheek Kiss}{449}{}%
-\contentsline {section}{Southern Static}{450}{}%
-\contentsline {section}{Cancelled Plans}{451}{}%
-\contentsline {section}{Pared fría}{452}{}%
-\contentsline {section}{Extension of Friendship}{453}{}%
-\contentsline {section}{Catching Up}{454}{}%
-\contentsline {section}{Landscape}{455}{}%
-\contentsline {section}{Bucket List}{456}{}%
-\contentsline {section}{Diamond Depth August}{458}{}%
-\contentsline {section}{Miladi in the Dark}{459}{}%
-\contentsline {section}{Destinies Overlap}{460}{}%
-\contentsline {section}{Best Available Lens}{462}{}%
-\contentsline {section}{Not In The Creed}{463}{}%
-\contentsline {section}{Which God Stands Still}{465}{}%
-\contentsline {section}{Ashes in the Pews}{466}{}%
-\contentsline {section}{Neon Shutter // Only Herself}{467}{}%
-\contentsline {section}{Copper In The Pines}{468}{}%
-\contentsline {section}{Peeling Paint Girl}{469}{}%
-\contentsline {section}{Ulla In The Hall}{470}{}%
-\contentsline {section}{Papel en la escalera}{471}{}%
-\contentsline {section}{Archivist's Map}{472}{}%
-\contentsline {section}{Black Stone Map}{473}{}%
-\contentsline {section}{Salt Flat Omen}{474}{}%
-\contentsline {section}{Mark of 87}{475}{}%
-\contentsline {section}{March and Tumbao}{476}{}%
-\contentsline {section}{Five Reasons to Celebrate}{477}{}%
-\contentsline {section}{Talk To Me}{479}{}%
-\contentsline {section}{Cada uno en su lugar}{480}{}%
-\contentsline {section}{Lo que queda}{481}{}%
-\contentsline {section}{Amber on the Cliff}{482}{}%
-\contentsline {section}{Half-Hearted Bun}{483}{}%
-\contentsline {section}{Forever Window Seat}{484}{}%
-\contentsline {section}{Olive in Teal}{485}{}%
-\contentsline {section}{Step In Coat}{486}{}%
-\contentsline {section}{Паутина Андрея}{487}{}%
-\contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{488}{}%
-\contentsline {section}{Defined Or Dust}{490}{}%
-\contentsline {section}{Tide Like Gold}{491}{}%
-\contentsline {section}{Seven Archetypes}{492}{}%
-\contentsline {section}{The Man I Taught You To Be}{493}{}%
-\contentsline {section}{Said and Done}{495}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{497}{}%
-\contentsline {section}{The Spark in Her Eyes}{498}{}%
-\contentsline {section}{Potsdam After the Fall}{499}{}%
-\contentsline {section}{Garage Lines}{500}{}%
-\contentsline {section}{Welding Certificate}{501}{}%
-\contentsline {section}{Queens Weld Shop}{502}{}%
-\contentsline {section}{Summer of Potsdam}{503}{}%
-\contentsline {section}{Summer Of Thirteen}{504}{}%
-\contentsline {section}{Mariain}{505}{}%
-\contentsline {section}{Inherited Heat}{506}{}%
-\contentsline {section}{Clean Cut Winter}{507}{}%
-\contentsline {section}{Thomas In August}{508}{}%
-\contentsline {section}{What Thomas Gave}{509}{}%
-\contentsline {section}{Official Partner}{510}{}%
-\contentsline {section}{Potsdam 2021}{511}{}%
-\contentsline {section}{Queens Studio Key}{512}{}%
-\contentsline {section}{The Cleaner Exit}{513}{}%
-\contentsline {section}{Before Barcelona}{514}{}%
-\contentsline {section}{Still A Promise}{515}{}%
-\contentsline {section}{El final del verano}{516}{}%
-\contentsline {section}{End of the Summer}{517}{}%
-\contentsline {section}{La Fin de l'Été}{518}{}%
-\contentsline {section}{Slutet av Sommaren}{519}{}%
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{520}{}%
+\contentsline {section}{Inter-Flota Caerá}{396}{}%
+\contentsline {section}{Pews and Bridges}{397}{}%
+\contentsline {section}{Yes It Can}{398}{}%
+\contentsline {section}{Buildings Worlds}{399}{}%
+\contentsline {chapter}{Wyomee Works}{401}{}%
+\contentsline {section}{El corrido de Carlson}{402}{}%
+\contentsline {section}{Retrogrades}{403}{}%
+\contentsline {section}{Your Role}{404}{}%
+\contentsline {section}{De igual pra igual}{405}{}%
+\contentsline {section}{Open Hearts}{406}{}%
+\contentsline {section}{Food Truck Line}{407}{}%
+\contentsline {section}{Thursday Counter}{408}{}%
+\contentsline {section}{Kimizu Mamba Vit}{409}{}%
+\contentsline {section}{Alarm Cabinet}{410}{}%
+\contentsline {section}{Callejón Azul}{411}{}%
+\contentsline {section}{Peccato d'aprile}{412}{}%
+\contentsline {section}{More Honestly Than Hearts}{414}{}%
+\contentsline {section}{Hidden Things' Keeper}{415}{}%
+\contentsline {section}{Official Plus One}{416}{}%
+\contentsline {section}{The Motion and the Spark}{417}{}%
+\contentsline {section}{Casa non è}{418}{}%
+\contentsline {section}{Qualcosa di vero}{420}{}%
+\contentsline {section}{Sa fiamma}{422}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{424}{}%
+\contentsline {section}{Resto qui}{425}{}%
+\contentsline {section}{Choosing Here}{427}{}%
+\contentsline {section}{Melgar Table}{429}{}%
+\contentsline {section}{The Pirate's Ledger}{430}{}%
+\contentsline {section}{Guided Hands}{431}{}%
+\contentsline {section}{Last Night's Extranger}{432}{}%
+\contentsline {section}{Kyou Park}{434}{}%
+\contentsline {section}{Corona de alambre}{435}{}%
+\contentsline {section}{¿Aceptás el trato?}{437}{}%
+\contentsline {section}{Vaina que crece}{438}{}%
+\contentsline {section}{Monoestable}{439}{}%
+\contentsline {section}{E Numa Lah}{440}{}%
+\contentsline {section}{Mirá}{441}{}%
+\contentsline {section}{Si pienso}{442}{}%
+\contentsline {section}{Iros de risk}{443}{}%
+\contentsline {section}{Uneekwa En Urbo}{444}{}%
+\contentsline {section}{Potsdam Leeres Büro}{445}{}%
+\contentsline {section}{Sunlit Gem Music}{446}{}%
+\contentsline {section}{Soap Line Logic}{447}{}%
+\contentsline {section}{Equals}{448}{}%
+\contentsline {section}{East Rock / The VIllage}{449}{}%
+\contentsline {section}{Lilac-eyed Demon}{450}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{451}{}%
+\contentsline {section}{Su peccadu meu}{452}{}%
+\contentsline {section}{Almost Enough}{453}{}%
+\contentsline {section}{Library to Longing}{454}{}%
+\contentsline {section}{Swedish Pages}{455}{}%
+\contentsline {section}{Clumsy Hearts}{456}{}%
+\contentsline {section}{Ciudad Prestada}{457}{}%
+\contentsline {section}{Still Unfinished}{459}{}%
+\contentsline {section}{Ghost Cheek Kiss}{461}{}%
+\contentsline {section}{Southern Static}{462}{}%
+\contentsline {section}{Cancelled Plans}{463}{}%
+\contentsline {section}{Pared fría}{464}{}%
+\contentsline {section}{Extension of Friendship}{465}{}%
+\contentsline {section}{Catching Up}{466}{}%
+\contentsline {section}{Landscape}{467}{}%
+\contentsline {section}{Bucket List}{468}{}%
+\contentsline {section}{Diamond Depth August}{470}{}%
+\contentsline {section}{Miladi in the Dark}{471}{}%
+\contentsline {section}{Destinies Overlap}{472}{}%
+\contentsline {section}{Best Available Lens}{474}{}%
+\contentsline {section}{Not In The Creed}{475}{}%
+\contentsline {section}{Which God Stands Still}{477}{}%
+\contentsline {section}{Ashes in the Pews}{478}{}%
+\contentsline {section}{Neon Shutter // Only Herself}{479}{}%
+\contentsline {section}{Copper In The Pines}{480}{}%
+\contentsline {section}{Peeling Paint Girl}{481}{}%
+\contentsline {section}{Ulla In The Hall}{482}{}%
+\contentsline {section}{Papel en la escalera}{483}{}%
+\contentsline {section}{Archivist's Map}{484}{}%
+\contentsline {section}{Black Stone Map}{485}{}%
+\contentsline {section}{Salt Flat Omen}{486}{}%
+\contentsline {section}{Mark of 87}{487}{}%
+\contentsline {section}{March and Tumbao}{488}{}%
+\contentsline {section}{Five Reasons to Celebrate}{489}{}%
+\contentsline {section}{Talk To Me}{491}{}%
+\contentsline {section}{Cada uno en su lugar}{492}{}%
+\contentsline {section}{Lo que queda}{493}{}%
+\contentsline {section}{Amber on the Cliff}{494}{}%
+\contentsline {section}{Half-Hearted Bun}{495}{}%
+\contentsline {section}{Forever Window Seat}{496}{}%
+\contentsline {section}{Olive in Teal}{497}{}%
+\contentsline {section}{Step In Coat}{498}{}%
+\contentsline {section}{Паутина Андрея}{499}{}%
+\contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{500}{}%
+\contentsline {section}{Defined Or Dust}{502}{}%
+\contentsline {section}{Tide Like Gold}{503}{}%
+\contentsline {section}{Seven Archetypes}{504}{}%
+\contentsline {section}{The Man I Taught You To Be}{505}{}%
+\contentsline {section}{Said and Done}{507}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{509}{}%
+\contentsline {section}{The Spark in Her Eyes}{510}{}%
+\contentsline {section}{Potsdam After the Fall}{511}{}%
+\contentsline {section}{Garage Lines}{512}{}%
+\contentsline {section}{Welding Certificate}{513}{}%
+\contentsline {section}{Queens Weld Shop}{514}{}%
+\contentsline {section}{Summer of Potsdam}{515}{}%
+\contentsline {section}{Summer Of Thirteen}{516}{}%
+\contentsline {section}{Mariain}{517}{}%
+\contentsline {section}{Inherited Heat}{518}{}%
+\contentsline {section}{Clean Cut Winter}{519}{}%
+\contentsline {section}{Thomas In August}{520}{}%
+\contentsline {section}{What Thomas Gave}{521}{}%
+\contentsline {section}{Official Partner}{522}{}%
+\contentsline {section}{Potsdam 2021}{523}{}%
+\contentsline {section}{Queens Studio Key}{524}{}%
+\contentsline {section}{The Cleaner Exit}{525}{}%
+\contentsline {section}{Before Barcelona}{526}{}%
+\contentsline {section}{Still A Promise}{527}{}%
+\contentsline {section}{El final del verano}{528}{}%
+\contentsline {section}{End of the Summer}{529}{}%
+\contentsline {section}{La Fin de l'Été}{530}{}%
+\contentsline {section}{Slutet av Sommaren}{531}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{532}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -645,8 +657,8 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Era o final do verão}{521}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{522}{}%
+\contentsline {section}{Era o final do verão}{533}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{534}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -667,58 +679,66 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{Sin Retorno}{523}{}%
-\contentsline {section}{Saulon Forecast}{524}{}%
-\contentsline {section}{Two Faces in the Ledger}{525}{}%
-\contentsline {section}{Two Women One Case}{526}{}%
-\contentsline {section}{Era el final del verano}{527}{}%
-\contentsline {section}{Florida Wire}{528}{}%
-\contentsline {section}{Bogotá Backbone}{529}{}%
-\contentsline {section}{Post-Capitalist Lonely}{530}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{531}{}%
-\contentsline {chapter}{Dvigitt Works}{533}{}%
-\contentsline {section}{Aconteceres}{534}{}%
-\contentsline {section}{Molten Sunlight}{535}{}%
-\contentsline {section}{Red and Yellow}{536}{}%
-\contentsline {section}{Limits of the Load}{537}{}%
-\contentsline {section}{Fallen Messenger}{538}{}%
-\contentsline {section}{Colombia, Tu Papá}{539}{}%
-\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{540}{}%
-\contentsline {section}{The Great Gatsby}{541}{}%
-\contentsline {section}{Khamid Khaled}{542}{}%
-\contentsline {section}{Si pienso en ti}{543}{}%
-\contentsline {section}{Co Co Co Co}{544}{}%
-\contentsline {section}{Ride The Circuits}{545}{}%
-\contentsline {section}{Dead Sea's Barren Dreams}{546}{}%
-\contentsline {section}{Purple Under Dye}{547}{}%
-\contentsline {section}{Jugando}{548}{}%
-\contentsline {section}{Circuit World}{549}{}%
-\contentsline {section}{Claim Ledger Drift}{550}{}%
-\contentsline {section}{Calle Tumbao}{551}{}%
-\contentsline {section}{El juego}{552}{}%
-\contentsline {section}{The Laws of Hospitality}{553}{}%
-\contentsline {section}{The Fault in Your Character}{554}{}%
-\contentsline {section}{What Was Left Behind}{556}{}%
-\contentsline {section}{Two Ways to Think}{557}{}%
-\contentsline {section}{Tu puro vivir}{558}{}%
-\contentsline {section}{Glass on File}{559}{}%
-\contentsline {section}{The Laws of the Stranger}{560}{}%
-\contentsline {section}{Wild Cat, Wild Flower}{561}{}%
-\contentsline {section}{One Year No Call}{562}{}%
-\contentsline {section}{Valise sur le tarmac}{563}{}%
-\contentsline {section}{Hangar at Olaya}{564}{}%
-\contentsline {section}{Blue Optra Morning}{565}{}%
-\contentsline {section}{Sophie Durand}{566}{}%
-\contentsline {section}{Miguel Morocho}{567}{}%
-\contentsline {section}{Two Storms in One Sky}{568}{}%
-\contentsline {section}{Let the Clock Slow Down}{569}{}%
-\contentsline {section}{Parará Pa Pa}{570}{}%
-\contentsline {section}{Broken Tool}{571}{}%
-\contentsline {section}{dij Schdzjarvk}{572}{}%
-\contentsline {section}{Gustavo Cerati que no estás con nosotros}{573}{}%
-\contentsline {section}{Cornered By Systems}{574}{}%
-\contentsline {section}{O ku pater de nos}{575}{}%
-\contentsline {section}{Paper in the Grinder}{576}{}%
-\contentsline {section}{Grinder Glass}{577}{}%
-\contentsline {section}{Paper In My Teeth}{578}{}%
-\contentsline {section}{Paper Cup Engine}{579}{}%
+\contentsline {section}{Sin Retorno}{535}{}%
+\contentsline {section}{Saulon Forecast}{536}{}%
+\contentsline {section}{Two Faces in the Ledger}{537}{}%
+\contentsline {section}{Two Women One Case}{538}{}%
+\contentsline {section}{Era el final del verano}{539}{}%
+\contentsline {section}{Florida Wire}{540}{}%
+\contentsline {section}{Bogotá Backbone}{541}{}%
+\contentsline {section}{Post-Capitalist Lonely}{542}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{543}{}%
+\contentsline {section}{El final del verano (balada)}{544}{}%
+\contentsline {section}{El final del verano (bolero)}{545}{}%
+\contentsline {section}{Viejo Bambuco}{546}{}%
+\contentsline {section}{Signed by Don Addis}{547}{}%
+\contentsline {chapter}{Dvigitt Works}{549}{}%
+\contentsline {section}{Aconteceres}{550}{}%
+\contentsline {section}{Molten Sunlight}{551}{}%
+\contentsline {section}{Red and Yellow}{552}{}%
+\contentsline {section}{Limits of the Load}{553}{}%
+\contentsline {section}{Fallen Messenger}{554}{}%
+\contentsline {section}{Colombia, Tu Papá}{555}{}%
+\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{556}{}%
+\contentsline {section}{The Great Gatsby}{557}{}%
+\contentsline {section}{Khamid Khaled}{558}{}%
+\contentsline {section}{Si pienso en ti}{559}{}%
+\contentsline {section}{Co Co Co Co}{560}{}%
+\contentsline {section}{Ride The Circuits}{561}{}%
+\contentsline {section}{Dead Sea's Barren Dreams}{562}{}%
+\contentsline {section}{Purple Under Dye}{563}{}%
+\contentsline {section}{Jugando}{564}{}%
+\contentsline {section}{Circuit World}{565}{}%
+\contentsline {section}{Claim Ledger Drift}{566}{}%
+\contentsline {section}{Calle Tumbao}{567}{}%
+\contentsline {section}{El juego}{568}{}%
+\contentsline {section}{The Laws of Hospitality}{569}{}%
+\contentsline {section}{The Fault in Your Character}{570}{}%
+\contentsline {section}{What Was Left Behind}{572}{}%
+\contentsline {section}{Two Ways to Think}{573}{}%
+\contentsline {section}{Tu puro vivir}{574}{}%
+\contentsline {section}{Glass on File}{575}{}%
+\contentsline {section}{The Laws of the Stranger}{576}{}%
+\contentsline {section}{Wild Cat, Wild Flower}{577}{}%
+\contentsline {section}{One Year No Call}{578}{}%
+\contentsline {section}{Valise sur le tarmac}{579}{}%
+\contentsline {section}{Hangar at Olaya}{580}{}%
+\contentsline {section}{Blue Optra Morning}{581}{}%
+\contentsline {section}{Sophie Durand}{582}{}%
+\contentsline {section}{Miguel Morocho}{583}{}%
+\contentsline {section}{Two Storms in One Sky}{584}{}%
+\contentsline {section}{Let the Clock Slow Down}{585}{}%
+\contentsline {section}{Parará Pa Pa}{586}{}%
+\contentsline {section}{Broken Tool}{587}{}%
+\contentsline {section}{dij Schdzjarvk}{588}{}%
+\contentsline {section}{Gustavo Cerati que no estás con nosotros}{589}{}%
+\contentsline {section}{Cornered By Systems}{590}{}%
+\contentsline {section}{O ku pater de nos}{591}{}%
+\contentsline {section}{Paper in the Grinder}{592}{}%
+\contentsline {section}{Grinder Glass}{593}{}%
+\contentsline {section}{Paper In My Teeth}{594}{}%
+\contentsline {section}{Paper Cup Engine}{595}{}%
+\contentsline {section}{Living Fantasies (electronic)}{596}{}%
+\contentsline {section}{If You Don’t Need It}{597}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{598}{}%
+\contentsline {section}{Cuatro Maneras}{599}{}%

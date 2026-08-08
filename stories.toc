@@ -11,248 +11,145 @@
 \contentsline {chapter}{Monukae}{17}{}%
 \contentsline {section}{Abulón (The Shadow Crown)}{18}{}%
 \contentsline {section}{The Pirate's Ledger}{20}{}%
-\contentsline {chapter}{Early 1990s}{21}{}%
-\contentsline {section}{Almost Enough}{22}{}%
-\contentsline {section}{Evi Sem Yike}{23}{}%
-\contentsline {section}{Mobisarna}{25}{}%
-\contentsline {section}{Miladi in the Dark}{26}{}%
-\contentsline {section}{Crazy Town Recap}{27}{}%
-\contentsline {subsection}{Notes}{27}{}%
-\contentsline {subsection}{Style}{27}{}%
-\contentsline {section}{Evi Sem Yike (single)}{28}{}%
-\contentsline {section}{Líneas grises}{30}{}%
-\contentsline {section}{Efecto Locker}{31}{}%
-\contentsline {section}{El mejor delito}{32}{}%
-\contentsline {chapter}{Encounters}{33}{}%
-\contentsline {section}{Strangers in the Light}{34}{}%
-\contentsline {section}{Café Glance}{35}{}%
-\contentsline {section}{Petals and Ink}{36}{}%
-\contentsline {section}{Park Bench Spark}{37}{}%
-\contentsline {section}{Ginger on the Bench}{38}{}%
-\contentsline {section}{Guiltless Flame}{39}{}%
-\contentsline {section}{Ice Cream Friday}{40}{}%
-\contentsline {subsection}{Notes}{40}{}%
-\contentsline {subsection}{Style}{40}{}%
-\contentsline {section}{Tangerine \& Olive}{41}{}%
-\contentsline {subsection}{Notes}{41}{}%
-\contentsline {subsection}{Style}{41}{}%
-\contentsline {section}{Hotel Afterglow}{42}{}%
+\contentsline {chapter}{Saulon}{21}{}%
+\contentsline {section}{Saulon Forecast}{22}{}%
+\contentsline {chapter}{Early 1990s}{23}{}%
+\contentsline {section}{Almost Enough}{24}{}%
+\contentsline {section}{Evi Sem Yike}{25}{}%
+\contentsline {section}{Mobisarna}{27}{}%
+\contentsline {section}{Miladi in the Dark}{28}{}%
+\contentsline {section}{Crazy Town Recap}{29}{}%
+\contentsline {subsection}{Notes}{29}{}%
+\contentsline {subsection}{Style}{29}{}%
+\contentsline {section}{Evi Sem Yike (single)}{30}{}%
+\contentsline {section}{Líneas grises}{32}{}%
+\contentsline {section}{Efecto Locker}{33}{}%
+\contentsline {section}{El mejor delito}{34}{}%
+\contentsline {chapter}{Encounters}{35}{}%
+\contentsline {section}{Strangers in the Light}{36}{}%
+\contentsline {section}{Café Glance}{37}{}%
+\contentsline {section}{Petals and Ink}{38}{}%
+\contentsline {section}{Park Bench Spark}{39}{}%
+\contentsline {section}{Ginger on the Bench}{40}{}%
+\contentsline {section}{Guiltless Flame}{41}{}%
+\contentsline {section}{Ice Cream Friday}{42}{}%
 \contentsline {subsection}{Notes}{42}{}%
 \contentsline {subsection}{Style}{42}{}%
-\contentsline {section}{Food Truck Spark}{43}{}%
-\contentsline {section}{Cross Between}{44}{}%
-\contentsline {section}{Stolen Office Flame}{45}{}%
-\contentsline {section}{Library to Longing}{46}{}%
-\contentsline {section}{Swedish Pages}{47}{}%
-\contentsline {section}{Clumsy Hearts}{48}{}%
-\contentsline {chapter}{Encounter-adjacent}{49}{}%
-\contentsline {section}{Andrea at Break}{50}{}%
-\contentsline {section}{Cancelled Plans}{51}{}%
-\contentsline {section}{Early Desire}{52}{}%
-\contentsline {section}{Third Time’s Coffee}{54}{}%
-\contentsline {chapter}{Portraits}{55}{}%
-\contentsline {section}{Four Women One Night}{56}{}%
-\contentsline {section}{Food Truck Line}{57}{}%
-\contentsline {section}{Thursday Counter}{58}{}%
-\contentsline {section}{Terracotta View (Golden Mid-Glance)}{59}{}%
-\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{60}{}%
-\contentsline {section}{Zahra in White}{61}{}%
-\contentsline {section}{Obsidian Gaze}{62}{}%
-\contentsline {section}{Liis Talveuks}{63}{}%
-\contentsline {section}{Three Faces}{64}{}%
-\contentsline {section}{Hallway Portraits}{65}{}%
-\contentsline {section}{Parapet of Ash}{66}{}%
-\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{67}{}%
-\contentsline {section}{Kimizu Mamba Vit}{68}{}%
-\contentsline {section}{Uneekwa En Urbo}{69}{}%
-\contentsline {section}{Neon Shutter // Only Herself}{70}{}%
-\contentsline {section}{Copper In The Pines}{71}{}%
-\contentsline {section}{Peeling Paint Girl}{72}{}%
-\contentsline {section}{Ulla In The Hall}{73}{}%
-\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{74}{}%
-\contentsline {subsection}{Notes}{74}{}%
-\contentsline {subsection}{Style}{74}{}%
+\contentsline {section}{Tangerine \& Olive}{43}{}%
+\contentsline {subsection}{Notes}{43}{}%
+\contentsline {subsection}{Style}{43}{}%
+\contentsline {section}{Hotel Afterglow}{44}{}%
+\contentsline {subsection}{Notes}{44}{}%
+\contentsline {subsection}{Style}{44}{}%
+\contentsline {section}{Food Truck Spark}{45}{}%
+\contentsline {section}{Cross Between}{46}{}%
+\contentsline {section}{Stolen Office Flame}{47}{}%
+\contentsline {section}{Library to Longing}{48}{}%
+\contentsline {section}{Swedish Pages}{49}{}%
+\contentsline {section}{Clumsy Hearts}{50}{}%
+\contentsline {chapter}{Encounter-adjacent}{51}{}%
+\contentsline {section}{Andrea at Break}{52}{}%
+\contentsline {section}{Cancelled Plans}{53}{}%
+\contentsline {section}{Early Desire}{54}{}%
+\contentsline {section}{Third Time’s Coffee}{56}{}%
+\contentsline {chapter}{Encounter and Encounter-adjacent portraits}{57}{}%
+\contentsline {section}{Food Truck Line}{58}{}%
+\contentsline {section}{Uneekwa En Urbo}{59}{}%
+\contentsline {section}{Ulla In The Hall}{60}{}%
+\contentsline {chapter}{Portraits}{61}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{62}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{63}{}%
+\contentsline {section}{Obsidian Gaze}{64}{}%
+\contentsline {section}{Neon Shutter // Only Herself}{65}{}%
+\contentsline {section}{Copper In The Pines}{66}{}%
+\contentsline {section}{Saffron Roof Smile}{67}{}%
+\contentsline {subsection}{Notes}{67}{}%
+\contentsline {subsection}{Style}{67}{}%
+\contentsline {section}{Blue Wall Grace}{68}{}%
+\contentsline {subsection}{Notes}{68}{}%
+\contentsline {subsection}{Sytle}{68}{}%
+\contentsline {section}{Purple Under Dye}{69}{}%
+\contentsline {chapter}{Archetype portraits}{71}{}%
+\contentsline {section}{Seven Archetypes}{72}{}%
+\contentsline {section}{Seven Men Deep}{73}{}%
+\contentsline {section}{Amber Eyes, Six Faces}{74}{}%
 \contentsline {section}{Amber in Focus}{75}{}%
 \contentsline {subsection}{Notes}{75}{}%
 \contentsline {subsection}{Style}{75}{}%
-\contentsline {section}{Saffron Roof Smile}{76}{}%
-\contentsline {subsection}{Notes}{76}{}%
-\contentsline {subsection}{Style}{76}{}%
-\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{77}{}%
-\contentsline {subsection}{Notes}{77}{}%
-\contentsline {subsection}{Style}{77}{}%
-\contentsline {section}{Blue-Point Mischief}{78}{}%
-\contentsline {subsection}{Notes}{78}{}%
-\contentsline {subsection}{Style}{78}{}%
-\contentsline {section}{Blue Wall Grace}{79}{}%
-\contentsline {subsection}{Notes}{79}{}%
-\contentsline {subsection}{Sytle}{79}{}%
-\contentsline {section}{Zelma in the Mist}{80}{}%
-\contentsline {subsection}{Notes}{80}{}%
-\contentsline {subsection}{Style}{80}{}%
-\contentsline {section}{Crimson Wall Portrait}{81}{}%
-\contentsline {subsection}{Notes}{81}{}%
-\contentsline {subsection}{Style}{81}{}%
-\contentsline {section}{Moonstone Veil}{82}{}%
-\contentsline {section}{Five Reasons to Celebrate}{83}{}%
-\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{85}{}%
-\contentsline {section}{Amber on the Cliff}{86}{}%
-\contentsline {section}{Brass Eyed Siren}{87}{}%
-\contentsline {section}{Half-Hearted Bun}{88}{}%
-\contentsline {section}{Forever Window Seat}{89}{}%
-\contentsline {section}{Olive in Teal}{90}{}%
-\contentsline {section}{Step In Coat}{91}{}%
-\contentsline {section}{Molten Sunlight}{92}{}%
-\contentsline {section}{Golden at the Shore}{93}{}%
-\contentsline {section}{Green Water Memory}{94}{}%
-\contentsline {section}{Teal Tips On The Bed}{95}{}%
-\contentsline {section}{Copper-Fire Crown}{96}{}%
-\contentsline {section}{Benches Cabins Diamonds}{97}{}%
-\contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{98}{}%
-\contentsline {section}{Tide Like Gold}{100}{}%
-\contentsline {section}{Seven Archetypes}{101}{}%
-\contentsline {section}{Seven Men Deep}{102}{}%
-\contentsline {section}{Purple Under Dye}{103}{}%
-\contentsline {section}{Amber Eyes, Six Faces}{104}{}%
-\contentsline {section}{Tabby Parade}{105}{}%
-\contentsline {chapter}{Self}{107}{}%
-\contentsline {section}{Adi In The Locker}{108}{}%
-\contentsline {section}{Sofa at Midnight}{109}{}%
-\contentsline {section}{Ale On The Sofa}{110}{}%
-\contentsline {section}{Unconfessed}{111}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{112}{}%
+\contentsline {section}{Tide Like Gold}{76}{}%
+\contentsline {section}{Golden at the Shore}{77}{}%
+\contentsline {section}{Half-Hearted Bun}{78}{}%
+\contentsline {section}{Forever Window Seat}{79}{}%
+\contentsline {section}{Olive in Teal}{80}{}%
+\contentsline {section}{Step In Coat}{81}{}%
+\contentsline {section}{Copper-Fire Crown}{82}{}%
+\contentsline {section}{Amber on the Cliff}{83}{}%
+\contentsline {section}{Green Water Memory}{84}{}%
+\contentsline {section}{Teal Tips On The Bed}{85}{}%
+\contentsline {chapter}{Group portraits}{87}{}%
+\contentsline {section}{Four Women One Night}{88}{}%
+\contentsline {section}{Thursday Counter}{89}{}%
+\contentsline {section}{Three Faces}{90}{}%
+\contentsline {section}{Hallway Portraits}{91}{}%
+\contentsline {section}{Kimizu Mamba Vit}{92}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{93}{}%
+\contentsline {subsection}{Notes}{93}{}%
+\contentsline {subsection}{Style}{93}{}%
+\contentsline {section}{Five Reasons to Celebrate}{94}{}%
+\contentsline {section}{Benches Cabins Diamonds}{96}{}%
+\contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{97}{}%
+\contentsline {chapter}{Entourage portraits}{99}{}%
+\contentsline {section}{Zahra in White}{100}{}%
+\contentsline {section}{Liis Talveuks}{101}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{102}{}%
+\contentsline {section}{Peeling Paint Girl}{103}{}%
+\contentsline {chapter}{Fantasy portraits and temptation}{105}{}%
+\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{106}{}%
+\contentsline {subsection}{Notes}{106}{}%
+\contentsline {subsection}{Style}{106}{}%
+\contentsline {section}{Parapet of Ash}{107}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{108}{}%
+\contentsline {section}{Fallen Messenger}{109}{}%
+\contentsline {section}{Fallen Messenger}{110}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{111}{}%
+\contentsline {section}{Zelma in the Mist}{112}{}%
 \contentsline {subsection}{Notes}{112}{}%
 \contentsline {subsection}{Style}{112}{}%
-\contentsline {section}{Arrow Throwing Rat}{114}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{115}{}%
-\contentsline {section}{A la distancia}{116}{}%
-\contentsline {section}{Watching from a Distance}{117}{}%
-\contentsline {section}{Bogotá Cathedral}{118}{}%
-\contentsline {section}{Паутина Андрея}{119}{}%
-\contentsline {section}{Tuit y Ceniza}{120}{}%
-\contentsline {chapter}{Summery}{121}{}%
-\contentsline {section}{El final del verano}{122}{}%
-\contentsline {section}{End of the Summer}{123}{}%
-\contentsline {section}{La Fin de l'Été}{124}{}%
-\contentsline {section}{Slutet av Sommaren}{125}{}%
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{126}{}%
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\xpg@aux {}{korean}
-\xpg@aux {}{english}
-\contentsline {section}{Era o final do verão}{127}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{128}{}%
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\contentsline {section}{Era el final del verano}{129}{}%
-\contentsline {chapter}{More}{131}{}%
-\contentsline {section}{Passenger-Side Switch}{132}{}%
+\contentsline {section}{Crimson Wall Portrait}{113}{}%
+\contentsline {subsection}{Notes}{113}{}%
+\contentsline {subsection}{Style}{113}{}%
+\contentsline {section}{Moonstone Veil}{114}{}%
+\contentsline {section}{Brass Eyed Siren}{115}{}%
+\contentsline {section}{Molten Sunlight}{116}{}%
+\contentsline {chapter}{Self}{117}{}%
+\contentsline {section}{Adi In The Locker}{118}{}%
+\contentsline {section}{Sofa at Midnight}{119}{}%
+\contentsline {section}{Ale On The Sofa}{120}{}%
+\contentsline {section}{Unconfessed}{121}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{122}{}%
+\contentsline {subsection}{Notes}{122}{}%
+\contentsline {subsection}{Style}{122}{}%
+\contentsline {section}{Arrow Throwing Rat}{124}{}%
+\contentsline {section}{A la distancia}{125}{}%
+\contentsline {section}{Watching from a Distance}{126}{}%
+\contentsline {section}{Bogotá Cathedral}{127}{}%
+\contentsline {section}{Паутина Андрея}{128}{}%
+\contentsline {section}{Tuit y Ceniza}{129}{}%
+\contentsline {section}{Baltic and Bogotá}{130}{}%
+\contentsline {chapter}{Cats}{131}{}%
+\contentsline {section}{Little Velvet Ghost}{132}{}%
 \contentsline {subsection}{Notes}{132}{}%
 \contentsline {subsection}{Style}{132}{}%
-\contentsline {section}{She'll let you know}{133}{}%
-\contentsline {section}{Dead Sea's barren dreams}{134}{}%
-\contentsline {section}{Dapich Sápica}{135}{}%
-\contentsline {section}{Vinterfrostleende}{136}{}%
-\contentsline {section}{Ökenskor av Salt}{137}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{138}{}%
-\contentsline {section}{Little Velvet Ghost}{139}{}%
-\contentsline {subsection}{Notes}{139}{}%
-\contentsline {subsection}{Style}{139}{}%
-\contentsline {section}{Duda en Piravita}{140}{}%
-\contentsline {subsection}{Notes}{140}{}%
-\contentsline {subsection}{Style}{140}{}%
-\contentsline {section}{Padre Peter}{142}{}%
-\contentsline {subsection}{Notes}{142}{}%
-\contentsline {subsection}{Style}{142}{}%
-\contentsline {section}{Wild Cat}{143}{}%
-\contentsline {section}{Fallen Messenger}{144}{}%
-\contentsline {section}{Fallen Messenger}{145}{}%
-\contentsline {section}{Secreto de padre}{146}{}%
-\contentsline {section}{The Man I Taught You To Be}{148}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{150}{}%
-\contentsline {section}{Said and Done}{151}{}%
-\contentsline {section}{Pío}{153}{}%
-\contentsline {section}{The Laws of Hospitality}{154}{}%
-\contentsline {section}{Paper Cup Kisses}{155}{}%
-\contentsline {section}{Sin Retorno}{156}{}%
-\contentsline {section}{Saulon Forecast}{157}{}%
-\contentsline {section}{Stone Mason Bridge}{158}{}%
-\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{159}{}%
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\contentsline {section}{Ute Där Vinden Vänder}{160}{}%
-\contentsline {chapter}{Fragments}{161}{}%
-\contentsline {section}{Peccato bello}{162}{}%
-\contentsline {section}{Comfort Zones}{163}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{164}{}%
-\contentsline {section}{Kein Feuer}{165}{}%
-\contentsline {section}{Gota a gota}{166}{}%
-\contentsline {section}{Cataplún Zap!}{167}{}%
-\contentsline {section}{Street Corner Zambomba}{168}{}%
-\contentsline {section}{Pacificate}{169}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{170}{}%
-\contentsline {section}{Ik schreef mijn naam in}{171}{}%
-\contentsline {section}{Тепло без якоря}{172}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{173}{}%
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\xpg@aux {}{japanese}
-\xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{174}{}%
+\contentsline {section}{Blue-Point Mischief}{133}{}%
+\contentsline {subsection}{Notes}{133}{}%
+\contentsline {subsection}{Style}{133}{}%
+\contentsline {section}{Tabby Parade}{134}{}%
+\contentsline {chapter}{Summery}{135}{}%
+\contentsline {section}{El final del verano}{136}{}%
+\contentsline {section}{End of the Summer}{137}{}%
+\contentsline {section}{La Fin de l'Été}{138}{}%
+\contentsline {section}{Slutet av Sommaren}{139}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{140}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -263,10 +160,132 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{175}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{176}{}%
-\contentsline {chapter}{Covers}{177}{}%
-\contentsline {section}{La perrilla (pasillo)}{178}{}%
-\contentsline {section}{La perrilla (dance)}{179}{}%
-\contentsline {section}{Diamond Depth August}{180}{}%
-\contentsline {section}{Tu puro vivir}{181}{}%
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\contentsline {section}{Era o final do verão}{141}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{142}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{Era el final del verano}{143}{}%
+\contentsline {section}{El final del verano (balada)}{144}{}%
+\contentsline {section}{El final del verano (bolero)}{145}{}%
+\contentsline {chapter}{Death Sea and hospitality}{147}{}%
+\contentsline {section}{Dead Sea's Barren Dreams}{148}{}%
+\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{149}{}%
+\contentsline {section}{The Laws of Hospitality}{150}{}%
+\contentsline {section}{The Laws of the Stranger}{151}{}%
+\contentsline {chapter}{Piravita}{153}{}%
+\contentsline {section}{Duda en Piravita}{154}{}%
+\contentsline {subsection}{Notes}{154}{}%
+\contentsline {subsection}{Style}{154}{}%
+\contentsline {section}{Padre Peter}{156}{}%
+\contentsline {subsection}{Notes}{156}{}%
+\contentsline {subsection}{Style}{156}{}%
+\contentsline {chapter}{Fatherhood}{157}{}%
+\contentsline {section}{Secreto de padre}{158}{}%
+\contentsline {section}{The Man I Taught You To Be}{160}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{162}{}%
+\contentsline {section}{Said and Done}{163}{}%
+\contentsline {chapter}{Ilva and Khamid}{165}{}%
+\contentsline {section}{Vinterfrostleende}{166}{}%
+\contentsline {section}{Ökenskor av Salt}{167}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{168}{}%
+\contentsline {chapter}{Fleeting intimacy and power dynamics}{169}{}%
+\contentsline {section}{Passenger-Side Switch}{170}{}%
+\contentsline {subsection}{Notes}{170}{}%
+\contentsline {subsection}{Style}{170}{}%
+\contentsline {section}{She'll let you know}{171}{}%
+\contentsline {section}{Wild Cat}{172}{}%
+\contentsline {section}{Wild Cat, Wild Flower}{173}{}%
+\contentsline {section}{Paper Cup Kisses}{174}{}%
+\contentsline {chapter}{More}{175}{}%
+\contentsline {section}{Dapich Sápica}{176}{}%
+\contentsline {section}{Pío}{177}{}%
+\contentsline {section}{Sin Retorno}{178}{}%
+\contentsline {section}{Stone Mason Bridge}{179}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{180}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{The Final Offer}{181}{}%
+\contentsline {chapter}{Fragments}{183}{}%
+\contentsline {section}{Peccato bello}{184}{}%
+\contentsline {section}{Comfort Zones}{185}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{186}{}%
+\contentsline {section}{Kein Feuer}{187}{}%
+\contentsline {section}{Gota a gota}{188}{}%
+\contentsline {section}{Cataplún Zap!}{189}{}%
+\contentsline {section}{Street Corner Zambomba}{190}{}%
+\contentsline {section}{Pacificate}{191}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{192}{}%
+\contentsline {section}{Ik schreef mijn naam in}{193}{}%
+\contentsline {section}{Тепло без якоря}{194}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{195}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{196}{}%
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\contentsline {section}{Xumi}{197}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{198}{}%
+\contentsline {section}{dij Schdzjarvk}{199}{}%
+\contentsline {chapter}{Covers}{201}{}%
+\contentsline {section}{La perrilla (pasillo)}{202}{}%
+\contentsline {section}{La perrilla (dance)}{203}{}%
+\contentsline {section}{Diamond Depth August}{204}{}%
+\contentsline {section}{Tu puro vivir}{205}{}%
