@@ -37,6 +37,7 @@
 \contentsline {section}{Miguel Morocho}{45}{}%
 \contentsline {section}{Florida Wire}{46}{}%
 \contentsline {section}{Inter-Flota Caerá}{47}{}%
+\contentsline {section}{Mémoire En miettes}{48}{}%
 \contentsline {chapter}{Inspired}{49}{}%
 \contentsline {section}{El corrido de Carlson}{50}{}%
 \contentsline {section}{Two Faces in the Ledger}{51}{}%

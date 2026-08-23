@@ -218,20 +218,23 @@
 \contentsline {section}{Vinterfrostleende}{168}{}%
 \contentsline {section}{Ökenskor av Salt}{169}{}%
 \contentsline {section}{Nyckelharpa Under Asfalt}{170}{}%
-\contentsline {chapter}{Fleeting intimacy and power dynamics}{171}{}%
-\contentsline {section}{Passenger-Side Switch}{172}{}%
-\contentsline {subsection}{Notes}{172}{}%
-\contentsline {subsection}{Style}{172}{}%
-\contentsline {section}{She'll let you know}{173}{}%
-\contentsline {section}{Wild Cat}{174}{}%
-\contentsline {section}{Wild Cat, Wild Flower}{175}{}%
-\contentsline {section}{Paper Cup Kisses}{176}{}%
-\contentsline {chapter}{More}{177}{}%
-\contentsline {section}{Dapich Sápica}{178}{}%
-\contentsline {section}{Pío}{179}{}%
-\contentsline {section}{Sin Retorno}{180}{}%
-\contentsline {section}{Stone Mason Bridge}{181}{}%
-\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{182}{}%
+\contentsline {chapter}{Bachees}{171}{}%
+\contentsline {section}{Bachees of the Deep}{172}{}%
+\contentsline {section}{Drift Between Floaters}{173}{}%
+\contentsline {chapter}{Fleeting intimacy and power dynamics}{175}{}%
+\contentsline {section}{Passenger-Side Switch}{176}{}%
+\contentsline {subsection}{Notes}{176}{}%
+\contentsline {subsection}{Style}{176}{}%
+\contentsline {section}{She'll let you know}{177}{}%
+\contentsline {section}{Wild Cat}{178}{}%
+\contentsline {section}{Wild Cat, Wild Flower}{179}{}%
+\contentsline {section}{Paper Cup Kisses}{180}{}%
+\contentsline {chapter}{More}{181}{}%
+\contentsline {section}{Dapich Sápica}{182}{}%
+\contentsline {section}{Pío}{183}{}%
+\contentsline {section}{Sin Retorno}{184}{}%
+\contentsline {section}{Stone Mason Bridge}{185}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{186}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -248,20 +251,22 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{The Final Offer}{183}{}%
-\contentsline {chapter}{Fragments}{185}{}%
-\contentsline {section}{Peccato bello}{186}{}%
-\contentsline {section}{Comfort Zones}{187}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{188}{}%
-\contentsline {section}{Kein Feuer}{189}{}%
-\contentsline {section}{Gota a gota}{190}{}%
-\contentsline {section}{Cataplún Zap!}{191}{}%
-\contentsline {section}{Street Corner Zambomba}{192}{}%
-\contentsline {section}{Pacificate}{193}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{194}{}%
-\contentsline {section}{Ik schreef mijn naam in}{195}{}%
-\contentsline {section}{Тепло без якоря}{196}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{197}{}%
+\contentsline {section}{The Final Offer}{187}{}%
+\contentsline {section}{Peter City Walk}{188}{}%
+\contentsline {section}{Kijana Msomi}{189}{}%
+\contentsline {chapter}{Fragments}{191}{}%
+\contentsline {section}{Peccato bello}{192}{}%
+\contentsline {section}{Comfort Zones}{193}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{194}{}%
+\contentsline {section}{Kein Feuer}{195}{}%
+\contentsline {section}{Gota a gota}{196}{}%
+\contentsline {section}{Cataplún Zap!}{197}{}%
+\contentsline {section}{Street Corner Zambomba}{198}{}%
+\contentsline {section}{Pacificate}{199}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{200}{}%
+\contentsline {section}{Ik schreef mijn naam in}{201}{}%
+\contentsline {section}{Тепло без якоря}{202}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{203}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -272,7 +277,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{198}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{204}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -283,12 +288,15 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{199}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{200}{}%
-\contentsline {section}{dij Schdzjarvk}{201}{}%
-\contentsline {section}{Doopi-Do-Doos}{202}{}%
-\contentsline {chapter}{Covers}{203}{}%
-\contentsline {section}{La perrilla (pasillo)}{204}{}%
-\contentsline {section}{La perrilla (dance)}{205}{}%
-\contentsline {section}{Diamond Depth August}{206}{}%
-\contentsline {section}{Tu puro vivir}{207}{}%
+\contentsline {section}{Xumi}{205}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{206}{}%
+\contentsline {section}{dij Schdzjarvk}{207}{}%
+\contentsline {section}{Doopi-Do-Doos}{208}{}%
+\contentsline {section}{Anama'inreesü tüa}{209}{}%
+\contentsline {chapter}{Ricochets}{211}{}%
+\contentsline {chapter}{Thomas Entourage}{213}{}%
+\contentsline {chapter}{Covers}{215}{}%
+\contentsline {section}{La perrilla (pasillo)}{216}{}%
+\contentsline {section}{La perrilla (dance)}{217}{}%
+\contentsline {section}{Diamond Depth August}{218}{}%
+\contentsline {section}{Tu puro vivir}{219}{}%
