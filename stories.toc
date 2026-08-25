@@ -254,6 +254,7 @@
 \contentsline {section}{The Final Offer}{187}{}%
 \contentsline {section}{Peter City Walk}{188}{}%
 \contentsline {section}{Kijana Msomi}{189}{}%
+\contentsline {section}{Un día}{190}{}%
 \contentsline {chapter}{Fragments}{191}{}%
 \contentsline {section}{Peccato bello}{192}{}%
 \contentsline {section}{Comfort Zones}{193}{}%
@@ -293,6 +294,7 @@
 \contentsline {section}{dij Schdzjarvk}{207}{}%
 \contentsline {section}{Doopi-Do-Doos}{208}{}%
 \contentsline {section}{Anama'inreesü tüa}{209}{}%
+\contentsline {section}{Kijana Msomi (short)}{210}{}%
 \contentsline {chapter}{Ricochets}{211}{}%
 \contentsline {chapter}{Thomas Entourage}{213}{}%
 \contentsline {chapter}{Covers}{215}{}%

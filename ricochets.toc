@@ -16,29 +16,30 @@
 \contentsline {section}{The Asset}{21}{}%
 \contentsline {section}{Before That Blows}{23}{}%
 \contentsline {section}{Khamid Khaled}{24}{}%
-\contentsline {section}{Morocho}{25}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{27}{}%
-\contentsline {section}{Le Rêve des Autres}{28}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{29}{}%
-\contentsline {section}{Lo que queda}{30}{}%
-\contentsline {section}{Corona de alambre}{31}{}%
-\contentsline {chapter}{Extended}{33}{}%
-\contentsline {section}{Henry Little}{34}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{35}{}%
-\contentsline {section}{Cada uno en su lugar}{36}{}%
-\contentsline {section}{Sabbatical}{37}{}%
-\contentsline {section}{The Spark in Her Eyes}{38}{}%
-\contentsline {chapter}{Fragments and Summaries}{39}{}%
-\contentsline {section}{One Year No Call}{40}{}%
-\contentsline {section}{Valise sur le tarmac}{41}{}%
-\contentsline {section}{Hangar at Olaya}{42}{}%
-\contentsline {section}{Blue Optra Morning}{43}{}%
-\contentsline {section}{Sophie Durand}{44}{}%
-\contentsline {section}{Miguel Morocho}{45}{}%
-\contentsline {section}{Florida Wire}{46}{}%
-\contentsline {section}{Inter-Flota Caerá}{47}{}%
-\contentsline {section}{Mémoire En miettes}{48}{}%
-\contentsline {chapter}{Inspired}{49}{}%
-\contentsline {section}{El corrido de Carlson}{50}{}%
-\contentsline {section}{Two Faces in the Ledger}{51}{}%
-\contentsline {section}{Two Women One Case}{52}{}%
+\contentsline {section}{Under That Wide Brim}{25}{}%
+\contentsline {section}{Morocho}{26}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{28}{}%
+\contentsline {section}{Le Rêve des Autres}{29}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{30}{}%
+\contentsline {section}{Lo que queda}{31}{}%
+\contentsline {section}{Corona de alambre}{32}{}%
+\contentsline {chapter}{Extended}{35}{}%
+\contentsline {section}{Henry Little}{36}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{37}{}%
+\contentsline {section}{Cada uno en su lugar}{38}{}%
+\contentsline {section}{Sabbatical}{39}{}%
+\contentsline {section}{The Spark in Her Eyes}{40}{}%
+\contentsline {chapter}{Fragments and Summaries}{41}{}%
+\contentsline {section}{One Year No Call}{42}{}%
+\contentsline {section}{Valise sur le tarmac}{43}{}%
+\contentsline {section}{Hangar at Olaya}{44}{}%
+\contentsline {section}{Blue Optra Morning}{45}{}%
+\contentsline {section}{Sophie Durand}{46}{}%
+\contentsline {section}{Miguel Morocho}{47}{}%
+\contentsline {section}{Florida Wire}{48}{}%
+\contentsline {section}{Inter-Flota Caerá}{49}{}%
+\contentsline {section}{Mémoire En miettes}{50}{}%
+\contentsline {chapter}{Inspired}{51}{}%
+\contentsline {section}{El corrido de Carlson}{52}{}%
+\contentsline {section}{Two Faces in the Ledger}{53}{}%
+\contentsline {section}{Two Women One Case}{54}{}%
