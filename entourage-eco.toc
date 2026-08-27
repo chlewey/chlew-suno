@@ -102,10 +102,10 @@
 \contentsline {section}{Gabi’s Shoulder}{112}{}%
 \contentsline {section}{After the Lights}{114}{}%
 \contentsline {section}{Melgar Table}{115}{}%
-\contentsline {section}{Ciudad Punta Espada}{116}{}%
-\contentsline {section}{Public Face}{117}{}%
-\contentsline {section}{Moon at the Cabin}{118}{}%
-\contentsline {section}{Cabin at Sunrise}{119}{}%
+\contentsline {section}{Public Face}{116}{}%
+\contentsline {section}{Moon at the Cabin}{117}{}%
+\contentsline {section}{Cabin at Sunrise}{118}{}%
+\contentsline {section}{Ciudad Punta Espada}{119}{}%
 \contentsline {chapter}{Thomas gaze}{121}{}%
 \contentsline {section}{My Delicate Verse}{122}{}%
 \contentsline {section}{That Night}{123}{}%
