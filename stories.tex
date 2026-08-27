@@ -5,9 +5,19 @@
 \setlength{\columnsep}{6mm} 
 
 \begin{document}
+\frontmatter
+
+\begin{titlingpage}
+\centering
+\vspace*{\fill}
+{\Huge\bfseries Thompson’s stories Songbook\par}
+\vspace*{\fill}
+\end{titlingpage}
+
 \begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
+\mainmatter
 \begin{multicols*}{4}
 
 \chapter{Drift}
@@ -269,9 +279,8 @@ Songs based on the works of other people.
 \input{temp/tu_puro_vivir}
 
 \end{multicols*}
-%\begin{multicols*}{3}
+\backmatter
 \printindex[songs]
 \clearpage
 \printindex[tags]
-%\end{multicols*}
 \end{document}

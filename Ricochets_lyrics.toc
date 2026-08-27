@@ -1,0 +1,45 @@
+\xpg@aux {}{english}
+\contentsline {chapter}{Background}{1}{}%
+\contentsline {section}{Same Old Circle}{2}{}%
+\contentsline {section}{¿Aceptás el trato?}{3}{}%
+\contentsline {section}{Pizza on the Table}{4}{}%
+\contentsline {section}{Tolemaida Wedding}{5}{}%
+\contentsline {section}{Boynton Bound}{6}{}%
+\contentsline {section}{Town and Country}{7}{}%
+\contentsline {chapter}{Promotion}{9}{}%
+\contentsline {section}{Ricochets Hangover}{10}{}%
+\contentsline {section}{Destinies Overlap}{12}{}%
+\contentsline {chapter}{Canonical}{15}{}%
+\contentsline {section}{Carolina}{16}{}%
+\contentsline {section}{The Healer and the Hurting}{17}{}%
+\contentsline {section}{Everybody Knows Henry}{18}{}%
+\contentsline {section}{The Asset}{19}{}%
+\contentsline {section}{Before That Blows}{21}{}%
+\contentsline {section}{Khamid Khaled}{22}{}%
+\contentsline {section}{Under That Wide Brim}{23}{}%
+\contentsline {section}{Morocho}{24}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{26}{}%
+\contentsline {section}{Le Rêve des Autres}{27}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{28}{}%
+\contentsline {section}{Lo que queda}{29}{}%
+\contentsline {section}{Corona de alambre}{30}{}%
+\contentsline {chapter}{Extended}{33}{}%
+\contentsline {section}{Henry Little}{34}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{35}{}%
+\contentsline {section}{Cada uno en su lugar}{36}{}%
+\contentsline {section}{Sabbatical}{37}{}%
+\contentsline {section}{The Spark in Her Eyes}{38}{}%
+\contentsline {chapter}{Fragments and Summaries}{39}{}%
+\contentsline {section}{One Year No Call}{40}{}%
+\contentsline {section}{Valise sur le tarmac}{41}{}%
+\contentsline {section}{Hangar at Olaya}{42}{}%
+\contentsline {section}{Blue Optra Morning}{43}{}%
+\contentsline {section}{Sophie Durand}{44}{}%
+\contentsline {section}{Miguel Morocho}{45}{}%
+\contentsline {section}{Florida Wire}{46}{}%
+\contentsline {section}{Inter-Flota Caerá}{47}{}%
+\contentsline {section}{Mémoire En miettes}{48}{}%
+\contentsline {chapter}{Inspired}{49}{}%
+\contentsline {section}{El corrido de Carlson}{50}{}%
+\contentsline {section}{Two Faces in the Ledger}{51}{}%
+\contentsline {section}{Two Women One Case}{52}{}%

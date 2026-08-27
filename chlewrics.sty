@@ -45,6 +45,7 @@
 
 \newlength{\x@indent}
 \newlength{\x@left}
+\newcommand{\lyricsbreak}{\linebreak[4]\hspace*{-\x@indent}}
 \newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
   \setlength\x@indent{1em}%
 \else
@@ -56,6 +57,9 @@
 \begin{adjustwidth}{\x@indent}{\x@indent}%
 \setlength{\parskip}{1em}%
 \setlength{\parindent}{0pt}%
+\hangindent=\x@indent
+\hangafter=1
+\let\\\lyricsbreak
 \lyricsfont\selectfont
 }{\end{adjustwidth}\medskip}
 

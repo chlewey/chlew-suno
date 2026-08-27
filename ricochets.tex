@@ -5,9 +5,19 @@
 \setlength{\columnsep}{6mm} 
 
 \begin{document}
+\frontmatter
+
+\begin{titlingpage}
+\centering
+\vspace*{\fill}
+{\Huge\bfseries Ricochets’ Soundtrack\par}
+\vspace*{\fill}
+\end{titlingpage}
+
 \begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
+\mainmatter
 \begin{multicols*}{4}
 
 \chapter{Background}
@@ -61,9 +71,8 @@
 \input{temp/two_women_one_case}
 
 \end{multicols*}
-\begin{multicols*}{2}
+\backmatter
 \printindex[songs]
 \clearpage
 \printindex[tags]
-\end{multicols*}
 \end{document}
