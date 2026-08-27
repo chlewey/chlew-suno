@@ -34,7 +34,7 @@
 
 \newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
 \newcommand\songpart[1]{\par\textbf{\normalsize #1}\par}
-\newcommand\annotation[1]{\texttt{\,\footnotesize[#1]\,}}
+\newcommand\annotation[1]{\texttt{\footnotesize[#1]\,}}
 \newcommand\tag{\@ifstar\tag@star\tag@nostar}
 \newcommand\tag@nostar[2][\@empty]{%
 \texttt{\,\footnotesize\textbf{\##2}\,}%
@@ -45,9 +45,9 @@
 
 \newlength{\x@indent}
 \newlength{\x@left}
-\newcommand{\lyricsbreak}{\linebreak[4]\hspace*{-\x@indent}}
+\newcommand{\lyricsbreak}{\hfill\break\hspace*{-\x@indent}}
 \newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
-  \setlength\x@indent{1em}%
+  \setlength\x@indent{1.25em}%
 \else
   \setlength\x@left{\dimexpr\columnwidth - #1\relax}%
   \setlength\x@indent{0.5\x@left}%
@@ -57,8 +57,8 @@
 \begin{adjustwidth}{\x@indent}{\x@indent}%
 \setlength{\parskip}{1em}%
 \setlength{\parindent}{0pt}%
-\hangindent=\x@indent
-\hangafter=1
+%\raggedright
+\parshape=2 0pt \linewidth \x@indent \dimexpr\linewidth-\x@indent\relax
 \let\\\lyricsbreak
 \lyricsfont\selectfont
 }{\end{adjustwidth}\medskip}
