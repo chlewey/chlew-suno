@@ -4,9 +4,11 @@
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
 \begin{document}
+\frontmatter
 \begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
+\mainmatter
 \begin{multicols*}{4}
 \chapter{World}
 \input{gabisson/le_phases_de_thomas}
@@ -31,7 +33,7 @@
 \input{rataflechera/royal_docks} % Claire
 \input{gabisson/pilar_venegas} % Pilar
 \input{rataflechera/rough_diamond} % Kadri
-\input{rataflechera/petrovna_петровна} % Kadri
+\input{rataflechera/petrovna_petrovna} % Kadri
 \input{temp/kedri_petrovna_kuznetsova} % Kadri
 \input{temp/greca_piras} % Greca
 \input{temp/liis_sepp_raising} % Liis
@@ -64,7 +66,7 @@
 \input{gabisson/line_in_gold}
 
 \chapter{Character profile: Erika}
-\input{rataflechera/mellan_is_och_hård_betong} % Erika
+\input{rataflechera/mellan_is_och_haard_betong} % Erika
 \input{rataflechera/loves_final_name} % Erika
 \input{temp/lilac_in_utrecht}
 \input{chlewey/erika_in_motion}
@@ -117,10 +119,10 @@
 \input{rataflechera/gabis_shoulder}
 \input{temp/after_the_lights}
 \input{wyomee/melgar_table}
-\input{temp/ciudad_punta_espada}
 \input{temp/public_face}
 \input{rataflechera/moon_at_the_cabin}
 \input{rataflechera/cabin_at_sunrise}
+\input{temp/ciudad_punta_espada}
 
 \chapter{Thomas gaze}
 \input{temp/my_delicate_verse}
@@ -175,7 +177,7 @@
 
 \chapter{Sylvia's diary}
 \input{wyomee/peccato_daprile}
-\input{wyomee/casa_non_è}
+\input{wyomee/casa_non_e}
 \input{wyomee/qualcosa_di_vero}
 \input{wyomee/sa_fiamma}
 \input{wyomee/resto_qui}
@@ -237,10 +239,8 @@
 \input{gabisson/vor_barcelona}
 
 \end{multicols*}
-\clearpage
-\begin{multicols*}{2}
+\backmatter
 \printindex[songs]
 \clearpage
 \printindex[tags]
-\end{multicols*}
 \end{document}
