@@ -131,6 +131,7 @@
 \contentsline {section}{Cornered By Systems}{93}{}%
 \contentsline {section}{Doble-J}{94}{}%
 \contentsline {section}{Barrera de inicio}{95}{}%
+\contentsline {section}{Behind the Smile}{96}{}%
 \contentsline {chapter}{Soul}{97}{}%
 \contentsline {section}{Dejándome llevar}{98}{}%
 \contentsline {section}{Stimuli}{99}{}%
@@ -290,35 +291,37 @@
 \contentsline {section}{Moonlit Caravan}{245}{}%
 \contentsline {section}{Grand Orchestra Ballad}{246}{}%
 \contentsline {section}{Timbales in Blue}{247}{}%
-\contentsline {chapter}{Fragments}{249}{}%
-\contentsline {section}{Burn the Glass}{250}{}%
-\contentsline {section}{A Drunk Without A Drop}{251}{}%
-\contentsline {section}{The Bitter Toll}{252}{}%
-\contentsline {chapter}{Adaptations}{253}{}%
-\contentsline {section}{The Wrong Map}{254}{}%
+\contentsline {section}{Purple Lace Stance}{248}{}%
+\contentsline {section}{September at the Window}{249}{}%
+\contentsline {chapter}{Fragments}{251}{}%
+\contentsline {section}{Burn the Glass}{252}{}%
+\contentsline {section}{A Drunk Without A Drop}{253}{}%
+\contentsline {section}{The Bitter Toll}{254}{}%
+\contentsline {chapter}{Adaptations}{255}{}%
 \contentsline {section}{The Wrong Map}{256}{}%
-\contentsline {section}{They Multiply}{257}{}%
-\contentsline {section}{Deserve}{258}{}%
-\contentsline {section}{The Hardest Toll}{260}{}%
-\contentsline {section}{The Fault in Your Character (EBD)}{262}{}%
-\contentsline {section}{Vida simple}{264}{}%
-\contentsline {section}{Los buenos somos más}{265}{}%
-\contentsline {section}{Carried Away}{266}{}%
-\contentsline {section}{Non-Aligned}{268}{}%
-\contentsline {section}{Si no te hace falta}{269}{}%
-\contentsline {section}{Piel / Stimuli}{270}{}%
-\contentsline {section}{Soundwall}{271}{}%
-\contentsline {section}{Crave Stimuli}{272}{}%
-\contentsline {section}{Crave Stimuli (rave)}{273}{}%
-\contentsline {section}{Keep Me}{274}{}%
-\contentsline {section}{Sex Without Compromise}{275}{}%
-\contentsline {section}{New // Old}{276}{}%
-\contentsline {section}{Paper in the Grinder}{277}{}%
-\contentsline {section}{Grinder Glass}{278}{}%
-\contentsline {section}{Paper In My Teeth}{279}{}%
-\contentsline {section}{Paper Cup Engine}{280}{}%
-\contentsline {section}{If You Don’t Need It}{281}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{282}{}%
-\contentsline {section}{Living Fantasies (native folk)}{283}{}%
-\contentsline {section}{Buildings Worlds}{284}{}%
-\contentsline {section}{Keep the Vow}{285}{}%
+\contentsline {section}{The Wrong Map}{258}{}%
+\contentsline {section}{They Multiply}{259}{}%
+\contentsline {section}{Deserve}{260}{}%
+\contentsline {section}{The Hardest Toll}{262}{}%
+\contentsline {section}{The Fault in Your Character (EBD)}{264}{}%
+\contentsline {section}{Vida simple}{266}{}%
+\contentsline {section}{Los buenos somos más}{267}{}%
+\contentsline {section}{Carried Away}{268}{}%
+\contentsline {section}{Non-Aligned}{270}{}%
+\contentsline {section}{Si no te hace falta}{271}{}%
+\contentsline {section}{Piel / Stimuli}{272}{}%
+\contentsline {section}{Soundwall}{273}{}%
+\contentsline {section}{Crave Stimuli}{274}{}%
+\contentsline {section}{Crave Stimuli (rave)}{275}{}%
+\contentsline {section}{Keep Me}{276}{}%
+\contentsline {section}{Sex Without Compromise}{277}{}%
+\contentsline {section}{New // Old}{278}{}%
+\contentsline {section}{Paper in the Grinder}{279}{}%
+\contentsline {section}{Grinder Glass}{280}{}%
+\contentsline {section}{Paper In My Teeth}{281}{}%
+\contentsline {section}{Paper Cup Engine}{282}{}%
+\contentsline {section}{If You Don’t Need It}{283}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{284}{}%
+\contentsline {section}{Living Fantasies (native folk)}{285}{}%
+\contentsline {section}{Buildings Worlds}{286}{}%
+\contentsline {section}{Keep the Vow}{287}{}%

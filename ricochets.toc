@@ -18,11 +18,12 @@
 \contentsline {section}{Khamid Khaled}{23}{}%
 \contentsline {section}{Under That Wide Brim}{24}{}%
 \contentsline {section}{Morocho}{25}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{27}{}%
-\contentsline {section}{Le Rêve des Autres}{28}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{30}{}%
-\contentsline {section}{Lo que queda}{31}{}%
-\contentsline {section}{Corona de alambre}{32}{}%
+\contentsline {section}{The Storage Unit}{27}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{28}{}%
+\contentsline {section}{Le Rêve des Autres}{29}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{31}{}%
+\contentsline {section}{Lo que queda}{32}{}%
+\contentsline {section}{Corona de alambre}{33}{}%
 \contentsline {chapter}{Extended}{35}{}%
 \contentsline {section}{Henry Little}{36}{}%
 \contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{37}{}%
