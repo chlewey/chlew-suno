@@ -55,7 +55,7 @@ def parse_directive(line):
 
 def regex_fix(text):
     text = re.sub(
-        r'\[((Vers|(Pre-|Final )?Chorus|Bridge|Breakdown|Intro|Outro|Movement|Chapter)[^\]\[]*)\]',
+        r'\[((Vers|(Pre-|Final )?Chorus|Bridge|Breakdown|Intro|Outro|Movement|Chapter|Contra|Counter)[^\]\[]*)\]',
         r'\\songpart{\1}',
         text,
     )

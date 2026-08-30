@@ -9,6 +9,7 @@
 \contentsline {chapter}{Promotion}{9}{}%
 \contentsline {section}{Ricochets Hangover}{10}{}%
 \contentsline {section}{Destinies Overlap}{12}{}%
+\contentsline {section}{Los rebotes}{14}{}%
 \contentsline {chapter}{Canonical}{15}{}%
 \contentsline {section}{Carolina}{16}{}%
 \contentsline {section}{The Healer and the Hurting}{17}{}%
@@ -30,17 +31,26 @@
 \contentsline {section}{Cada uno en su lugar}{38}{}%
 \contentsline {section}{Sabbatical}{39}{}%
 \contentsline {section}{The Spark in Her Eyes}{40}{}%
-\contentsline {chapter}{Fragments and Summaries}{41}{}%
-\contentsline {section}{One Year No Call}{42}{}%
-\contentsline {section}{Valise sur le tarmac}{43}{}%
-\contentsline {section}{Hangar at Olaya}{44}{}%
-\contentsline {section}{Blue Optra Morning}{45}{}%
-\contentsline {section}{Sophie Durand}{46}{}%
-\contentsline {section}{Miguel Morocho}{47}{}%
-\contentsline {section}{Florida Wire}{48}{}%
-\contentsline {section}{Inter-Flota Caerá}{49}{}%
-\contentsline {section}{Mémoire En miettes}{50}{}%
-\contentsline {chapter}{Inspired}{51}{}%
-\contentsline {section}{El corrido de Carlson}{52}{}%
-\contentsline {section}{Two Faces in the Ledger}{53}{}%
-\contentsline {section}{Two Women One Case}{54}{}%
+\contentsline {section}{Rosario House}{41}{}%
+\contentsline {section}{Smoke and Steel}{42}{}%
+\contentsline {section}{Heart to Heart}{43}{}%
+\contentsline {section}{Steady Hands}{44}{}%
+\contentsline {section}{Andrea in the Doorway}{45}{}%
+\contentsline {chapter}{Fragments and Summaries}{47}{}%
+\contentsline {section}{Hold Your Breath}{48}{}%
+\contentsline {section}{Fragments at La Dorada}{50}{}%
+\contentsline {section}{One Year No Call}{52}{}%
+\contentsline {section}{Valise sur le tarmac}{53}{}%
+\contentsline {section}{Hangar at Olaya}{54}{}%
+\contentsline {section}{Blue Optra Morning}{55}{}%
+\contentsline {section}{Sophie Durand}{56}{}%
+\contentsline {section}{Miguel Morocho}{57}{}%
+\contentsline {section}{Florida Wire}{58}{}%
+\contentsline {section}{Inter-Flota Caerá}{59}{}%
+\contentsline {section}{Mémoire En miettes}{60}{}%
+\contentsline {section}{Swim Pool Submit}{61}{}%
+\contentsline {section}{Tiny Suits}{63}{}%
+\contentsline {chapter}{Inspired}{65}{}%
+\contentsline {section}{El corrido de Carlson}{66}{}%
+\contentsline {section}{Two Faces in the Ledger}{67}{}%
+\contentsline {section}{Two Women One Case}{68}{}%
