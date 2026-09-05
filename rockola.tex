@@ -1,4 +1,4 @@
-%& -job-name=Rockola_lyrics
+%\& -job-name=Rockola_lyrics
 \documentclass[a4paper,landscape]{memoir}
 \usepackage{chlewrics}
 \usepackage{multicol}
@@ -13,6 +13,7 @@
 {\Huge\bfseries Thompson’s Rock Songbook\par}
 \vspace*{\fill}
 \end{titlingpage}
+\renewcommand\chaptername{Album~}
 
 \begin{multicols*}{2}
 \tableofcontents*
@@ -20,50 +21,69 @@
 \mainmatter
 \begin{multicols*}{4}
 
-\chapter{Thomas’ Entourage}
+\part{Thomas’ Entourage}
 The \emph{Thomas’ Entourage} narrative universe.
-\input{dvigitt/grace_in_the_gale} % symphonic-metal, 2023
-\input{gabisson/carroll_gardens} % indie-rock, 2024
-\input{temp/london_to_punta} % new-wave, 2024
-\input{gabisson/minutes_home} % punk-rock, 2024
+
+\chapter{The Rotterdam Leg \& Cabin Monologues}
+\textbf{Enfoque:} Canciones de rock industrial, grunge y rock alternativo de ritmo medio que narran la génesis del encuentro con Gabi y la deconstrucción de los límites de Thomas
+\input{gabisson/full_semester_data} % alt-rock, 2026
+\input{gabisson/airport_hotel_bar} % alt-rock, 2026
+\input{gabisson/two_separate_rooms} % alt-rock, 2026
+\input{temp/just_trains} % industrial-grunge, 2026
 \input{gabisson/steel_n_violet} % industrial-rock, 2024
-\input{gabisson/vor_barcelona} % industrial-rock, 2024
+\input{chlewey/last_kiss_at_potsdam} % rap-rock, 2026
+\input{chlewey/last_kiss_at_potsdam_1} % rap-rock, 2026
 \input{gabisson/vor_barcelona_deutsch} % industrial-rock, 2024
 \input{gabisson/vor_barcelona_english} % industrial-rock, 2024
-\input{wyomee/open_hearts} % punk, 2025
-\input{gabisson/airport_hotel_bar} % alt-rock, 2026
-\input{temp/bring_claire} % acoustic-punk, 2026
-\input{temp/carry_on_reset} % acoustic-punk, 2026
-\input{temp/ciudad_punta_espada} % chamber-rock, 2026
-\input{temp/double_register} % grunge, 2026
-\input{gabisson/east_side_table} % acoustic-punk, 2026
-\input{rataflechera/every_reason_why} % ska-punk, 2026
-\input{temp/five_sharp_dinner} % acoustic-punk, 2026
-\input{gabisson/full_semester_data} % alt-rock, 2026
-\input{chlewey/go} % pop-rock, 2026
-\input{temp/greca_piras} % symphonic-rock, 2026
-\input{gabisson/hells_kitchen_dress} % acoustic-punk, 2026
-\input{temp/jersey_summers} % acoustic-punk, 2026
-\input{temp/just_trains} % industrial-grunge, 2026
-\input{temp/kedri_petrovna_kuznetsova} % symphonic-rock, 2026
-\input{chlewey/last_kiss_at_potsdam_1} % rap-rock, 2026
-\input{chlewey/last_kiss_at_potsdam} % rap-rock, 2026
-\input{temp/liis_sepp_raising} % symphonic-rock, 2026
-\input{rataflechera/loves_final_name} % glam-metal, 2026
-\input{rataflechera/mellan_is_och_haard_betong} % glam-metal, 2026
-\input{rataflechera/nomad_butterfly} % punk-rock, 2026
-\input{rataflechera/petrovna} % pop-rock, 2026
-\input{rataflechera/petrovna_petrovna} % folk-metal, 2026
-\input{gabisson/quiet_cracked_routine} % industrial-rock, 2026
-\input{gabisson/ross_dock_lunch} % acoustic-punk, 2026
-\input{chlewey/that_night} % melodic-rock, 2026
-\input{dvigitt/the_woman_from_the_storm} % operatic-rock, 2026
-\input{temp/thursdays_plans} % acoustic-punk, 2026
-\input{gabisson/two_separate_rooms} % alt-rock, 2026
-\input{temp/zahra_moradi} % symphonic-rock, 2026
 
-\chapter{Ricochets}
+\chapter{New York Nights \& Fort Lee Diaries}
+\textbf{Enfoque:} El vibrante subgénero del punk acústico con violines y palmas que Fiona Levit utiliza para narrar la complicidad, las cenas rápidas y las noches de club en Manhattan
+
+\input{gabisson/carroll_gardens} % indie-rock, 2024
+\input{temp/carry_on_reset} % acoustic-punk, 2026
+\input{temp/jersey_summers} % acoustic-punk, 2026
+\input{temp/thursdays_plans} % acoustic-punk, 2026
+\input{temp/five_sharp_dinner} % acoustic-punk, 2026
+\input{temp/bring_claire} % acoustic-punk, 2026
+\input{gabisson/east_side_table} % acoustic-punk, 2026
+\input{gabisson/ross_dock_lunch} % acoustic-punk, 2026
+\input{gabisson/hells_kitchen_dress} % acoustic-punk, 2026
+
+\chapter{Operatic Portals \& Baltic Anthems}
+\textbf{Enfoque:} Retratos dramáticos en clave de metal sinfónico y rock teatral, donde las mujeres del norte de Europa y del mediterráneo se imponen con coros grandiosos, kannel y voces de soprano
+
+\input{dvigitt/grace_in_the_gale} % symphonic-metal, 2023
+\input{chlewey/that_night} % melodic-rock, 2026
+\input{temp/liis_sepp_raising} % symphonic-rock, 2026
+\input{temp/kedri_petrovna_kuznetsova} % symphonic-rock, 2026
+\input{rataflechera/petrovna_petrovna} % folk-metal, 2026
+\input{rataflechera/petrovna} % pop-rock, 2026
+\input{temp/zahra_moradi} % symphonic-rock, 2026
+\input{temp/greca_piras} % symphonic-rock, 2026
+\input{gabisson/quiet_cracked_routine} % industrial-rock, 2026
+\input{rataflechera/mellan_is_och_haard_betong} % glam-metal, 2026
+\input{rataflechera/loves_final_name} % glam-metal, 2026
+\input{gabisson/vor_barcelona} % industrial-rock, 2024
+
+\chapter{Pilots, Routes \& Foundations}
+\textbf{Enfoque:} Canciones de rock de carretera, punk y new-wave sobre los viajes continentales, la logística y la jefa de seguridad
+
+\input{temp/london_to_punta} % new-wave, 2024
+\input{gabisson/minutes_home} % punk-rock, 2024
+\input{dvigitt/the_woman_from_the_storm} % operatic-rock, 2026
+\input{rataflechera/every_reason_why} % ska-punk, 2026
+\input{wyomee/open_hearts} % punk, 2025
+\input{rataflechera/nomad_butterfly} % punk-rock, 2026
+\input{temp/double_register} % grunge, 2026
+\input{temp/ciudad_punta_espada} % chamber-rock, 2026
+\input{chlewey/go} % pop-rock, 2026
+
+\part{Ricochets}
 Carlos Thompson’s novel \emph{Ricochets}.
+
+\chapter{The Colombian Trap (Ricochets)}
+\textbf{Enfoque:} El thriller completo de extradición y vidas cruzadas de la novela. Al tener un número perfecto de canciones (6), se mantiene como un álbum cohesivo de rock-noir de los 2000
+
 \input{dvigitt/rosario_house} % rock-ballad, 2023
 \input{wyomee/destinies_overlap} % alt-rock, 2024
 \input{rataflechera/berent_steel_opas_shadow} % glam-metal, 2026
@@ -71,68 +91,92 @@ Carlos Thompson’s novel \emph{Ricochets}.
 \input{temp/interflota_caera} % pop-rock, 2026
 \input{rataflechera/ricochets_hangover} % nu-metal, 2026
 
-\chapter{Other narrative}
+\part{Other narrative}
 Other stories, vignettes, portraits and character studies.
+
+\chapter{Encounter Icons \& Heavy Chemistry}
+\textbf{Enfoque:} Canciones de rock de actitud pesada y glam sobre las conexiones que bajan de la red a los hoteles y la tensión física
+
+\input{chlewey/ice_cream_friday} % glam-metal, 2023
+\input{chlewey/passengerside_switch} % pop-rock, 2025
+\input{temp/brass_eyed_siren} % industrial-punk, 2026
+\input{wyomee/peeling_paint_girl} % alt-rock, 2026
+\input{temp/wild_cat} % industrial-rock, 2026
+\input{temp/watching_from_a_distance} % alt-rock, 2026
+\input{temp/era_el_final_del_verano} % pop-rock, 2026
+
+\chapter{Shadows \& Goth-Metal Fables}
+\textbf{Enfoque:} Piezas narrativas oscuras, experimentación en post-rock y baladas góticas inspiradas en viejos diarios del autor
+
 \input{gabisson/evi_sem_yike} % post-rock, 1992
 \input{gabisson/evi_sem_yike_single} % rock, 1992
 \input{rataflechera/gota_a_gota} % goth-metal, 1997
-\input{chlewey/ice_cream_friday} % glam-metal, 2023
-\input{temp/bogota_cathedral} % gothic-rock, 2024
-\input{chlewey/passengerside_switch} % pop-rock, 2025
-\input{wyomee/still_unfinished} % alt-rock, 2025
+\input{gabisson/okenskor_av_salt} % dark-metal, 2026
+\input{temp/molten_sunlight} % nu-metal, 2026
 \input{temp/tomaruna_kage} % pop-punk, 2026
 \input{chlewey/bluepoint_mischief} % rock, 2026
-\input{temp/brass_eyed_siren} % industrial-punk, 2026
-\input{temp/era_el_final_del_verano} % pop-rock, 2026
-\input{temp/molten_sunlight} % nu-metal, 2026
-\input{wyomee/peeling_paint_girl} % alt-rock, 2026
-\input{temp/peter_city_walk} % children-rock, 2026
-\input{temp/watching_from_a_distance} % alt-rock, 2026
-\input{temp/wild_cat} % industrial-rock, 2026
-\input{gabisson/okenskor_av_salt} % dark-metal, 2026
 
-\chapter{Essays}
+\part{Essays}
 Argument-driven pieces: essays, satire, social and religious commentary, anthems.
+
+\chapter{Debates, Satires \& Systems}
+Enfoque: En lugar de dejar una lista masiva, este capítulo agrupa el rock intelectual, el post-punk político y las sátiras de internet
+
 \input{temp/cut_me_loose} % nu-metal, 2013
-\input{chlewey/in_the_time_of_noahs_ark} % children-rock, 2013
 \input{temp/the_toxic_ghost} % nu-metal, 2013
-\input{rataflechera/balance_of_three} % glam-metal, 2024
-\input{rataflechera/dead_seas_barren_dreams} % goth-metal, 2025
-\input{chlewey/buba_kiki_riot} % alt-rock, 2026
 \input{temp/el_fin_de_la_historia} % post-punk, 2026
 \input{temp/history_witnessed_live} % post-punk, 2026
-\input{temp/limits_of_the_load} % industrial-rock, 2026
 \input{temp/pesn_o_krugah_putey} % nu-metal, 2026
+\input{rataflechera/balance_of_three} % glam-metal, 2024
+\input{chlewey/in_the_time_of_noahs_ark} % children-rock, 2013
+\input{rataflechera/dead_seas_barren_dreams} % goth-metal, 2025
 
-\chapter{Lyrical}
+\input{chlewey/buba_kiki_riot} % alt-rock, 2026
+\input{temp/limits_of_the_load} % industrial-rock, 2026
+
+\part{Lyrical}
 Personal and poetic songs: journal-based lyric, introspection, adaptations, wordless pieces.
-\input{chlewey/je_hais} % hard-rock, 1988
-\input{chlewey/je_hais_1} % hard-rock, 1988
-\input{chlewey/la_haine_que_je_te_dois} % pop-rock, 1988
-\input{gabisson/three_notebooks} % chamber-rock, 1995
-\input{temp/lluvia_en_tu_mirada} % pop-rock, 1996
-\input{rataflechera/siento} % glam-metal, 1996
-\input{wyomee/monoestable} % alt-rock, 1997
+
+\chapter{ADHD Chaos \& Executive Burnout}
+\textbf{Enfoque:} Canciones sobre la parálisis ejecutiva, la sobreestimulación de la vida moderna y el cansancio de sostener máscaras funcionales en clave de alt-rock, metal alternativo y grunge
+
 \input{temp/skalvning} % nu-metal, 2010
+\input{wyomee/monoestable} % alt-rock, 1997
+\input{temp/paper_in_the_grinder} % post-punk, 2026
 \input{temp/the_loaded_mind} % industrial-rock, 2010
 \input{temp/the_loaded_mind_defiant} % industrial-rock, 2010
-\input{chlewey/no_excuse} % alt-rock, 2023
-\input{wyomee/your_role} % punk-rock, 2023
-\input{chlewey/let_me_finish} % pop-rock, 2025
-\input{temp/a_mind_that_craves_novelty} % electropunk, 2026
-\input{temp/buildings_worlds} % pop-rock, 2026
-\input{rataflechera/burn_the_glass} % hard-rock, 2026
-\input{temp/candy_rock_day} % candy-rock, 2026
-\input{temp/migrant_echoes} % industrial-rock, 2026
-\input{temp/paper_in_the_grinder} % post-punk, 2026
-\input{temp/rainbow_candy_parade} % candy-rock, 2026
+\input{temp/the_wrong_map_1} % alt-rock, 2026
 \input{rataflechera/the_bitter_toll} % pop-rock, 2026
 \input{rataflechera/the_bitter_toll_remix} % pop-rock, 2026
 \input{temp/the_fault_in_your_character} % symphonic-metal, 2026
 \input{temp/the_hardest_toll} % symphonic-metal, 2026
-\input{temp/the_last_waltz_of_the_northern} % symphonic-rock, 2026
-\input{temp/the_wrong_map_1} % alt-rock, 2026
+\input{chlewey/let_me_finish} % pop-rock, 2025
+\input{temp/buildings_worlds} % pop-rock, 2026
+\input{rataflechera/burn_the_glass} % hard-rock, 2026
 \input{temp/the_wrong_map} % classic-rock, 2026
+
+\chapter{Confessions \& Small Defeats}
+\textbf{Enfoque:} El amor no confeso, la rabia contra el amor herido de juventud, la neurodivergencia doméstica y la instrumentalización libre
+
+\input{chlewey/je_hais} % hard-rock, 1988
+\input{chlewey/je_hais_1} % hard-rock, 1988
+\input{chlewey/la_haine_que_je_te_dois} % pop-rock, 1988
+\input{rataflechera/siento} % glam-metal, 1996
+\input{temp/lluvia_en_tu_mirada} % pop-rock, 1996
+\input{gabisson/three_notebooks} % chamber-rock, 1995
+\input{temp/bogota_cathedral} % gothic-rock, 2024
+\input{wyomee/still_unfinished} % alt-rock, 2025
+\input{chlewey/no_excuse} % alt-rock, 2023
+\input{wyomee/your_role} % punk-rock, 2023
+\input{temp/a_mind_that_craves_novelty} % electropunk, 2026
+\input{temp/the_last_waltz_of_the_northern} % symphonic-rock, 2026
+\input{temp/migrant_echoes} % industrial-rock, 2026
+
+\chapter{Playful Escapes \& Candy Rock Parades}
+
+\input{temp/candy_rock_day} % candy-rock, 2026
+\input{temp/rainbow_candy_parade} % candy-rock, 2026
+\input{temp/peter_city_walk} % children-rock, 2026
 
 \end{multicols*}
 \backmatter
