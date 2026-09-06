@@ -9,37 +9,49 @@
 \contentsline {chapter}{Promotion}{9}{}%
 \contentsline {section}{Ricochets Hangover}{10}{}%
 \contentsline {section}{Destinies Overlap}{12}{}%
+\contentsline {section}{Los rebotes}{14}{}%
 \contentsline {chapter}{Canonical}{15}{}%
 \contentsline {section}{Carolina}{16}{}%
 \contentsline {section}{The Healer and the Hurting}{17}{}%
-\contentsline {section}{Everybody Knows Henry}{18}{}%
-\contentsline {section}{The Asset}{19}{}%
-\contentsline {section}{Before That Blows}{21}{}%
-\contentsline {section}{Khamid Khaled}{22}{}%
-\contentsline {section}{Under That Wide Brim}{23}{}%
-\contentsline {section}{Morocho}{24}{}%
-\contentsline {section}{Berent Steel (Opa's Shadow)}{26}{}%
-\contentsline {section}{Le Rêve des Autres}{27}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{28}{}%
-\contentsline {section}{Lo que queda}{29}{}%
-\contentsline {section}{Corona de alambre}{30}{}%
-\contentsline {chapter}{Extended}{33}{}%
-\contentsline {section}{Henry Little}{34}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{35}{}%
-\contentsline {section}{Cada uno en su lugar}{36}{}%
-\contentsline {section}{Sabbatical}{37}{}%
-\contentsline {section}{The Spark in Her Eyes}{38}{}%
-\contentsline {chapter}{Fragments and Summaries}{39}{}%
-\contentsline {section}{One Year No Call}{40}{}%
-\contentsline {section}{Valise sur le tarmac}{41}{}%
-\contentsline {section}{Hangar at Olaya}{42}{}%
-\contentsline {section}{Blue Optra Morning}{43}{}%
-\contentsline {section}{Sophie Durand}{44}{}%
-\contentsline {section}{Miguel Morocho}{45}{}%
-\contentsline {section}{Florida Wire}{46}{}%
-\contentsline {section}{Inter-Flota Caerá}{47}{}%
-\contentsline {section}{Mémoire En miettes}{48}{}%
-\contentsline {chapter}{Inspired}{49}{}%
-\contentsline {section}{El corrido de Carlson}{50}{}%
-\contentsline {section}{Two Faces in the Ledger}{51}{}%
-\contentsline {section}{Two Women One Case}{52}{}%
+\contentsline {section}{Everybody Knows Henry}{19}{}%
+\contentsline {section}{The Asset}{20}{}%
+\contentsline {section}{Before That Blows}{22}{}%
+\contentsline {section}{Khamid Khaled}{23}{}%
+\contentsline {section}{Under That Wide Brim}{24}{}%
+\contentsline {section}{Morocho}{25}{}%
+\contentsline {section}{The Storage Unit}{27}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{28}{}%
+\contentsline {section}{Le Rêve des Autres}{29}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{31}{}%
+\contentsline {section}{Lo que queda}{32}{}%
+\contentsline {section}{Corona de alambre}{33}{}%
+\contentsline {section}{Miguel, Corazón Sereno}{35}{}%
+\contentsline {chapter}{Extended}{37}{}%
+\contentsline {section}{Henry Little}{38}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{39}{}%
+\contentsline {section}{Cada uno en su lugar}{40}{}%
+\contentsline {section}{Sabbatical}{41}{}%
+\contentsline {section}{The Spark in Her Eyes}{42}{}%
+\contentsline {section}{Rosario House}{43}{}%
+\contentsline {section}{Smoke and Steel}{44}{}%
+\contentsline {section}{Heart to Heart}{45}{}%
+\contentsline {section}{Steady Hands}{46}{}%
+\contentsline {section}{Andrea in the Doorway}{47}{}%
+\contentsline {chapter}{Fragments and Summaries}{49}{}%
+\contentsline {section}{Hold Your Breath}{50}{}%
+\contentsline {section}{Fragments at La Dorada}{52}{}%
+\contentsline {section}{One Year No Call}{54}{}%
+\contentsline {section}{Valise sur le tarmac}{55}{}%
+\contentsline {section}{Hangar at Olaya}{56}{}%
+\contentsline {section}{Blue Optra Morning}{57}{}%
+\contentsline {section}{Sophie Durand}{58}{}%
+\contentsline {section}{Miguel Morocho}{59}{}%
+\contentsline {section}{Florida Wire}{60}{}%
+\contentsline {section}{Inter-Flota Caerá}{61}{}%
+\contentsline {section}{Mémoire En miettes}{62}{}%
+\contentsline {section}{Swim Pool Submit}{63}{}%
+\contentsline {section}{Tiny Suits}{65}{}%
+\contentsline {chapter}{Inspired}{67}{}%
+\contentsline {section}{El corrido de Carlson}{68}{}%
+\contentsline {section}{Two Faces in the Ledger}{69}{}%
+\contentsline {section}{Two Women One Case}{70}{}%
