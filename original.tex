@@ -1,0 +1,106 @@
+%& -job-name=Original_lyrics
+\documentclass[a4paper,landscape]{memoir}
+\usepackage{chlewrics}
+\usepackage{multicol}
+\setlength{\columnsep}{6mm}
+
+\begin{document}
+\frontmatter
+
+\begin{titlingpage}
+\centering
+\vspace*{\fill}
+{\Huge\bfseries Thompson’s Original Songbook\par}
+\vspace*{\fill}
+\end{titlingpage}
+
+\begin{multicols*}{2}
+\tableofcontents*
+\end{multicols*}
+\mainmatter
+\begin{multicols*}{4}
+
+\chapter{Pre-Suno}
+Pieces written between 1988 and 2025 and set to music decades later, ordered by the year of the source text.
+
+% 1988 --- \emph{Je hais / Odio} and its versions
+\input{chlewey/je_hais}
+\input{chlewey/je_hais_1}
+\input{chlewey/la_haine_que_je_te_dois}
+\input{rataflechera/je_hais_ma_haine}
+% 1991 --- \emph{Despertar}
+\input{chlewey/svarta_ogon}
+\input{chlewey/svarta_ogon_skena}
+\input{rataflechera/svarta_ogonglasbell}
+\input{chlewey/vakning}
+\input{chlewey/jag_avskyr}
+\input{chlewey/bilden}
+\input{rataflechera/dig}
+% 1996--1997
+\input{chlewey/septiembre}
+\input{rataflechera/siento}
+\input{chlewey/circulo_convexo}
+% undated (1990s?)
+\input{chlewey/espectador_de_mi_vida}
+% 2010
+\input{temp/el_juego}
+% 2013--2014
+\input{chlewey/in_the_time_of_noahs_ark}
+\input{chlewey/in_the_time_of_noahs_ark_1}
+\input{rataflechera/chiq}
+\input{temp/gustavo_cerati_que_no_estas_con_nosotros}
+% 2023, 2025
+\input{temp/doblej}
+\input{wyomee/lilaceyed_demon}
+
+\chapter{Thomas' Entourage}
+Verses Carlos Thompson wrote for the \emph{Thomas’ Entourage} narrative universe.
+\input{chlewey/that_night}
+\input{temp/my_delicate_verse}
+\input{rataflechera/efficient_and_charming}
+\input{wyomee/delicate_swan}
+
+\chapter{Other Narratives}
+Original narrative pieces outside \emph{Thomas’ Entourage}: the end-of-summer poem, two fantasy portraits, and a children's city walk.
+\input{temp/el_final_del_verano}
+\input{temp/fallen_messenger}
+\input{temp/ute_dar_vinden_vander}
+\input{temp/peter_city_walk}
+
+\chapter{Personal}
+Autobiographical and essayistic originals: the grinder years and executive paralysis, faith and doubt, anthems and satire.
+\input{temp/the_wrong_map}
+\input{temp/the_wrong_map_1}
+\input{temp/the_wrong_map_2}
+\input{temp/watching_from_a_distance}
+\input{temp/a_mind_that_craves_novelty}
+\input{temp/a_la_distancia}
+\input{temp/stimuli}
+\input{temp/piel}
+\input{temp/dejandome_llevar}
+\input{temp/vueltas_y_vueltas}
+\input{temp/living_fantasies_electronic}
+\input{temp/living_fantasies_neo_soul}
+\input{temp/living_fantasies_native_folk}
+\input{temp/connection}
+\input{temp/wingman}
+\input{temp/tiempo_real}
+\input{temp/history_witnessed_live}
+\input{temp/colombia_tu_papa}
+\input{temp/co_co_co_co}
+
+\chapter{Experimental}
+Constructed-language and glossolalia pieces.
+\input{temp/dij_schdzjarvk}
+\input{temp/dij_schdzjarvk_1}
+\input{temp/parara_pa_pa}
+\input{temp/o_ku_pater_de_nos}
+\input{chlewey/kapu_lema}
+\input{rataflechera/badiba_buka}
+
+\end{multicols*}
+\backmatter
+\printindex[songs]
+\clearpage
+\printindex[tags]
+\end{document}
