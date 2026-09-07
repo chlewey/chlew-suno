@@ -1,0 +1,63 @@
+\xpg@aux {}{english}
+\contentsline {chapter}{Pre-Suno}{1}{}%
+\contentsline {section}{Je hais}{2}{}%
+\contentsline {section}{Je hais}{3}{}%
+\contentsline {section}{La haine que je te dois}{4}{}%
+\contentsline {section}{Je hais ma haine}{5}{}%
+\contentsline {section}{Jag avskyr}{6}{}%
+\contentsline {section}{Svarta Ögon}{7}{}%
+\contentsline {section}{Svarta Ögon Skena}{8}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{9}{}%
+\contentsline {section}{Dig}{10}{}%
+\contentsline {section}{Bilden}{11}{}%
+\contentsline {section}{Vakning}{12}{}%
+\contentsline {section}{Septiembre}{13}{}%
+\contentsline {section}{Siento}{14}{}%
+\contentsline {section}{Círculo Convexo}{15}{}%
+\contentsline {section}{Ack-Rostica}{16}{}%
+\contentsline {section}{Awk-Rustica}{17}{}%
+\contentsline {section}{Across-Ticks}{18}{}%
+\contentsline {section}{El juego}{19}{}%
+\contentsline {section}{In the Time of Noah's Ark}{20}{}%
+\contentsline {section}{In the Time of Noah's Ark}{21}{}%
+\contentsline {section}{Chiq}{22}{}%
+\contentsline {section}{Gustavo Cerati que no estás con nosotros}{23}{}%
+\contentsline {section}{Doble-J}{24}{}%
+\contentsline {chapter}{Thomas' Entourage}{25}{}%
+\contentsline {section}{Lilac-eyed Demon}{26}{}%
+\contentsline {section}{That Night}{27}{}%
+\contentsline {section}{My Delicate Verse}{28}{}%
+\contentsline {section}{Efficient and Charming}{30}{}%
+\contentsline {section}{Delicate Swan}{32}{}%
+\contentsline {chapter}{Other Narratives}{33}{}%
+\contentsline {section}{Fallen Messenger}{34}{}%
+\contentsline {section}{A la distancia}{35}{}%
+\contentsline {section}{Watching from a Distance}{36}{}%
+\contentsline {section}{El final del verano}{37}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{38}{}%
+\contentsline {section}{Peter City Walk}{39}{}%
+\contentsline {chapter}{Personal}{41}{}%
+\contentsline {section}{The Wrong Map}{42}{}%
+\contentsline {section}{The Wrong Map}{44}{}%
+\contentsline {section}{The Wrong Map}{46}{}%
+\contentsline {section}{A Mind That Craves Novelty}{48}{}%
+\contentsline {section}{Dejándome llevar}{49}{}%
+\contentsline {section}{Stimuli}{50}{}%
+\contentsline {section}{Piel}{51}{}%
+\contentsline {section}{Vueltas y vueltas}{52}{}%
+\contentsline {section}{Living Fantasies (electronic)}{53}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{54}{}%
+\contentsline {section}{Living Fantasies (native folk)}{55}{}%
+\contentsline {section}{Connection}{56}{}%
+\contentsline {section}{Wingman}{57}{}%
+\contentsline {section}{Tiempo Real}{58}{}%
+\contentsline {section}{History Witnessed Live}{59}{}%
+\contentsline {chapter}{Experimental}{61}{}%
+\contentsline {section}{Colombia, Tu Papá}{62}{}%
+\contentsline {section}{Co Co Co Co}{63}{}%
+\contentsline {section}{Kapu Lema}{64}{}%
+\contentsline {section}{Badiba Buka}{65}{}%
+\contentsline {section}{dij Schdzjarvk}{66}{}%
+\contentsline {section}{dij Schdzjarvk}{67}{}%
+\contentsline {section}{Parará Pa Pa}{68}{}%
+\contentsline {section}{O ku pater de nos}{69}{}%
