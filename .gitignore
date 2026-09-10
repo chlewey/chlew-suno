@@ -11,6 +11,12 @@
 *.bk
 *.backup
 
+# latexmk build metadata (machine-local, records absolute paths)
+*.fdb_latexmk
+*.fls
+*.xdv
+*.synctex(busy)
+
 .venv/
 __pycache__/
 *.pyc

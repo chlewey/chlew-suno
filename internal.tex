@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
-
+\setsecnumdepth{chapter}
+\renewcommand\chaptername{Album~}
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -14,38 +16,27 @@
 \vspace*{\fill}
 \end{titlingpage}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
 
-\chapter{Earlier Thoughts}
-These songs are based on ---or directly taken from--- writings by Carlos Thompson in the late 1980s and the 1990s,
-\input{rataflechera/siento}
+\part{Personal Chronicle}
+
+\chapter{Earlier Thoughts I (1988–1992)}
+These songs are based on ---or directly taken from--- writings by Carlos Thompson between 1988 and 1992.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/je_hais_ma_haine}
 \input{rataflechera/dig}
-\input{rataflechera/no_se_pero_vuelve}
-\input{rataflechera/lineas_en_blanco}
-\input{rataflechera/rabia_en_la_boca}
-\input{rataflechera/esfera_entintada}
 \input{rataflechera/si_pienso_en_ti}
 \input{temp/si_pienso_en_ti}
-\input{rataflechera/no_se_vos_sabes}
 \input{rataflechera/travel_notes}
-\input{rataflechera/ninetysix_static}
-\input{gabisson/en_la_nube}
 \input{gabisson/adriana_tal_vez}
-\input{gabisson/three_notebooks}
-\input{wyomee/mira}
 \input{wyomee/si_pienso}
 \input{wyomee/iros_de_risk}
-\input{wyomee/pared_fria}
-\input{wyomee/papel_en_la_escalera}
 \input{chlewey/je_hais}
 \input{chlewey/je_hais_1}
 \input{chlewey/la_haine_que_je_te_dois}
-\input{chlewey/circulo_convexo}
 \input{chlewey/al_despertar}
 \input{chlewey/message_trop_tard}
 \input{chlewey/svarta_ogon}
@@ -53,23 +44,50 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{chlewey/bilden}
 \input{chlewey/vakning}
 \input{chlewey/jag_avskyr}
-\input{chlewey/la_duda_por_que}
-\input{chlewey/espectador_de_mi_vida}
+\input{wyomee/vaina_que_crece}
+\end{multicols*}
+
+\chapter{Earlier Thoughts II (1995–1998)}
+These songs are based on ---or directly taken from--- writings by Carlos Thompson between 1995 and 1998.
+\clearpage\begin{multicols*}{4}
+\input{rataflechera/siento}
+\input{rataflechera/no_se_pero_vuelve}
+\input{rataflechera/lineas_en_blanco}
+\input{rataflechera/rabia_en_la_boca}
+\input{rataflechera/esfera_entintada}
+\input{rataflechera/no_se_vos_sabes}
+\input{rataflechera/ninetysix_static}
+\input{gabisson/en_la_nube}
+\input{gabisson/three_notebooks}
+\input{wyomee/mira}
+\input{chlewey/circulo_convexo}
 \input{chlewey/papelito_chiquito}
 \input{chlewey/septiembre}
-\input{wyomee/vaina_que_crece}
 \input{wyomee/monoestable}
 \input{temp/lluvia_en_tu_mirada}
 \input{temp/vaina_en_graeville}
+\end{multicols*}
+
+\chapter{Earlier Thoughts: Undated and Later Revisits}
+Pieces thematically tied to the earlier-thoughts material but written, arranged or revisited well after the original 1988--1998 window.
+\clearpage\begin{multicols*}{4}
+\input{wyomee/pared_fria}
+\input{wyomee/papel_en_la_escalera}
+\input{chlewey/la_duda_por_que}
+\input{chlewey/espectador_de_mi_vida}
+\end{multicols*}
 
 \chapter{Gr\ae ville}
 These songs are based on a literary experiment by Carlos Thompson from the early 1990s.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/chocolate_frio}
 \input{chlewey/cuarto_de_peluches}
 \input{temp/la_barrera}
+\end{multicols*}
 
 \chapter{Midlife Thoughts}
 These songs are based on ---or directly taken from--- writings by Carlos Thompson in the 2000s and early 2010s,
+\clearpage\begin{multicols*}{4}
 \input{wyomee/another_log_about_nothing}
 \input{wyomee/fantasma_de_quien_no_es}
 \input{wyomee/digital_skies}
@@ -90,56 +108,82 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/el_mundo_gira}
 \input{temp/jugando}
 \input{temp/el_juego}
+\end{multicols*}
 
-\chapter{Later Thoughts}
-These songs are based on ---or directly taken from--- writings by Carlos Thompson in the late 2010s and the 2020s,
-\input{wyomee/your_role}
-\input{rataflechera/a_someone_or_a_someone}
+\chapter{Later Thoughts I: The Grinder}
+Task avoidance, executive overload and the daily fight to just start, from writings by Carlos Thompson in the late 2010s and the 2020s.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/alarm_cabinet}
 \input{rataflechera/a_drunk_without_a_drop_remix}
-\input{rataflechera/the_bitter_toll_remix}
 \input{gabisson/modo_pararrayos}
 \input{gabisson/lightning_rod_mode}
 \input{gabisson/somebody_out_there}
-\input{wyomee/guided_hands}
 \input{wyomee/soap_line_logic}
+\input{chlewey/frictionless}
+\input{temp/paper_in_my_hands}
+\input{temp/let_the_clock_slow_down}
+\input{temp/broken_tool}
+\input{temp/cornered_by_systems}
+\input{temp/barrera_de_inicio}
+\end{multicols*}
+
+\chapter{Later Thoughts II: Behind the Smile}
+Masking, high-functioning burnout and being misunderstood by the people closest to him.
+\clearpage\begin{multicols*}{4}
+\input{rataflechera/the_bitter_toll_remix}
+\input{wyomee/guided_hands}
 \input{chlewey/the_secret_fires}
 \input{chlewey/the_secret_fires_1}
 \input{chlewey/let_me_finish}
-\input{chlewey/quiet_signal}
-\input{chlewey/no_excuse}
-\input{chlewey/traga_tuitera}
 \input{chlewey/secret_fires_trackb}
 \input{chlewey/limite_sincopado}
-\input{chlewey/frictionless}
-\input{temp/paper_in_my_hands}
+\input{temp/two_storms_in_one_sky}
+\input{wyomee/behind_the_smile}
+\end{multicols*}
+
+\chapter{Later Thoughts III: Online Sparks}
+Small infatuations and unexpected connections that arrive through a feed or a thread.
+\clearpage\begin{multicols*}{4}
+\input{rataflechera/a_someone_or_a_someone}
+\input{chlewey/traga_tuitera}
 \input{temp/el_hilo}
 \input{temp/for_that_moment}
 \input{temp/in_that_moment}
 \input{temp/irrelevant_conversations}
-\input{temp/two_storms_in_one_sky}
-\input{temp/let_the_clock_slow_down}
-\input{temp/broken_tool}
-\input{temp/cornered_by_systems}
 \input{temp/doblej}
-\input{temp/barrera_de_inicio}
-\input{wyomee/behind_the_smile}
+\end{multicols*}
+
+\chapter{Later Thoughts IV: Unspoken}
+\clearpage\begin{multicols*}{4}
+\input{wyomee/your_role}
+\input{chlewey/quiet_signal}
+\input{chlewey/no_excuse}
+\end{multicols*}
+
+\part{Soul and Turmoil}
 
 \chapter{Soul}
+\clearpage\begin{multicols*}{4}
 \input{temp/dejandome_llevar}
 \input{temp/stimuli}
 \input{temp/piel}
 \input{temp/living_fantasies_electronic}
 \input{temp/vueltas_y_vueltas}
+\end{multicols*}
 
 \chapter{Inner turmoil}
+\clearpage\begin{multicols*}{4}
 \input{temp/the_wrong_map}
 \input{temp/multiply_the_delay}
 \input{temp/the_fault_in_your_character}
 \input{temp/a_mind_that_craves_novelty}
 \input{temp/connection}
+\end{multicols*}
+
+\part{Faith and Argument}
 
 \chapter{Pray, Brother}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/slightest_amount}
 \input{gabisson/complete_by_what}
 \input{gabisson/complete_by_what_1}
@@ -164,8 +208,10 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/what_the_book_leaves_out}
 \input{gabisson/the_ground_i_find}
 \input{gabisson/think_about_it}
+\end{multicols*}
 
 \chapter{Essays}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/retrogrades}
 \input{rataflechera/balance_of_three}
 \input{rataflechera/critter_kin_mans_an_animal_too}
@@ -186,8 +232,12 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/el_fin_de_la_historia}
 \input{temp/eish5_worlds}
 \input{temp/moon_in_the_frame}
+\end{multicols*}
+
+\part{Places}
 
 \chapter{Circuits and roads}
+\clearpage\begin{multicols*}{4}
 \input{temp/valdai_watershed}
 \input{temp/congo_ring}
 \input{temp/seidenstrasse}
@@ -201,31 +251,41 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/pesn_o_krugah_putey}
 \input{temp/ride_the_circuits}
 \input{temp/circuit_world}
+\end{multicols*}
 
 \chapter{Geography and spiritual travel}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/bucket_list}
 \input{chlewey/bogota}
 \input{rataflechera/le_coeur_leger}
 \input{rataflechera/canta_la_ruta}
 \input{temp/take_me_south}
 \input{dvigitt/closer_to_the_stars}
+\end{multicols*}
+
+\part{Social Commentary}
 
 \chapter{Satire and mundane absurdity}
+\clearpage\begin{multicols*}{4}
 \input{chlewey/operating_manual_for_changing_a_light_bulb}
 \input{chlewey/buba_kiki_riot}
 \input{rataflechera/chiang_mai_to_bangkok}
 \input{temp/sabor_en_la_mesa}
 \input{temp/taste_the_menu}
 \input{temp/tiempo_real}
+\end{multicols*}
 
 \chapter{Modern loneliness and social critique}
+\clearpage\begin{multicols*}{4}
 \input{temp/cut_me_loose}
 \input{temp/the_toxic_ghost}
 \input{temp/postcapitalist_lonely}
 \input{temp/signed_by_don_addis}
 \input{temp/del_establecimiento}
+\end{multicols*}
 
 \chapter{More}
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/chiq}
 \input{chlewey/trackb}
 \input{chlewey/midnight_carnival_split}
@@ -237,8 +297,12 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/entre_cajas_y_llamadas}
 \input{temp/cuatro_maneras}
 \input{temp/stellae_ex_pulvere}
+\end{multicols*}
+
+\part{Nation and Ritual}
 
 \chapter{Hymns and Chants}
+\clearpage\begin{multicols*}{4}
 \input{temp/red_and_yellow}
 \input{temp/bajo_la_tricolor}
 \input{temp/colombia_tu_papa}
@@ -249,15 +313,21 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/wingman}
 \input{temp/cuore_in_guerra}
 \input{temp/frost_in_gold}
+\end{multicols*}
 
 \chapter{Conlangs and Glossolalia}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/e_numa_lah}
 \input{chlewey/kapu_lema}
 \input{rataflechera/badiba_buka}
 \input{temp/parara_pa_pa}
 \input{temp/o_ku_pater_de_nos}
+\end{multicols*}
+
+\part{Form and Craft}
 
 \chapter{Instrumental}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/callejon_azul}
 \input{chlewey/monstruo_ciudad}
 \input{wyomee/march_and_tumbao}
@@ -280,13 +350,17 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{rataflechera/timbales_in_blue}
 \input{dvigitt/purple_lace_stance}
 \input{dvigitt/september_at_the_window}
+\end{multicols*}
 
 \chapter{Fragments}
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/burn_the_glass}
 \input{rataflechera/a_drunk_without_a_drop}
 \input{rataflechera/the_bitter_toll}
+\end{multicols*}
 
 \chapter{Adaptations}
+\clearpage\begin{multicols*}{4}
 \input{temp/the_wrong_map_1}
 \input{temp/the_wrong_map_2}
 \input{temp/they_multiply}
@@ -314,8 +388,8 @@ These songs are based on ---or directly taken from--- writings by Carlos Thompso
 \input{temp/living_fantasies_native_folk}
 \input{temp/buildings_worlds}
 \input{temp/keep_the_vow}
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

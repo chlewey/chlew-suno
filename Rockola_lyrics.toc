@@ -51,22 +51,23 @@
 \contentsline {section}{Hold Your Breath}{66}{}%
 \contentsline {section}{Inter-Flota Caerá}{68}{}%
 \contentsline {section}{Ricochets Hangover}{69}{}%
-\contentsline {part}{Other narrative}{71}{}%
-\contentsline {chapter}{Encounter Icons \& Heavy Chemistry}{75}{}%
-\contentsline {section}{Ice Cream Friday}{76}{}%
-\contentsline {section}{Passenger-Side Switch}{77}{}%
-\contentsline {section}{Brass Eyed Siren}{78}{}%
-\contentsline {section}{Peeling Paint Girl}{79}{}%
-\contentsline {section}{Wild Cat}{80}{}%
-\contentsline {section}{Watching from a Distance}{81}{}%
-\contentsline {section}{Era el final del verano}{82}{}%
-\contentsline {chapter}{Shadows \& Goth-Metal Fables}{83}{}%
-\contentsline {section}{Evi Sem Yike}{84}{}%
-\contentsline {section}{Evi Sem Yike (single)}{86}{}%
-\contentsline {section}{Gota a gota}{88}{}%
-\contentsline {section}{Ökenskor av Salt}{89}{}%
-\contentsline {section}{Molten Sunlight}{90}{}%
-\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{91}{}%
+\contentsline {section}{The Steady Hand}{71}{}%
+\contentsline {part}{Other narrative}{73}{}%
+\contentsline {chapter}{Encounter Icons \& Heavy Chemistry}{77}{}%
+\contentsline {section}{Ice Cream Friday}{78}{}%
+\contentsline {section}{Passenger-Side Switch}{79}{}%
+\contentsline {section}{Brass Eyed Siren}{80}{}%
+\contentsline {section}{Peeling Paint Girl}{81}{}%
+\contentsline {section}{Wild Cat}{82}{}%
+\contentsline {section}{Watching from a Distance}{83}{}%
+\contentsline {section}{Era el final del verano}{84}{}%
+\contentsline {chapter}{Shadows \& Goth-Metal Fables}{85}{}%
+\contentsline {section}{Evi Sem Yike}{86}{}%
+\contentsline {section}{Evi Sem Yike (single)}{88}{}%
+\contentsline {section}{Gota a gota}{90}{}%
+\contentsline {section}{Ökenskor av Salt}{91}{}%
+\contentsline {section}{Molten Sunlight}{92}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{93}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -83,50 +84,50 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{Blue-Point Mischief}{92}{}%
-\contentsline {part}{Essays}{93}{}%
-\contentsline {chapter}{Debates, Satires \& Systems}{97}{}%
-\contentsline {section}{Cut Me Loose}{98}{}%
-\contentsline {section}{The Toxic Ghost}{99}{}%
-\contentsline {section}{El fin de la historia}{100}{}%
-\contentsline {section}{History Witnessed Live}{101}{}%
-\contentsline {section}{Пѣснь о Кругахъ Путей}{102}{}%
-\contentsline {section}{Balance of Three}{103}{}%
-\contentsline {section}{In the Time of Noah's Ark}{104}{}%
-\contentsline {section}{Dead Sea's barren dreams}{105}{}%
-\contentsline {section}{Buba Kiki Riot}{106}{}%
-\contentsline {section}{Limits of the Load}{107}{}%
-\contentsline {part}{Lyrical}{109}{}%
-\contentsline {chapter}{ADHD Chaos \& Executive Burnout}{113}{}%
-\contentsline {section}{Skälvning}{114}{}%
-\contentsline {section}{Monoestable}{115}{}%
-\contentsline {section}{Paper in the Grinder}{116}{}%
-\contentsline {section}{The Loaded Mind}{117}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{118}{}%
-\contentsline {section}{The Wrong Map}{119}{}%
-\contentsline {section}{The Bitter Toll}{121}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{122}{}%
-\contentsline {section}{The Fault in Your Character}{123}{}%
-\contentsline {section}{The Hardest Toll}{125}{}%
-\contentsline {section}{Let Me Finish}{127}{}%
-\contentsline {section}{Buildings Worlds}{128}{}%
-\contentsline {section}{Burn the Glass}{129}{}%
-\contentsline {section}{The Wrong Map}{130}{}%
-\contentsline {chapter}{Confessions \& Small Defeats}{131}{}%
-\contentsline {section}{Je hais}{132}{}%
-\contentsline {section}{Je hais}{133}{}%
-\contentsline {section}{La haine que je te dois}{134}{}%
-\contentsline {section}{Siento}{135}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{136}{}%
-\contentsline {section}{Three Notebooks}{137}{}%
-\contentsline {section}{Bogotá Cathedral}{138}{}%
-\contentsline {section}{Still Unfinished}{139}{}%
-\contentsline {section}{No Excuse}{141}{}%
-\contentsline {section}{Your Role}{143}{}%
-\contentsline {section}{A Mind That Craves Novelty}{144}{}%
-\contentsline {section}{The Last Waltz of the Northern}{145}{}%
-\contentsline {section}{Migrant Echoes}{146}{}%
-\contentsline {chapter}{Playful Escapes \& Candy Rock Parades}{147}{}%
-\contentsline {section}{Candy Rock Day}{148}{}%
-\contentsline {section}{Rainbow Candy Parade}{149}{}%
-\contentsline {section}{Peter City Walk}{150}{}%
+\contentsline {section}{Blue-Point Mischief}{94}{}%
+\contentsline {part}{Essays}{95}{}%
+\contentsline {chapter}{Debates, Satires \& Systems}{99}{}%
+\contentsline {section}{Cut Me Loose}{100}{}%
+\contentsline {section}{The Toxic Ghost}{101}{}%
+\contentsline {section}{El fin de la historia}{102}{}%
+\contentsline {section}{History Witnessed Live}{103}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{104}{}%
+\contentsline {section}{Balance of Three}{105}{}%
+\contentsline {section}{In the Time of Noah's Ark}{106}{}%
+\contentsline {section}{Dead Sea's barren dreams}{107}{}%
+\contentsline {section}{Buba Kiki Riot}{108}{}%
+\contentsline {section}{Limits of the Load}{109}{}%
+\contentsline {part}{Lyrical}{111}{}%
+\contentsline {chapter}{ADHD Chaos \& Executive Burnout}{115}{}%
+\contentsline {section}{Skälvning}{116}{}%
+\contentsline {section}{Monoestable}{117}{}%
+\contentsline {section}{Paper in the Grinder}{118}{}%
+\contentsline {section}{The Loaded Mind}{119}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{120}{}%
+\contentsline {section}{The Wrong Map}{121}{}%
+\contentsline {section}{The Bitter Toll}{123}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{124}{}%
+\contentsline {section}{The Fault in Your Character}{125}{}%
+\contentsline {section}{The Hardest Toll}{127}{}%
+\contentsline {section}{Let Me Finish}{129}{}%
+\contentsline {section}{Buildings Worlds}{130}{}%
+\contentsline {section}{Burn the Glass}{131}{}%
+\contentsline {section}{The Wrong Map}{132}{}%
+\contentsline {chapter}{Confessions \& Small Defeats}{133}{}%
+\contentsline {section}{Je hais}{134}{}%
+\contentsline {section}{Je hais}{135}{}%
+\contentsline {section}{La haine que je te dois}{136}{}%
+\contentsline {section}{Siento}{137}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{138}{}%
+\contentsline {section}{Three Notebooks}{139}{}%
+\contentsline {section}{Bogotá Cathedral}{140}{}%
+\contentsline {section}{Still Unfinished}{141}{}%
+\contentsline {section}{No Excuse}{143}{}%
+\contentsline {section}{Your Role}{145}{}%
+\contentsline {section}{A Mind That Craves Novelty}{146}{}%
+\contentsline {section}{The Last Waltz of the Northern}{147}{}%
+\contentsline {section}{Migrant Echoes}{148}{}%
+\contentsline {chapter}{Playful Escapes \& Candy Rock Parades}{149}{}%
+\contentsline {section}{Candy Rock Day}{150}{}%
+\contentsline {section}{Rainbow Candy Parade}{151}{}%
+\contentsline {section}{Peter City Walk}{152}{}%

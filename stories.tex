@@ -2,10 +2,12 @@
 \documentclass[a4paper,landscape]{memoir}
 \usepackage{chlewrics}
 \usepackage{multicol}
-\setlength{\columnsep}{6mm} 
-
+\setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
+\renewcommand\chaptername{Album~}
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -14,49 +16,85 @@
 \vspace*{\fill}
 \end{titlingpage}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
+
+\part{Named Fictional Works}
 
 \chapter{Drift}
 From the \emph{Drift} short story by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/still_unfinished}
 \input{wyomee/ghost_cheek_kiss}
 \input{wyomee/southern_static}
+\end{multicols*}
 
 \chapter{Eiran}
 From the \emph{Eiran} (or \emph{The Cartographer}) short story.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/archivists_map}
 \input{wyomee/black_stone_map}
 \input{wyomee/salt_flat_omen}
 \input{wyomee/mark_of_87}
+\end{multicols*}
 
 \chapter{Monukae}
 From the Alternate History \emph{African Empire} and, particularly, the \emph{Monukae} series.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/abulon_the_shadow_crown}
 \input{wyomee/the_pirates_ledger}
+\end{multicols*}
 
 \chapter{Kingdom of Columbia}
 From the \emph{Kingdom of Columbia} alternate history by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/seven_bright_banners}
 \input{wyomee/columbia_ride_on}
 \input{wyomee/columbias_standard}
+\end{multicols*}
 
 \chapter{Saulon}
 From the novel \emph{Saulon}, by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{temp/saulon_forecast}
+\end{multicols*}
 
 \chapter{Scholer}
 From the Scholer proposal, by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/hombre_de_sociedad}
 \input{chlewey/villegas_de_scholer}
 \input{chlewey/lo_que_la_ciudad_no_pregunta}
 \input{chlewey/la_sombra_y_el_futuro}
+\end{multicols*}
+
+\chapter{Bachees}
+Works related to the Bachees fictional universe.
+\clearpage\begin{multicols*}{4}
+\input{temp/bachees_of_the_deep}
+\input{temp/drift_between_floaters}
+\end{multicols*}
+
+\chapter{Piravita}
+Based on the short story \emph{Piravita}, by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
+\input{chlewey/duda_en_piravita}
+\input{chlewey/padre_peter}
+\end{multicols*}
+
+\chapter{Cross-references}
+
+Except for some electroswing fragment adaptations, the songs related to Carlos Thompson's novel \emph{Ricochets} are in its own songbook.
+
+Except for some electroswing fragment adaptations, and a few portraits, the songs related to Carlos Thompson's narrative universe \emph{Thomas' Entourage} are in its own songbook.
+
+\part{Early Life}
 
 \chapter{Early 1990s}
 Based on small stories written by Carlos Thompson between 1990 and 1996.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/almost_enough}
 \input{gabisson/evi_sem_yike}
 \input{gabisson/mobisarna}
@@ -66,6 +104,9 @@ Based on small stories written by Carlos Thompson between 1990 and 1996.
 \input{temp/lineas_grises}
 \input{temp/efecto_locker}
 \input{temp/el_mejor_delito}
+\end{multicols*}
+
+\part{Encounters Universe}
 
 \chapter{Encounters}
 From the vignette series \emph{Encounter}, by Carlos Thompson.
@@ -78,6 +119,7 @@ This series includes five vignetes:
 \item Martha \& Ferdinand,
 \item Nana \& Ewing.
 \end{itemize}
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/strangers_in_the_light}
 \input{rataflechera/cafe_glance}
 \input{rataflechera/petals_and_ink}
@@ -97,23 +139,31 @@ This series includes five vignetes:
 \input{wyomee/library_to_longing}
 \input{wyomee/swedish_pages}
 \input{wyomee/clumsy_hearts}
+\end{multicols*}
 
 \chapter{Encounter-adjacent}
 Portraits that are usually tied together to the \emph{Encounter} series.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/andrea_at_break}
 \input{wyomee/cancelled_plans}
 \input{gabisson/early_desire}
 \input{gabisson/third_times_coffee}
+\end{multicols*}
 
 \chapter{Encounter and Encounter-adjacent portraits}
 Songs based on descriptions of people or scenes from the \emph{Encounter} series.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/food_truck_line}
 \input{wyomee/uneekwa_en_urbo}
 \input{wyomee/ulla_in_the_hall}
 \input{chlewey/six_stories_one_room}
+\end{multicols*}
+
+\part{Portraits}
 
 \chapter{Portraits}
 Songs based on descriptions of people or scenes.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/terracotta_view_golden_midglance}
 \input{rataflechera/golden_hour_terrace_portrait_in_light}
 \input{rataflechera/obsidian_gaze}
@@ -123,9 +173,11 @@ Songs based on descriptions of people or scenes.
 \input{chlewey/blue_wall_grace}
 \input{temp/purple_under_dye}
 \input{dvigitt/carolina_by_gate_9}
+\end{multicols*}
 
 \chapter{Archetype portraits}
 Songs based on an archetype study of visual generated characters by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{temp/seven_archetypes}
 \input{temp/seven_men_deep}
 \input{temp/amber_eyes_six_faces}
@@ -140,9 +192,11 @@ Songs based on an archetype study of visual generated characters by Carlos Thomp
 \input{temp/amber_on_the_cliff}
 \input{temp/green_water_memory}
 \input{temp/teal_tips_on_the_bed}
+\end{multicols*}
 
 \chapter{Group portraits}
 Songs based on descriptions of groups and scenes with multiple characters.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/four_women_one_night}
 \input{wyomee/thursday_counter}
 \input{gabisson/three_faces}
@@ -152,9 +206,11 @@ Songs based on descriptions of groups and scenes with multiple characters.
 \input{wyomee/five_reasons_to_celebrate}
 \input{temp/benches_cabins_diamonds}
 \input{temp/tres_ciutats_una_mateixa_frequencia}
+\end{multicols*}
 
 \chapter{Entourage portraits}
 Songs based on physical descriptions of characters from the \emph{Thomas' Entourage} narrative universe by Carlos Thompson.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/zahra_in_white}
 \input{rataflechera/liis_talveuks}
 \input{rataflechera/indigo_portrait_grayblue_eyes}
@@ -167,9 +223,11 @@ Songs based on physical descriptions of characters from the \emph{Thomas' Entour
 \input{dvigitt/gabi_in_focus}
 \input{dvigitt/stone_wall_portrait}
 \input{dvigitt/grace_in_the_gale}
+\end{multicols*}
 
 \chapter{Fantasy portraits and temptation}
 Diverse portraits and vignettes, with a fantasy or supernatural element.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/obsidian_winglight_succubus_portrait}
 \input{gabisson/parapet_of_ash}
 \input{gabisson/cyan_eyes_in_moss_bioluminescent_vigil}
@@ -181,9 +239,13 @@ Diverse portraits and vignettes, with a fantasy or supernatural element.
 \input{chlewey/moonstone_veil}
 \input{temp/brass_eyed_siren}
 \input{temp/molten_sunlight}
+\end{multicols*}
+
+\part{Self and Family}
 
 \chapter{Self}
 From small biographical or semi-biographical stories by Carlos Thompson
+\clearpage\begin{multicols*}{4}
 \input{gabisson/adi_in_the_locker}
 \input{gabisson/sofa_at_midnight}
 \input{gabisson/ale_on_the_sofa}
@@ -198,14 +260,20 @@ From small biographical or semi-biographical stories by Carlos Thompson
 \input{temp/baltic_and_bogota}
 \input{temp/memoria_de_humo}
 \input{temp/ventana_de_noviembre}
+\end{multicols*}
 
 \chapter{Cats}
+\clearpage\begin{multicols*}{4}
 \input{chlewey/little_velvet_ghost}
 \input{chlewey/bluepoint_mischief}
 \input{temp/tabby_parade}
+\end{multicols*}
+
+\part{Thematic Cycles}
 
 \chapter{Summery}
 This are the original and adaptations of \emph{El final del verano} (pop version).
+\clearpage\begin{multicols*}{4}
 \input{temp/el_final_del_verano}
 \input{temp/end_of_the_summer}
 \input{temp/la_fin_de_lete}
@@ -216,63 +284,48 @@ This are the original and adaptations of \emph{El final del verano} (pop version
 \input{temp/era_el_final_del_verano}
 \input{temp/el_final_del_verano_balada}
 \input{temp/el_final_del_verano_bolero}
+\end{multicols*}
 
 \chapter{Death Sea and hospitality}
 These songs explore the thesis that Sodom and Gomorrah are a tale about breaching hospitality.
+\clearpage\begin{multicols*}{4}
 \input{temp/dead_seas_barren_dreams}
 \input{temp/se_leoth_of_sodoma_and_gomorra}
 \input{temp/the_laws_of_hospitality}
 \input{temp/the_laws_of_the_stranger}
+\end{multicols*}
 
-\chapter{Piravita}
-Based on the short story \emph{Piravita}, by Carlos Thompson.
-\input{chlewey/duda_en_piravita}
-\input{chlewey/padre_peter}
+\chapter{Ilva and Khamid}
+\clearpage\begin{multicols*}{4}
+\input{gabisson/vinterfrostleende}
+\input{gabisson/okenskor_av_salt}
+\input{gabisson/nyckelharpa_under_asfalt}
+\end{multicols*}
 
 \chapter{Fatherhood}
+\clearpage\begin{multicols*}{4}
 \input{temp/secreto_de_padre}
 \input{temp/the_man_i_taught_you_to_be}
 \input{temp/dont_break_her_heart_old_friend}
 \input{temp/said_and_done}
-
-\chapter{Ilva and Khamid}
-\input{gabisson/vinterfrostleende}
-\input{gabisson/okenskor_av_salt}
-\input{gabisson/nyckelharpa_under_asfalt}
-
-\chapter{Bachees}
-Works related to the Bachees fictional universe.
-\input{temp/bachees_of_the_deep}
-\input{temp/drift_between_floaters}
+\end{multicols*}
 
 \chapter{Fleeting intimacy and power dynamics}
+\clearpage\begin{multicols*}{4}
 \input{chlewey/passengerside_switch}
 \input{gabisson/shell_let_you_know}
 \input{temp/wild_cat}
 \input{temp/wild_cat_wild_flower}
 \input{temp/paper_cup_kisses}
+\end{multicols*}
 
-\chapter{More}
-Other stories, vignetes, and short narrative essays.
-\input{rataflechera/dapich_sapica}
-\input{temp/pio}
-\input{temp/sin_retorno}
-\input{temp/stone_mason_bridge}
-\input{temp/tomaruna_kage}
-\input{temp/the_final_offer}
-\input{temp/peter_city_walk}
-\input{rataflechera/kijana_msomi}
-\input{wyomee/un_dia}
-\input{dvigitt/september_night}
-\input{gabisson/requiem_por_el_ultimo_cassette}
-\input{gabisson/drones_sobre_el_maizal}
-\input{gabisson/la_noche_en_que_bailamos_sin_musica}
-\input{gabisson/tres_tazas_de_cafe_frio}
+\part{Form and Craft}
 
 \chapter{Fragments}
 The electroswing series is an adaptation of fragments from other songs into a fixed short format.
 
 Others fragments include small published pieces expanded by Suno from Gemini samples, or other forms of short pieces that exist in fully form elsewere in this collection.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/peccato_bello}
 \input{rataflechera/comfort_zones}
 \input{rataflechera/svarta_ogonglasbell}
@@ -292,21 +345,36 @@ Others fragments include small published pieces expanded by Suno from Gemini sam
 \input{temp/doopidodoos}
 \input{temp/anamainreesu_tua}
 \input{rataflechera/kijana_msomi_short}
-
-\chapter{Ricochets}
-Except for some electroswing fragment adaptations, the songs related to Carlos Thompson's novel \emph{Ricochets} are in its own songbook.
-
-\chapter{Thomas Entourage}
-Except for some electroswing fragment adaptations, and a few portraits, the songs related to Carlos Thompson's narrative universe \emph{Thomas Entourage} are in its own songbook.
+\end{multicols*}
 
 \chapter{Covers}
 Songs based on the works of other people.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/la_perrilla_pasillo}
 \input{gabisson/la_perrilla_dance}
 \input{wyomee/diamond_depth_august}
 \input{temp/tu_puro_vivir}
-
 \end{multicols*}
+
+\chapter{More}
+Other stories, vignetes, and short narrative essays.
+\clearpage\begin{multicols*}{4}
+\input{rataflechera/dapich_sapica}
+\input{temp/pio}
+\input{temp/sin_retorno}
+\input{temp/stone_mason_bridge}
+\input{temp/tomaruna_kage}
+\input{temp/the_final_offer}
+\input{temp/peter_city_walk}
+\input{rataflechera/kijana_msomi}
+\input{wyomee/un_dia}
+\input{dvigitt/september_night}
+\input{gabisson/requiem_por_el_ultimo_cassette}
+\input{gabisson/drones_sobre_el_maizal}
+\input{gabisson/la_noche_en_que_bailamos_sin_musica}
+\input{gabisson/tres_tazas_de_cafe_frio}
+\end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

@@ -1,16 +1,16 @@
 \xpg@aux {}{english}
-\contentsline {chapter}{Background}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}Background}{1}{}%
 \contentsline {section}{Same Old Circle}{2}{}%
 \contentsline {section}{¿Aceptás el trato?}{3}{}%
 \contentsline {section}{Pizza on the Table}{4}{}%
 \contentsline {section}{Tolemaida Wedding}{5}{}%
 \contentsline {section}{Boynton Bound}{6}{}%
 \contentsline {section}{Town and Country}{7}{}%
-\contentsline {chapter}{Promotion}{9}{}%
+\contentsline {chapter}{\chapternumberline {2}Promotion}{9}{}%
 \contentsline {section}{Ricochets Hangover}{10}{}%
 \contentsline {section}{Destinies Overlap}{12}{}%
 \contentsline {section}{Los rebotes}{14}{}%
-\contentsline {chapter}{Canonical}{15}{}%
+\contentsline {chapter}{\chapternumberline {3}Canonical}{15}{}%
 \contentsline {section}{Carolina}{16}{}%
 \contentsline {section}{The Healer and the Hurting}{17}{}%
 \contentsline {section}{Everybody Knows Henry}{19}{}%
@@ -25,32 +25,35 @@
 \contentsline {section}{Vuelta a Bal Harbour}{31}{}%
 \contentsline {section}{Lo que queda}{32}{}%
 \contentsline {section}{Corona de alambre}{33}{}%
-\contentsline {chapter}{Extended}{35}{}%
-\contentsline {section}{Henry Little}{36}{}%
-\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{37}{}%
-\contentsline {section}{Cada uno en su lugar}{38}{}%
-\contentsline {section}{Sabbatical}{39}{}%
-\contentsline {section}{The Spark in Her Eyes}{40}{}%
-\contentsline {section}{Rosario House}{41}{}%
-\contentsline {section}{Smoke and Steel}{42}{}%
-\contentsline {section}{Heart to Heart}{43}{}%
-\contentsline {section}{Steady Hands}{44}{}%
-\contentsline {section}{Andrea in the Doorway}{45}{}%
-\contentsline {chapter}{Fragments and Summaries}{47}{}%
-\contentsline {section}{Hold Your Breath}{48}{}%
-\contentsline {section}{Fragments at La Dorada}{50}{}%
-\contentsline {section}{One Year No Call}{52}{}%
-\contentsline {section}{Valise sur le tarmac}{53}{}%
-\contentsline {section}{Hangar at Olaya}{54}{}%
-\contentsline {section}{Blue Optra Morning}{55}{}%
-\contentsline {section}{Sophie Durand}{56}{}%
-\contentsline {section}{Miguel Morocho}{57}{}%
-\contentsline {section}{Florida Wire}{58}{}%
-\contentsline {section}{Inter-Flota Caerá}{59}{}%
-\contentsline {section}{Mémoire En miettes}{60}{}%
-\contentsline {section}{Swim Pool Submit}{61}{}%
-\contentsline {section}{Tiny Suits}{63}{}%
-\contentsline {chapter}{Inspired}{65}{}%
-\contentsline {section}{El corrido de Carlson}{66}{}%
-\contentsline {section}{Two Faces in the Ledger}{67}{}%
-\contentsline {section}{Two Women One Case}{68}{}%
+\contentsline {section}{Miguel, Corazón Sereno}{35}{}%
+\contentsline {section}{The Steady Hand}{36}{}%
+\contentsline {section}{Señora Rosario's House}{37}{}%
+\contentsline {chapter}{\chapternumberline {4}Extended}{39}{}%
+\contentsline {section}{Henry Little}{40}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{41}{}%
+\contentsline {section}{Cada uno en su lugar}{42}{}%
+\contentsline {section}{Sabbatical}{43}{}%
+\contentsline {section}{The Spark in Her Eyes}{44}{}%
+\contentsline {section}{Rosario House}{45}{}%
+\contentsline {section}{Smoke and Steel}{46}{}%
+\contentsline {section}{Heart to Heart}{47}{}%
+\contentsline {section}{Steady Hands}{48}{}%
+\contentsline {section}{Andrea in the Doorway}{49}{}%
+\contentsline {chapter}{\chapternumberline {5}Fragments and Summaries}{51}{}%
+\contentsline {section}{Hold Your Breath}{52}{}%
+\contentsline {section}{Fragments at La Dorada}{54}{}%
+\contentsline {section}{One Year No Call}{56}{}%
+\contentsline {section}{Valise sur le tarmac}{57}{}%
+\contentsline {section}{Hangar at Olaya}{58}{}%
+\contentsline {section}{Blue Optra Morning}{59}{}%
+\contentsline {section}{Sophie Durand}{60}{}%
+\contentsline {section}{Miguel Morocho}{61}{}%
+\contentsline {section}{Florida Wire}{62}{}%
+\contentsline {section}{Inter-Flota Caerá}{63}{}%
+\contentsline {section}{Mémoire En miettes}{64}{}%
+\contentsline {section}{Swim Pool Submit}{65}{}%
+\contentsline {section}{Tiny Suits}{67}{}%
+\contentsline {chapter}{\chapternumberline {6}Inspired}{69}{}%
+\contentsline {section}{El corrido de Carlson}{70}{}%
+\contentsline {section}{Two Faces in the Ledger}{71}{}%
+\contentsline {section}{Two Women One Case}{72}{}%

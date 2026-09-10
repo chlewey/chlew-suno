@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
 \begin{document}
 \frontmatter
-
+\chapterstyle{bianchi}
+\renewcommand\chaptername{Album~}
 \begin{titlingpage}
 \centering
 \vspace*{\fill}
@@ -13,18 +15,32 @@
 \vspace*{\fill}
 \end{titlingpage}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
-\chapter{World}
+\part{World}
+\chapter{The Entourage}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/le_phases_de_thomas}
 \input{gabisson/orbit_of_names}
 \input{temp/the_women_he_chose}
 \input{temp/runaway_and_canvas}
+\end{multicols*}
 
+\chapter{Places and projects}
+\clearpage\begin{multicols*}{4}
+\input{temp/punta_espada_2026}
+\input{temp/trispine_pais}
+\input{temp/bogota_bajo_tierra}
+\input{temp/nueva_concordia}
+\input{temp/macaw_alza_vuelo}
+\input{temp/ciudad_indigo}
+\end{multicols*}
+
+\part{Profiles and Ways}
 \chapter{Characters}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/vor_barcelona_deutsch} % Gabi
 \input{chlewey/beside_the_storm} % Claire
 \input{wyomee/de_igual_pra_igual} % Xumi
@@ -47,16 +63,20 @@
 \input{temp/liis_sepp_raising} % Liis
 \input{temp/zahra_moradi} % Zahra
 \input{temp/double_register} % Fiona
+\end{multicols*}
 
 \chapter{Character profile: Diana}
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/diana_porte_sa_propre_gravite} % Diana
 \input{temp/le_cordon_bleu} % Diana
 \input{temp/diana_moves_cleanly} % Diana
 \input{temp/let_it_stay_sweet} % Diana
 \input{temp/the_weight_of_gravity} % Diana
 \input{dvigitt/eyes_from_the_dance_floor} % Diana
+\end{multicols*}
 
 \chapter{Character profile: Aurora}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/hidden_things_keeper} % Aurora
 \input{wyomee/more_honestly_than_hearts} % Aurora
 \input{temp/glass_on_file} % Aurora
@@ -65,8 +85,10 @@
 \input{wyomee/bogota_ledger}
 \input{wyomee/velvet_file_cabinet}
 \input{wyomee/aurora_in_green}
+\end{multicols*}
 
 \chapter{Character profile: Natalia}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/kyou_park} % Natalia
 \input{gabisson/three_tonges_one_heart}
 \input{gabisson/sharp_and_sweet}
@@ -74,8 +96,10 @@
 \input{gabisson/easy_to_breath}
 \input{gabisson/line_in_gold}
 \input{rataflechera/natalia_raise_the_colors_high}
+\end{multicols*}
 
 \chapter{Character profile: Erika}
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/mellan_is_och_haard_betong} % Erika
 \input{rataflechera/loves_final_name} % Erika
 \input{temp/lilac_in_utrecht}
@@ -83,14 +107,18 @@
 \input{chlewey/room_for_what_is_real}
 \input{chlewey/inside_thomass_orbit}
 \input{chlewey/yet_in_her_hands}
+\end{multicols*}
 
 \chapter{Character profile: Vicky}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/australian_daughter_colombian_name} % Vicky
 \input{gabisson/tomorrow_morning} % Vicky
 \input{gabisson/sydney_to_london_vickys_theme}
 \input{chlewey/go} % Vicky
+\end{multicols*}
 
 \chapter{Character profile: Susana}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/cuando_despega_la_tormenta} % Susana
 \input{gabisson/minutes_home} % Susana
 \input{rataflechera/every_reason_why} % Susana
@@ -102,24 +130,31 @@
 \input{dvigitt/el_air_jaguar}
 \input{dvigitt/ninguno_de_los_dos}
 \input{wyomee/the_turned_back}
+\end{multicols*}
 
 \chapter{Character profile: Claire}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/full_semester_data}
 \input{gabisson/airport_hotel_bar}
 \input{gabisson/two_separate_rooms}
 \input{gabisson/tallinn_standing_still}
 \input{dvigitt/barcelona_turnaround}
 \input{dvigitt/all_good}
+\end{multicols*}
 
 \chapter{Orbits}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/landscape}
 \input{wyomee/equals}
 \input{gabisson/room_for_her}
 \input{rataflechera/then_theres_you}
 \input{rataflechera/unspoken_rhythm}
 \input{chlewey/eyes_that_met_their_equal}
+\end{multicols*}
 
+\part{Stories and Arcs}
 \chapter{Stories}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/potsdam_leeres_buro}
 \input{chlewey/best_friends_until_the_word_changed_shape}
 \input{chlewey/xumi}
@@ -146,8 +181,10 @@
 \input{temp/ciudad_punta_espada}
 \input{dvigitt/promise_keeps_its_own_address}
 \input{rataflechera/meet_me_at_punta_espada}
+\end{multicols*}
 
 \chapter{Thomas gaze}
+\clearpage\begin{multicols*}{4}
 \input{temp/my_delicate_verse}
 \input{rataflechera/efficient_and_charming}
 \input{chlewey/that_night}
@@ -159,8 +196,10 @@
 \input{rataflechera/ibiza_hunt}
 \input{chlewey/last_kiss_at_potsdam}
 \input{rataflechera/some_things_survive}
+\end{multicols*}
 
 \chapter{Rotterdam Leg}
+\clearpage\begin{multicols*}{4}
 \input{temp/serious_enquires}
 \input{temp/private_flight}
 \input{temp/teterboro_tarmac}
@@ -181,8 +220,10 @@
 \input{temp/no_signal_yet}
 \input{temp/baseline_cleared}
 \input{temp/chicken_sandwich_deal}
+\end{multicols*}
 
 \chapter{Tallin Series}
+\clearpage\begin{multicols*}{4}
 \input{temp/tucanito_to_tallinn}
 \input{temp/semestermap_in_tallinn}
 \input{temp/tallinn_by_january}
@@ -190,8 +231,10 @@
 \input{temp/villa_in_sardinia}
 \input{temp/eight_march_locked_in}
 \input{temp/teal_in_carbonia}
+\end{multicols*}
 
 \chapter{Tallin Stories}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/steel_n_violet}
 \input{gabisson/so_wrong}
 \input{wyomee/extension_of_friendship}
@@ -202,15 +245,19 @@
 \input{rataflechera/the_other_local_girl}
 \input{gabisson/paolos_text}
 \input{gabisson/quiet_cracked_routine}
+\end{multicols*}
 
 \chapter{Sylvia's diary}
+\clearpage\begin{multicols*}{4}
 \input{wyomee/peccato_daprile}
 \input{wyomee/casa_non_e}
 \input{wyomee/qualcosa_di_vero}
 \input{wyomee/sa_fiamma}
 \input{wyomee/resto_qui}
+\end{multicols*}
 
 \chapter{Gabi's bio}
+\clearpage\begin{multicols*}{4}
 \input{temp/potsdam_after_the_fall}
 \input{temp/garage_lines}
 \input{temp/welding_certificate}
@@ -228,8 +275,10 @@
 \input{temp/the_cleaner_exit}
 \input{temp/before_barcelona}
 \input{temp/still_a_promise}
+\end{multicols*}
 
 \chapter{A New York Night}
+\clearpage\begin{multicols*}{4}
 \input{temp/carry_on_reset}
 \input{temp/jersey_summers}
 \input{temp/thursdays_plans}
@@ -238,21 +287,18 @@
 \input{gabisson/east_side_table}
 \input{gabisson/ross_dock_lunch}
 \input{gabisson/hells_kitchen_dress}
+\end{multicols*}
 
 \chapter{London To Punta}
+\clearpage\begin{multicols*}{4}
 \input{temp/london_to_punta}
 \input{temp/air_jaguar}
 \input{temp/punta_espada}
+\end{multicols*}
 
-\chapter{Places and projects}
-\input{temp/punta_espada_2026}
-\input{temp/trispine_pais}
-\input{temp/bogota_bajo_tierra}
-\input{temp/nueva_concordia}
-\input{temp/macaw_alza_vuelo}
-\input{temp/ciudad_indigo}
-
+\part{Extras}
 \chapter{Translations and adaptations}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/vor_barcelona_english}
 \input{rataflechera/diana_carries_her_own_gravity}
 \input{rataflechera/diana_kathmil_tqlha}
@@ -269,11 +315,13 @@
 \input{gabisson/that_kiss}
 \input{rataflechera/kucheye_digar}
 \input{rataflechera/kelidi_degar}
+\end{multicols*}
 
 \chapter{Drafts}
+\clearpage\begin{multicols*}{4}
 \input{gabisson/vor_barcelona}
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

@@ -57,6 +57,7 @@
 \contentsline {section}{Inside Thomas's Orbit}{64}{}%
 \contentsline {section}{Australian Daughter, Colombian Name}{65}{}%
 \contentsline {section}{The Women He Chose}{67}{}%
+\contentsline {section}{A Long Way Round the World}{68}{}%
 \contentsline {part}{Ricochets}{69}{}%
 \contentsline {chapter}{The Extradition Beats (Ricochets)}{73}{}%
 \contentsline {section}{Heart to Heart}{74}{}%

@@ -59,6 +59,7 @@
 \contentsline {section}{Runaway And Canvas}{73}{}%
 \contentsline {section}{Reading Too Much}{74}{}%
 \contentsline {section}{Then There's You}{75}{}%
+\contentsline {section}{Eyes from the Dance Floor}{76}{}%
 \contentsline {part}{Ricochets}{77}{}%
 \contentsline {chapter}{The Extradition Beats (Ricochets)}{81}{}%
 \contentsline {section}{Carolina}{82}{}%
@@ -113,6 +114,7 @@
 \contentsline {section}{Valdai Watershed}{143}{}%
 \contentsline {section}{Where Waters Sort}{144}{}%
 \contentsline {section}{Wingman}{145}{}%
+\contentsline {section}{Think About It}{146}{}%
 \contentsline {part}{Lyrical}{147}{}%
 \contentsline {chapter}{The 1990s Trance Diaries (Lyrical Part I)}{151}{}%
 \contentsline {section}{Iros de risk}{152}{}%
@@ -120,21 +122,21 @@
 \contentsline {section}{Si pienso}{154}{}%
 \contentsline {section}{Si pienso en ti}{155}{}%
 \contentsline {section}{Al despertar}{156}{}%
-\contentsline {section}{Bilden}{158}{}%
-\contentsline {section}{Jag avskyr}{159}{}%
-\contentsline {section}{Svarta Ögon}{160}{}%
-\contentsline {section}{Svarta Ögon Skena}{161}{}%
-\contentsline {section}{Vakning}{162}{}%
-\contentsline {section}{Esfera entintada}{163}{}%
-\contentsline {section}{Líneas en blanco}{164}{}%
-\contentsline {section}{Ninety-Six Static}{165}{}%
-\contentsline {section}{No sé, pero vuelve}{166}{}%
-\contentsline {section}{No sé, vos sabés}{167}{}%
-\contentsline {section}{Papelito Chiquito}{168}{}%
-\contentsline {section}{Rabia en la boca}{169}{}%
-\contentsline {section}{Septiembre}{170}{}%
-\contentsline {section}{Círculo Convexo}{171}{}%
-\contentsline {section}{Vaina en Græville}{172}{}%
+\contentsline {section}{Bilden}{157}{}%
+\contentsline {section}{Jag avskyr}{158}{}%
+\contentsline {section}{Svarta Ögon}{159}{}%
+\contentsline {section}{Svarta Ögon Skena}{160}{}%
+\contentsline {section}{Vakning}{161}{}%
+\contentsline {section}{Esfera entintada}{162}{}%
+\contentsline {section}{Líneas en blanco}{163}{}%
+\contentsline {section}{Ninety-Six Static}{164}{}%
+\contentsline {section}{No sé, pero vuelve}{165}{}%
+\contentsline {section}{No sé, vos sabés}{166}{}%
+\contentsline {section}{Papelito Chiquito}{167}{}%
+\contentsline {section}{Rabia en la boca}{168}{}%
+\contentsline {section}{Septiembre}{169}{}%
+\contentsline {section}{Círculo Convexo}{170}{}%
+\contentsline {section}{Vaina en Græville}{171}{}%
 \contentsline {chapter}{ADHD Chaos \& Physical Needs (Lyrical Part II)}{173}{}%
 \contentsline {section}{Fantasma de quien no es}{174}{}%
 \contentsline {section}{Vulnerable}{175}{}%
@@ -214,3 +216,4 @@
 \contentsline {section}{Doopi-Do-Doos}{236}{}%
 \contentsline {section}{Anama'inreesü tüa}{237}{}%
 \contentsline {section}{Kijana Msomi (short)}{238}{}%
+\contentsline {section}{Kelidi Degar}{239}{}%

@@ -59,6 +59,7 @@
 \contentsline {section}{Runaway And Canvas}{73}{}%
 \contentsline {section}{Reading Too Much}{74}{}%
 \contentsline {section}{Then There's You}{75}{}%
+\contentsline {section}{Eyes from the Dance Floor}{76}{}%
 \contentsline {part}{Ricochets}{77}{}%
 \contentsline {chapter}{The Extradition Beats (Ricochets)}{81}{}%
 \contentsline {section}{Carolina}{82}{}%
@@ -113,6 +114,7 @@
 \contentsline {section}{Valdai Watershed}{143}{}%
 \contentsline {section}{Where Waters Sort}{144}{}%
 \contentsline {section}{Wingman}{145}{}%
+\contentsline {section}{Think About It}{146}{}%
 \contentsline {part}{Lyrical}{147}{}%
 \contentsline {chapter}{The 1990s Trance Diaries (Lyrical Part I)}{151}{}%
 \contentsline {section}{Iros de risk}{152}{}%
@@ -214,3 +216,4 @@
 \contentsline {section}{Doopi-Do-Doos}{236}{}%
 \contentsline {section}{Anama'inreesü tüa}{237}{}%
 \contentsline {section}{Kijana Msomi (short)}{238}{}%
+\contentsline {section}{Kelidi Degar}{239}{}%

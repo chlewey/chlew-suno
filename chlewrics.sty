@@ -41,7 +41,7 @@
 \index[tags]{#2}%
 \ifx\@empty#1\relax\else\index[#1]{#2}\fi
 }
-\newcommand\tag@star[1]{\texttt{\,\footnotesize\textbf{\##1}\,}}
+\newcommand\tag@star[1]{\allowbreak\texttt{\,\footnotesize\textbf{\##1}\,}\allowbreak}
 
 \newlength{\x@indent}
 \newlength{\x@left}
