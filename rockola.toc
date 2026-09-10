@@ -1,6 +1,6 @@
 \xpg@aux {}{english}
-\contentsline {part}{Thomas’ Entourage}{1}{}%
-\contentsline {chapter}{The Rotterdam Leg \& Cabin Monologues}{5}{}%
+\contentsline {part}{\partnumberline {I}Thomas’ Entourage}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}The Rotterdam Leg \& Cabin Monologues}{5}{}%
 \contentsline {section}{Full Semester Data}{6}{}%
 \contentsline {section}{Airport Hotel Bar}{7}{}%
 \contentsline {section}{Two Separate Rooms}{8}{}%
@@ -10,7 +10,7 @@
 \contentsline {section}{Last Kiss at Potsdam}{13}{}%
 \contentsline {section}{Vor Barcelona (Deutsch)}{14}{}%
 \contentsline {section}{Vor Barcelona (English)}{15}{}%
-\contentsline {chapter}{New York Nights \& Fort Lee Diaries}{17}{}%
+\contentsline {chapter}{\chapternumberline {2}New York Nights \& Fort Lee Diaries}{17}{}%
 \contentsline {section}{Carroll Gardens}{18}{}%
 \contentsline {section}{Carry On Reset}{20}{}%
 \contentsline {section}{Jersey Summers}{21}{}%
@@ -20,7 +20,7 @@
 \contentsline {section}{East Side Table}{25}{}%
 \contentsline {section}{Ross Dock Lunch}{26}{}%
 \contentsline {section}{Hell's Kitchen Dress}{27}{}%
-\contentsline {chapter}{Operatic Portals \& Baltic Anthems}{29}{}%
+\contentsline {chapter}{\chapternumberline {3}Operatic Portals \& Baltic Anthems}{29}{}%
 \contentsline {section}{Grace in the Gale}{30}{}%
 \contentsline {section}{That Night}{31}{}%
 \contentsline {section}{Liis Sepp Raising}{32}{}%
@@ -33,7 +33,7 @@
 \contentsline {section}{Mellan is och hård betong}{40}{}%
 \contentsline {section}{Love's Final Name}{41}{}%
 \contentsline {section}{Vor Barcelona}{42}{}%
-\contentsline {chapter}{Pilots, Routes \& Foundations}{43}{}%
+\contentsline {chapter}{\chapternumberline {4}Pilots, Routes \& Foundations}{43}{}%
 \contentsline {section}{London to Punta}{44}{}%
 \contentsline {section}{Minutes Home}{46}{}%
 \contentsline {section}{The Woman from the Storm}{47}{}%
@@ -43,8 +43,8 @@
 \contentsline {section}{Double Register}{53}{}%
 \contentsline {section}{Ciudad Punta Espada}{54}{}%
 \contentsline {section}{Go}{55}{}%
-\contentsline {part}{Ricochets}{57}{}%
-\contentsline {chapter}{The Colombian Trap (Ricochets)}{61}{}%
+\contentsline {part}{\partnumberline {II}Ricochets}{57}{}%
+\contentsline {chapter}{\chapternumberline {5}The Colombian Trap (Ricochets)}{61}{}%
 \contentsline {section}{Rosario House}{62}{}%
 \contentsline {section}{Destinies Overlap}{63}{}%
 \contentsline {section}{Berent Steel (Opa's Shadow)}{65}{}%
@@ -52,8 +52,8 @@
 \contentsline {section}{Inter-Flota Caerá}{68}{}%
 \contentsline {section}{Ricochets Hangover}{69}{}%
 \contentsline {section}{The Steady Hand}{71}{}%
-\contentsline {part}{Other narrative}{73}{}%
-\contentsline {chapter}{Encounter Icons \& Heavy Chemistry}{77}{}%
+\contentsline {part}{\partnumberline {III}Other narrative}{73}{}%
+\contentsline {chapter}{\chapternumberline {6}Encounter Icons \& Heavy Chemistry}{77}{}%
 \contentsline {section}{Ice Cream Friday}{78}{}%
 \contentsline {section}{Passenger-Side Switch}{79}{}%
 \contentsline {section}{Brass Eyed Siren}{80}{}%
@@ -61,7 +61,7 @@
 \contentsline {section}{Wild Cat}{82}{}%
 \contentsline {section}{Watching from a Distance}{83}{}%
 \contentsline {section}{Era el final del verano}{84}{}%
-\contentsline {chapter}{Shadows \& Goth-Metal Fables}{85}{}%
+\contentsline {chapter}{\chapternumberline {7}Shadows \& Goth-Metal Fables}{85}{}%
 \contentsline {section}{Evi Sem Yike}{86}{}%
 \contentsline {section}{Evi Sem Yike (single)}{88}{}%
 \contentsline {section}{Gota a gota}{90}{}%
@@ -85,8 +85,8 @@
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \contentsline {section}{Blue-Point Mischief}{94}{}%
-\contentsline {part}{Essays}{95}{}%
-\contentsline {chapter}{Debates, Satires \& Systems}{99}{}%
+\contentsline {part}{\partnumberline {IV}Essays}{95}{}%
+\contentsline {chapter}{\chapternumberline {8}Debates, Satires \& Systems}{99}{}%
 \contentsline {section}{Cut Me Loose}{100}{}%
 \contentsline {section}{The Toxic Ghost}{101}{}%
 \contentsline {section}{El fin de la historia}{102}{}%
@@ -97,8 +97,8 @@
 \contentsline {section}{Dead Sea's barren dreams}{107}{}%
 \contentsline {section}{Buba Kiki Riot}{108}{}%
 \contentsline {section}{Limits of the Load}{109}{}%
-\contentsline {part}{Lyrical}{111}{}%
-\contentsline {chapter}{ADHD Chaos \& Executive Burnout}{115}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{111}{}%
+\contentsline {chapter}{\chapternumberline {9}ADHD Chaos \& Executive Burnout}{115}{}%
 \contentsline {section}{Skälvning}{116}{}%
 \contentsline {section}{Monoestable}{117}{}%
 \contentsline {section}{Paper in the Grinder}{118}{}%
@@ -113,7 +113,7 @@
 \contentsline {section}{Buildings Worlds}{130}{}%
 \contentsline {section}{Burn the Glass}{131}{}%
 \contentsline {section}{The Wrong Map}{132}{}%
-\contentsline {chapter}{Confessions \& Small Defeats}{133}{}%
+\contentsline {chapter}{\chapternumberline {10}Confessions \& Small Defeats}{133}{}%
 \contentsline {section}{Je hais}{134}{}%
 \contentsline {section}{Je hais}{135}{}%
 \contentsline {section}{La haine que je te dois}{136}{}%
@@ -127,7 +127,7 @@
 \contentsline {section}{A Mind That Craves Novelty}{146}{}%
 \contentsline {section}{The Last Waltz of the Northern}{147}{}%
 \contentsline {section}{Migrant Echoes}{148}{}%
-\contentsline {chapter}{Playful Escapes \& Candy Rock Parades}{149}{}%
+\contentsline {chapter}{\chapternumberline {11}Playful Escapes \& Candy Rock Parades}{149}{}%
 \contentsline {section}{Candy Rock Day}{150}{}%
 \contentsline {section}{Rainbow Candy Parade}{151}{}%
 \contentsline {section}{Peter City Walk}{152}{}%

@@ -1,6 +1,6 @@
 \xpg@aux {}{english}
-\contentsline {part}{Thomas’ Entourage}{1}{}%
-\contentsline {chapter}{The Rotterdam Leg}{5}{}%
+\contentsline {part}{\partnumberline {I}Thomas’ Entourage}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}The Rotterdam Leg}{5}{}%
 \contentsline {section}{Serious Enquires}{6}{}%
 \contentsline {section}{Rotterdam First}{7}{}%
 \contentsline {section}{Where's the Fun}{8}{}%
@@ -16,7 +16,7 @@
 \contentsline {section}{No Signal Yet}{19}{}%
 \contentsline {section}{Baseline Cleared}{20}{}%
 \contentsline {section}{Chicken Sandwich Deal}{21}{}%
-\contentsline {chapter}{The Potsdam Biographical Loop \& Long Island Key}{23}{}%
+\contentsline {chapter}{\chapternumberline {2}The Potsdam Biographical Loop \& Long Island Key}{23}{}%
 \contentsline {section}{Potsdam After the Fall}{24}{}%
 \contentsline {section}{Garage Lines}{25}{}%
 \contentsline {section}{Welding Certificate}{26}{}%
@@ -34,7 +34,7 @@
 \contentsline {section}{The Cleaner Exit}{38}{}%
 \contentsline {section}{Before Barcelona}{39}{}%
 \contentsline {section}{Still A Promise}{41}{}%
-\contentsline {chapter}{Orbits of Milan, London, and New York}{43}{}%
+\contentsline {chapter}{\chapternumberline {3}Orbits of Milan, London, and New York}{43}{}%
 \contentsline {section}{Potsdam Leeres Büro}{44}{}%
 \contentsline {section}{Air Jaguar}{45}{}%
 \contentsline {section}{Punta Espada}{47}{}%
@@ -47,7 +47,7 @@
 \contentsline {section}{Glass on File}{56}{}%
 \contentsline {section}{Seat 14C}{57}{}%
 \contentsline {section}{Gabi in Focus}{59}{}%
-\contentsline {chapter}{Sardinian Winds, Tallinn Shadows \& Polyamory}{61}{}%
+\contentsline {chapter}{\chapternumberline {4}Sardinian Winds, Tallinn Shadows \& Polyamory}{61}{}%
 \contentsline {section}{Su peccadu meu}{62}{}%
 \contentsline {section}{Back Seat Proposal}{63}{}%
 \contentsline {section}{Orbit Of Names}{65}{}%
@@ -60,8 +60,8 @@
 \contentsline {section}{Reading Too Much}{74}{}%
 \contentsline {section}{Then There's You}{75}{}%
 \contentsline {section}{Eyes from the Dance Floor}{76}{}%
-\contentsline {part}{Ricochets}{77}{}%
-\contentsline {chapter}{The Extradition Beats (Ricochets)}{81}{}%
+\contentsline {part}{\partnumberline {II}Ricochets}{77}{}%
+\contentsline {chapter}{\chapternumberline {5}The Extradition Beats (Ricochets)}{81}{}%
 \contentsline {section}{Carolina}{82}{}%
 \contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{83}{}%
 \contentsline {section}{Same Old Circle}{84}{}%
@@ -69,8 +69,8 @@
 \contentsline {section}{Sophie Durand}{86}{}%
 \contentsline {section}{The Asset}{87}{}%
 \contentsline {section}{The Final Offer}{89}{}%
-\contentsline {part}{Other Narrative \& Speculative Worlds}{91}{}%
-\contentsline {chapter}{Digital Union (The Encounters Arc)}{95}{}%
+\contentsline {part}{\partnumberline {III}Other Narrative \& Speculative Worlds}{91}{}%
+\contentsline {chapter}{\chapternumberline {6}Digital Union (The Encounters Arc)}{95}{}%
 \contentsline {section}{Clumsy Hearts}{96}{}%
 \contentsline {section}{Six Stories, One Room}{97}{}%
 \contentsline {section}{Ulla In The Hall}{98}{}%
@@ -79,7 +79,7 @@
 \contentsline {section}{Three Faces}{101}{}%
 \contentsline {section}{Kimizu Mamba Vit}{102}{}%
 \contentsline {section}{Crazy Town Recap}{103}{}%
-\contentsline {chapter}{Obsidian Shutter (Gothic Lights)}{105}{}%
+\contentsline {chapter}{\chapternumberline {7}Obsidian Shutter (Gothic Lights)}{105}{}%
 \contentsline {section}{Unconfessed}{106}{}%
 \contentsline {section}{Паутина Андрея}{107}{}%
 \contentsline {section}{Obsidian Winglight (Succubus Portrait)}{108}{}%
@@ -94,8 +94,8 @@
 \contentsline {section}{Salt Flat Omen}{117}{}%
 \contentsline {section}{Sofa at Midnight}{118}{}%
 \contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{119}{}%
-\contentsline {part}{Essays}{121}{}%
-\contentsline {chapter}{Scientific Logic Meets the Bass Drop (Essays)}{125}{}%
+\contentsline {part}{\partnumberline {IV}Essays}{121}{}%
+\contentsline {chapter}{\chapternumberline {8}Scientific Logic Meets the Bass Drop (Essays)}{125}{}%
 \contentsline {section}{EISH5 Worlds}{126}{}%
 \contentsline {section}{Bucket List}{127}{}%
 \contentsline {section}{Sabor en la Mesa}{129}{}%
@@ -115,8 +115,8 @@
 \contentsline {section}{Where Waters Sort}{144}{}%
 \contentsline {section}{Wingman}{145}{}%
 \contentsline {section}{Think About It}{146}{}%
-\contentsline {part}{Lyrical}{147}{}%
-\contentsline {chapter}{The 1990s Trance Diaries (Lyrical Part I)}{151}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{147}{}%
+\contentsline {chapter}{\chapternumberline {9}The 1990s Trance Diaries (Lyrical Part I)}{151}{}%
 \contentsline {section}{Iros de risk}{152}{}%
 \contentsline {section}{Travel Notes}{153}{}%
 \contentsline {section}{Si pienso}{154}{}%
@@ -137,7 +137,7 @@
 \contentsline {section}{Septiembre}{169}{}%
 \contentsline {section}{Círculo Convexo}{170}{}%
 \contentsline {section}{Vaina en Græville}{171}{}%
-\contentsline {chapter}{ADHD Chaos \& Physical Needs (Lyrical Part II)}{173}{}%
+\contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Physical Needs (Lyrical Part II)}{173}{}%
 \contentsline {section}{Fantasma de quien no es}{174}{}%
 \contentsline {section}{Vulnerable}{175}{}%
 \contentsline {section}{Pálpitos prohibidos}{176}{}%
@@ -156,7 +156,7 @@
 \contentsline {section}{The Wrong Map}{191}{}%
 \contentsline {section}{The Fault in Your Character (EBD)}{192}{}%
 \contentsline {section}{Crave Stimuli (rave)}{194}{}%
-\contentsline {chapter}{Instrumental Textures (Lyrical Part III)}{195}{}%
+\contentsline {chapter}{\chapternumberline {11}Instrumental Textures (Lyrical Part III)}{195}{}%
 \contentsline {section}{Across-Ticks}{196}{}%
 \contentsline {section}{Cuatro Maneras}{197}{}%
 \contentsline {section}{Modo Pararrayos}{198}{}%
@@ -175,8 +175,8 @@
 \contentsline {section}{New // Old}{211}{}%
 \contentsline {section}{Soundwall}{212}{}%
 \contentsline {section}{Stimuli}{213}{}%
-\contentsline {part}{Street Corner Riot}{215}{}%
-\contentsline {chapter}{The Multilingual Electroswing Matrix}{219}{}%
+\contentsline {part}{\partnumberline {VI}Street Corner Riot}{215}{}%
+\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{219}{}%
 \contentsline {section}{Je hais ma haine}{220}{}%
 \contentsline {section}{Dig}{221}{}%
 \contentsline {section}{Peccato bello}{222}{}%

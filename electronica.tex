@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
 
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -13,20 +15,20 @@
 {\Huge\bfseries Thompson’s Electronica Soundtrack\par}
 \vspace*{\fill}
 \end{titlingpage}
-\renewcommand\chaptername{Album~}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
+\renewcommand\chaptername{Album~}
 
 \part{Thomas’ Entourage}
 Electronic songs from the \emph{Thomas’ Entourage} universe: the private-jet meeting, the polyamorous negotiation, Gabi’s working-class biography, and the technical women around the Punta Espada project.
 
 \chapter{The Rotterdam Leg}
+\albumcover{covers/electronica/the-rotterdam-leg}
 The Teterboro-to-Rotterdam flight and the first mid-air clash of identities, in EBM, hard techno-house and industrial grid patterns.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/serious_enquires} % ebm, 2026
 \input{temp/rotterdam_first} % industrial-pop, 2026
 \input{temp/wheres_the_fun} % industrial-pop, 2026
@@ -42,10 +44,12 @@ The Teterboro-to-Rotterdam flight and the first mid-air clash of identities, in 
 \input{temp/no_signal_yet} % industrial-pop, 2026
 \input{temp/baseline_cleared} % industrial-pop, 2026
 \input{temp/chicken_sandwich_deal} % industrial-pop, 2026
+\end{multicols*}
 
 \chapter{The Potsdam Biographical Loop \& Long Island Key}
+\albumcover{covers/electronica/potsdam-biographical-loop-and-li-key}
 Gabi’s life in industrial-pop miniatures: the fall of the Wall, her father’s metalworking trade, the Queens welding shop, and her deliberate, clear-eyed exit from the system.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/potsdam_after_the_fall} % industrial-pop, 2026
 \input{temp/garage_lines} % industrial-pop, 2026
 \input{temp/welding_certificate} % industrial-pop, 2026
@@ -63,10 +67,12 @@ Gabi’s life in industrial-pop miniatures: the fall of the Wall, her father’s
 \input{temp/the_cleaner_exit} % industrial-pop, 2026
 \input{temp/before_barcelona} % industrial-pop, 2026
 \input{temp/still_a_promise} % industrial-pop, 2026
+\end{multicols*}
 
 \chapter{Orbits of Milan, London, and New York}
+\albumcover{covers/electronica/orbits-of-milan-london-and-ny}
 Corporate, airport-lit synth-pop, house and techno-pop about the technical specialists, the flight logistics and the confidential files.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/potsdam_leeres_buro} % industrial-electronic, 2024
 \input{temp/air_jaguar} % synth-pop, 2024
 \input{temp/punta_espada} % synth-pop, 2024
@@ -79,10 +85,12 @@ Corporate, airport-lit synth-pop, house and techno-pop about the technical speci
 \input{temp/glass_on_file} % electronic, 2026
 \input{gabisson/seat_14c} % industrial-dance, 2024
 \input{dvigitt/gabi_in_focus} % ebm, 2023
+\end{multicols*}
 
 \chapter{Sardinian Winds, Tallinn Shadows \& Polyamory}
+\albumcover{covers/electronica/sardinian-winds-tallinn-shadows-and-polyamory}
 Sensual electro-pop, rave-pop and techno on dismantling monogamous limits, group loyalty and keeping an open relationship in balance.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/su_peccadu_meu} % techno, 2024
 \input{rataflechera/back_seat_proposal} % house, 2025
 \input{gabisson/orbit_of_names} % rave-pop, 2025
@@ -95,13 +103,15 @@ Sensual electro-pop, rave-pop and techno on dismantling monogamous limits, group
 \input{temp/reading_too_much} % ebm, 2026
 \input{rataflechera/then_theres_you} % house, 2026
 \input{dvigitt/eyes_from_the_dance_floor} % house, 2026
+\end{multicols*}
 
 \part{Ricochets}
 The electronic score for Carlos Thompson’s extradition thriller \emph{Ricochets}.
 
 \chapter{The Extradition Beats (Ricochets)}
+\albumcover{covers/electronica/the-extradition-beats}
 The whole \emph{Ricochets} thriller as a closed concept album of house, EBM and techno — intrigue, border crossings and crossed lives.
-
+\clearpage\begin{multicols*}{4}
 \input{gabisson/carolina} % house, 2024
 \input{wyomee/fast_neunzehn_zwei_welten_bluten} % ebm, 2024
 \input{gabisson/same_old_circle} % electronic-pop, 2024
@@ -109,13 +119,15 @@ The whole \emph{Ricochets} thriller as a closed concept album of house, EBM and 
 \input{temp/sophie_durand} % eurodance, 2026
 \input{temp/the_asset} % latin-dance-pop, 2026
 \input{temp/the_final_offer} % nu-disco, 2026
+\end{multicols*}
 
 \part{Other Narrative \& Speculative Worlds}
 Pieces outside the two main universes: the \emph{Encounters} arc, AI-prompt portraits, and end-of-summer postcards.
 
 \chapter{Digital Union (The Encounters Arc)}
+\albumcover{covers/electronica/digital-union-encounters-arc}
 The \emph{Encounters} vignettes, where contact moves from the coldness of the network to the physical reality of apartments and hallways, in electro-pop and industrial house.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/clumsy_hearts} % electro-pop, 2023
 \input{chlewey/six_stories_one_room} % house, 2026
 \input{wyomee/ulla_in_the_hall} % dubstep, 2026
@@ -124,10 +136,12 @@ The \emph{Encounters} vignettes, where contact moves from the coldness of the ne
 \input{gabisson/three_faces} % drum-and-bass, 2024
 \input{wyomee/kimizu_mamba_vit} % techno, 2025
 \input{chlewey/crazy_town_recap} % eurodance, 1992
+\end{multicols*}
 
 \chapter{Obsidian Shutter (Gothic Lights)}
+\albumcover{covers/electronica/obsidian-shutter-gothic-lights}
 Trip-hop, dubstep and techno-pop built from aesthetic prompts: AI archetype portraits, drones over Colombian maize fields, and late-summer nostalgia.
-
+\clearpage\begin{multicols*}{4}
 \input{gabisson/unconfessed} % club-house, 2013
 \input{temp/pautina_andreya} % dubstep, 2023
 \input{chlewey/obsidian_winglight_succubus_portrait} % epic-dubstep, 2025
@@ -142,13 +156,15 @@ Trip-hop, dubstep and techno-pop built from aesthetic prompts: AI archetype port
 \input{wyomee/salt_flat_omen} % cinematic-dubstep, 2026
 \input{gabisson/sofa_at_midnight} % dubstep, 2026
 \input{temp/tres_ciutats_una_mateixa_frequencia} % ebm, 2026
+\end{multicols*}
 
 \part{Essays}
 Argument-driven electronica: Quora debates, river-basin geography and ritual satire over house, dubstep and drum’n’bass.
 
 \chapter{Scientific Logic Meets the Bass Drop (Essays)}
+\albumcover{covers/electronica/scientific-logic-bass-drop-essays}
 Logic-driven songs: Quora arguments, watershed geography in deep house, and satires of mundane ritual.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/eish5_worlds} % drum-and-bass, 1998
 \input{wyomee/bucket_list} % house, 2015
 \input{temp/sabor_en_la_mesa} % eurodance, 2025
@@ -168,13 +184,15 @@ Logic-driven songs: Quora arguments, watershed geography in deep house, and sati
 \input{temp/where_waters_sort} % house, 2026
 \input{temp/wingman} % trance, 2026
 \input{gabisson/think_about_it} % house, 2026
+\end{multicols*}
 
 \part{Lyrical}
 Personal and poetic material: 1990s journal poems, executive-paralysis songs, skin-hunger confessions and wordless experiments.
 
 \chapter{The 1990s Trance Diaries (Lyrical Part I)}
+\albumcover{covers/electronica/the-1990s-trance-diaries}
 Adaptations of the author’s 1989–1998 poems and diaries — early heartbreak, Swedish-language fragments and archival dread — recast as trance, house and industrial-pop.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/iros_de_risk} % trance, 1989
 \input{rataflechera/travel_notes} % house, 1989
 \input{wyomee/si_pienso} % trance, 1990
@@ -195,10 +213,12 @@ Adaptations of the author’s 1989–1998 poems and diaries — early heartbreak
 \input{chlewey/septiembre} % dubstep, 1996
 \input{chlewey/circulo_convexo} % new-age-techno, 1997
 \input{temp/vaina_en_graeville} % ebm, 1998
+\end{multicols*}
 
 \chapter{ADHD Chaos \& Physical Needs (Lyrical Part II)}
+\albumcover{covers/electronica/adhd-chaos-and-physical-needs}
 Executive paralysis, social masking, the constant dopamine hunt (\emph{Crave Stimuli}), type-1 autism and sensory disconnection, in techno, electroswing and hyperpop.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/fantasma_de_quien_no_es} % disco, 2010
 \input{temp/vulnerable} % dubstep, 2010
 \input{temp/palpitos_prohibidos} % electroswing, 2010
@@ -219,10 +239,12 @@ Executive paralysis, social masking, the constant dopamine hunt (\emph{Crave Sti
 \input{temp/the_wrong_map_2} % synth-pop, 2026
 \input{temp/the_fault_in_your_character_ebd} % ebm, 2026
 \input{temp/crave_stimuli_rave} % rave, 2026
+\end{multicols*}
 
 \chapter{Instrumental Textures (Lyrical Part III)}
+\albumcover{covers/electronica/instrumental-textures}
 Confessional songs about vulnerability and the physical need for touch, alongside pure instrumental and constructed-language experiments.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/acrossticks} % eurodance, 2010
 \input{temp/cuatro_maneras} % synth-pop, 2023
 \input{gabisson/modo_pararrayos} % techno-house, 2026
@@ -241,13 +263,15 @@ Confessional songs about vulnerability and the physical need for touch, alongsid
 \input{temp/new_old} % melodic-techno, 2026
 \input{temp/soundwall} % eurodance, 2026
 \input{temp/stimuli} % dubstep, 2026
+\end{multicols*}
 
 \part{Street Corner Riot}
 Electroswing adaptations that all share the \emph{Street Corner} arrangement (124\,BPM, F minor, brass stabs, vinyl crackle, off-beat piano), whatever their narrative origin.
 
 \chapter{The Multilingual Electroswing Matrix}
+\albumcover{covers/electronica/multilingual-electroswing-matrix}
 An indivisible conceptual block: multi-language adaptations (Swedish, Japanese, Arabic, Persian, Russian, Estonian, Interlingua) that all share the exact same 124\,BPM / F-minor \emph{Street Corner} arrangement.
-
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/je_hais_ma_haine} % electroswing, 1988
 \input{rataflechera/dig} % electroswing, 1991
 \input{rataflechera/peccato_bello} % electroswing, 2026
@@ -268,8 +292,8 @@ An indivisible conceptual block: multi-language adaptations (Swedish, Japanese, 
 \input{temp/anamainreesu_tua} % electroswing, 2026
 \input{rataflechera/kijana_msomi_short} % electroswing, 2026
 \input{rataflechera/kelidi_degar} % electroswing, 2026
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

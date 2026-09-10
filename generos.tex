@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
 
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -13,20 +15,20 @@
 {\Huge\bfseries Thompson’s Songbook by Genre\par}
 \vspace*{\fill}
 \end{titlingpage}
-\renewcommand\chaptername{Album~}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
-
+\renewcommand\chaptername{Album~}
 
 \part{Musical theatre}
 Songs cast in a show-tune / stage-musical idiom.
 
 \chapter{The Show-Tune Ledger}
+\albumcover{covers/generos/the-show-tune-ledger}
 The full run of stage-musical numbers, from the 1988 cabaret sketch to the 2026 courtroom ensembles.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/message_trop_tard} % musical-theater, 1988
 \input{wyomee/mira} % musical-theater, 1996
 \input{chlewey/in_the_time_of_noahs_ark_1} % musical-theater, 2013
@@ -41,12 +43,15 @@ The full run of stage-musical numbers, from the 1988 cabaret sketch to the 2026 
 \input{temp/tuit_y_ceniza} % musical-theater, 2026
 \input{temp/two_faces_in_the_ledger} % musical-theater, 2026
 \input{temp/two_women_one_case} % musical-theater, 2026
+\end{multicols*}
 
 \part{Soul}
 Soul, jazz and gospel: soul and neo-soul, the jazz family, gospel and sacred song.
 
 \chapter{The Jazz Wing}
+\albumcover{covers/generos/the-jazz-wing}
 Latin jazz, jazz-rock and noir jazz — the Aurora and Bogotá case files, plus the tarmac-lounge instrumentals.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/another_log_about_nothing} % latin-jazz, 2009
 \input{wyomee/digital_skies} % latin-jazz, 2009
 \input{rataflechera/andrea_at_break} % jazz-ballad, 2023
@@ -64,9 +69,12 @@ Latin jazz, jazz-rock and noir jazz — the Aurora and Bogotá case files, plus 
 \input{wyomee/under_that_wide_brim} % noir-jazz, 2026
 \input{chlewey/velvet_n_gold_penthouse_portraits} % lounge-jazz, 2026
 \input{wyomee/velvet_file_cabinet} % jazz-rock, 2026
+\end{multicols*}
 
 \chapter{Pews \& Bridges}
+\albumcover{covers/generos/pews-and-bridges}
 Gospel and sacred song wrestling with doubt, hospitality and what the book leaves out.
+\clearpage\begin{multicols*}{4}
 \input{temp/polilla_en_las_flamas} % christian-music, 2010
 \input{temp/fallen_messenger} % gospel-rock, 2026
 \input{temp/fallen_messenger_2} % gospel-pop, 2026
@@ -78,21 +86,27 @@ Gospel and sacred song wrestling with doubt, hospitality and what the book leave
 \input{temp/what_was_left_behind} % gospel, 2026
 \input{wyomee/which_god_stands_still} % gospel, 2026
 \input{temp/yes_it_can} % gospel, 2026
+\end{multicols*}
 
 \chapter{Velvet \& Grit}
+\albumcover{covers/generos/velvet-and-grit}
 Straight soul and neo-soul with a rougher edge — punk-soul, soul-rock, industrial-soul.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/so_wrong} % punk-soul, 2024
 \input{wyomee/southern_static} % southern-soul, 2025
 \input{temp/blue_optra_morning} % soul-rock, 2026
 \input{temp/everybody_knows_henry} % soul, 2026
 \input{temp/living_fantasies_neo_soul} % neo-soul, 2026
 \input{temp/private_flight} % industrial-soul, 2026
+\end{multicols*}
 
 \part{Americana (country / blues / folk)}
 Americana: country, blues, folk, bluegrass, doo-wop.
 
 \chapter{Vintage \& Vocal Harmony}
+\albumcover{covers/generos/vintage-and-vocal-harmony}
 Doo-wop close harmony and the earliest electric blues, 2010–2026.
+\clearpage\begin{multicols*}{4}
 \input{temp/temblando} % blues, 2010
 \input{temp/trembling_blues} % blues, 2010
 \input{temp/el_mundo_gira} % bluegrass, 2010
@@ -101,9 +115,12 @@ Doo-wop close harmony and the earliest electric blues, 2010–2026.
 \input{temp/take_me_south} % doo-wop, 2023
 \input{temp/sin_retorno} % doo-wop, 2026
 \input{temp/two_ways_to_think} % doo-wop, 2026
+\end{multicols*}
 
 \chapter{The Blues Shelf}
+\albumcover{covers/generos/the-blues-shelf}
 Blues, blues-rock and bluegrass — bar-band shuffles and back-porch pickers.
+\clearpage\begin{multicols*}{4}
 \input{temp/the_good_guys_dilemma} % bluegrass, 2018
 \input{chlewey/traga_tuitera} % blues-rock, 2023
 \input{gabisson/carbonia_villa_blues} % blues, 2024
@@ -115,9 +132,12 @@ Blues, blues-rock and bluegrass — bar-band shuffles and back-porch pickers.
 \input{chlewey/little_velvet_ghost} % blues-rock, 2026
 \input{temp/the_man_i_taught_you_to_be} % country-blues, 2026
 \input{gabisson/the_ground_i_find} % blues, 2026
+\end{multicols*}
 
 \chapter{Country \& Outlaw}
+\albumcover{covers/generos/country-and-outlaw}
 Country proper, country-rap, alt- and outlaw-country, heartland rock.
+\clearpage\begin{multicols*}{4}
 \input{temp/second_gun_salesman} % country, 2018
 \input{rataflechera/petals_and_ink} % country-pop, 2023
 \input{wyomee/retrogrades} % country, 2023
@@ -135,9 +155,12 @@ Country proper, country-rap, alt- and outlaw-country, heartland rock.
 \input{temp/said_and_done} % outlaw-country, 2026
 \input{temp/scraper_road} % acoustic-rock, 2026
 \input{rataflechera/the_storage_unit} % alt-country, 2026
+\end{multicols*}
 
 \chapter{The Tallinn Folk-Rock Cycle}
+\albumcover{covers/generos/the-tallinn-folk-rock-cycle}
 Folk-rock built around the Tallinn / Sardinia / La Dorada travel arc.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/le_phases_de_thomas} % folk-rock, 2024
 \input{wyomee/extension_of_friendship} % folk-rock, 2025
 \input{temp/eight_march_locked_in} % folk-rock, 2026
@@ -149,9 +172,12 @@ Folk-rock built around the Tallinn / Sardinia / La Dorada travel arc.
 \input{temp/teal_in_carbonia} % folk-rock, 2026
 \input{temp/tucanito_to_tallinn} % folk-rock, 2026
 \input{temp/villa_in_sardinia} % folk-rock, 2026
+\end{multicols*}
 
 \chapter{The Indie-Folk Notebook}
+\albumcover{covers/generos/the-indie-folk-notebook}
 Spare indie-folk and anti-folk confessionals.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/library_to_longing} % indie-folk, 2023
 \input{gabisson/pacifica_miles} % indie-folk, 2024
 \input{rataflechera/a_drunk_without_a_drop} % indie-folk, 2026
@@ -163,9 +189,12 @@ Spare indie-folk and anti-folk confessionals.
 \input{rataflechera/rough_diamond} % indie-folk, 2026
 \input{gabisson/requiem_por_el_ultimo_cassette} % indie-folk, 2026
 \input{wyomee/thursday_counter} % indie-folk, 2026
+\end{multicols*}
 
 \chapter{Ballads \& Bare Folk}
+\albumcover{covers/generos/ballads-and-bare-folk}
 Fingerpicked folk, folk-ballad and folk-pop — the quietest room in the book.
+\clearpage\begin{multicols*}{4}
 \input{temp/no_middle_seat} % folk, 2020
 \input{dvigitt/carolina_by_gate_9} % folk-ballad, 2023
 \input{wyomee/claire_jones_my_love} % folk-pop, 2023
@@ -184,12 +213,15 @@ Fingerpicked folk, folk-ballad and folk-pop — the quietest room in the book.
 \input{temp/the_spark_in_her_eyes} % folk-ballad, 2026
 \input{wyomee/the_turned_back} % folk-punk, 2026
 \input{wyomee/senora_rosarios_house} % folk, 2026
+\end{multicols*}
 
 \part{Tropical latina}
 Tropical Latin: salsa, cumbia, vallenato, merengue, reggaet\'on and related Caribbean styles.
 
 \chapter{Montuno \& Brass}
+\albumcover{covers/generos/montuno-and-brass}
 Salsa dura and its hybrids — salsa-choke, salsa-rock, jazz-cumbia — piano tumbao and horn stabs.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/padre_peter} % salsa, 2022
 \input{gabisson/morocho} % salsa, 2024
 \input{temp/bajo_la_tricolor} % salsa-choke, 2026
@@ -205,9 +237,12 @@ Salsa dura and its hybrids — salsa-choke, salsa-rock, jazz-cumbia — piano tu
 \input{temp/secreto_de_padre} % salsa, 2026
 \input{temp/tu_puro_vivir} % salsa, 2026
 \input{temp/wild_cat_wild_flower} % salsa, 2026
+\end{multicols*}
 
 \chapter{Cumbia \& Vallenato}
+\albumcover{covers/generos/cumbia-and-vallenato}
 Cumbia, vallenato, tropipop and Colombian folk-tropical: gaita, mapalé, carranguera, puya.
+\clearpage\begin{multicols*}{4}
 \input{temp/el_mejor_delito} % puya, 1996
 \input{temp/lineas_grises} % gaita, 1996
 \input{gabisson/una_locura} % vallenato, 2024
@@ -223,9 +258,12 @@ Cumbia, vallenato, tropipop and Colombian folk-tropical: gaita, mapalé, carrang
 \input{temp/sal_de_la_tierra} % cumbia, 2026
 \input{temp/tambor_y_gaita} % mapale, 2026
 \input{temp/trispine_pais} % carranguera, 2026
+\end{multicols*}
 
 \chapter{Dembow, Dancehall \& Bossa}
+\albumcover{covers/generos/dembow-dancehall-and-bossa}
 Urban and pan-Latin Caribbean — merengue, reggaetón, dancehall, piseiro — plus a pair of bossa nova.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/duda_en_piravita} % merengue, 2022
 \input{temp/doblej} % latin-pop, 2023
 \input{temp/el_hilo} % reggaeton, 2023
@@ -239,12 +277,15 @@ Urban and pan-Latin Caribbean — merengue, reggaetón, dancehall, piseiro — p
 \input{temp/multiply_the_delay} % reggae, 2026
 \input{temp/piel_stimuli} % reggaeton, 2026
 \input{temp/seven_men_deep} % dancehall, 2026
+\end{multicols*}
 
 \part{Hispana (otros)}
 Other Hispanic styles: pasillo, bambuco, tango, milonga, zamba, bolero, rock en espa\~nol, ranchera, narcocorrido, Andean.
 
 \chapter{Tango, Milonga \& the Air Jaguar}
+\albumcover{covers/generos/tango-milonga-and-the-air-jaguar}
 Southern Cone: tango, zamba and the dvigitt milonga-rock cycle around the Air Jaguar.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/dapich_sapica} % tango, 1997
 \input{rataflechera/espero} % zamba, 1997
 \input{dvigitt/el_air_jaguar} % milonga-rock, 2026
@@ -255,9 +296,12 @@ Southern Cone: tango, zamba and the dvigitt milonga-rock cycle around the Air Ja
 \input{dvigitt/ninguno_de_los_dos} % milonga-rock, 2026
 \input{dvigitt/pieza_en_vuelo} % milonga-rock, 2026
 \input{dvigitt/vuelvo_al_sillon} % milonga-rock, 2026
+\end{multicols*}
 
 \chapter{Bambuco \& Pasillo}
+\albumcover{covers/generos/bambuco-and-pasillo}
 Andean Colombia — bambuco and pasillo, with one Andean detour.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/pilar_venegas} % bambuco, 2024
 \input{temp/ciudad_indigo} % bambuco, 2025
 \input{gabisson/la_casa_y_el_viento} % pasillo, 2026
@@ -267,9 +311,12 @@ Andean Colombia — bambuco and pasillo, with one Andean detour.
 \input{temp/the_healer_and_the_hurting} % pasillo, 2026
 \input{chlewey/tiny_suits} % pasillo, 2026
 \input{temp/viejo_bambuco} % bambuco, 2026
+\end{multicols*}
 
 \chapter{Bolero \& Ballad}
+\albumcover{covers/generos/bolero-and-ballad}
 Bolero, latin-ballad and latin-alternative, with trova and ranchera at the edges.
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/chiq} % bolero, 2013
 \input{chlewey/hombre_de_sociedad} % latin-ballad, 2022
 \input{chlewey/la_sombra_y_el_futuro} % latin-ballad, 2022
@@ -284,9 +331,12 @@ Bolero, latin-ballad and latin-alternative, with trova and ranchera at the edges
 \input{gabisson/tres_tazas_de_cafe_frio} % bolero, 2026
 \input{temp/two_storms_in_one_sky} % ranchera, 2026
 \input{wyomee/un_dia} % trova, 2026
+\end{multicols*}
 
 \chapter{Corridos \& Rock en Español}
+\albumcover{covers/generos/corridos-and-rock-en-espanol}
 Rock en español, latin-rock, narcocorridos, a pasodoble and a flamenco rumba.
+\clearpage\begin{multicols*}{4}
 \input{temp/gustavo_cerati_que_no_estas_con_nosotros} % rock-en-espanol, 2014
 \input{wyomee/corona_de_alambre} % narcocorrido, 2024
 \input{gabisson/cuando_despega_la_tormenta} % rock-en-espanol, 2024
@@ -298,12 +348,15 @@ Rock en español, latin-rock, narcocorridos, a pasodoble and a flamenco rumba.
 \input{temp/memoria_de_humo} % rock-en-espanol, 2026
 \input{gabisson/tambor_de_sombra} % latin-rock, 2026
 \input{temp/ventana_de_noviembre} % rock-en-espanol, 2026
+\end{multicols*}
 
 \part{World Music}
 World music and everything else: classical, orchestral, Gregorian chant, and non-Anglo national traditions.
 
 \chapter{The Orchestral \& Anthem Wing}
+\albumcover{covers/generos/the-orchestral-and-anthem-wing}
 Full orchestra, opera, marches and the Kingdom of Columbia anthems.
+\clearpage\begin{multicols*}{4}
 \input{temp/aconteceres} % orchestral, 2010
 \input{chlewey/ugenito_a_travelers_gotterdaemmerung} % orchestral, 2015
 \input{wyomee/columbias_standard} % orchestral, 2026
@@ -319,9 +372,12 @@ Full orchestra, opera, marches and the Kingdom of Columbia anthems.
 \input{wyomee/seven_bright_banners} % symphonic-ska, 2026
 \input{wyomee/sunlit_gem_music} % orchestral, 2026
 \input{temp/the_great_gatsby} % orchestral, 2026
+\end{multicols*}
 
 \chapter{Chant \& Bardcore}
+\albumcover{covers/generos/chant-and-bardcore}
 Gregorian chant and bardcore — the Sodom-and-hospitality cycle and other sacred-medieval pieces.
+\clearpage\begin{multicols*}{4}
 \input{temp/the_laws_of_hospitality} % bardcore, 2023
 \input{temp/the_laws_of_the_stranger} % bardcore, 2023
 \input{temp/dead_seas_barren_dreams} % bardcore, 2024
@@ -332,18 +388,24 @@ Gregorian chant and bardcore — the Sodom-and-hospitality cycle and other sacre
 \input{wyomee/black_stone_map} % bardcore, 2026
 \input{chlewey/matena_signo} % gregorian-chant, 2026
 \input{temp/stellae_ex_pulvere} % gregorian-chant, 2026
+\end{multicols*}
 
 \chapter{Sylvia’s Italian Diary}
+\albumcover{covers/generos/sylvias-italian-diary}
 The Italian-language pop and folk-pop of Sylvia Lai’s diary.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/casa_non_e} % italian-pop, 2024
 \input{wyomee/choosing_here} % italian-pop, 2024
 \input{wyomee/peccato_daprile} % italian-folk-pop, 2024
 \input{wyomee/qualcosa_di_vero} % italian-pop, 2024
 \input{wyomee/resto_qui} % italian-pop, 2024
 \input{wyomee/sa_fiamma} % italian-folk-pop, 2024
+\end{multicols*}
 
 \chapter{European Threads — French \& Nordic}
+\albumcover{covers/generos/european-threads-french-and-nordic}
 Chanson française, cool cymru, scandi-pop and Swedish folk.
+\clearpage\begin{multicols*}{4}
 \input{wyomee/swedish_pages} % scandi-pop, 2023
 \input{chlewey/beside_the_storm} % cool-cymru, 2026
 \input{rataflechera/diana_porte_sa_propre_gravite} % chanson-francaise, 2026
@@ -352,9 +414,12 @@ Chanson française, cool cymru, scandi-pop and Swedish folk.
 \input{gabisson/nyckelharpa_under_asfalt} % swedish-folk, 2026
 \input{gabisson/tallinn_standing_still} % cool-cymru, 2026
 \input{temp/valise_sur_le_tarmac} % chanson-francaise, 2026
+\end{multicols*}
 
 \chapter{Global Voices — MENA, Asia \& Africa}
+\albumcover{covers/generos/global-voices-mena-asia-and-africa}
 Moroccan, Arabic, Persian and Kurdish pop, taarab, raï, gnawa, bhangra, griot ballad, afrobeat, J- and anime-pop, and Congolese rumba.
+\clearpage\begin{multicols*}{4}
 \input{gabisson/adriana_tal_vez} % bhangra-hip-hop, 1990
 \input{temp/awkrustica} % j-pop, 2010
 \input{temp/moon_in_the_frame} % rai, 2023
@@ -371,9 +436,12 @@ Moroccan, Arabic, Persian and Kurdish pop, taarab, raï, gnawa, bhangra, griot b
 \input{rataflechera/whiteboard_queen} % kurdish-folk, 2026
 \input{rataflechera/zahra_in_white} % persian-pop, 2026
 \input{rataflechera/meet_me_at_punta_espada} % persian-pop, 2026
+\end{multicols*}
 
 \chapter{Chiptune, Ambient \& the Weird Edges}
+\albumcover{covers/generos/chiptune-ambient-and-the-weird-edges}
 Chiptune, ambient, experimental, medieval- and dark-folk, sea shanties and cinematic fantasy.
+\clearpage\begin{multicols*}{4}
 \input{chlewey/espectador_de_mi_vida} % chiptune, 0000
 \input{wyomee/miladi_in_the_dark} % medieval-folk, 1992
 \input{gabisson/mobisarna} % dark-folk, 1992
@@ -390,8 +458,8 @@ Chiptune, ambient, experimental, medieval- and dark-folk, sea shanties and cinem
 \input{gabisson/cyan_eyes_in_moss_bioluminescent_vigil} % dark-cinematic-fantasy, 2026
 \input{temp/postcapitalist_lonely} % experimental, 2026
 \input{chlewey/trackb} % chiptune, 2026
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

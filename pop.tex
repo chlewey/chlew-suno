@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
 
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -13,20 +15,20 @@
 {\Huge\bfseries Thompson’s Pop Songbook\par}
 \vspace*{\fill}
 \end{titlingpage}
-\renewcommand\chaptername{Album~}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
+\renewcommand\chaptername{Album~}
 
 \part{Thomas’ Entourage}
 Pop from the \emph{Thomas’ Entourage} universe: urban character portraits, the Rotterdam-flight romance, and the specialists structuring the Punta Espada megaproject.
 
 \chapter{Orbits of New York and London}
+\albumcover{covers/pop/orbits-of-ny-and-london}
 Sophisticated contemporary urban portraits — R\&B, pop and club alt-pop — centred on Claire, Fiona, Victoria and Mariain.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/aurora_on_the_sofa} % sophisti-pop, 2023
 \input{wyomee/delicate_swan} % singer-songwriter, 2026
 \input{wyomee/more_honestly_than_hearts} % r-and-b, 2024
@@ -43,10 +45,12 @@ Sophisticated contemporary urban portraits — R\&B, pop and club alt-pop — ce
 \input{rataflechera/tracing_the_ink} % lo-fi-hip-hop, 2026
 \input{rataflechera/vickys_impossible_chart} % sunshine-pop, 2026
 \input{wyomee/delicate_swan_1} % r-and-b, 2026
+\end{multicols*}
 
 \chapter{Continental Blueprints \& Sardinian Winds}
+\albumcover{covers/pop/continental-blueprints-and-sardinian-winds}
 Global portraits and European folk-pop threaded with the tensions of territorial design: Sylvia, Erika, Natalia, Diana and Liis.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/the_motion_and_the_spark} % dream-pop, 2024
 \input{rataflechera/diana_carries_her_own_gravity} % r-and-b, 2026
 \input{temp/diana_moves_cleanly} % dream-pop, 2026
@@ -67,10 +71,12 @@ Global portraits and European folk-pop threaded with the tensions of territorial
 \input{chlewey/luciafestens_dugg} % vispop, 2026
 \input{rataflechera/unopened_door} % dream-pop, 2026
 \input{temp/the_weight_of_gravity} % dream-pop, 2026
+\end{multicols*}
 
 \chapter{The Rotterdam Leg \& Polyamorous Seams}
+\albumcover{covers/pop/the-rotterdam-leg-and-polyamorous-seams}
 The private-jet meeting and the slow undoing of monogamous limits between Gabi, Mariain, Claire and Thomas.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/reasonable_attribution} % industrial-r-and-b, 2026
 \input{temp/tallinn_window} % industrial-hip-hop, 2026
 \input{chlewey/best_friends_until_the_word_changed_shape} % r-and-b, 2026
@@ -79,10 +85,12 @@ The private-jet meeting and the slow undoing of monogamous limits between Gabi, 
 \input{temp/right_here} % dream-pop, 2026
 \input{gabisson/room_for_her} % r-and-b, 2024
 \input{temp/after_the_lights} % r-and-b, 2025
+\end{multicols*}
 
 \chapter{The Architecture of Systems \& Lines}
+\albumcover{covers/pop/the-architecture-of-systems-and-lines}
 The technical women who structure, defend and normalise the Punta Espada megaproject — Natalia, Erika, Pilar, Susana and Vicky.
-
+\clearpage\begin{multicols*}{4}
 \input{wyomee/natalia} % power-ballad, 2023
 \input{gabisson/sharp_and_sweet} % k-pop, 2026
 \input{gabisson/line_in_gold} % k-pop, 2026
@@ -92,13 +100,15 @@ The technical women who structure, defend and normalise the Punta Espada megapro
 \input{gabisson/australian_daughter_colombian_name} % cosmopolitan-pop, 2024
 \input{temp/the_women_he_chose} % pop-ballad, 2026
 \input{dvigitt/a_long_way_round_the_world} % ska, 2026
+\end{multicols*}
 
 \part{Ricochets}
 Pop and power ballads for Carlos Thompson’s novel \emph{Ricochets}.
 
 \chapter{The Extradition Beats (Ricochets)}
+\albumcover{covers/pop/the-extradition-beats}
 Pop and power ballads across the \emph{Ricochets} extradition plot and its crossed lives.
-
+\clearpage\begin{multicols*}{4}
 \input{dvigitt/heart_to_heart} % power-ballad, 2023
 \input{dvigitt/smoke_and_steel} % power-ballad, 2023
 \input{rataflechera/andrea_in_the_doorway} % power-ballad, 2024
@@ -110,13 +120,15 @@ Pop and power ballads across the \emph{Ricochets} extradition plot and its cross
 \input{temp/memoire_en_miettes} % pop-rap, 2026
 \input{rataflechera/steady_hands} % sophisti-pop, 2026
 \input{chlewey/swim_pool_submit} % hip-hop, 2026
+\end{multicols*}
 
 \part{Other narrative}
 The \emph{Encounters} arc, many-language end-of-summer postcards, gothic portraits and speculative-fiction pieces.
 
 \chapter{Digital Union (The Encounters Arc)}
+\albumcover{covers/pop/digital-union-encounters-arc}
 The \emph{Encounters} vignette series — five pairs who meet on the network and then in person.
-
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/cafe_glance} % pop-ballad, 2023
 \input{rataflechera/strangers_in_the_light} % pop-ballad, 2023
 \input{gabisson/ginger_on_the_bench} % pop-ballad, 2023
@@ -130,10 +142,12 @@ The \emph{Encounters} vignette series — five pairs who meet on the network and
 \input{wyomee/food_truck_line} % indie-pop, 2023
 \input{gabisson/early_desire} % r-and-b, 2026
 \input{gabisson/hallway_portraits} % indie-pop, 2026
+\end{multicols*}
 
 \chapter{El Final del Verano y Otras Postales}
+\albumcover{covers/pop/el-final-del-verano-y-otras-postales}
 Analog nostalgia and the turn of the seasons: travelling ballads and the many-language versions of \emph{El final del verano}.
-
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/svarta_ogonglasbell} % pop-ballad, 1991
 \input{temp/amber_on_the_cliff} % chamber-pop, 2026
 \input{chlewey/blue_wall_grace} % alt-pop, 2026
@@ -151,10 +165,12 @@ Analog nostalgia and the turn of the seasons: travelling ballads and the many-la
 \input{chlewey/zelma_in_the_mist} % indie-pop, 2026
 \input{rataflechera/terracotta_view_golden_midglance} % indie-pop, 2026
 \input{rataflechera/golden_hour_terrace_portrait_in_light} % indie-pop, 2026
+\end{multicols*}
 
 \chapter{Retratos Góticos y Sombra Doméstica}
+\albumcover{covers/pop/retratos-goticos-y-sombra-domestica}
 Portraits of enigmatic figures, fantastical beings and AI archetypes, set against the warmth of home.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/halfhearted_bun} % hip-hop, 0000
 \input{wyomee/almost_enough} % pop-ballad, 1992
 \input{wyomee/ghost_cheek_kiss} % sophisti-pop, 2025
@@ -169,20 +185,24 @@ Portraits of enigmatic figures, fantastical beings and AI archetypes, set agains
 \input{temp/amber_eyes_six_faces} % gothic-ballad, 2026
 \input{temp/ute_dar_vinden_vander} % gothic-ballad, 2026
 \input{temp/step_in_coat} % pop, 2026
+\end{multicols*}
 
 \chapter{Bachees \& Speculative Worlds}
+\albumcover{covers/pop/bachees-and-speculative-worlds}
 Pure science fiction: alien biology on gas giants and encounters with fantastical creatures.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/bachees_of_the_deep} % symphonic-ballad, 2022
 \input{temp/drift_between_floaters} % symphonic-ballad, 2022
 \input{wyomee/mark_of_87} % epic-pop, 2026
+\end{multicols*}
 
 \part{Essays}
 Authenticity, the fight against conformity, mental health and the author’s youth poems over electronic pop beats.
 
 \chapter{Sistemas, Sátira y Creencias Colectivas}
+\albumcover{covers/pop/sistemas-satira-y-creencias-colectivas}
 Authenticity, conformity, mental health and the author’s youth poems, carried on electronic pop beats.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/bogota_backbone} % ska, 2000
 \input{chlewey/todos_al_mismo_lado} % indie-pop, 2020
 \input{temp/draw_the_tree} % k-pop, 2022
@@ -197,33 +217,39 @@ Authenticity, conformity, mental health and the author’s youth poems, carried 
 \input{gabisson/stop_or_elipsis} % indie-pop, 2026
 \input{temp/tiempo_real} % corporate-music, 2026
 \input{temp/water_made_us} % trap, 2026
+\end{multicols*}
 
 \part{Lyrical}
 The grinder loop and ADHD chaos, 1990s diary adaptations, and late-night confessions of quiet desire.
 
 \chapter{The Grinder Loop \& ADHD Chaos}
+\albumcover{covers/pop/the-grinder-loop-and-adhd-chaos}
 Executive paralysis, mental overstimulation, type-1 autism and the feeling of being a machine with broken gears.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/broken_tool} % hip-hop, 2026
 \input{temp/grinder_glass} % art-pop, 2026
 \input{temp/paper_in_my_teeth} % bedroom-pop, 2026
 \input{temp/paper_in_my_hands} % hip-hop, 2026
 \input{temp/temblando_1} % trap, 2010
 \input{temp/cornered_by_systems} % r-and-b, 2026
+\end{multicols*}
 
 \chapter{The 1990s Diaries \& Early Sparks}
+\albumcover{covers/pop/the-1990s-diaries-and-early-sparks}
 Adaptations of the author’s youth poems and diaries (1990–1996) and a few origin stories.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/si_pienso_en_ti} % indie-pop, 1990
 \input{chlewey/cuarto_de_peluches} % hip-hop, 1992
 \input{temp/la_barrera} % hip-hop, 1992
 \input{wyomee/vaina_que_crece} % art-pop, 1992
 \input{temp/efecto_locker} % hip-hop, 1996
 \input{temp/ackrostica} % k-pop, 2010
+\end{multicols*}
 
 \chapter{Introspection \& Late-Night Confessions}
+\albumcover{covers/pop/introspection-and-late-night-confessions}
 Grown-up confessions about silent desire, the search for kindred souls, loneliness and a bystander’s shyness.
-
+\clearpage\begin{multicols*}{4}
 \input{rataflechera/a_someone_or_a_someone} % pop-ballad, 2023
 \input{temp/for_that_moment} % r-and-b, 2023
 \input{chlewey/quiet_signal} % r-and-b, 2023
@@ -231,16 +257,18 @@ Grown-up confessions about silent desire, the search for kindred souls, loneline
 \input{temp/entre_cajas_y_llamadas} % dream-pop, 2026
 \input{temp/sex_without_compromise} % r-and-b, 2026
 \input{temp/a_la_distancia} % chamber-pop, 2026
+\end{multicols*}
 
 \chapter{Other Lyrical}
+\albumcover{covers/pop/other-lyrical}
 Loose personal pieces that don’t settle with the other albums.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/beachside_boogie} % funk, 2026
 \input{wyomee/behind_the_smile} % r-and-b, 2026
 \input{temp/o_ku_pater_de_nos} % chamber-pop, 2026
 \input{temp/stone_light_portrait} % indie-pop, 2026
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage

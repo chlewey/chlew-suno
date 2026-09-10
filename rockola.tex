@@ -3,9 +3,11 @@
 \usepackage{chlewrics}
 \usepackage{multicol}
 \setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
 
 \begin{document}
 \frontmatter
+\chapterstyle{bianchi}
 
 \begin{titlingpage}
 \centering
@@ -13,20 +15,20 @@
 {\Huge\bfseries Thompson’s Rock Songbook\par}
 \vspace*{\fill}
 \end{titlingpage}
-\renewcommand\chaptername{Album~}
 
-\begin{multicols*}{2}
+\clearpage\begin{multicols*}{2}
 \tableofcontents*
 \end{multicols*}
 \mainmatter
-\begin{multicols*}{4}
+\renewcommand\chaptername{Album~}
 
 \part{Thomas’ Entourage}
 Rock from the \emph{Thomas’ Entourage} universe: the Rotterdam-flight genesis, Fiona’s acoustic-punk New York, and the Punta Espada logistics crew.
 
 \chapter{The Rotterdam Leg \& Cabin Monologues}
+\albumcover{covers/rockola/the-rotterdam-leg-and-cabin-monologues}
 Mid-tempo industrial rock, grunge and alt-rock on the genesis of the meeting with Gabi and Thomas dismantling his own limits.
-
+\clearpage\begin{multicols*}{4}
 \input{gabisson/full_semester_data} % alt-rock, 2026
 \input{gabisson/airport_hotel_bar} % alt-rock, 2026
 \input{gabisson/two_separate_rooms} % alt-rock, 2026
@@ -36,10 +38,12 @@ Mid-tempo industrial rock, grunge and alt-rock on the genesis of the meeting wit
 \input{chlewey/last_kiss_at_potsdam_1} % rap-rock, 2026
 \input{gabisson/vor_barcelona_deutsch} % industrial-rock, 2024
 \input{gabisson/vor_barcelona_english} % industrial-rock, 2024
+\end{multicols*}
 
 \chapter{New York Nights \& Fort Lee Diaries}
+\albumcover{covers/rockola/new-york-nights-and-fort-lee-diaries}
 The violin-and-handclap acoustic-punk Fiona Levit uses to narrate complicity, quick dinners and Manhattan club nights.
-
+\clearpage\begin{multicols*}{4}
 \input{gabisson/carroll_gardens} % indie-rock, 2024
 \input{temp/carry_on_reset} % acoustic-punk, 2026
 \input{temp/jersey_summers} % acoustic-punk, 2026
@@ -49,10 +53,12 @@ The violin-and-handclap acoustic-punk Fiona Levit uses to narrate complicity, qu
 \input{gabisson/east_side_table} % acoustic-punk, 2026
 \input{gabisson/ross_dock_lunch} % acoustic-punk, 2026
 \input{gabisson/hells_kitchen_dress} % acoustic-punk, 2026
+\end{multicols*}
 
 \chapter{Operatic Portals \& Baltic Anthems}
+\albumcover{covers/rockola/operatic-portals-and-baltic-anthems}
 Dramatic portraits in symphonic metal and theatrical rock, where northern-European and Mediterranean women take the stage with grand choruses, kannel and soprano lines.
-
+\clearpage\begin{multicols*}{4}
 \input{dvigitt/grace_in_the_gale} % symphonic-metal, 2023
 \input{chlewey/that_night} % melodic-rock, 2026
 \input{temp/liis_sepp_raising} % symphonic-rock, 2026
@@ -65,10 +71,12 @@ Dramatic portraits in symphonic metal and theatrical rock, where northern-Europe
 \input{rataflechera/mellan_is_och_haard_betong} % glam-metal, 2026
 \input{rataflechera/loves_final_name} % glam-metal, 2026
 \input{gabisson/vor_barcelona} % industrial-rock, 2024
+\end{multicols*}
 
 \chapter{Pilots, Routes \& Foundations}
+\albumcover{covers/rockola/pilots-routes-and-foundations}
 Road rock, punk and new wave about the continental journeys, the logistics and the head of security.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/london_to_punta} % new-wave, 2024
 \input{gabisson/minutes_home} % punk-rock, 2024
 \input{dvigitt/the_woman_from_the_storm} % operatic-rock, 2026
@@ -78,13 +86,15 @@ Road rock, punk and new wave about the continental journeys, the logistics and t
 \input{temp/double_register} % grunge, 2026
 \input{temp/ciudad_punta_espada} % chamber-rock, 2026
 \input{chlewey/go} % pop-rock, 2026
+\end{multicols*}
 
 \part{Ricochets}
 The rock score for Carlos Thompson’s novel \emph{Ricochets}.
 
 \chapter{The Colombian Trap (Ricochets)}
+\albumcover{covers/rockola/the-colombian-trap}
 The full extradition-and-crossed-lives thriller as a cohesive 2000s noir-rock album.
-
+\clearpage\begin{multicols*}{4}
 \input{dvigitt/rosario_house} % rock-ballad, 2023
 \input{wyomee/destinies_overlap} % alt-rock, 2024
 \input{rataflechera/berent_steel_opas_shadow} % glam-metal, 2026
@@ -92,13 +102,15 @@ The full extradition-and-crossed-lives thriller as a cohesive 2000s noir-rock al
 \input{temp/interflota_caera} % pop-rock, 2026
 \input{rataflechera/ricochets_hangover} % nu-metal, 2026
 \input{chlewey/the_steady_hand} % punk-rock, 2026
+\end{multicols*}
 
 \part{Other narrative}
 The \emph{Encounters} connections at heavier weight, plus dark narrative pieces and gothic fables.
 
 \chapter{Encounter Icons \& Heavy Chemistry}
+\albumcover{covers/rockola/encounter-icons-and-heavy-chemistry}
 Heavy-attitude and glam rock about connections that drop from the network to hotel rooms and physical tension.
-
+\clearpage\begin{multicols*}{4}
 \input{chlewey/ice_cream_friday} % glam-metal, 2023
 \input{chlewey/passengerside_switch} % pop-rock, 2025
 \input{temp/brass_eyed_siren} % industrial-punk, 2026
@@ -106,10 +118,12 @@ Heavy-attitude and glam rock about connections that drop from the network to hot
 \input{temp/wild_cat} % industrial-rock, 2026
 \input{temp/watching_from_a_distance} % alt-rock, 2026
 \input{temp/era_el_final_del_verano} % pop-rock, 2026
+\end{multicols*}
 
 \chapter{Shadows \& Goth-Metal Fables}
+\albumcover{covers/rockola/shadows-and-goth-metal-fables}
 Dark narrative pieces, post-rock experiments and gothic ballads drawn from the author’s old diaries.
-
+\clearpage\begin{multicols*}{4}
 \input{gabisson/evi_sem_yike} % post-rock, 1992
 \input{gabisson/evi_sem_yike_single} % rock, 1992
 \input{rataflechera/gota_a_gota} % goth-metal, 1997
@@ -117,13 +131,15 @@ Dark narrative pieces, post-rock experiments and gothic ballads drawn from the a
 \input{temp/molten_sunlight} % nu-metal, 2026
 \input{temp/tomaruna_kage} % pop-punk, 2026
 \input{chlewey/bluepoint_mischief} % rock, 2026
+\end{multicols*}
 
 \part{Essays}
 Intellectual rock, political post-punk and internet satire.
 
 \chapter{Debates, Satires \& Systems}
+\albumcover{covers/rockola/debates-satires-and-systems}
 Intellectual rock, political post-punk and internet satire, gathered rather than left as a long undifferentiated list.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/cut_me_loose} % nu-metal, 2013
 \input{temp/the_toxic_ghost} % nu-metal, 2013
 \input{temp/el_fin_de_la_historia} % post-punk, 2026
@@ -135,13 +151,15 @@ Intellectual rock, political post-punk and internet satire, gathered rather than
 
 \input{chlewey/buba_kiki_riot} % alt-rock, 2026
 \input{temp/limits_of_the_load} % industrial-rock, 2026
+\end{multicols*}
 
 \part{Lyrical}
 Executive burnout, unspoken love, youthful rage and free instrumentation.
 
 \chapter{ADHD Chaos \& Executive Burnout}
+\albumcover{covers/rockola/adhd-chaos-and-executive-burnout}
 Executive paralysis, the overstimulation of modern life and the exhaustion of holding functional masks, in alt-rock, alt-metal and grunge.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/skalvning} % nu-metal, 2010
 \input{wyomee/monoestable} % alt-rock, 1997
 \input{temp/paper_in_the_grinder} % post-punk, 2026
@@ -156,10 +174,12 @@ Executive paralysis, the overstimulation of modern life and the exhaustion of ho
 \input{temp/buildings_worlds} % pop-rock, 2026
 \input{rataflechera/burn_the_glass} % hard-rock, 2026
 \input{temp/the_wrong_map} % classic-rock, 2026
+\end{multicols*}
 
 \chapter{Confessions \& Small Defeats}
+\albumcover{covers/rockola/confessions-and-small-defeats}
 Unspoken love, rage at a wounded youthful love, domestic neurodivergence and free instrumentation.
-
+\clearpage\begin{multicols*}{4}
 \input{chlewey/je_hais} % hard-rock, 1988
 \input{chlewey/je_hais_1} % hard-rock, 1988
 \input{chlewey/la_haine_que_je_te_dois} % pop-rock, 1988
@@ -173,15 +193,17 @@ Unspoken love, rage at a wounded youthful love, domestic neurodivergence and fre
 \input{temp/a_mind_that_craves_novelty} % electropunk, 2026
 \input{temp/the_last_waltz_of_the_northern} % symphonic-rock, 2026
 \input{temp/migrant_echoes} % industrial-rock, 2026
+\end{multicols*}
 
 \chapter{Playful Escapes \& Candy Rock Parades}
+\albumcover{covers/rockola/playful-escapes-and-candy-rock-parades}
 Bright, childlike candy-rock — a short, deliberate palate-cleanser.
-
+\clearpage\begin{multicols*}{4}
 \input{temp/candy_rock_day} % candy-rock, 2026
 \input{temp/rainbow_candy_parade} % candy-rock, 2026
 \input{temp/peter_city_walk} % children-rock, 2026
-
 \end{multicols*}
+
 \backmatter
 \printindex[songs]
 \clearpage
