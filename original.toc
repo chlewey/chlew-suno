@@ -52,12 +52,15 @@
 \contentsline {section}{Wingman}{53}{}%
 \contentsline {section}{Tiempo Real}{54}{}%
 \contentsline {section}{History Witnessed Live}{55}{}%
-\contentsline {chapter}{\chapternumberline {5}Experimental}{57}{}%
-\contentsline {section}{Colombia, Tu Papá}{58}{}%
-\contentsline {section}{Co Co Co Co}{59}{}%
-\contentsline {section}{Kapu Lema}{60}{}%
-\contentsline {section}{Badiba Buka}{61}{}%
-\contentsline {section}{dij Schdzjarvk}{62}{}%
-\contentsline {section}{dij Schdzjarvk}{63}{}%
-\contentsline {section}{Parará Pa Pa}{64}{}%
-\contentsline {section}{O ku pater de nos}{65}{}%
+\contentsline {section}{Mundos internos}{56}{}%
+\contentsline {section}{A Coffee Not Shared}{57}{}%
+\contentsline {chapter}{\chapternumberline {5}Experimental}{59}{}%
+\contentsline {section}{Colombia, Tu Papá}{60}{}%
+\contentsline {section}{Co Co Co Co}{61}{}%
+\contentsline {section}{Kapu Lema}{62}{}%
+\contentsline {section}{Badiba Buka}{63}{}%
+\contentsline {section}{dij Schdzjarvk}{64}{}%
+\contentsline {section}{dij Schdzjarvk}{65}{}%
+\contentsline {section}{Parará Pa Pa}{66}{}%
+\contentsline {section}{O ku pater de nos}{67}{}%
+\contentsline {section}{Cheese Spoon Paseo}{68}{}%

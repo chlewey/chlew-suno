@@ -58,44 +58,45 @@
 \contentsline {section}{Australian Daughter, Colombian Name}{65}{}%
 \contentsline {section}{The Women He Chose}{67}{}%
 \contentsline {section}{A Long Way Round the World}{68}{}%
-\contentsline {part}{\partnumberline {II}Ricochets}{69}{}%
-\contentsline {chapter}{\chapternumberline {5}The Extradition Beats (Ricochets)}{73}{}%
-\contentsline {section}{Heart to Heart}{74}{}%
-\contentsline {section}{Smoke and Steel}{75}{}%
-\contentsline {section}{Andrea in the Doorway}{76}{}%
-\contentsline {section}{Miguel, Corazón Sereno}{78}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{79}{}%
-\contentsline {section}{Cada uno en su lugar}{80}{}%
-\contentsline {section}{Henry Little}{81}{}%
-\contentsline {section}{Khamid Khaled}{82}{}%
-\contentsline {section}{Mémoire En miettes}{83}{}%
-\contentsline {section}{Steady Hands}{84}{}%
-\contentsline {section}{Swim Pool Submit}{85}{}%
-\contentsline {part}{\partnumberline {III}Other narrative}{87}{}%
-\contentsline {chapter}{\chapternumberline {6}Digital Union (The Encounters Arc)}{91}{}%
-\contentsline {section}{Café Glance}{92}{}%
-\contentsline {section}{Strangers in the Light}{93}{}%
-\contentsline {section}{Ginger on the Bench}{94}{}%
-\contentsline {section}{Park Bench Spark}{95}{}%
-\contentsline {section}{Guiltless Flame}{96}{}%
-\contentsline {section}{Tangerine \& Olive}{97}{}%
-\contentsline {section}{Hotel Afterglow}{98}{}%
-\contentsline {section}{Food Truck Spark}{99}{}%
-\contentsline {section}{Stolen Office Flame}{100}{}%
-\contentsline {section}{Cancelled Plans}{101}{}%
-\contentsline {section}{Food Truck Line}{102}{}%
-\contentsline {section}{Early Desire}{103}{}%
-\contentsline {section}{Hallway Portraits}{105}{}%
-\contentsline {chapter}{\chapternumberline {7}El Final del Verano y Otras Postales}{107}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{108}{}%
-\contentsline {section}{Amber on the Cliff}{109}{}%
-\contentsline {section}{Blue Wall Grace}{110}{}%
-\contentsline {section}{El final del verano}{111}{}%
-\contentsline {section}{End of the Summer}{112}{}%
-\contentsline {section}{Era o final do verão}{113}{}%
-\contentsline {section}{La Fin de l'Été}{114}{}%
-\contentsline {section}{Slutet av Sommaren}{115}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{116}{}%
+\contentsline {section}{Beyond the Frame}{69}{}%
+\contentsline {part}{\partnumberline {II}Ricochets}{71}{}%
+\contentsline {chapter}{\chapternumberline {5}The Extradition Beats (Ricochets)}{75}{}%
+\contentsline {section}{Heart to Heart}{76}{}%
+\contentsline {section}{Smoke and Steel}{77}{}%
+\contentsline {section}{Andrea in the Doorway}{78}{}%
+\contentsline {section}{Miguel, Corazón Sereno}{80}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{81}{}%
+\contentsline {section}{Cada uno en su lugar}{82}{}%
+\contentsline {section}{Henry Little}{83}{}%
+\contentsline {section}{Khamid Khaled}{84}{}%
+\contentsline {section}{Mémoire En miettes}{85}{}%
+\contentsline {section}{Steady Hands}{86}{}%
+\contentsline {section}{Swim Pool Submit}{87}{}%
+\contentsline {part}{\partnumberline {III}Other narrative}{89}{}%
+\contentsline {chapter}{\chapternumberline {6}Digital Union (The Encounters Arc)}{93}{}%
+\contentsline {section}{Café Glance}{94}{}%
+\contentsline {section}{Strangers in the Light}{95}{}%
+\contentsline {section}{Ginger on the Bench}{96}{}%
+\contentsline {section}{Park Bench Spark}{97}{}%
+\contentsline {section}{Guiltless Flame}{98}{}%
+\contentsline {section}{Tangerine \& Olive}{99}{}%
+\contentsline {section}{Hotel Afterglow}{100}{}%
+\contentsline {section}{Food Truck Spark}{101}{}%
+\contentsline {section}{Stolen Office Flame}{102}{}%
+\contentsline {section}{Cancelled Plans}{103}{}%
+\contentsline {section}{Food Truck Line}{104}{}%
+\contentsline {section}{Early Desire}{105}{}%
+\contentsline {section}{Hallway Portraits}{107}{}%
+\contentsline {chapter}{\chapternumberline {7}El Final del Verano y Otras Postales}{109}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{110}{}%
+\contentsline {section}{Amber on the Cliff}{111}{}%
+\contentsline {section}{Blue Wall Grace}{112}{}%
+\contentsline {section}{El final del verano}{113}{}%
+\contentsline {section}{End of the Summer}{114}{}%
+\contentsline {section}{Era o final do verão}{115}{}%
+\contentsline {section}{La Fin de l'Été}{116}{}%
+\contentsline {section}{Slutet av Sommaren}{117}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{118}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -116,7 +117,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{117}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{119}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -137,73 +138,73 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Green Water Memory}{118}{}%
-\contentsline {section}{Moonstone Veil}{119}{}%
-\contentsline {section}{Paper Cup Kisses}{120}{}%
-\contentsline {section}{Teal Tips On The Bed}{121}{}%
-\contentsline {section}{Zelma in the Mist}{122}{}%
-\contentsline {section}{Terracotta View (Golden Mid-Glance)}{123}{}%
-\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{124}{}%
-\contentsline {chapter}{\chapternumberline {8}Retratos Góticos y Sombra Doméstica}{125}{}%
-\contentsline {section}{Half-Hearted Bun}{126}{}%
-\contentsline {section}{Almost Enough}{127}{}%
-\contentsline {section}{Ghost Cheek Kiss}{128}{}%
-\contentsline {section}{Benches Cabins Diamonds}{129}{}%
-\contentsline {section}{Copper-Fire Crown}{130}{}%
-\contentsline {section}{Forever Window Seat}{131}{}%
-\contentsline {section}{Obsidian Gaze}{132}{}%
-\contentsline {section}{Parapet of Ash}{133}{}%
-\contentsline {section}{Pío}{134}{}%
-\contentsline {section}{Seven Archetypes}{135}{}%
-\contentsline {section}{Tabby Parade}{136}{}%
-\contentsline {section}{Amber Eyes, Six Faces}{137}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{138}{}%
-\contentsline {section}{Step In Coat}{139}{}%
-\contentsline {chapter}{\chapternumberline {9}Bachees \& Speculative Worlds}{141}{}%
-\contentsline {section}{Bachees of the Deep}{142}{}%
-\contentsline {section}{Drift Between Floaters}{143}{}%
-\contentsline {section}{Mark of 87}{144}{}%
-\contentsline {part}{\partnumberline {IV}Essays}{145}{}%
-\contentsline {chapter}{\chapternumberline {10}Sistemas, Sátira y Creencias Colectivas}{149}{}%
-\contentsline {section}{Bogotá Backbone}{150}{}%
-\contentsline {section}{Todos al mismo lado}{151}{}%
-\contentsline {section}{Draw The Tree}{152}{}%
-\contentsline {section}{Del establecimiento}{153}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{154}{}%
-\contentsline {section}{dij Schdzjarvk}{155}{}%
-\contentsline {section}{From the Fields to the Flood}{156}{}%
-\contentsline {section}{Frost in Gold}{157}{}%
-\contentsline {section}{Morality Ain’t Imposed}{158}{}%
-\contentsline {section}{Red and Yellow}{159}{}%
-\contentsline {section}{Signed by Don Addis}{160}{}%
-\contentsline {section}{Stop\_or\_Ellipsis}{161}{}%
-\contentsline {section}{Tiempo Real}{162}{}%
-\contentsline {section}{Water Made Us}{163}{}%
-\contentsline {part}{\partnumberline {V}Lyrical}{165}{}%
-\contentsline {chapter}{\chapternumberline {11}The Grinder Loop \& ADHD Chaos}{169}{}%
-\contentsline {section}{Broken Tool}{170}{}%
-\contentsline {section}{Grinder Glass}{171}{}%
-\contentsline {section}{Paper In My Teeth}{172}{}%
-\contentsline {section}{Paper In My Hands}{173}{}%
-\contentsline {section}{Temblando}{174}{}%
-\contentsline {section}{Cornered By Systems}{175}{}%
-\contentsline {chapter}{\chapternumberline {12}The 1990s Diaries \& Early Sparks}{177}{}%
-\contentsline {section}{Si pienso en ti}{178}{}%
-\contentsline {section}{Cuarto de Peluches}{179}{}%
-\contentsline {section}{La Barrera}{180}{}%
-\contentsline {section}{Vaina que crece}{181}{}%
-\contentsline {section}{Efecto Locker}{182}{}%
-\contentsline {section}{Ack-Rostica}{184}{}%
-\contentsline {chapter}{\chapternumberline {13}Introspection \& Late-Night Confessions}{185}{}%
-\contentsline {section}{A Someone or a Someone}{186}{}%
-\contentsline {section}{For That Moment}{187}{}%
-\contentsline {section}{Quiet Signal}{188}{}%
-\contentsline {section}{The Secret Fires}{189}{}%
-\contentsline {section}{Entre cajas y llamadas}{190}{}%
-\contentsline {section}{Sex Without Compromise}{191}{}%
-\contentsline {section}{A la distancia}{192}{}%
-\contentsline {chapter}{\chapternumberline {14}Other Lyrical}{193}{}%
-\contentsline {section}{Beachside Boogie}{194}{}%
-\contentsline {section}{Behind the Smile}{195}{}%
-\contentsline {section}{O ku pater de nos}{196}{}%
-\contentsline {section}{Stone Light Portrait}{197}{}%
+\contentsline {section}{Green Water Memory}{120}{}%
+\contentsline {section}{Moonstone Veil}{121}{}%
+\contentsline {section}{Paper Cup Kisses}{122}{}%
+\contentsline {section}{Teal Tips On The Bed}{123}{}%
+\contentsline {section}{Zelma in the Mist}{124}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{125}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{126}{}%
+\contentsline {chapter}{\chapternumberline {8}Retratos Góticos y Sombra Doméstica}{127}{}%
+\contentsline {section}{Half-Hearted Bun}{128}{}%
+\contentsline {section}{Almost Enough}{129}{}%
+\contentsline {section}{Ghost Cheek Kiss}{130}{}%
+\contentsline {section}{Benches Cabins Diamonds}{131}{}%
+\contentsline {section}{Copper-Fire Crown}{132}{}%
+\contentsline {section}{Forever Window Seat}{133}{}%
+\contentsline {section}{Obsidian Gaze}{134}{}%
+\contentsline {section}{Parapet of Ash}{135}{}%
+\contentsline {section}{Pío}{136}{}%
+\contentsline {section}{Seven Archetypes}{137}{}%
+\contentsline {section}{Tabby Parade}{138}{}%
+\contentsline {section}{Amber Eyes, Six Faces}{139}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{140}{}%
+\contentsline {section}{Step In Coat}{141}{}%
+\contentsline {chapter}{\chapternumberline {9}Bachees \& Speculative Worlds}{143}{}%
+\contentsline {section}{Bachees of the Deep}{144}{}%
+\contentsline {section}{Drift Between Floaters}{145}{}%
+\contentsline {section}{Mark of 87}{146}{}%
+\contentsline {part}{\partnumberline {IV}Essays}{147}{}%
+\contentsline {chapter}{\chapternumberline {10}Sistemas, Sátira y Creencias Colectivas}{151}{}%
+\contentsline {section}{Bogotá Backbone}{152}{}%
+\contentsline {section}{Todos al mismo lado}{153}{}%
+\contentsline {section}{Draw The Tree}{154}{}%
+\contentsline {section}{Del establecimiento}{155}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{156}{}%
+\contentsline {section}{dij Schdzjarvk}{157}{}%
+\contentsline {section}{From the Fields to the Flood}{158}{}%
+\contentsline {section}{Frost in Gold}{159}{}%
+\contentsline {section}{Morality Ain’t Imposed}{160}{}%
+\contentsline {section}{Red and Yellow}{161}{}%
+\contentsline {section}{Signed by Don Addis}{162}{}%
+\contentsline {section}{Stop\_or\_Ellipsis}{163}{}%
+\contentsline {section}{Tiempo Real}{164}{}%
+\contentsline {section}{Water Made Us}{165}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{167}{}%
+\contentsline {chapter}{\chapternumberline {11}The Grinder Loop \& ADHD Chaos}{171}{}%
+\contentsline {section}{Broken Tool}{172}{}%
+\contentsline {section}{Grinder Glass}{173}{}%
+\contentsline {section}{Paper In My Teeth}{174}{}%
+\contentsline {section}{Paper In My Hands}{175}{}%
+\contentsline {section}{Temblando}{176}{}%
+\contentsline {section}{Cornered By Systems}{177}{}%
+\contentsline {chapter}{\chapternumberline {12}The 1990s Diaries \& Early Sparks}{179}{}%
+\contentsline {section}{Si pienso en ti}{180}{}%
+\contentsline {section}{Cuarto de Peluches}{181}{}%
+\contentsline {section}{La Barrera}{182}{}%
+\contentsline {section}{Vaina que crece}{183}{}%
+\contentsline {section}{Efecto Locker}{184}{}%
+\contentsline {section}{Ack-Rostica}{186}{}%
+\contentsline {chapter}{\chapternumberline {13}Introspection \& Late-Night Confessions}{187}{}%
+\contentsline {section}{A Someone or a Someone}{188}{}%
+\contentsline {section}{For That Moment}{189}{}%
+\contentsline {section}{Quiet Signal}{190}{}%
+\contentsline {section}{The Secret Fires}{191}{}%
+\contentsline {section}{Entre cajas y llamadas}{192}{}%
+\contentsline {section}{Sex Without Compromise}{193}{}%
+\contentsline {section}{A la distancia}{194}{}%
+\contentsline {chapter}{\chapternumberline {14}Other Lyrical}{195}{}%
+\contentsline {section}{Beachside Boogie}{196}{}%
+\contentsline {section}{Behind the Smile}{197}{}%
+\contentsline {section}{O ku pater de nos}{198}{}%
+\contentsline {section}{Stone Light Portrait}{199}{}%
