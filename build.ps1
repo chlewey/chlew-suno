@@ -51,7 +51,6 @@ if (-not (Get-Command perl -ErrorAction SilentlyContinue)) {
 # job names match the old `%& -job-name=...` lines the sources carry;
 # lualatex does not honor that comment, so it's passed explicitly instead.
 $books = [ordered]@{
-    chlewrics   = @{ Src = 'chlewrics.tex';     Job = 'Chlewrics' }
     electronica = @{ Src = 'electronica.tex';   Job = 'Electronica_lyrics' }
     pop         = @{ Src = 'pop.tex';           Job = 'Pop_lyrics' }
     rockola     = @{ Src = 'rockola.tex';       Job = 'Rockola_lyrics' }
@@ -61,6 +60,7 @@ $books = [ordered]@{
     entourage   = @{ Src = 'entourage-eco.tex'; Job = 'Entourage_Lyrics' }
     ricochets   = @{ Src = 'ricochets.tex';     Job = 'Ricochets_lyrics' }
     original    = @{ Src = 'original.tex';      Job = 'Original_lyrics' }
+    chlewrics   = @{ Src = 'chlewrics.tex';     Job = 'Chlewrics' }
 }
 
 function Build-Book([string]$Name, [hashtable]$Info) {

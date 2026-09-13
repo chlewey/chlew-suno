@@ -47,6 +47,7 @@
 \contentsline {section}{Glass on File}{56}{}%
 \contentsline {section}{Seat 14C}{57}{}%
 \contentsline {section}{Gabi in Focus}{59}{}%
+\contentsline {section}{Mariain, You Arrive Right on}{60}{}%
 \contentsline {chapter}{\chapternumberline {4}Sardinian Winds, Tallinn Shadows \& Polyamory}{61}{}%
 \contentsline {section}{Su peccadu meu}{62}{}%
 \contentsline {section}{Back Seat Proposal}{63}{}%
@@ -138,6 +139,7 @@
 \contentsline {section}{Septiembre}{171}{}%
 \contentsline {section}{Círculo Convexo}{172}{}%
 \contentsline {section}{Vaina en Græville}{173}{}%
+\contentsline {section}{Used to Say}{174}{}%
 \contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Physical Needs (Lyrical Part II)}{175}{}%
 \contentsline {section}{Fantasma de quien no es}{176}{}%
 \contentsline {section}{Vulnerable}{177}{}%

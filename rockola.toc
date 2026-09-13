@@ -107,38 +107,39 @@
 \contentsline {section}{Dead Sea's barren dreams}{121}{}%
 \contentsline {section}{Buba Kiki Riot}{122}{}%
 \contentsline {section}{Limits of the Load}{123}{}%
-\contentsline {part}{\partnumberline {V}Lyrical}{125}{}%
-\contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Executive Burnout}{129}{}%
-\contentsline {section}{Skälvning}{130}{}%
-\contentsline {section}{Monoestable}{131}{}%
-\contentsline {section}{Paper in the Grinder}{132}{}%
-\contentsline {section}{The Loaded Mind}{133}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{134}{}%
-\contentsline {section}{The Wrong Map}{135}{}%
-\contentsline {section}{The Bitter Toll}{137}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{138}{}%
-\contentsline {section}{The Fault in Your Character}{139}{}%
-\contentsline {section}{The Hardest Toll}{141}{}%
-\contentsline {section}{Let Me Finish}{143}{}%
-\contentsline {section}{Buildings Worlds}{144}{}%
-\contentsline {section}{Burn the Glass}{145}{}%
-\contentsline {section}{The Wrong Map}{146}{}%
-\contentsline {chapter}{\chapternumberline {11}Confessions \& Small Defeats}{147}{}%
-\contentsline {section}{Je hais}{148}{}%
-\contentsline {section}{Je hais}{149}{}%
-\contentsline {section}{La haine que je te dois}{150}{}%
-\contentsline {section}{Siento}{151}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{152}{}%
-\contentsline {section}{Three Notebooks}{153}{}%
-\contentsline {section}{Bogotá Cathedral}{154}{}%
-\contentsline {section}{Still Unfinished}{155}{}%
-\contentsline {section}{No Excuse}{157}{}%
-\contentsline {section}{Your Role}{159}{}%
-\contentsline {section}{A Mind That Craves Novelty}{160}{}%
-\contentsline {section}{The Last Waltz of the Northern}{161}{}%
-\contentsline {section}{Migrant Echoes}{162}{}%
-\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{163}{}%
-\contentsline {section}{Candy Rock Day}{164}{}%
-\contentsline {section}{Rainbow Candy Parade}{165}{}%
-\contentsline {section}{Peter City Walk}{166}{}%
-\contentsline {section}{Pastel Dream}{167}{}%
+\contentsline {section}{The Country That Never Was}{124}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{127}{}%
+\contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Executive Burnout}{131}{}%
+\contentsline {section}{Skälvning}{132}{}%
+\contentsline {section}{Monoestable}{133}{}%
+\contentsline {section}{Paper in the Grinder}{134}{}%
+\contentsline {section}{The Loaded Mind}{135}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{136}{}%
+\contentsline {section}{The Wrong Map}{137}{}%
+\contentsline {section}{The Bitter Toll}{139}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{140}{}%
+\contentsline {section}{The Fault in Your Character}{141}{}%
+\contentsline {section}{The Hardest Toll}{143}{}%
+\contentsline {section}{Let Me Finish}{145}{}%
+\contentsline {section}{Buildings Worlds}{146}{}%
+\contentsline {section}{Burn the Glass}{147}{}%
+\contentsline {section}{The Wrong Map}{148}{}%
+\contentsline {chapter}{\chapternumberline {11}Confessions \& Small Defeats}{149}{}%
+\contentsline {section}{Je hais}{150}{}%
+\contentsline {section}{Je hais}{151}{}%
+\contentsline {section}{La haine que je te dois}{152}{}%
+\contentsline {section}{Siento}{153}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{154}{}%
+\contentsline {section}{Three Notebooks}{155}{}%
+\contentsline {section}{Bogotá Cathedral}{156}{}%
+\contentsline {section}{Still Unfinished}{157}{}%
+\contentsline {section}{No Excuse}{159}{}%
+\contentsline {section}{Your Role}{161}{}%
+\contentsline {section}{A Mind That Craves Novelty}{162}{}%
+\contentsline {section}{The Last Waltz of the Northern}{163}{}%
+\contentsline {section}{Migrant Echoes}{164}{}%
+\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{165}{}%
+\contentsline {section}{Candy Rock Day}{166}{}%
+\contentsline {section}{Rainbow Candy Parade}{167}{}%
+\contentsline {section}{Peter City Walk}{168}{}%
+\contentsline {section}{Pastel Dream}{169}{}%

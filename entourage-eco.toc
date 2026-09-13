@@ -23,15 +23,16 @@
 \contentsline {section}{Su peccadu meu}{27}{}%
 \contentsline {section}{Lilac-eyed Demon}{28}{}%
 \contentsline {section}{East Rock / The Village}{29}{}%
-\contentsline {section}{Whiteboard Queen}{31}{}%
-\contentsline {section}{Pilar Venegas}{32}{}%
-\contentsline {section}{Rough Diamond}{33}{}%
-\contentsline {section}{Petrovna // Петровна}{34}{}%
-\contentsline {section}{Kedri Petrovna Kuznetsova}{35}{}%
-\contentsline {section}{Greca Piras}{36}{}%
-\contentsline {section}{Liis Sepp Raising}{37}{}%
-\contentsline {section}{Zahra Moradi}{38}{}%
-\contentsline {section}{Double Register}{39}{}%
+\contentsline {section}{Mariain, You Arrive Right on}{31}{}%
+\contentsline {section}{Whiteboard Queen}{32}{}%
+\contentsline {section}{Pilar Venegas}{33}{}%
+\contentsline {section}{Rough Diamond}{34}{}%
+\contentsline {section}{Petrovna // Петровна}{35}{}%
+\contentsline {section}{Kedri Petrovna Kuznetsova}{36}{}%
+\contentsline {section}{Greca Piras}{37}{}%
+\contentsline {section}{Liis Sepp Raising}{38}{}%
+\contentsline {section}{Zahra Moradi}{39}{}%
+\contentsline {section}{Double Register}{40}{}%
 \contentsline {chapter}{\chapternumberline {4}Character profile: Thomas}{41}{}%
 \contentsline {section}{Thomas, baja del pedestal}{42}{}%
 \contentsline {section}{Thomas}{44}{}%
