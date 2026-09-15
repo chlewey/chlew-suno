@@ -29,41 +29,44 @@
 \contentsline {section}{My Delicate Verse}{28}{}%
 \contentsline {section}{Efficient and Charming}{29}{}%
 \contentsline {section}{Delicate Swan}{30}{}%
-\contentsline {chapter}{\chapternumberline {3}Other Narratives}{31}{}%
-\contentsline {section}{Fallen Messenger}{32}{}%
-\contentsline {section}{A la distancia}{33}{}%
-\contentsline {section}{Watching from a Distance}{34}{}%
-\contentsline {section}{El final del verano}{35}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{36}{}%
-\contentsline {section}{Peter City Walk}{37}{}%
-\contentsline {section}{Piravita View}{38}{}%
-\contentsline {section}{Thrice a Prisoner}{39}{}%
-\contentsline {chapter}{\chapternumberline {4}Personal}{41}{}%
-\contentsline {section}{The Wrong Map}{42}{}%
-\contentsline {section}{The Wrong Map}{43}{}%
+\contentsline {section}{Carbonia in the Rear Window}{31}{}%
+\contentsline {chapter}{\chapternumberline {3}Other Narratives}{33}{}%
+\contentsline {section}{Fallen Messenger}{34}{}%
+\contentsline {section}{A la distancia}{35}{}%
+\contentsline {section}{Watching from a Distance}{36}{}%
+\contentsline {section}{El final del verano}{37}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{38}{}%
+\contentsline {section}{Peter City Walk}{39}{}%
+\contentsline {section}{Piravita View}{40}{}%
+\contentsline {section}{Thrice a Prisoner}{41}{}%
+\contentsline {chapter}{\chapternumberline {4}Personal}{43}{}%
+\contentsline {section}{The Wrong Map}{44}{}%
 \contentsline {section}{The Wrong Map}{45}{}%
-\contentsline {section}{A Mind That Craves Novelty}{46}{}%
-\contentsline {section}{Dejándome llevar}{47}{}%
-\contentsline {section}{Stimuli}{48}{}%
-\contentsline {section}{Piel}{49}{}%
-\contentsline {section}{Vueltas y vueltas}{50}{}%
-\contentsline {section}{Living Fantasies (electronic)}{51}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{52}{}%
-\contentsline {section}{Living Fantasies (native folk)}{53}{}%
-\contentsline {section}{Connection}{54}{}%
-\contentsline {section}{Wingman}{55}{}%
-\contentsline {section}{Tiempo Real}{56}{}%
-\contentsline {section}{History Witnessed Live}{57}{}%
-\contentsline {section}{Mundos internos}{58}{}%
-\contentsline {section}{A Coffee Not Shared}{59}{}%
-\contentsline {section}{Used to Say}{60}{}%
-\contentsline {chapter}{\chapternumberline {5}Experimental}{61}{}%
-\contentsline {section}{Colombia, Tu Papá}{62}{}%
-\contentsline {section}{Co Co Co Co}{63}{}%
-\contentsline {section}{Kapu Lema}{64}{}%
-\contentsline {section}{Badiba Buka}{65}{}%
-\contentsline {section}{dij Schdzjarvk}{66}{}%
-\contentsline {section}{dij Schdzjarvk}{67}{}%
-\contentsline {section}{Parará Pa Pa}{68}{}%
-\contentsline {section}{O ku pater de nos}{69}{}%
-\contentsline {section}{Cheese Spoon Paseo}{70}{}%
+\contentsline {section}{The Wrong Map}{47}{}%
+\contentsline {section}{A Mind That Craves Novelty}{48}{}%
+\contentsline {section}{Dejándome llevar}{49}{}%
+\contentsline {section}{Stimuli}{50}{}%
+\contentsline {section}{Piel}{51}{}%
+\contentsline {section}{Vueltas y vueltas}{52}{}%
+\contentsline {section}{Living Fantasies (electronic)}{53}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{54}{}%
+\contentsline {section}{Living Fantasies (native folk)}{55}{}%
+\contentsline {section}{Connection}{56}{}%
+\contentsline {section}{Wingman}{57}{}%
+\contentsline {section}{Tiempo Real}{58}{}%
+\contentsline {section}{History Witnessed Live}{59}{}%
+\contentsline {section}{Mundos internos}{60}{}%
+\contentsline {section}{A Coffee Not Shared}{61}{}%
+\contentsline {section}{Used to Say}{62}{}%
+\contentsline {section}{Writing Ain't Easy}{63}{}%
+\contentsline {section}{Home Until It Does}{64}{}%
+\contentsline {chapter}{\chapternumberline {5}Experimental}{65}{}%
+\contentsline {section}{Colombia, Tu Papá}{66}{}%
+\contentsline {section}{Co Co Co Co}{67}{}%
+\contentsline {section}{Kapu Lema}{68}{}%
+\contentsline {section}{Badiba Buka}{69}{}%
+\contentsline {section}{dij Schdzjarvk}{70}{}%
+\contentsline {section}{dij Schdzjarvk}{71}{}%
+\contentsline {section}{Parará Pa Pa}{72}{}%
+\contentsline {section}{O ku pater de nos}{73}{}%
+\contentsline {section}{Cheese Spoon Paseo}{74}{}%

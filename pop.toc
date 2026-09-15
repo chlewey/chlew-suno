@@ -48,6 +48,7 @@
 \contentsline {section}{Room for Her}{54}{}%
 \contentsline {subsection}{Breakdown}{54}{}%
 \contentsline {section}{After the Lights}{55}{}%
+\contentsline {section}{Weather and Memory}{56}{}%
 \contentsline {chapter}{\chapternumberline {4}The Architecture of Systems \& Lines}{57}{}%
 \contentsline {section}{Natalia}{58}{}%
 \contentsline {section}{Sharp and Sweet}{59}{}%
@@ -59,6 +60,7 @@
 \contentsline {section}{The Women He Chose}{67}{}%
 \contentsline {section}{A Long Way Round the World}{68}{}%
 \contentsline {section}{Beyond the Frame}{69}{}%
+\contentsline {section}{Carbonia in the Rear Window}{70}{}%
 \contentsline {part}{\partnumberline {II}Ricochets}{71}{}%
 \contentsline {chapter}{\chapternumberline {5}The Extradition Beats (Ricochets)}{75}{}%
 \contentsline {section}{Heart to Heart}{76}{}%
@@ -160,6 +162,7 @@
 \contentsline {section}{Amber Eyes, Six Faces}{139}{}%
 \contentsline {section}{Ute Där Vinden Vänder}{140}{}%
 \contentsline {section}{Step In Coat}{141}{}%
+\contentsline {section}{Purity Test}{142}{}%
 \contentsline {chapter}{\chapternumberline {9}Bachees \& Speculative Worlds}{143}{}%
 \contentsline {section}{Bachees of the Deep}{144}{}%
 \contentsline {section}{Drift Between Floaters}{145}{}%
@@ -180,6 +183,7 @@
 \contentsline {section}{Stop\_or\_Ellipsis}{163}{}%
 \contentsline {section}{Tiempo Real}{164}{}%
 \contentsline {section}{Water Made Us}{165}{}%
+\contentsline {section}{Domestic Realism}{166}{}%
 \contentsline {part}{\partnumberline {V}Lyrical}{167}{}%
 \contentsline {chapter}{\chapternumberline {11}The Grinder Loop \& ADHD Chaos}{171}{}%
 \contentsline {section}{Broken Tool}{172}{}%
@@ -188,6 +192,7 @@
 \contentsline {section}{Paper In My Hands}{175}{}%
 \contentsline {section}{Temblando}{176}{}%
 \contentsline {section}{Cornered By Systems}{177}{}%
+\contentsline {section}{Skälvning}{178}{}%
 \contentsline {chapter}{\chapternumberline {12}The 1990s Diaries \& Early Sparks}{179}{}%
 \contentsline {section}{Si pienso en ti}{180}{}%
 \contentsline {section}{Cuarto de Peluches}{181}{}%
@@ -208,3 +213,4 @@
 \contentsline {section}{Behind the Smile}{197}{}%
 \contentsline {section}{O ku pater de nos}{198}{}%
 \contentsline {section}{Stone Light Portrait}{199}{}%
+\contentsline {section}{Writing Ain't Easy}{200}{}%

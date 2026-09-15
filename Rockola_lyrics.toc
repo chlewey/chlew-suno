@@ -94,7 +94,8 @@
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \contentsline {section}{Blue-Point Mischief}{106}{}%
-\contentsline {section}{You Would Destroy Me}{107}{}%
+\contentsline {section}{Headlights That Crush}{107}{}%
+\contentsline {section}{The Decay of Hatred}{108}{}%
 \contentsline {part}{\partnumberline {IV}Essays}{109}{}%
 \contentsline {chapter}{\chapternumberline {9}Debates, Satires \& Systems}{113}{}%
 \contentsline {section}{Cut Me Loose}{114}{}%
@@ -108,6 +109,7 @@
 \contentsline {section}{Buba Kiki Riot}{122}{}%
 \contentsline {section}{Limits of the Load}{123}{}%
 \contentsline {section}{The Country That Never Was}{124}{}%
+\contentsline {section}{Mouth of the Machine}{126}{}%
 \contentsline {part}{\partnumberline {V}Lyrical}{127}{}%
 \contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Executive Burnout}{131}{}%
 \contentsline {section}{Skälvning}{132}{}%
@@ -124,22 +126,23 @@
 \contentsline {section}{Buildings Worlds}{146}{}%
 \contentsline {section}{Burn the Glass}{147}{}%
 \contentsline {section}{The Wrong Map}{148}{}%
-\contentsline {chapter}{\chapternumberline {11}Confessions \& Small Defeats}{149}{}%
-\contentsline {section}{Je hais}{150}{}%
-\contentsline {section}{Je hais}{151}{}%
-\contentsline {section}{La haine que je te dois}{152}{}%
-\contentsline {section}{Siento}{153}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{154}{}%
-\contentsline {section}{Three Notebooks}{155}{}%
-\contentsline {section}{Bogotá Cathedral}{156}{}%
-\contentsline {section}{Still Unfinished}{157}{}%
-\contentsline {section}{No Excuse}{159}{}%
-\contentsline {section}{Your Role}{161}{}%
-\contentsline {section}{A Mind That Craves Novelty}{162}{}%
-\contentsline {section}{The Last Waltz of the Northern}{163}{}%
-\contentsline {section}{Migrant Echoes}{164}{}%
-\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{165}{}%
-\contentsline {section}{Candy Rock Day}{166}{}%
-\contentsline {section}{Rainbow Candy Parade}{167}{}%
-\contentsline {section}{Peter City Walk}{168}{}%
-\contentsline {section}{Pastel Dream}{169}{}%
+\contentsline {section}{Time to Stop}{149}{}%
+\contentsline {chapter}{\chapternumberline {11}Confessions \& Small Defeats}{151}{}%
+\contentsline {section}{Je hais}{152}{}%
+\contentsline {section}{Je hais}{153}{}%
+\contentsline {section}{La haine que je te dois}{154}{}%
+\contentsline {section}{Siento}{155}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{156}{}%
+\contentsline {section}{Three Notebooks}{157}{}%
+\contentsline {section}{Bogotá Cathedral}{158}{}%
+\contentsline {section}{Still Unfinished}{159}{}%
+\contentsline {section}{No Excuse}{161}{}%
+\contentsline {section}{Your Role}{163}{}%
+\contentsline {section}{A Mind That Craves Novelty}{164}{}%
+\contentsline {section}{The Last Waltz of the Northern}{165}{}%
+\contentsline {section}{Migrant Echoes}{166}{}%
+\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{167}{}%
+\contentsline {section}{Candy Rock Day}{168}{}%
+\contentsline {section}{Rainbow Candy Parade}{169}{}%
+\contentsline {section}{Peter City Walk}{170}{}%
+\contentsline {section}{Pastel Dream}{171}{}%
