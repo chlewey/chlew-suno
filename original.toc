@@ -36,37 +36,36 @@
 \contentsline {section}{Watching from a Distance}{36}{}%
 \contentsline {section}{El final del verano}{37}{}%
 \contentsline {section}{Ute Där Vinden Vänder}{38}{}%
-\contentsline {section}{Peter City Walk}{39}{}%
-\contentsline {section}{Piravita View}{40}{}%
-\contentsline {section}{Thrice a Prisoner}{41}{}%
-\contentsline {chapter}{\chapternumberline {4}Personal}{43}{}%
-\contentsline {section}{The Wrong Map}{44}{}%
-\contentsline {section}{The Wrong Map}{45}{}%
+\contentsline {section}{Wingman}{39}{}%
+\contentsline {section}{Peter City Walk}{40}{}%
+\contentsline {section}{Piravita View}{41}{}%
+\contentsline {section}{Thrice a Prisoner}{42}{}%
+\contentsline {chapter}{\chapternumberline {4}Personal}{45}{}%
+\contentsline {section}{The Wrong Map}{46}{}%
 \contentsline {section}{The Wrong Map}{47}{}%
-\contentsline {section}{A Mind That Craves Novelty}{48}{}%
-\contentsline {section}{Dejándome llevar}{49}{}%
-\contentsline {section}{Stimuli}{50}{}%
-\contentsline {section}{Piel}{51}{}%
-\contentsline {section}{Vueltas y vueltas}{52}{}%
-\contentsline {section}{Living Fantasies (electronic)}{53}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{54}{}%
-\contentsline {section}{Living Fantasies (native folk)}{55}{}%
-\contentsline {section}{Connection}{56}{}%
-\contentsline {section}{Wingman}{57}{}%
-\contentsline {section}{Tiempo Real}{58}{}%
+\contentsline {section}{The Wrong Map}{49}{}%
+\contentsline {section}{A Mind That Craves Novelty}{50}{}%
+\contentsline {section}{Dejándome llevar}{51}{}%
+\contentsline {section}{Stimuli}{52}{}%
+\contentsline {section}{Piel}{53}{}%
+\contentsline {section}{Vueltas y vueltas}{54}{}%
+\contentsline {section}{Living Fantasies (electronic)}{55}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{56}{}%
+\contentsline {section}{Living Fantasies (native folk)}{57}{}%
+\contentsline {section}{Connection}{58}{}%
 \contentsline {section}{History Witnessed Live}{59}{}%
 \contentsline {section}{Mundos internos}{60}{}%
 \contentsline {section}{A Coffee Not Shared}{61}{}%
 \contentsline {section}{Used to Say}{62}{}%
 \contentsline {section}{Writing Ain't Easy}{63}{}%
-\contentsline {section}{Home Until It Does}{64}{}%
 \contentsline {chapter}{\chapternumberline {5}Experimental}{65}{}%
 \contentsline {section}{Colombia, Tu Papá}{66}{}%
 \contentsline {section}{Co Co Co Co}{67}{}%
 \contentsline {section}{Kapu Lema}{68}{}%
 \contentsline {section}{Badiba Buka}{69}{}%
-\contentsline {section}{dij Schdzjarvk}{70}{}%
+\contentsline {section}{Tiempo Real}{70}{}%
 \contentsline {section}{dij Schdzjarvk}{71}{}%
-\contentsline {section}{Parará Pa Pa}{72}{}%
-\contentsline {section}{O ku pater de nos}{73}{}%
-\contentsline {section}{Cheese Spoon Paseo}{74}{}%
+\contentsline {section}{dij Schdzjarvk}{72}{}%
+\contentsline {section}{Parará Pa Pa}{73}{}%
+\contentsline {section}{O ku pater de nos}{74}{}%
+\contentsline {section}{Cheese Spoon Paseo}{75}{}%

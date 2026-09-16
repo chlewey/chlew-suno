@@ -63,7 +63,7 @@ $books = [ordered]@{
     chlewrics   = @{ Src = 'chlewrics.tex';     Job = 'Chlewrics' }
 }
 
-function Build-Book([string]$Name, [hashtable]$Info) {
+function Invoke-Book([string]$Name, [hashtable]$Info) {
     Write-Host "==> $Name -> $($Info.Job).pdf (lualatex via latexmk)" -ForegroundColor Cyan
     # Splat an explicit args array -- passing "-jobname=$($Info.Job)" and
     # "$($Info.Src)" inline on the call line makes latexmk ignore the
@@ -75,7 +75,7 @@ function Build-Book([string]$Name, [hashtable]$Info) {
     }
 }
 
-function Clean-Book([hashtable]$Info) {
+function Clear-Book([hashtable]$Info) {
     $latexmkArgs = @('-c', "-jobname=$($Info.Job)", $Info.Src)
     & latexmk @latexmkArgs 2>$null | Out-Null
 }
@@ -86,18 +86,18 @@ function Remove-SharedIndexFiles {
 
 switch ($Target) {
     'all' {
-        foreach ($name in $books.Keys) { Build-Book $name $books[$name] }
+        foreach ($name in $books.Keys) { Invoke-Book $name $books[$name] }
     }
     'clean' {
-        foreach ($name in $books.Keys) { Clean-Book $books[$name] }
+        foreach ($name in $books.Keys) { Clear-Book $books[$name] }
         Remove-SharedIndexFiles
     }
     'distclean' {
-        foreach ($name in $books.Keys) { Clean-Book $books[$name] }
+        foreach ($name in $books.Keys) { Clear-Book $books[$name] }
         Remove-SharedIndexFiles
         foreach ($name in $books.Keys) { Remove-Item -ErrorAction SilentlyContinue "$($books[$name].Job).pdf" }
     }
     default {
-        Build-Book $Target $books[$Target]
+        Invoke-Book $Target $books[$Target]
     }
 }
