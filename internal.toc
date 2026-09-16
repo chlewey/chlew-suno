@@ -244,69 +244,70 @@
 \contentsline {section}{Cheese Spoon Paseo}{271}{}%
 \contentsline {section}{dij Schdzjarvk}{272}{}%
 \contentsline {part}{\partnumberline {VIII}Form and Craft}{273}{}%
-\contentsline {chapter}{\chapternumberline {24}Mets}{275}{}%
+\contentsline {chapter}{\chapternumberline {24}Meta}{275}{}%
 \contentsline {section}{Writing Ain't Easy}{276}{}%
-\contentsline {chapter}{\chapternumberline {25}Instrumental}{277}{}%
-\contentsline {section}{Callejón Azul}{278}{}%
-\contentsline {section}{Monstruo Ciudad}{279}{}%
-\contentsline {section}{March and Tumbao}{280}{}%
-\contentsline {section}{Candy Rock Day}{281}{}%
-\contentsline {section}{Clave and Chrome}{282}{}%
-\contentsline {section}{Beachside Boogie}{283}{}%
-\contentsline {section}{Scraper Road}{284}{}%
-\contentsline {section}{Iron Pulse}{285}{}%
-\contentsline {section}{Stone Light Portrait}{286}{}%
-\contentsline {section}{Calle Tumbao}{287}{}%
-\contentsline {section}{Claim Ledger Drift}{288}{}%
-\contentsline {section}{The Great Gatsby}{289}{}%
-\contentsline {section}{Migrant Echoes}{290}{}%
-\contentsline {section}{Viejo Bambuco}{291}{}%
-\contentsline {section}{Tambor y Gaita}{292}{}%
-\contentsline {section}{Dos Pesos}{293}{}%
-\contentsline {section}{The Last Waltz of the Northern}{294}{}%
-\contentsline {section}{Moonlit Caravan}{295}{}%
-\contentsline {section}{Grand Orchestra Ballad}{296}{}%
-\contentsline {section}{Timbales in Blue}{297}{}%
-\contentsline {section}{Purple Lace Stance}{298}{}%
-\contentsline {section}{September at the Window}{299}{}%
-\contentsline {chapter}{\chapternumberline {26}Fragments}{301}{}%
-\contentsline {section}{Burn the Glass}{302}{}%
-\contentsline {section}{A Drunk Without A Drop}{303}{}%
-\contentsline {section}{The Bitter Toll}{304}{}%
-\contentsline {chapter}{\chapternumberline {27}Adaptations I: Re-genres}{305}{}%
-\contentsline {section}{The Wrong Map}{306}{}%
+\contentsline {section}{Weather and Memory}{277}{}%
+\contentsline {chapter}{\chapternumberline {25}Instrumental}{279}{}%
+\contentsline {section}{Callejón Azul}{280}{}%
+\contentsline {section}{Monstruo Ciudad}{281}{}%
+\contentsline {section}{March and Tumbao}{282}{}%
+\contentsline {section}{Candy Rock Day}{283}{}%
+\contentsline {section}{Clave and Chrome}{284}{}%
+\contentsline {section}{Beachside Boogie}{285}{}%
+\contentsline {section}{Scraper Road}{286}{}%
+\contentsline {section}{Iron Pulse}{287}{}%
+\contentsline {section}{Stone Light Portrait}{288}{}%
+\contentsline {section}{Calle Tumbao}{289}{}%
+\contentsline {section}{Claim Ledger Drift}{290}{}%
+\contentsline {section}{The Great Gatsby}{291}{}%
+\contentsline {section}{Migrant Echoes}{292}{}%
+\contentsline {section}{Viejo Bambuco}{293}{}%
+\contentsline {section}{Tambor y Gaita}{294}{}%
+\contentsline {section}{Dos Pesos}{295}{}%
+\contentsline {section}{The Last Waltz of the Northern}{296}{}%
+\contentsline {section}{Moonlit Caravan}{297}{}%
+\contentsline {section}{Grand Orchestra Ballad}{298}{}%
+\contentsline {section}{Timbales in Blue}{299}{}%
+\contentsline {section}{Purple Lace Stance}{300}{}%
+\contentsline {section}{September at the Window}{301}{}%
+\contentsline {chapter}{\chapternumberline {26}Fragments}{303}{}%
+\contentsline {section}{Burn the Glass}{304}{}%
+\contentsline {section}{A Drunk Without A Drop}{305}{}%
+\contentsline {section}{The Bitter Toll}{306}{}%
+\contentsline {chapter}{\chapternumberline {27}Adaptations I: Re-genres}{307}{}%
 \contentsline {section}{The Wrong Map}{308}{}%
-\contentsline {section}{They Multiply}{309}{}%
-\contentsline {section}{Deserve}{310}{}%
-\contentsline {section}{The Fault in Your Character (EBD)}{312}{}%
-\contentsline {section}{Vida simple}{314}{}%
-\contentsline {section}{Los buenos somos más}{315}{}%
-\contentsline {section}{Non-Aligned}{316}{}%
-\contentsline {section}{Si no te hace falta}{317}{}%
-\contentsline {section}{Crave Stimuli}{318}{}%
-\contentsline {section}{Crave Stimuli (rave)}{319}{}%
-\contentsline {section}{Sex Without Compromise}{320}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{321}{}%
-\contentsline {section}{Living Fantasies (native folk)}{322}{}%
-\contentsline {section}{Skälvning}{323}{}%
-\contentsline {section}{The Decay of Hatred}{324}{}%
-\contentsline {section}{The Unreached Crush}{325}{}%
-\contentsline {section}{Domestic Realism}{326}{}%
-\contentsline {chapter}{\chapternumberline {28}Adaptations II: Adapted Lyrics}{327}{}%
-\contentsline {section}{The Hardest Toll}{328}{}%
-\contentsline {section}{Piel / Stimuli}{330}{}%
-\contentsline {section}{Soundwall}{331}{}%
-\contentsline {section}{Keep Me}{332}{}%
-\contentsline {section}{New // Old}{333}{}%
-\contentsline {section}{Buildings Worlds}{334}{}%
-\contentsline {section}{Paper in the Grinder}{335}{}%
-\contentsline {section}{Grinder Glass}{336}{}%
-\contentsline {section}{Paper In My Teeth}{337}{}%
-\contentsline {section}{Paper Cup Engine}{338}{}%
-\contentsline {section}{Headlights That Crush}{339}{}%
-\contentsline {section}{Writing Takes Its Toll}{340}{}%
-\contentsline {chapter}{\chapternumberline {29}Adaptations III: Cross-language}{343}{}%
-\contentsline {section}{Carried Away}{344}{}%
-\contentsline {section}{If You Don’t Need It}{346}{}%
-\contentsline {section}{Inner Space}{347}{}%
-\contentsline {section}{Frisson}{348}{}%
+\contentsline {section}{The Wrong Map}{310}{}%
+\contentsline {section}{They Multiply}{311}{}%
+\contentsline {section}{Deserve}{312}{}%
+\contentsline {section}{The Fault in Your Character (EBD)}{314}{}%
+\contentsline {section}{Vida simple}{316}{}%
+\contentsline {section}{Los buenos somos más}{317}{}%
+\contentsline {section}{Non-Aligned}{318}{}%
+\contentsline {section}{Si no te hace falta}{319}{}%
+\contentsline {section}{Crave Stimuli}{320}{}%
+\contentsline {section}{Crave Stimuli (rave)}{321}{}%
+\contentsline {section}{Sex Without Compromise}{322}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{323}{}%
+\contentsline {section}{Living Fantasies (native folk)}{324}{}%
+\contentsline {section}{Skälvning}{325}{}%
+\contentsline {section}{The Decay of Hatred}{326}{}%
+\contentsline {section}{The Unreached Crush}{327}{}%
+\contentsline {section}{Domestic Realism}{328}{}%
+\contentsline {chapter}{\chapternumberline {28}Adaptations II: Adapted Lyrics}{329}{}%
+\contentsline {section}{The Hardest Toll}{330}{}%
+\contentsline {section}{Piel / Stimuli}{332}{}%
+\contentsline {section}{Soundwall}{333}{}%
+\contentsline {section}{Keep Me}{334}{}%
+\contentsline {section}{New // Old}{335}{}%
+\contentsline {section}{Buildings Worlds}{336}{}%
+\contentsline {section}{Paper in the Grinder}{337}{}%
+\contentsline {section}{Grinder Glass}{338}{}%
+\contentsline {section}{Paper In My Teeth}{339}{}%
+\contentsline {section}{Paper Cup Engine}{340}{}%
+\contentsline {section}{Headlights That Crush}{341}{}%
+\contentsline {section}{Writing Takes Its Toll}{342}{}%
+\contentsline {chapter}{\chapternumberline {29}Adaptations III: Cross-language}{345}{}%
+\contentsline {section}{Carried Away}{346}{}%
+\contentsline {section}{If You Don’t Need It}{348}{}%
+\contentsline {section}{Inner Space}{349}{}%
+\contentsline {section}{Frisson}{350}{}%
