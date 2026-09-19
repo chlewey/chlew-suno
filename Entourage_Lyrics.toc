@@ -5,9 +5,8 @@
 \contentsline {section}{Orbit Of Names}{5}{}%
 \contentsline {section}{The Women He Chose}{6}{}%
 \contentsline {section}{Runaway And Canvas}{7}{}%
-\contentsline {section}{Weather and Memory}{8}{}%
-\contentsline {section}{Into the Digital Night}{9}{}%
-\contentsline {section}{A Little Universe}{10}{}%
+\contentsline {section}{Into the Digital Night}{8}{}%
+\contentsline {section}{A Little Universe}{9}{}%
 \contentsline {chapter}{\chapternumberline {2}Places and projects}{11}{}%
 \contentsline {section}{Punta Espada 2026}{12}{}%
 \contentsline {section}{Tri-Spine País}{13}{}%

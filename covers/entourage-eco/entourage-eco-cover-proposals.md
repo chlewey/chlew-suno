@@ -60,7 +60,7 @@ A photorealistic portrait of Victoria "Vicky" Ospina, an athletic tanned young w
 
 `covers/entourage-eco/susana`
 
-A photorealistic portrait of Susana Bianchi, a confident olive-skinned woman of about 35 with a dark brown pixie cut, brown eyes, and a straight nose, wearing aviator sunglasses pushed up and a white pilot's blouse with epaulette insignia, a headset with a boom microphone resting around her neck. She sits in the cockpit of an airliner, hands near the controls, instrument panels glowing softly around her, her expression calm and completely in command. Cockpit ambient light, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
+A photorealistic portrait of Susana Bianchi, a confident olive-skinned woman of about 35 with a dark brown pixie cut, brown eyes, and a straight nose, wearing aviator sunglasses pushed up and a white pilot's blouse with epaulette insignia, a headset with a boom microphone resting around her neck. She sits in the wide flight deck of a Boeing 787 BBJ, hands near the side-stick controls, the twin-aisle jetliner's instrument panels glowing softly around her, her expression calm and completely in command. Cockpit ambient light, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
 
 ## Character profile: Claire
 
@@ -98,7 +98,7 @@ A dim hotel bar at night, the mirrored wall behind the bottles reflecting severa
 
 `covers/entourage-eco/rotterdam-leg`
 
-A private jet's fold-down tray table photographed close, holding a spilled teacup beside a full glass of apple juice and a half-eaten chicken sandwich on a small plate. Outside the cabin window beside the table, storm clouds tilt at an angle suggesting turbulence. Warm cabin light, playful but intimate mood. Photorealistic still life, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
+A small Embraer executive jet's fold-down tray table photographed close, inside the narrow single-aisle cabin typical of a light business jet, holding a spilled teacup beside a full glass of apple juice and a half-eaten chicken sandwich on a small plate. Outside the small round cabin window beside the table, storm clouds tilt at an angle suggesting turbulence. Warm cabin light, playful but intimate mood, the tight cabin walls close on either side. Photorealistic still life, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
 ## Tallin Series
 
@@ -140,7 +140,7 @@ A split day-to-night composition: on one half, a daytime view of the Manhattan s
 
 `covers/entourage-eco/london-to-punta`
 
-The open cabin door of a private jet photographed from inside, framing a view of desert meeting turquoise sea just outside on the tarmac. Rain still beads on the exterior of the open door and its steps, while warm golden Caribbean light floods the cabin interior beyond it. The image captures one continuous frame moving from gray London rain to bright coastal warmth. Photorealistic threshold shot, cinematic lighting contrast. No text overlay. Square 1:1 aspect ratio.
+The open cabin door of a wide-body Boeing 787 BBJ ("the Air Jaguar"), photographed from inside its spacious twin-aisle VIP cabin, framing a view of desert meeting turquoise sea just outside on the tarmac. Rain still beads on the exterior of the large airliner-style door and its airstair steps, while warm golden Caribbean light floods the wide cabin interior beyond it. The image captures one continuous frame moving from gray London rain to bright coastal warmth. Photorealistic threshold shot, cinematic lighting contrast. No text overlay. Square 1:1 aspect ratio.
 
 # Extras
 

@@ -32,6 +32,7 @@ PROPOSAL_DOCS = {
     'ricochets': ROOT / 'covers' / 'ricochets' / 'ricochets-cover-proposals.md',
     'entourage-eco': ROOT / 'covers' / 'entourage-eco' / 'entourage-eco-cover-proposals.md',
     'original': ROOT / 'covers' / 'original' / 'original-cover-proposals.md',
+    'electronica': ROOT / 'covers' / 'electronica' / 'electronica-cover-proposals.md',
 }
 
 API_URL_TEMPLATE = 'https://generativelanguage.googleapis.com/v1/models/{model}:generateContent'

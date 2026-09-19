@@ -62,7 +62,7 @@
 \contentsline {section}{Beyond the Frame}{69}{}%
 \contentsline {section}{Carbonia in the Rear Window}{70}{}%
 \contentsline {part}{\partnumberline {II}Ricochets}{71}{}%
-\contentsline {chapter}{\chapternumberline {5}The Extradition Beats (Ricochets)}{75}{}%
+\contentsline {chapter}{\chapternumberline {5}The Crossfire Beats (Ricochets)}{75}{}%
 \contentsline {section}{Heart to Heart}{76}{}%
 \contentsline {section}{Smoke and Steel}{77}{}%
 \contentsline {section}{Andrea in the Doorway}{78}{}%
