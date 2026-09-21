@@ -33,6 +33,9 @@ PROPOSAL_DOCS = {
     'entourage-eco': ROOT / 'covers' / 'entourage-eco' / 'entourage-eco-cover-proposals.md',
     'original': ROOT / 'covers' / 'original' / 'original-cover-proposals.md',
     'electronica': ROOT / 'covers' / 'electronica' / 'electronica-cover-proposals.md',
+    'rockola': ROOT / 'covers' / 'rockola' / 'rockola-cover-proposals.md',
+    'pop': ROOT / 'covers' / 'pop' / 'pop-cover-proposals.md',
+    'generos': ROOT / 'covers' / 'generos' / 'generos-cover-proposals.md',
 }
 
 API_URL_TEMPLATE = 'https://generativelanguage.googleapis.com/v1/models/{model}:generateContent'

@@ -1,5 +1,5 @@
 \xpg@aux {}{english}
-\contentsline {chapter}{\chapternumberline {1}Pre-Suno}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}Teenage Angst}{1}{}%
 \contentsline {section}{Je hais}{2}{}%
 \contentsline {section}{Je hais}{3}{}%
 \contentsline {section}{La haine que je te dois}{4}{}%
@@ -11,61 +11,66 @@
 \contentsline {section}{Dig}{10}{}%
 \contentsline {section}{Bilden}{11}{}%
 \contentsline {section}{Vakning}{12}{}%
-\contentsline {section}{Septiembre}{13}{}%
-\contentsline {section}{Siento}{14}{}%
-\contentsline {section}{Círculo Convexo}{15}{}%
-\contentsline {section}{Ack-Rostica}{16}{}%
-\contentsline {section}{Awk-Rustica}{17}{}%
-\contentsline {section}{Across-Ticks}{18}{}%
-\contentsline {section}{El juego}{19}{}%
-\contentsline {section}{Chiq}{20}{}%
-\contentsline {section}{In the Time of Noah's Ark}{21}{}%
+\contentsline {chapter}{\chapternumberline {2}Occasional Verses}{13}{}%
+\contentsline {section}{Septiembre}{14}{}%
+\contentsline {section}{Siento}{15}{}%
+\contentsline {section}{Círculo Convexo}{16}{}%
+\contentsline {section}{Ack-Rostica}{17}{}%
+\contentsline {section}{Awk-Rustica}{18}{}%
+\contentsline {section}{Across-Ticks}{19}{}%
+\contentsline {section}{El juego}{20}{}%
+\contentsline {section}{Chiq}{21}{}%
 \contentsline {section}{In the Time of Noah's Ark}{22}{}%
-\contentsline {section}{Gustavo Cerati que no estás con nosotros}{23}{}%
-\contentsline {section}{Doble-J}{24}{}%
-\contentsline {chapter}{\chapternumberline {2}Thomas' Entourage}{25}{}%
-\contentsline {section}{Lilac-eyed Demon}{26}{}%
-\contentsline {section}{That Night}{27}{}%
-\contentsline {section}{My Delicate Verse}{28}{}%
-\contentsline {section}{Efficient and Charming}{29}{}%
-\contentsline {section}{Delicate Swan}{30}{}%
-\contentsline {section}{Carbonia in the Rear Window}{31}{}%
-\contentsline {chapter}{\chapternumberline {3}Other Narratives}{33}{}%
-\contentsline {section}{Fallen Messenger}{34}{}%
-\contentsline {section}{A la distancia}{35}{}%
-\contentsline {section}{Watching from a Distance}{36}{}%
-\contentsline {section}{El final del verano}{37}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{38}{}%
-\contentsline {section}{Wingman}{39}{}%
-\contentsline {section}{Peter City Walk}{40}{}%
-\contentsline {section}{Piravita View}{41}{}%
-\contentsline {section}{Thrice a Prisoner}{42}{}%
-\contentsline {chapter}{\chapternumberline {4}Personal}{45}{}%
-\contentsline {section}{The Wrong Map}{46}{}%
-\contentsline {section}{The Wrong Map}{47}{}%
-\contentsline {section}{The Wrong Map}{49}{}%
-\contentsline {section}{A Mind That Craves Novelty}{50}{}%
-\contentsline {section}{Dejándome llevar}{51}{}%
-\contentsline {section}{Stimuli}{52}{}%
-\contentsline {section}{Piel}{53}{}%
-\contentsline {section}{Vueltas y vueltas}{54}{}%
-\contentsline {section}{Living Fantasies (electronic)}{55}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{56}{}%
-\contentsline {section}{Living Fantasies (native folk)}{57}{}%
-\contentsline {section}{Connection}{58}{}%
-\contentsline {section}{History Witnessed Live}{59}{}%
-\contentsline {section}{Mundos internos}{60}{}%
-\contentsline {section}{A Coffee Not Shared}{61}{}%
-\contentsline {section}{Used to Say}{62}{}%
-\contentsline {section}{Writing Ain't Easy}{63}{}%
-\contentsline {chapter}{\chapternumberline {5}Experimental}{65}{}%
-\contentsline {section}{Colombia, Tu Papá}{66}{}%
-\contentsline {section}{Co Co Co Co}{67}{}%
-\contentsline {section}{Kapu Lema}{68}{}%
-\contentsline {section}{Badiba Buka}{69}{}%
-\contentsline {section}{Tiempo Real}{70}{}%
-\contentsline {section}{dij Schdzjarvk}{71}{}%
-\contentsline {section}{dij Schdzjarvk}{72}{}%
-\contentsline {section}{Parará Pa Pa}{73}{}%
-\contentsline {section}{O ku pater de nos}{74}{}%
-\contentsline {section}{Cheese Spoon Paseo}{75}{}%
+\contentsline {section}{In the Time of Noah's Ark}{23}{}%
+\contentsline {section}{Gustavo Cerati que no estás con nosotros}{24}{}%
+\contentsline {section}{Doble-J}{25}{}%
+\contentsline {chapter}{\chapternumberline {3}Thomas' Entourage}{27}{}%
+\contentsline {section}{Lilac-eyed Demon}{28}{}%
+\contentsline {section}{That Night}{29}{}%
+\contentsline {section}{My Delicate Verse}{30}{}%
+\contentsline {section}{Efficient and Charming}{31}{}%
+\contentsline {section}{Delicate Swan}{32}{}%
+\contentsline {section}{Carbonia in the Rear Window}{33}{}%
+\contentsline {chapter}{\chapternumberline {4}Other Narratives}{35}{}%
+\contentsline {section}{Fallen Messenger}{36}{}%
+\contentsline {section}{A la distancia}{37}{}%
+\contentsline {section}{Watching from a Distance}{38}{}%
+\contentsline {section}{El final del verano}{39}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{40}{}%
+\contentsline {section}{Wingman}{41}{}%
+\contentsline {section}{Peter City Walk}{42}{}%
+\contentsline {section}{Piravita View}{43}{}%
+\contentsline {section}{Thrice a Prisoner}{44}{}%
+\contentsline {section}{Throne of Smoke}{46}{}%
+\contentsline {chapter}{\chapternumberline {5}Personal}{49}{}%
+\contentsline {section}{The Wrong Map}{50}{}%
+\contentsline {section}{The Wrong Map}{51}{}%
+\contentsline {section}{The Wrong Map}{53}{}%
+\contentsline {section}{A Mind That Craves Novelty}{54}{}%
+\contentsline {section}{Dejándome llevar}{55}{}%
+\contentsline {section}{Stimuli}{56}{}%
+\contentsline {section}{Piel}{57}{}%
+\contentsline {section}{Vueltas y vueltas}{58}{}%
+\contentsline {section}{Living Fantasies (electronic)}{59}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{60}{}%
+\contentsline {section}{Living Fantasies (native folk)}{61}{}%
+\contentsline {section}{Connection}{62}{}%
+\contentsline {section}{History Witnessed Live}{63}{}%
+\contentsline {section}{Mundos internos}{64}{}%
+\contentsline {section}{A Coffee Not Shared}{65}{}%
+\contentsline {section}{Used to Say}{66}{}%
+\contentsline {section}{Writing Ain't Easy}{67}{}%
+\contentsline {section}{It's Still With Me}{68}{}%
+\contentsline {section}{Entre mundos}{70}{}%
+\contentsline {section}{Buscando culpables}{72}{}%
+\contentsline {chapter}{\chapternumberline {6}Experimental}{73}{}%
+\contentsline {section}{Colombia, Tu Papá}{74}{}%
+\contentsline {section}{Co Co Co Co}{75}{}%
+\contentsline {section}{Kapu Lema}{76}{}%
+\contentsline {section}{Badiba Buka}{77}{}%
+\contentsline {section}{Tiempo Real}{78}{}%
+\contentsline {section}{dij Schdzjarvk}{79}{}%
+\contentsline {section}{dij Schdzjarvk}{80}{}%
+\contentsline {section}{Parará Pa Pa}{81}{}%
+\contentsline {section}{O ku pater de nos}{82}{}%
+\contentsline {section}{Cheese Spoon Paseo}{83}{}%

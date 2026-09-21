@@ -39,13 +39,26 @@
 \newcommand\sepbar{\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}}
 \newcommand\songpart[1]{\par\textbf{\normalsize #1}\par}
 \newcommand\annotation[1]{\texttt{\footnotesize[#1]\,}}
+% \tagexclude{tag1,tag2,...} -- blacklist tags so \tag/\tag* skip both
+% the typeset marker and the index entry for them.
+\newcommand\tagexclude[1]{%
+\@for\tag@excl@tmp:=#1\do{%
+\expandafter\gdef\csname tag@excl@\tag@excl@tmp\endcsname{}%
+}%
+}
 \newcommand\tag{\@ifstar\tag@star\tag@nostar}
 \newcommand\tag@nostar[2][\@empty]{%
+\@ifundefined{tag@excl@#2}{%
 \texttt{\,\footnotesize\textbf{\##2}\,}%
 \index[tags]{#2}%
 \ifx\@empty#1\relax\else\index[#1]{#2}\fi
+}{}%
 }
-\newcommand\tag@star[1]{\allowbreak\texttt{\,\footnotesize\textbf{\##1}\,}\allowbreak}
+\newcommand\tag@star[1]{%
+\@ifundefined{tag@excl@#1}{%
+\allowbreak\texttt{\,\footnotesize\textbf{\##1}\,}\allowbreak
+}{}%
+}
 
 \newlength{\x@indent}
 \newlength{\x@left}
