@@ -4,6 +4,8 @@
 *.pdf
 *.aux
 *.log
+*.lof
+*.lot
 *.out
 *.gz
 *.docx
@@ -16,6 +18,16 @@
 *.fls
 *.xdv
 *.synctex(busy)
+
+# LaTeX index/bibliography/beamer build artifacts
+*.idx
+*.ind
+*.ilg
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
 
 .venv/
 __pycache__/
