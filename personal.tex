@@ -1,0 +1,92 @@
+%& -job-name=Personal_lyrics
+\documentclass[a4paper,landscape]{memoir}
+\usepackage{chlewrics}
+\usepackage{multicol}
+\setlength{\columnsep}{6mm}
+\setsecnumdepth{chapter}
+
+\begin{document}
+\frontmatter
+\chapterstyle{thatcher}
+
+\begin{titlingpage}
+\centering
+\vspace*{\fill}
+{\LARGE\bfseries Personal\\\Huge Songbook\par}
+\bigskip
+{\large Selected songs about Carlos Thompson, whoever wrote them\par}
+\vspace*{\fill}
+{\normalsize Directed and Curated by \bfseries Carlos Eŭgenĭo Thompson Pinzón\par}
+{\normalsize Produced by \bfseries Suno\par}
+\bigskip
+{\normalsize CC-BY\par}
+{\normalsize 2026\par}
+\vspace*{\fill}
+\end{titlingpage}
+
+\clearpage\begin{multicols*}{2}
+\tableofcontents*
+\end{multicols*}
+\mainmatter
+\renewcommand\chaptername{Album~}
+
+\chapter{Biographical}
+\albumcover{covers/personal/biographical}
+A life told in two registers: the sequential memoir chapters -- Bogotá childhood, the fall of the Wall, the Gulf War, Ola Verde, ADHD diagnosis, marriage -- tracing decades of world events witnessed firsthand, running alongside a parallel catalog of early crushes, near-misses, and one catastrophically over-engineered trip to a conference in Chiang Mai.
+\clearpage\begin{multicols*}{4}
+\input{gabisson/adi_in_the_locker}
+\input{gabisson/sofa_at_midnight}
+\input{gabisson/ale_on_the_sofa}
+\input{gabisson/unconfessed}
+\input{chlewey/ugenito_a_travelers_gotterdaemmerung}
+\input{gabisson/arrow_throwing_rat}
+\input{temp/bogota_cathedral}
+\input{temp/history_witnessed_live}
+\input{temp/tuit_y_ceniza}
+\input{temp/baltic_and_bogota}
+\input{temp/memoria_de_humo}
+\input{temp/ventana_de_noviembre}
+\end{multicols*}
+
+\chapter{Soul and craves}
+\albumcover{covers/personal/soul-and-craves}
+The restless mind mid-scroll: cravings for stimulation, touch and distraction, the doomed discipline of staying present, and the elaborate alternate worlds built just to fill the gap between boredom and desire.
+\clearpage\begin{multicols*}{4}
+\input{temp/a_mind_that_craves_novelty}
+\input{temp/dejandome_llevar}
+\input{temp/stimuli}
+\input{temp/piel}
+\input{temp/living_fantasies_electronic}
+\input{temp/vueltas_y_vueltas}
+\input{gabisson/mundos_internos}
+\input{dvigitt/a_coffee_not_shared}
+\end{multicols*}
+
+\chapter{The self}
+\albumcover{covers/personal/the-self}
+Direct self-examination: absorbing other people's storms without agreeing to be blamed for them, the avoidance that disguises itself as a plan, the gifted-kid map that led nowhere, and the slow-won understanding that neither self-blame nor blaming others is what actually heals a wound.
+\clearpage\begin{multicols*}{4}
+\input{gabisson/modo_pararrayos}
+\input{gabisson/lightning_rod_mode}
+\input{temp/multiply_the_delay}
+\input{temp/the_fault_in_your_character}
+\input{temp/the_wrong_map}
+\input{rataflechera/time_to_stop}
+\input{wyomee/entre_mundos}
+\input{dvigitt/used_to_say}
+\input{dvigitt/buscando_culpables}
+\end{multicols*}
+
+\chapter{Extra stuff}
+\albumcover{covers/personal/extra-stuff}
+Two songs about the making of everything else in this project: the craft mechanics of landing a plot twist, and the moment invented characters stop needing their author.
+\clearpage\begin{multicols*}{4}
+\input{wyomee/writing_aint_easy}
+\input{dvigitt/weather_and_memory}
+\end{multicols*}
+
+\backmatter
+\printindex[songs]
+\clearpage
+\printindex[tags]
+\end{document}

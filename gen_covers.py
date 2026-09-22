@@ -36,6 +36,7 @@ PROPOSAL_DOCS = {
     'rockola': ROOT / 'covers' / 'rockola' / 'rockola-cover-proposals.md',
     'pop': ROOT / 'covers' / 'pop' / 'pop-cover-proposals.md',
     'generos': ROOT / 'covers' / 'generos' / 'generos-cover-proposals.md',
+    'personal': ROOT / 'covers' / 'personal' / 'personal-cover-proposals.md',
 }
 
 API_URL_TEMPLATE = 'https://generativelanguage.googleapis.com/v1/models/{model}:generateContent'

@@ -15,7 +15,8 @@
 
 .PARAMETER Target
     One of: all, chlewrics, electronica, pop, rockola, generos, internal,
-    stories, entourage, ricochets, original, clean, distclean. Default: all.
+    stories, entourage, ricochets, original, personal, clean, distclean.
+    Default: all.
 
 .EXAMPLE
     .\build.ps1
@@ -25,7 +26,7 @@
 param(
     [ValidateSet('all','chlewrics','electronica','pop','rockola','generos',
                  'internal','stories','entourage','ricochets','original',
-                 'clean','distclean')]
+                 'personal','clean','distclean')]
     [string]$Target = 'all'
 )
 
@@ -60,6 +61,7 @@ $books = [ordered]@{
     entourage   = @{ Src = 'entourage-eco.tex'; Job = 'Entourage_Lyrics' }
     ricochets   = @{ Src = 'ricochets.tex';     Job = 'Ricochets_lyrics' }
     original    = @{ Src = 'original.tex';      Job = 'Original_lyrics' }
+    personal    = @{ Src = 'personal.tex';      Job = 'Personal_lyrics' }
     chlewrics   = @{ Src = 'chlewrics.tex';     Job = 'Chlewrics' }
 }
 

@@ -350,22 +350,35 @@
 \contentsline {section}{Whiteboard Queen}{376}{}%
 \contentsline {section}{Zahra in White}{377}{}%
 \contentsline {section}{Meet Me at Punta Espada}{378}{}%
-\contentsline {chapter}{\chapternumberline {24}Chiptune, Ambient \& the Weird Edges}{379}{}%
-\contentsline {section}{Espectador de mi vida}{380}{}%
-\contentsline {section}{Miladi in the Dark}{381}{}%
-\contentsline {section}{Mobisarna}{382}{}%
-\contentsline {section}{E Numa Lah}{383}{}%
-\contentsline {section}{En la nube}{384}{}%
-\contentsline {section}{El juego}{385}{}%
-\contentsline {section}{Aurora by the Window}{386}{}%
-\contentsline {section}{Secret Fires (TrackB)}{387}{}%
-\contentsline {section}{She'll let you know}{388}{}%
-\contentsline {section}{Archivist's Map}{389}{}%
-\contentsline {section}{Badabum bin}{390}{}%
-\contentsline {section}{Claim Ledger Drift}{391}{}%
-\contentsline {section}{Closer to the Stars}{392}{}%
-\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{393}{}%
-\contentsline {section}{Post-Capitalist Lonely}{394}{}%
-\contentsline {section}{TrackB}{395}{}%
-\contentsline {section}{Red and Yellow}{396}{}%
-\contentsline {section}{Tiempo Real}{397}{}%
+\contentsline {section}{\textarabic {\sffamily لایە‌لایەی جان‌ئالان} (Laye-layey Jan-Alan)}{379}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {chapter}{\chapternumberline {24}Chiptune, Ambient \& the Weird Edges}{381}{}%
+\contentsline {section}{Espectador de mi vida}{382}{}%
+\contentsline {section}{Miladi in the Dark}{383}{}%
+\contentsline {section}{Mobisarna}{384}{}%
+\contentsline {section}{E Numa Lah}{385}{}%
+\contentsline {section}{En la nube}{386}{}%
+\contentsline {section}{El juego}{387}{}%
+\contentsline {section}{Aurora by the Window}{388}{}%
+\contentsline {section}{Secret Fires (TrackB)}{389}{}%
+\contentsline {section}{She'll let you know}{390}{}%
+\contentsline {section}{Archivist's Map}{391}{}%
+\contentsline {section}{Badabum bin}{392}{}%
+\contentsline {section}{Claim Ledger Drift}{393}{}%
+\contentsline {section}{Closer to the Stars}{394}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{395}{}%
+\contentsline {section}{Post-Capitalist Lonely}{396}{}%
+\contentsline {section}{TrackB}{397}{}%
+\contentsline {section}{Red and Yellow}{398}{}%
+\contentsline {section}{Tiempo Real}{399}{}%

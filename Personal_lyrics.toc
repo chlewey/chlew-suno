@@ -1,0 +1,36 @@
+\xpg@aux {}{english}
+\contentsline {chapter}{\chapternumberline {1}Biographical}{1}{}%
+\contentsline {section}{Adi In The Locker}{2}{}%
+\contentsline {section}{Sofa at Midnight}{3}{}%
+\contentsline {section}{Ale On The Sofa}{4}{}%
+\contentsline {section}{Unconfessed}{5}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{6}{}%
+\contentsline {section}{Arrow Throwing Rat}{8}{}%
+\contentsline {section}{Bogotá Cathedral}{9}{}%
+\contentsline {section}{History Witnessed Live}{10}{}%
+\contentsline {section}{Tuit y Ceniza}{11}{}%
+\contentsline {section}{Baltic and Bogotá}{12}{}%
+\contentsline {section}{Memoria de humo}{14}{}%
+\contentsline {section}{Ventana de noviembre}{15}{}%
+\contentsline {chapter}{\chapternumberline {2}Soul and craves}{17}{}%
+\contentsline {section}{A Mind That Craves Novelty}{18}{}%
+\contentsline {section}{Dejándome llevar}{19}{}%
+\contentsline {section}{Stimuli}{20}{}%
+\contentsline {section}{Piel}{21}{}%
+\contentsline {section}{Living Fantasies (electronic)}{22}{}%
+\contentsline {section}{Vueltas y vueltas}{23}{}%
+\contentsline {section}{Mundos internos}{24}{}%
+\contentsline {section}{A Coffee Not Shared}{25}{}%
+\contentsline {chapter}{\chapternumberline {3}The self}{27}{}%
+\contentsline {section}{Modo Pararrayos}{28}{}%
+\contentsline {section}{Lightning Rod Mode}{29}{}%
+\contentsline {section}{Multiply the Delay}{30}{}%
+\contentsline {section}{The Fault in Your Character}{31}{}%
+\contentsline {section}{The Wrong Map}{33}{}%
+\contentsline {section}{Time to Stop}{34}{}%
+\contentsline {section}{Entre mundos}{35}{}%
+\contentsline {section}{Used to Say}{37}{}%
+\contentsline {section}{Buscando culpables}{38}{}%
+\contentsline {chapter}{\chapternumberline {4}Extra stuff}{39}{}%
+\contentsline {section}{Writing Ain't Easy}{40}{}%
+\contentsline {section}{Weather and Memory}{41}{}%
