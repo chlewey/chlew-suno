@@ -37,6 +37,7 @@ PROPOSAL_DOCS = {
     'pop': ROOT / 'covers' / 'pop' / 'pop-cover-proposals.md',
     'generos': ROOT / 'covers' / 'generos' / 'generos-cover-proposals.md',
     'personal': ROOT / 'covers' / 'personal' / 'personal-cover-proposals.md',
+    'internal': ROOT / 'covers' / 'internal' / 'internal-cover-proposals.md',
 }
 
 API_URL_TEMPLATE = 'https://generativelanguage.googleapis.com/v1/models/{model}:generateContent'
