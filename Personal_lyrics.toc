@@ -13,24 +13,31 @@
 \contentsline {section}{Memoria de humo}{14}{}%
 \contentsline {section}{Ventana de noviembre}{15}{}%
 \contentsline {chapter}{\chapternumberline {2}Soul and craves}{17}{}%
-\contentsline {section}{A Mind That Craves Novelty}{18}{}%
-\contentsline {section}{Dejándome llevar}{19}{}%
-\contentsline {section}{Stimuli}{20}{}%
-\contentsline {section}{Piel}{21}{}%
-\contentsline {section}{Living Fantasies (electronic)}{22}{}%
-\contentsline {section}{Vueltas y vueltas}{23}{}%
-\contentsline {section}{Mundos internos}{24}{}%
-\contentsline {section}{A Coffee Not Shared}{25}{}%
-\contentsline {chapter}{\chapternumberline {3}The self}{27}{}%
-\contentsline {section}{Modo Pararrayos}{28}{}%
-\contentsline {section}{Lightning Rod Mode}{29}{}%
-\contentsline {section}{Multiply the Delay}{30}{}%
-\contentsline {section}{The Fault in Your Character}{31}{}%
-\contentsline {section}{The Wrong Map}{33}{}%
-\contentsline {section}{Time to Stop}{34}{}%
-\contentsline {section}{Entre mundos}{35}{}%
-\contentsline {section}{Used to Say}{37}{}%
-\contentsline {section}{Buscando culpables}{38}{}%
-\contentsline {chapter}{\chapternumberline {4}Extra stuff}{39}{}%
-\contentsline {section}{Writing Ain't Easy}{40}{}%
-\contentsline {section}{Weather and Memory}{41}{}%
+\contentsline {section}{No Excuse}{18}{}%
+\contentsline {section}{Irrelevant Conversations}{20}{}%
+\contentsline {section}{A Mind That Craves Novelty}{21}{}%
+\contentsline {section}{Dejándome llevar}{22}{}%
+\contentsline {section}{Stimuli}{23}{}%
+\contentsline {section}{Piel}{24}{}%
+\contentsline {section}{Connection}{25}{}%
+\contentsline {section}{Living Fantasies (electronic)}{26}{}%
+\contentsline {section}{Vueltas y vueltas}{27}{}%
+\contentsline {section}{Mundos internos}{28}{}%
+\contentsline {section}{A Coffee Not Shared}{29}{}%
+\contentsline {chapter}{\chapternumberline {3}The self}{31}{}%
+\contentsline {section}{Temblando}{32}{}%
+\contentsline {section}{Vulnerable}{33}{}%
+\contentsline {section}{The Loaded Mind}{34}{}%
+\contentsline {section}{Modo Pararrayos}{35}{}%
+\contentsline {section}{Lightning Rod Mode}{36}{}%
+\contentsline {section}{Multiply the Delay}{37}{}%
+\contentsline {section}{The Fault in Your Character}{38}{}%
+\contentsline {section}{The Wrong Map}{40}{}%
+\contentsline {section}{Time to Stop}{41}{}%
+\contentsline {section}{Entre mundos}{42}{}%
+\contentsline {section}{Used to Say}{44}{}%
+\contentsline {section}{Buscando culpables}{45}{}%
+\contentsline {section}{Kvar i mig}{46}{}%
+\contentsline {chapter}{\chapternumberline {4}Extra stuff}{47}{}%
+\contentsline {section}{Writing Ain't Easy}{48}{}%
+\contentsline {section}{Weather and Memory}{49}{}%

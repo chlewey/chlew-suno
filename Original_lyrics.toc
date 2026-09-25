@@ -42,35 +42,37 @@
 \contentsline {section}{Piravita View}{43}{}%
 \contentsline {section}{Thrice a Prisoner}{44}{}%
 \contentsline {section}{Throne of Smoke}{46}{}%
-\contentsline {chapter}{\chapternumberline {5}Personal}{49}{}%
-\contentsline {section}{The Wrong Map}{50}{}%
-\contentsline {section}{The Wrong Map}{51}{}%
+\contentsline {section}{Between Us}{48}{}%
+\contentsline {section}{No Griot for Thee}{49}{}%
+\contentsline {chapter}{\chapternumberline {5}Personal}{51}{}%
+\contentsline {section}{The Wrong Map}{52}{}%
 \contentsline {section}{The Wrong Map}{53}{}%
-\contentsline {section}{A Mind That Craves Novelty}{54}{}%
-\contentsline {section}{Dejándome llevar}{55}{}%
-\contentsline {section}{Stimuli}{56}{}%
-\contentsline {section}{Piel}{57}{}%
-\contentsline {section}{Vueltas y vueltas}{58}{}%
-\contentsline {section}{Living Fantasies (electronic)}{59}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{60}{}%
-\contentsline {section}{Living Fantasies (native folk)}{61}{}%
-\contentsline {section}{Connection}{62}{}%
-\contentsline {section}{History Witnessed Live}{63}{}%
-\contentsline {section}{Mundos internos}{64}{}%
-\contentsline {section}{A Coffee Not Shared}{65}{}%
-\contentsline {section}{Used to Say}{66}{}%
-\contentsline {section}{Writing Ain't Easy}{67}{}%
-\contentsline {section}{It's Still With Me}{68}{}%
-\contentsline {section}{Entre mundos}{70}{}%
-\contentsline {section}{Buscando culpables}{72}{}%
-\contentsline {chapter}{\chapternumberline {6}Experimental}{73}{}%
-\contentsline {section}{Colombia, Tu Papá}{74}{}%
-\contentsline {section}{Co Co Co Co}{75}{}%
-\contentsline {section}{Kapu Lema}{76}{}%
-\contentsline {section}{Badiba Buka}{77}{}%
-\contentsline {section}{Tiempo Real}{78}{}%
-\contentsline {section}{dij Schdzjarvk}{79}{}%
-\contentsline {section}{dij Schdzjarvk}{80}{}%
-\contentsline {section}{Parará Pa Pa}{81}{}%
-\contentsline {section}{O ku pater de nos}{82}{}%
-\contentsline {section}{Cheese Spoon Paseo}{83}{}%
+\contentsline {section}{The Wrong Map}{55}{}%
+\contentsline {section}{A Mind That Craves Novelty}{56}{}%
+\contentsline {section}{Dejándome llevar}{57}{}%
+\contentsline {section}{Stimuli}{58}{}%
+\contentsline {section}{Piel}{59}{}%
+\contentsline {section}{Vueltas y vueltas}{60}{}%
+\contentsline {section}{Living Fantasies (electronic)}{61}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{62}{}%
+\contentsline {section}{Living Fantasies (native folk)}{63}{}%
+\contentsline {section}{Connection}{64}{}%
+\contentsline {section}{History Witnessed Live}{65}{}%
+\contentsline {section}{Mundos internos}{66}{}%
+\contentsline {section}{A Coffee Not Shared}{67}{}%
+\contentsline {section}{Used to Say}{68}{}%
+\contentsline {section}{Writing Ain't Easy}{69}{}%
+\contentsline {section}{It's Still With Me}{70}{}%
+\contentsline {section}{Entre mundos}{72}{}%
+\contentsline {section}{Buscando culpables}{74}{}%
+\contentsline {chapter}{\chapternumberline {6}Experimental}{75}{}%
+\contentsline {section}{Colombia, Tu Papá}{76}{}%
+\contentsline {section}{Co Co Co Co}{77}{}%
+\contentsline {section}{Kapu Lema}{78}{}%
+\contentsline {section}{Badiba Buka}{79}{}%
+\contentsline {section}{Tiempo Real}{80}{}%
+\contentsline {section}{dij Schdzjarvk}{81}{}%
+\contentsline {section}{dij Schdzjarvk}{82}{}%
+\contentsline {section}{Parará Pa Pa}{83}{}%
+\contentsline {section}{O ku pater de nos}{84}{}%
+\contentsline {section}{Cheese Spoon Paseo}{85}{}%

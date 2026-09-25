@@ -185,20 +185,22 @@
 \contentsline {section}{New // Old}{221}{}%
 \contentsline {section}{Soundwall}{222}{}%
 \contentsline {section}{Stimuli}{223}{}%
-\contentsline {part}{\partnumberline {VI}Street Corner Riot}{225}{}%
-\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{229}{}%
-\contentsline {section}{Je hais ma haine}{230}{}%
-\contentsline {section}{Dig}{231}{}%
-\contentsline {section}{Peccato bello}{232}{}%
-\contentsline {section}{Comfort Zones}{233}{}%
-\contentsline {section}{Kein Feuer}{234}{}%
-\contentsline {section}{Street Corner Zambomba}{235}{}%
-\contentsline {section}{Pacificate}{236}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{237}{}%
-\contentsline {section}{Ik schreef mijn naam in}{238}{}%
-\contentsline {section}{Liis Talveuks}{239}{}%
-\contentsline {section}{Тепло без якоря}{240}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{241}{}%
+\contentsline {section}{Between Us}{224}{}%
+\contentsline {section}{Never Fall}{225}{}%
+\contentsline {part}{\partnumberline {VI}Street Corner Riot}{227}{}%
+\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{231}{}%
+\contentsline {section}{Je hais ma haine}{232}{}%
+\contentsline {section}{Dig}{233}{}%
+\contentsline {section}{Peccato bello}{234}{}%
+\contentsline {section}{Comfort Zones}{235}{}%
+\contentsline {section}{Kein Feuer}{236}{}%
+\contentsline {section}{Street Corner Zambomba}{237}{}%
+\contentsline {section}{Pacificate}{238}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{239}{}%
+\contentsline {section}{Ik schreef mijn naam in}{240}{}%
+\contentsline {section}{Liis Talveuks}{241}{}%
+\contentsline {section}{Тепло без якоря}{242}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{243}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -209,7 +211,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{242}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{244}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -220,10 +222,13 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{243}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{244}{}%
-\contentsline {section}{dij Schdzjarvk}{245}{}%
-\contentsline {section}{Doopi-Do-Doos}{246}{}%
-\contentsline {section}{Anama'inreesü tüa}{247}{}%
-\contentsline {section}{Kijana Msomi (short)}{248}{}%
-\contentsline {section}{Kelidi Degar}{249}{}%
+\contentsline {section}{Xumi}{245}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{246}{}%
+\contentsline {section}{dij Schdzjarvk}{247}{}%
+\contentsline {section}{Doopi-Do-Doos}{248}{}%
+\contentsline {section}{Anama'inreesü tüa}{249}{}%
+\contentsline {section}{Kijana Msomi (short)}{250}{}%
+\contentsline {section}{Kelidi Degar}{251}{}%
+\contentsline {section}{Binwe, Jan-Alan}{252}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{253}{}%
+\contentsline {section}{En upersonlig skjebne}{254}{}%
