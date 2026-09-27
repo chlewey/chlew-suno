@@ -1,16 +1,20 @@
-%
-%! regex-fix=true
-%! dir=chlewey
+# temp.tex — staged songs (Markdown rendering)
 
-\songtitle{Liam Guards the Light}
-\tag*{2026}\tag{dream-pop}
-\begin{notes}
-Lyrics by SUNO after a photo found in Carlos Thompson's phone -- Liam, a gray cat, guarding a sunlit room. Retrieved from Carlos Th's Suno page (V6-MINI, 25 September 2026).
-\end{notes}
-\begin{style}
-Dream-pop with soft synths, a slow 92 BPM pulse and gently swaying groove built from warm analog pads, rounded sub bass, brushed electronic drums, and glassy plucked keys. Use close, tender lead vocals with airy doubles, wide whispered ad-libs, and short delay throws on "Liam." Open with a hazy wide chorus, pull into a sparse verse, then bloom the final chorus with layered harmonies. Add soft tape flutter, filtered risers, and a bright intimate mix.
-\end{style}
-\begin{lyrics}
+12 songs currently staged in `temp.tex`, awaiting `desong.py`.
+
+---
+
+## Liam Guards the Light
+
+**Creator:** Carlos Th (chlewey)
+**Tags:** 2026, dream-pop
+
+**Notes:** Lyrics by SUNO after a photo found in Carlos Thompson's phone -- Liam, a gray cat, guarding a sunlit room. Retrieved from Carlos Th's Suno page (V6-MINI, 25 September 2026).
+
+**Style:** Dream-pop with soft synths, a slow 92 BPM pulse and gently swaying groove built from warm analog pads, rounded sub bass, brushed electronic drums, and glassy plucked keys. Use close, tender lead vocals with airy doubles, wide whispered ad-libs, and short delay throws on "Liam." Open with a hazy wide chorus, pull into a sparse verse, then bloom the final chorus with layered harmonies. Add soft tape flutter, filtered risers, and a bright intimate mix.
+
+**Lyrics:**
+```
 [Chorus]
 Liam, guard the light
 Liam, stay in sight
@@ -38,17 +42,21 @@ Gray paws on turquoise blue
 The sunlit room belongs to you
 Liam, guard the light
 Golden eyes burning bright
-\end{lyrics}
+```
 
-\songtitle{Every Little Letter}
-\tag*{2026}\tag{childrens-rock}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events} (written 2026), cowritten with Claude -- learning to read in 1977--78 in the Federman neighborhood of Bogotá alongside sister Luz Elena, one syllable at a time. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Children's rock, uplifting, bright live-band groove with punchy kick and snare, bouncing bass, crunchy friendly electric-guitar chords, and handclap accents. Start with a playful guitar-and-clap intro, build through story-led verses, then open into a big easy-to-sing chorus with group backing vocals; add a short guitar-and-keys lift before the final chorus. Clear youthful lead vocal, warm harmonies, lively but uncluttered family-friendly mix.
-\end{style}
-\begin{lyrics}
+---
+
+## Every Little Letter
+
+**Creator:** Carlos Th (chlewey)
+**Tags:** 2026, childrens-rock, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events* (written 2026), cowritten with Claude -- learning to read in 1977–78 in the Federman neighborhood of Bogotá alongside sister Luz Elena, one syllable at a time. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Children's rock, uplifting, bright live-band groove with punchy kick and snare, bouncing bass, crunchy friendly electric-guitar chords, and handclap accents. Start with a playful guitar-and-clap intro, build through story-led verses, then open into a big easy-to-sing chorus with group backing vocals; add a short guitar-and-keys lift before the final chorus. Clear youthful lead vocal, warm harmonies, lively but uncluttered family-friendly mix.
+
+**Lyrics:**
+```
 [Verse 1]
 First day, nineteen seventy-seven
 Wooden plane tucked in my hand
@@ -114,17 +122,21 @@ Every little letter set us free
 [Outro]
 Avión, sapo, words I could see
 Eme, eme--read along with me!
-\end{lyrics}
+```
 
-\songtitle{Havana-Bound}
-\tag*{2026}\tag{rock}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events}, cowritten with Claude -- senior year 1989, a wrong turn on the bus to a senior-retreat in Bucaramanga, whose last day landed in conflict with Carlos's own trip to Havana for the Iberoamerican Math Olympiad, and the cassette that scored the whole detour. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Argentinian rock protest pop with tape-saturated cassette textures and plate reverb, an 89 BPM danceable rock groove, clipped rhythm guitar, tight syncopated bass and live-room drums with driving tom fills, abrupt sectional shifts and a rising anthem-chorus lift; male baritone lead with a gang-chant refrain.
-\end{style}
-\begin{lyrics}
+---
+
+## Havana-Bound
+
+**Creator:** Carlos Th (chlewey)
+**Tags:** 2026, rock, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events*, cowritten with Claude -- senior year 1989, a wrong turn on the bus to a senior-retreat in Bucaramanga, whose last day landed in conflict with Carlos's own trip to Havana for the Iberoamerican Math Olympiad, and the cassette that scored the whole detour. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Argentinian rock protest pop with tape-saturated cassette textures and plate reverb, an 89 BPM danceable rock groove, clipped rhythm guitar, tight syncopated bass and live-room drums with driving tom fills, abrupt sectional shifts and a rising anthem-chorus lift; male baritone lead with a gang-chant refrain.
+
+**Lyrics:**
+```
 [Verse 1]
 Senior year, eighty-nine, three dates on the page:
 Cuba, the retreat, the exam to take.
@@ -196,17 +208,21 @@ I know what song comes next every time.
 [Outro]
 Side A, side B, that road rolls on,
 Tunja to Duitama, then the wrong turn's gone.
-\end{lyrics}
+```
 
-\songtitle{On the Road to Chachagüí}
-\tag*{2026}\tag{folk-rock}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events}, cowritten with Claude -- January 1997, Carnaval de Negros y Blancos in Pasto, Laguna de Cumbal, and a first kiss at twenty-four with the unnamed girl on his right shoulder, not with la Mona on his left. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-road folk-rock, South American folk rock, driving acoustic guitar rhythm, warm male vocals, storytelling indie folk, quena flute, requinto guitar, charango, bombo legüero percussion, dynamic Capishca and Carnavalito Andean folk rhythm sections
-\end{style}
-\begin{lyrics}
+---
+
+## On the Road to Chachagüí
+
+**Creator:** Carlos Th (chlewey)
+**Tags:** 2026, folk-rock, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events*, cowritten with Claude -- January 1997, Carnaval de Negros y Blancos in Pasto, Laguna de Cumbal, and a first kiss at twenty-four with the unnamed girl on his right shoulder, not with la Mona on his left. Retrieved from Carlos Th's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** road folk-rock, South American folk rock, driving acoustic guitar rhythm, warm male vocals, storytelling indie folk, quena flute, requinto guitar, charango, bombo legüero percussion, dynamic Capishca and Carnavalito Andean folk rhythm sections
+
+**Lyrics:**
+```
 [Verse 1]
 January twilight on the southern line
 An empty highway lost in ninety-seven time
@@ -254,50 +270,54 @@ I remember the kiss, I remember the lake
 I remember the turn the southern highways take
 A girl whose name I am still trying to keep
 [Fade out with quena and requinto over acoustic strum]
-\end{lyrics}
+```
 
-%! dir=rataflechera
+---
 
-\songtitle{Αοιδό δε θα ʼχεις}
-\tag*{2026}\tag{electroswing}\tag{greek-lyrics}\tag{mobouti-aman}
-\begin{notes}
-Electroswing excerpt of \emph{Μομπούτη, αμάν}, sharing the same 124\,BPM / F-minor arrangement as the Multilingual Electroswing Matrix. Retrieved from rataflechera's Suno page (V6, 26 September 2026).
-\end{notes}
-\begin{style}
-Electroswing, bright processed female vocal with repetitive melodic hooks, heavy compression and slight slapback delay; glitchy record scratches, vinyl crackle, sudden filter sweeps and momentary silences; syncopated staccato trumpet and trombone stabs, walking synthesized upright bass, four-on-the-floor kick, crisp high-frequency snare, offbeat swing piano chords; brisk 124 BPM dance pulse in F minor.
-\end{style}
-\begin{lyrics}
+## Αοιδό δε θα ʼχεις
+
+**Creator:** rataflechera
+**Tags:** 2026, electroswing, greek-lyrics, mobouti-aman
+
+**Notes:** Electroswing excerpt of *Μομπούτη, αμάν*, sharing the same 124 BPM / F-minor arrangement as the Multilingual Electroswing Matrix. Retrieved from rataflechera's Suno page (V6, 26 September 2026).
+
+**Style:** Electroswing, bright processed female vocal with repetitive melodic hooks, heavy compression and slight slapback delay; glitchy record scratches, vinyl crackle, sudden filter sweeps and momentary silences; syncopated staccato trumpet and trombone stabs, walking synthesized upright bass, four-on-the-floor kick, crisp high-frequency snare, offbeat swing piano chords; brisk 124 BPM dance pulse in F minor.
+
+**Lyrics:**
+```
 [Intro]
-\annotation{four-on-the-floor kick drum, vinyl crackle, staccato brass stabs}\\
+[four-on-the-floor kick drum, vinyl crackle, staccato brass stabs]
 Μομπούτη, Μομπούτη, αμάν, γιε του Αβουλών,
-\annotation{record scratch}\\
+[record scratch]
 κληρονόμε που τα παράτησες όλα,
-\annotation{full band enters, walking synth bass, swing piano}\\
+[full band enters, walking synth bass, swing piano]
 Μομπούτη, Μομπούτη, εγγονέ του Ταβαντισουγιάνου,
 
 [Chorus]
-\annotation{processed female vocals, bright brass section}\\
+[processed female vocals, bright brass section]
 στρατηγέ του Μαλί, διπλωμάτη,
 ιππότη των Ρωμαίων,
 παππού αυτοκρατόρων που θα 'ρθουν,
 νέας δυναστείας της θάλασσας, αμάν,
 
 [Outro]
-\annotation{filter sweep on brass}\\
+[filter sweep on brass]
 μα αοιδό δε θα 'χεις εσύ.
-\end{lyrics}
+```
 
-%! dir=gabisson
+---
 
-\songtitle{Run, Little Benny}
-\tag*{2026}\tag{death-metal}
-\begin{notes}
-Written by Suno after a specific prompt by Carlos Thompson on style and plot -- Benny the cat outrunning a pack of dogs across town to reach Lola, set to a death-metal-plays-salsa genre collision. Retrieved from Gabriel's Suno page (V6-MINI, 25 September 2026).
-\end{notes}
-\begin{style}
-Death metal attempting to play salsa, dramatic guttural male lead with clear narrative phrasing, frantic syncopated Latin dance groove, downtuned distorted guitars, blast-beat bursts, bright brass punches, busy hand percussion, stalk-forward verses erupting into catchy danceable choruses, abrupt stop-start breaks, raw chaotic live-room energy with deliberately unruly genre collision
-\end{style}
-\begin{lyrics}
+## Run, Little Benny
+
+**Creator:** Gabriel (gabisson)
+**Tags:** 2026, death-metal
+
+**Notes:** Written by Suno after a specific prompt by Carlos Thompson on style and plot -- Benny the cat outrunning a pack of dogs across town to reach Lola, set to a death-metal-plays-salsa genre collision. Retrieved from Gabriel's Suno page (V6-MINI, 25 September 2026).
+
+**Style:** Death metal attempting to play salsa, dramatic guttural male lead with clear narrative phrasing, frantic syncopated Latin dance groove, downtuned distorted guitars, blast-beat bursts, bright brass punches, busy hand percussion, stalk-forward verses erupting into catchy danceable choruses, abrupt stop-start breaks, raw chaotic live-room energy with deliberately unruly genre collision
+
+**Lyrics:**
+```
 [Verse 1]
 Benny slipped past the fish shop door,
 One torn ear and a paw gone sore.
@@ -355,19 +375,21 @@ A ribbon-tail welcome, a warm hiding place.
 [Outro]
 One torn ear, two purring hearts,
 Tomorrow they'll choose a different start.
-\end{lyrics}
+```
 
-%! dir=wyomee
+---
 
-\songtitle{Μομπούτη, αμάν}
-\tag*{2026}\tag{rebetiko}\tag{greek-lyrics}\tag{no-griot-for-thee}
-\begin{notes}
-Greek-language translation and adaptation by Claude of \emph{No Griot for Thee}, by Carlos Thompson, carrying Mombuto's own perspective within the \emph{Monukae} saga into the same rebetiko register. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Rebetiko: bouzouki tremolo, baglama strums, upright bass, qanun runs, frame drum patterns, orchestral strings, brass fanfare, and choral choir; off-kilter 9/8 sway; roomy plate reverb; male Greek baritone with rubato phrasing and a half-sung slow outro.
-\end{style}
-\begin{lyrics}
+## Μομπούτη, αμάν
+
+**Creator:** Wyomee Dank (wyomee)
+**Tags:** 2026, rebetiko, greek-lyrics, no-griot-for-thee
+
+**Notes:** Greek-language translation and adaptation by Claude of *No Griot for Thee*, by Carlos Thompson, carrying Mombuto's own perspective within the *Monukae* saga into the same rebetiko register. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Rebetiko: bouzouki tremolo, baglama strums, upright bass, qanun runs, frame drum patterns, orchestral strings, brass fanfare, and choral choir; off-kilter 9/8 sway; roomy plate reverb; male Greek baritone with rubato phrasing and a half-sung slow outro.
+
+**Lyrics:**
+```
 [Εισαγωγή]
 Πώς να ζήσεις κάτω απ' το βάρος,
 όταν ο πατέρας σου, αμάν, ήταν δύναμη της φύσης;
@@ -446,17 +468,21 @@ Rebetiko: bouzouki tremolo, baglama strums, upright bass, qanun runs, frame drum
 οι γιοι μου έγιναν βασιλιάδες της θάλασσας,
 κι έζησα μια ζωή περιπετειών, αμάν,
 μα πάντα κάτω απ' τη σκιά του Αβουλών.
-\end{lyrics}
+```
 
-\songtitle{Lost in What}
-\tag*{2026}\tag{j-pop}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events}, cowritten with Claude -- a bronze medal at a Beijing math olympiad, a solo climb up Mount Fuji, and the jet-lagged disorientation of a week spanning sixteen time zones between Bogotá and his parents' home in Stockholm. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-J-pop with bright, finely articulated piano leading tight modern pop drums, rounded bass, and clean electric guitar that widen the choruses; two distinct shakuhachi-and-koto instrumental bridges over restrained taiko, then a spacious pause before the final chorus. Polished contemporary production, vivid controlled dynamics, measured mid-tempo groove; clear earnest male tenor, close in the verses with layered final-chorus harmonies.
-\end{style}
-\begin{lyrics}
+---
+
+## Lost in What
+
+**Creator:** Wyomee Dank (wyomee)
+**Tags:** 2026, j-pop, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events*, cowritten with Claude -- a bronze medal at a Beijing math olympiad, a solo climb up Mount Fuji, and the jet-lagged disorientation of a week spanning sixteen time zones between Bogotá and his parents' home in Stockholm. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** J-pop with bright, finely articulated piano leading tight modern pop drums, rounded bass, and clean electric guitar that widen the choruses; two distinct shakuhachi-and-koto instrumental bridges over restrained taiko, then a spacious pause before the final chorus. Polished contemporary production, vivid controlled dynamics, measured mid-tempo groove; clear earnest male tenor, close in the verses with layered final-chorus harmonies.
+
+**Lyrics:**
+```
 [Verse 1]
 Beijing heat, the papers turned
 Third time beneath that contest clock
@@ -534,17 +560,21 @@ Still had no way to choose the road
 [Outro]
 We found our way back, side by side
 My body took the longer ride
-\end{lyrics}
+```
 
-\songtitle{Parked Outside the Classroom}
-\tag*{2026}\tag{alternative-metal}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events}, cowritten with Claude -- a math master's application that started in 2003, left unfinished outside a classroom door in 2004, and the January 2013 adult ADHD diagnosis that finally named why. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Candy-pop opening with bright piano, handclaps, buoyant major-key bass, and close male lead; gradually darken into a slow-burn alternative metal ballad with low-tuned guitars, restrained toms, wide sustained chords, and a cathartic final chorus. Clear narrative vocal, intimate and conversational in the verses, building to a raw but controlled tenor. Arrangement pivots from sugary, compact verse phrasing into spacious half-time weight; polished mix that grows grainier and more dynamic as the song descends.
-\end{style}
-\begin{lyrics}
+---
+
+## Parked Outside the Classroom
+
+**Creator:** Wyomee Dank (wyomee)
+**Tags:** 2026, alternative-metal, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events*, cowritten with Claude -- a math master's application that started in 2003, left unfinished outside a classroom door in 2004, and the January 2013 adult ADHD diagnosis that finally named why. Retrieved from Wyomee Dank's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Candy-pop opening with bright piano, handclaps, buoyant major-key bass, and close male lead; gradually darken into a slow-burn alternative metal ballad with low-tuned guitars, restrained toms, wide sustained chords, and a cathartic final chorus. Clear narrative vocal, intimate and conversational in the verses, building to a raw but controlled tenor. Arrangement pivots from sugary, compact verse phrasing into spacious half-time weight; polished mix that grows grainier and more dynamic as the song descends.
+
+**Lyrics:**
+```
 [Verse 1]
 Cuartas drew the numbers clean,
 A different kind of proof.
@@ -622,19 +652,21 @@ The classroom's still behind me.
 The road is not erased.
 I sit beside that younger man,
 And let him take his place.
-\end{lyrics}
+```
 
-%! dir=dvigitt
+---
 
-\songtitle{A Bag Sleeping in Jamaica}
-\tag*{2026}\tag{folk-rock}\tag{original-source}
-\begin{notes}
-Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir \emph{A Life in World Events}, cowritten with Claude -- a visa lapsed in 1998 and denied again in 2003, a 2009 detour through Jamaica, Queens and Staten Island on the way to visit his father in Yokohama, and an unspoken debt of kindness to Marialuz, met years earlier in a Stockholm newcomers' school. Retrieved from Dvigitt's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Folk-rock with a funk pulse, intimate conversational male lead with clear storytelling diction, warm chorus harmonies, and a nimble rhythmic rap bridge; dry syncopated electric bass up front, tight pocket drums, bright acoustic strumming, clipped electric guitar accents, small organ figure, fuller chorus guitars; steady road-worn groove, lean verses opening into wider choruses; natural live-room warmth, close vocal, punchy low end, restrained polish.
-\end{style}
-\begin{lyrics}
+## A Bag Sleeping in Jamaica
+
+**Creator:** Dvigitt
+**Tags:** 2026, folk-rock, original-source
+
+**Notes:** Lyrics by SUNO based on a short story extracted from Carlos Thompson's memoir *A Life in World Events*, cowritten with Claude -- a visa lapsed in 1998 and denied again in 2003, a 2009 detour through Jamaica, Queens and Staten Island on the way to visit his father in Yokohama, and an unspoken debt of kindness to Marialuz, met years earlier in a Stockholm newcomers' school. Retrieved from Dvigitt's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Folk-rock with a funk pulse, intimate conversational male lead with clear storytelling diction, warm chorus harmonies, and a nimble rhythmic rap bridge; dry syncopated electric bass up front, tight pocket drums, bright acoustic strumming, clipped electric guitar accents, small organ figure, fuller chorus guitars; steady road-worn groove, lean verses opening into wider choruses; natural live-room warmth, close vocal, punchy low end, restrained polish.
+
+**Lyrics:**
+```
 [Verse 1]
 My visa wore out in ninety-eight,
 I tried again in oh-three, got a no.
@@ -711,19 +743,21 @@ And a story still folded inside me.
 Next day, Japan.
 The bag came back.
 The words stayed packed.
-\end{lyrics}
+```
 
-%! dir=gabisson
+---
 
-\songtitle{A Little Butterfly}
-\tag*{2026}\tag{ambient-dubstep}\tag{original-lyrics}
-\begin{notes}
-Written by Carlos Thompson -- a caterpillar's metamorphosis into a butterfly, told as a quiet meditation on growth, forgetting, and the cravings that come with becoming something new. Retrieved from Gabriel's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Ambient dubstep with candy-bright melodic lead, deep rounded sub-bass, delicate triangles and xylophone; close-mic female vocals with an almost-childish, mellow melodic delivery; unhurried, gently pulsing groove; wide reverb tails.
-\end{style}
-\begin{lyrics}
+## A Little Butterfly
+
+**Creator:** Gabriel (gabisson)
+**Tags:** 2026, ambient-dubstep, original-lyrics
+
+**Notes:** Written by Carlos Thompson -- a caterpillar's metamorphosis into a butterfly, told as a quiet meditation on growth, forgetting, and the cravings that come with becoming something new. Retrieved from Gabriel's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Ambient dubstep with candy-bright melodic lead, deep rounded sub-bass, delicate triangles and xylophone; close-mic female vocals with an almost-childish, mellow melodic delivery; unhurried, gently pulsing groove; wide reverb tails.
+
+**Lyrics:**
+```
 A little butterfly
 sings on her leaf, waiting
 for a mate to appear
@@ -756,19 +790,21 @@ with many cravings and many lights.
 
 A little butterfly
 sings on her leaf, expecting...
-\end{lyrics}
+```
 
-%! dir=dvigitt
+---
 
-\songtitle{Marchan las hormigas}
-\tag*{2026}\tag{march}\tag{original-lyrics}\tag{spanish-lyrics}
-\begin{notes}
-Written by Carlos Thompson -- a militar march sung by ants, each one certain of her value and her destiny within the colony. Retrieved from Dvigitt's Suno page (V6-MINI, 26 September 2026).
-\end{notes}
-\begin{style}
-Militar march at a steady, buoyant pace, female choir in broad layered harmonies with crisp unison calls, marching percussion, rounded bass, bright woodwinds and rhythmic handclaps; full, balanced choral production.
-\end{style}
-\begin{lyrics}
+## Marchan las hormigas
+
+**Creator:** Dvigitt
+**Tags:** 2026, march, original-lyrics, spanish-lyrics
+
+**Notes:** Written by Carlos Thompson -- a militar march sung by ants, each one certain of her value and her destiny within the colony. Retrieved from Dvigitt's Suno page (V6-MINI, 26 September 2026).
+
+**Style:** Militar march at a steady, buoyant pace, female choir in broad layered harmonies with crisp unison calls, marching percussion, rounded bass, bright woodwinds and rhythmic handclaps; full, balanced choral production.
+
+**Lyrics:**
+```
 [Intro]
 ¡Listos!
 ¡Con compás!
@@ -802,60 +838,4 @@ Marchan las hormigas (marchan las hormigas),
 tienen su misión (tienen su misión),
 vivir por la colonia (vivir por la colonia),
 darlo todo bajo el sol.
-\end{lyrics}
-
-%! dir=gabisson
-
-\songtitle{Two Years in Södermalm}
-\tag*{2026}\tag{industrial-r-and-b}\tag{original-lyrics}
-\begin{notes}
-Written by Carlos Thompson -- two years of noticing the same redhead punk stranger around Södermalm, on the commute past Medborgarplatsen to Gullmarsplan's Vuxengymnasium, never speaking, never learning her name. Retrieved from Gabriel's Suno page (V6-MINI, 27 September 2026).
-\end{notes}
-\begin{style}
-Industrial R\&B with 1990s grit: jagged distorted guitar and bass drive punk instrumental bridges, hard-panned industrial percussion cuts across the stereo field; male lead vocal with careful anglicized Swedish toponyms; tense, unhurried midtempo groove.
-\end{style}
-\begin{lyrics}
-[Verse 1]
-I watched you in the distance for almost two years
-cruising the streets near Medborgarplatsen metro station
-on the commute to Gullmarsplan's Vuxengymnasium
-occasionally elsewhere in the city.
-
-[Verse 2]
-I never knew who you were, never got a name,
-never an idea of who you were or what you were about--
-just your aesthetics, the same rebellious punk every season,
-yet just a fixture in the urban landscape.
-
-[Chorus]
-Two years in Södermalm, walking the streets,
-one fixed feature in the human landscape:
-a redhead punk lady (a ginger girl)
-with whom I nearly fell in love.
-
-[Verse 3]
-You got me mesmerized for nearly two years.
-Two years I kept noticing you in the neighborhood,
-a neighborhood too big for you to notice me,
-the off-center center of Stockholms län.
-
-[Chorus]
-Two years in Södermalm, walking the streets,
-one fixed feature in the human landscape:
-a redhead punk lady (a ginger girl)
-with whom I nearly fell in love.
-
-[Bridge]
-Same jacket, same stockings, year-long,
-same disruptive punk aesthetics--
-a mask over a gorgeous woman inside
-that I just could not help longing for.
-
-[Final Chorus]
-Two years in Södermalm, walking the streets,
-one fixed feature in the human landscape:
-a redhead punk lady,
-a gorgeous woman underlying,
-a long longing, a long dream--
-a girl with whom I nearly fell in love.
-\end{lyrics}
+```
