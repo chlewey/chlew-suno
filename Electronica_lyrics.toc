@@ -53,16 +53,17 @@
 \contentsline {chapter}{\chapternumberline {4}Sardinian Winds, Tallinn Shadows \& Polyamory}{63}{}%
 \contentsline {section}{Su peccadu meu}{64}{}%
 \contentsline {section}{Back Seat Proposal}{65}{}%
-\contentsline {section}{Orbit Of Names}{67}{}%
-\contentsline {section}{Unspoken Rhythm}{68}{}%
-\contentsline {section}{A Modest Castle}{69}{}%
-\contentsline {section}{Landscape}{70}{}%
-\contentsline {section}{Lilac-eyed Demon}{72}{}%
-\contentsline {section}{I Thought We Were Home}{73}{}%
-\contentsline {section}{Runaway And Canvas}{75}{}%
-\contentsline {section}{Reading Too Much}{76}{}%
-\contentsline {section}{Then There's You}{77}{}%
-\contentsline {section}{Eyes from the Dance Floor}{78}{}%
+\contentsline {section}{Orbit Of Names}{66}{}%
+\contentsline {section}{Unspoken Rhythm}{67}{}%
+\contentsline {section}{A Modest Castle}{68}{}%
+\contentsline {section}{Landscape}{69}{}%
+\contentsline {section}{Lilac-eyed Demon}{71}{}%
+\contentsline {section}{I Thought We Were Home}{72}{}%
+\contentsline {section}{Runaway And Canvas}{74}{}%
+\contentsline {section}{Reading Too Much}{75}{}%
+\contentsline {section}{Then There's You}{76}{}%
+\contentsline {section}{Eyes from the Dance Floor}{77}{}%
+\contentsline {section}{Asleep in His Arms}{78}{}%
 \contentsline {part}{\partnumberline {II}Ricochets}{79}{}%
 \contentsline {chapter}{\chapternumberline {5}The Crossfire Beats (Ricochets)}{83}{}%
 \contentsline {section}{Carolina}{84}{}%
@@ -98,6 +99,7 @@
 \contentsline {section}{Sofa at Midnight}{120}{}%
 \contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{121}{}%
 \contentsline {section}{Battle for the Throne}{123}{}%
+\contentsline {section}{A Little Butterfly}{124}{}%
 \contentsline {part}{\partnumberline {IV}Essays}{125}{}%
 \contentsline {chapter}{\chapternumberline {8}Scientific Logic Meets the Bass Drop (Essays)}{129}{}%
 \contentsline {section}{EISH5 Worlds}{130}{}%
@@ -232,3 +234,4 @@
 \contentsline {section}{Binwe, Jan-Alan}{252}{}%
 \contentsline {section}{Iníon an fhoghlaí mhara}{253}{}%
 \contentsline {section}{En upersonlig skjebne}{254}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{255}{}%

@@ -1,43 +1,51 @@
 \xpg@aux {}{english}
 \contentsline {chapter}{\chapternumberline {1}Biographical}{1}{}%
-\contentsline {section}{Adi In The Locker}{2}{}%
-\contentsline {section}{Sofa at Midnight}{3}{}%
-\contentsline {section}{Ale On The Sofa}{4}{}%
-\contentsline {section}{Unconfessed}{5}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{6}{}%
-\contentsline {section}{Arrow Throwing Rat}{8}{}%
-\contentsline {section}{Bogotá Cathedral}{9}{}%
-\contentsline {section}{History Witnessed Live}{10}{}%
-\contentsline {section}{Tuit y Ceniza}{11}{}%
-\contentsline {section}{Baltic and Bogotá}{12}{}%
-\contentsline {section}{Memoria de humo}{14}{}%
-\contentsline {section}{Ventana de noviembre}{15}{}%
-\contentsline {chapter}{\chapternumberline {2}Soul and craves}{17}{}%
-\contentsline {section}{No Excuse}{18}{}%
-\contentsline {section}{Irrelevant Conversations}{20}{}%
-\contentsline {section}{A Mind That Craves Novelty}{21}{}%
-\contentsline {section}{Dejándome llevar}{22}{}%
-\contentsline {section}{Stimuli}{23}{}%
-\contentsline {section}{Piel}{24}{}%
-\contentsline {section}{Connection}{25}{}%
-\contentsline {section}{Living Fantasies (electronic)}{26}{}%
-\contentsline {section}{Vueltas y vueltas}{27}{}%
-\contentsline {section}{Mundos internos}{28}{}%
-\contentsline {section}{A Coffee Not Shared}{29}{}%
-\contentsline {chapter}{\chapternumberline {3}The self}{31}{}%
-\contentsline {section}{Temblando}{32}{}%
-\contentsline {section}{Vulnerable}{33}{}%
-\contentsline {section}{The Loaded Mind}{34}{}%
-\contentsline {section}{Modo Pararrayos}{35}{}%
-\contentsline {section}{Lightning Rod Mode}{36}{}%
-\contentsline {section}{Multiply the Delay}{37}{}%
-\contentsline {section}{The Fault in Your Character}{38}{}%
-\contentsline {section}{The Wrong Map}{40}{}%
-\contentsline {section}{Time to Stop}{41}{}%
-\contentsline {section}{Entre mundos}{42}{}%
-\contentsline {section}{Used to Say}{44}{}%
-\contentsline {section}{Buscando culpables}{45}{}%
-\contentsline {section}{Kvar i mig}{46}{}%
-\contentsline {chapter}{\chapternumberline {4}Extra stuff}{47}{}%
-\contentsline {section}{Writing Ain't Easy}{48}{}%
-\contentsline {section}{Weather and Memory}{49}{}%
+\contentsline {section}{Every Little Letter}{2}{}%
+\contentsline {section}{Adi In The Locker}{3}{}%
+\contentsline {section}{Havana-Bound}{4}{}%
+\contentsline {section}{On the Road to Chachagüí}{5}{}%
+\contentsline {section}{Lost in What}{6}{}%
+\contentsline {section}{Two Years in Södermalm}{7}{}%
+\contentsline {section}{Sofa at Midnight}{8}{}%
+\contentsline {section}{Ale On The Sofa}{9}{}%
+\contentsline {section}{Parked Outside the Classroom}{10}{}%
+\contentsline {section}{A Bag Sleeping in Jamaica}{11}{}%
+\contentsline {section}{Unconfessed}{12}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{13}{}%
+\contentsline {section}{Arrow Throwing Rat}{15}{}%
+\contentsline {section}{Bogotá Cathedral}{16}{}%
+\contentsline {section}{History Witnessed Live}{17}{}%
+\contentsline {section}{Tuit y Ceniza}{18}{}%
+\contentsline {section}{Baltic and Bogotá}{19}{}%
+\contentsline {section}{Memoria de humo}{21}{}%
+\contentsline {section}{Ventana de noviembre}{22}{}%
+\contentsline {chapter}{\chapternumberline {2}Soul and craves}{23}{}%
+\contentsline {section}{No Excuse}{24}{}%
+\contentsline {section}{Irrelevant Conversations}{26}{}%
+\contentsline {section}{A Mind That Craves Novelty}{27}{}%
+\contentsline {section}{Dejándome llevar}{28}{}%
+\contentsline {section}{Stimuli}{29}{}%
+\contentsline {section}{Piel}{30}{}%
+\contentsline {section}{Connection}{31}{}%
+\contentsline {section}{Living Fantasies (electronic)}{32}{}%
+\contentsline {section}{Vueltas y vueltas}{33}{}%
+\contentsline {section}{Mundos internos}{34}{}%
+\contentsline {section}{A Coffee Not Shared}{35}{}%
+\contentsline {section}{Perderme en el anhelo}{36}{}%
+\contentsline {chapter}{\chapternumberline {3}The self}{37}{}%
+\contentsline {section}{Temblando}{38}{}%
+\contentsline {section}{Vulnerable}{39}{}%
+\contentsline {section}{The Loaded Mind}{40}{}%
+\contentsline {section}{Modo Pararrayos}{41}{}%
+\contentsline {section}{Lightning Rod Mode}{42}{}%
+\contentsline {section}{Multiply the Delay}{43}{}%
+\contentsline {section}{The Fault in Your Character}{44}{}%
+\contentsline {section}{The Wrong Map}{46}{}%
+\contentsline {section}{Time to Stop}{47}{}%
+\contentsline {section}{Entre mundos}{48}{}%
+\contentsline {section}{Used to Say}{50}{}%
+\contentsline {section}{Buscando culpables}{51}{}%
+\contentsline {section}{Kvar i mig}{52}{}%
+\contentsline {chapter}{\chapternumberline {4}Extra stuff}{53}{}%
+\contentsline {section}{Writing Ain't Easy}{54}{}%
+\contentsline {section}{Weather and Memory}{55}{}%

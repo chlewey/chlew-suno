@@ -62,7 +62,7 @@
 
 \newlength{\x@indent}
 \newlength{\x@left}
-\newcommand{\lyricsbreak}{\hfill\break\hspace*{-\x@indent}}
+\newcommand{\lyricsbreak}{\hfill\break\hspace*{-\x@indent}\ignorespaces}
 \newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
   \setlength\x@indent{1.25em}%
 \else

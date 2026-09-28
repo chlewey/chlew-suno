@@ -127,6 +127,7 @@
 \contentsline {section}{Burn the Glass}{147}{}%
 \contentsline {section}{The Wrong Map}{148}{}%
 \contentsline {section}{Time to Stop}{149}{}%
+\contentsline {section}{Parked Outside the Classroom}{150}{}%
 \contentsline {chapter}{\chapternumberline {11}Confessions \& Small Defeats}{151}{}%
 \contentsline {section}{Je hais}{152}{}%
 \contentsline {section}{Je hais}{153}{}%
@@ -141,8 +142,10 @@
 \contentsline {section}{A Mind That Craves Novelty}{164}{}%
 \contentsline {section}{The Last Waltz of the Northern}{165}{}%
 \contentsline {section}{Migrant Echoes}{166}{}%
-\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{167}{}%
-\contentsline {section}{Candy Rock Day}{168}{}%
-\contentsline {section}{Rainbow Candy Parade}{169}{}%
-\contentsline {section}{Peter City Walk}{170}{}%
-\contentsline {section}{Pastel Dream}{171}{}%
+\contentsline {section}{Havana-Bound}{167}{}%
+\contentsline {chapter}{\chapternumberline {12}Playful Escapes \& Candy Rock Parades}{169}{}%
+\contentsline {section}{Candy Rock Day}{170}{}%
+\contentsline {section}{Rainbow Candy Parade}{171}{}%
+\contentsline {section}{Peter City Walk}{172}{}%
+\contentsline {section}{Pastel Dream}{173}{}%
+\contentsline {section}{Every Little Letter}{174}{}%

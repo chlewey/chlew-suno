@@ -24,11 +24,23 @@ An overhead photograph of a stack of overlapping handwritten manuscript pages on
 
 An overhead photograph of an open writer's notebook spread across two pages on a wooden desk, handwritten story openings visible but softly out of focus and illegible. Small doodled sketches fill the margins: a pair of delicate angel wings, a child's crayon-style city map, a tiny crown, and a single red eye glancing sideways. A fountain pen rests across the spread's center fold. Warm desk light, photorealistic still life, shallow depth of field, an eclectic idea-board mood spanning many genres at once. No text overlay. Square 1:1 aspect ratio.
 
-## Personal
+## Restless Mind
 
-`covers/original/personal`
+`covers/original/restless-mind`
 
 A late-night desk scene photographed from a slightly elevated angle: a laptop screen glowing with a half-written document, its text soft and blurred beyond recognition, positioned beside a smartphone lying face-up mid-scroll on a paused social feed. A chipped ceramic coffee mug sits nearby, and in front of it a hand-drawn mind-map covers a notepad page, dense with restless scribbled arrows, circled words, and crossed-out ideas. Beyond the desk, a window shows a distant city skyline glittering at night. The only light comes from the laptop screen and a single small desk lamp, casting the rest of the room in shadow. Photorealistic interior still life, intimate and quietly exposed mood, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
+
+## Essays and Reckonings
+
+`covers/original/essays-and-reckonings`
+
+An overhead photograph of a stack of hand-annotated essay pages, dense with marginalia, cross-outs, and arrows connecting arguments, a small worn photograph tucked between two pages like a bookmark, and an antique brass gavel resting diagonally across the stack — not raised to strike, just set down. Beside it, the corner of an old world map is visible, its inked routes tracing decades of history. Warm desk-lamp light, photorealistic still life, contemplative and resolved rather than combative mood. No text overlay. Square 1:1 aspect ratio.
+
+## Partial Authorship
+
+`covers/original/partial-authorship`
+
+An overhead photograph of a single manuscript page where the top third is written in flowing handwritten cursive ink, then partway down the handwriting abruptly gives way to precise, machine-printed typewritten text continuing the very same lines, before the hand returns again near the bottom — two visibly different hands finishing each other's sentences on one page. A fountain pen rests beside the handwritten sections, untouched near the printed ones. Warm desk-lamp light, photorealistic still life, a quiet visual record of shared authorship. No text overlay. Square 1:1 aspect ratio.
 
 ## Experimental
 
