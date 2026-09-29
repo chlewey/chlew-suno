@@ -49,7 +49,7 @@
 \newcommand\tag{\@ifstar\tag@star\tag@nostar}
 \newcommand\tag@nostar[2][\@empty]{%
 \@ifundefined{tag@excl@#2}{%
-\texttt{\,\footnotesize\textbf{\##2}\,}%
+\texttt{\hspace{0.1em plus 0.066667em}\footnotesize\textbf{\##2}\,}%
 \index[tags]{#2}%
 \ifx\@empty#1\relax\else\index[#1]{#2}\fi
 }{}%

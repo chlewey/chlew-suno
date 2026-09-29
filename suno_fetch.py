@@ -1,7 +1,9 @@
 import argparse
 import json
+import os
 import re
 import sys
+import unicodedata
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -100,12 +102,54 @@ def format_summary(song):
     return '\n'.join(lines)
 
 
+def looks_like_url(s):
+    return s.startswith('http://') or s.startswith('https://') or 'suno.com' in s
+
+
+def slugify(title):
+    """Best-effort ASCII slug for a song title (diacritics stripped; other
+    non-ASCII scripts dropped). Falls back to 'song' if nothing usable is left."""
+    normalized = unicodedata.normalize('NFKD', title or '')
+    ascii_only = normalized.encode('ascii', 'ignore').decode('ascii')
+    slug = re.sub(r'[^a-zA-Z0-9]+', '_', ascii_only).strip('_').lower()
+    return slug or 'song'
+
+
+def unique_path(stub, ext):
+    """<stub><ext>, or <stub>_1<ext>, <stub>_2<ext>, ... if that's taken."""
+    candidate = f'{stub}{ext}'
+    if not os.path.exists(candidate):
+        return candidate
+    n = 1
+    while True:
+        candidate = f'{stub}_{n}{ext}'
+        if not os.path.exists(candidate):
+            return candidate
+        n += 1
+
+
+def render(song, as_json):
+    if as_json:
+        song = dict(song)
+        song['created_at'] = song['created_at'].isoformat() if song['created_at'] else None
+        return json.dumps(song, ensure_ascii=False, indent=2)
+    return format_summary(song)
+
+
 def build_parser():
     parser = argparse.ArgumentParser(
         description='Fetch title, style, lyrics, and metadata for one or more Suno songs.'
     )
-    parser.add_argument('urls', nargs='+', help='Suno song URLs (short or canonical).')
+    parser.add_argument('urls', nargs='+',
+                         help='Suno song URLs (short or canonical). A single URL may be followed '
+                              'by an explicit output filename as a second, non-URL argument.')
     parser.add_argument('-j', '--json', action='store_true', help='Print raw JSON instead of a summary.')
+    parser.add_argument('-o', '--output', metavar='FILENAME',
+                         help='Write output to this file instead of stdout (single URL only).')
+    parser.add_argument('-a', '--auto-output', action='store_true',
+                         help="Write each song to an auto-named <slugified-title>.json or .txt "
+                              "(matching --json), auto-enumerated (_1, _2, ...) on collision, "
+                              "instead of printing to stdout.")
     return parser
 
 
@@ -114,9 +158,20 @@ if __name__ == '__main__':
         sys.stdout.reconfigure(encoding='utf-8')
         sys.stderr.reconfigure(encoding='utf-8')
     args = build_parser().parse_args()
+
+    urls = args.urls
+    output = args.output
+    if output is None and len(urls) == 2 and not looks_like_url(urls[1]):
+        urls, output = [urls[0]], urls[1]
+
+    if output and args.auto_output:
+        build_parser().error('--output and --auto-output are mutually exclusive.')
+    if output and len(urls) != 1:
+        build_parser().error('an explicit output filename requires exactly one URL.')
+
     exit_code = 0
-    for i, url in enumerate(args.urls):
-        if i:
+    for i, url in enumerate(urls):
+        if i and not output and not args.auto_output:
             print()
         try:
             song = fetch_suno_song(url)
@@ -124,10 +179,19 @@ if __name__ == '__main__':
             print(f'Error fetching {url}: {exc}', file=sys.stderr)
             exit_code = 1
             continue
-        if args.json:
-            song = dict(song)
-            song['created_at'] = song['created_at'].isoformat() if song['created_at'] else None
-            print(json.dumps(song, ensure_ascii=False, indent=2))
+
+        text = render(song, args.json)
+
+        if args.auto_output:
+            ext = '.json' if args.json else '.txt'
+            path = unique_path(slugify(song['title']), ext)
+            with open(path, 'w', encoding='utf-8') as f:
+                f.write(text + '\n')
+            print(f"Saved '{song['title']}' -> {path}")
+        elif output:
+            with open(output, 'w', encoding='utf-8') as f:
+                f.write(text + '\n')
+            print(f"Saved '{song['title']}' -> {output}")
         else:
-            print(format_summary(song))
+            print(text)
     sys.exit(exit_code)
