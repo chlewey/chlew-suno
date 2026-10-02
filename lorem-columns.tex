@@ -1,0 +1,91 @@
+%& -job-name=Lorem_columns
+% Layout test for the `lyrics` environment in chlewrics.sty: one landscape
+% page, four columns, lorem ipsum. Column rules are on so column widths and
+% gutters can be compared at a glance.
+\documentclass[a4paper,landscape]{memoir}
+\usepackage{chlewrics}
+\usepackage{multicol}
+\setlength{\columnsep}{6mm}
+\setlength{\columnseprule}{0.4pt}
+\setsecnumdepth{chapter}
+\begin{document}
+\pagestyle{empty}
+\begin{multicols*}{4}
+\songtitle{Lorem Ipsum}
+
+\tag*{2026}\tag{test}\tag{lorem-ipsum}
+\begin{notes}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+\end{notes}
+\begin{style}
+Lorem ipsum, dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor, incididunt ut labore, et dolore magna aliqua, ut enim ad minim veniam
+\end{style}
+\begin{lyrics}
+\songpart{Verse 1}
+Lorem ipsum dolor sit amet,\\
+Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.\\
+Ut enim ad minim veniam, quis nostrud,\\
+Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\\
+Duis aute irure dolor in reprehenderit,\\
+In voluptate velit esse cillum dolore eu fugiat nulla pariatur.\\
+Excepteur sint occaecat cupidatat non proident,\\
+Sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\songpart{Chorus}
+Sed ut perspiciatis unde omnis iste natus,\\
+Error sit voluptatem accusantium doloremque laudantium.\\
+Totam rem aperiam, eaque ipsa quae ab illo,\\
+Inventore veritatis et quasi architecto beatae vitae dicta sunt.\\
+Nemo enim ipsam voluptatem quia voluptas,\\
+Sit aspernatur aut odit aut fugit.
+
+\songpart{Verse 2}
+Neque porro quisquam est, qui dolorem ipsum,\\
+Quia dolor sit amet, consectetur, adipisci velit.\\
+Ut labore et dolore magnam aliquam quaerat voluptatem,\\
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.\\
+Quis autem vel eum iure reprehenderit,\\
+Qui in ea voluptate velit esse quam nihil molestiae consequatur.\\
+Vel illum qui dolorem eum fugiat,\\
+Quo voluptas nulla pariatur.
+
+\songpart{Chorus}
+Sed ut perspiciatis unde omnis iste natus,\\
+Error sit voluptatem accusantium doloremque laudantium.\\
+Totam rem aperiam, eaque ipsa quae ab illo,\\
+Inventore veritatis et quasi architecto beatae vitae dicta sunt.\\
+Nemo enim ipsam voluptatem quia voluptas,\\
+Sit aspernatur aut odit aut fugit.
+
+\songpart{Verse 3}
+At vero eos et accusamus et iusto odio dignissimos,\\
+Ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.\\
+Quos dolores et quas molestias excepturi sint,\\
+Obcaecati cupiditate non provident, similique sunt in culpa.\\
+Et harum quidem rerum facilis est et expedita distinctio,\\
+Nam libero tempore, cum soluta nobis est eligendi optio.\\
+Cumque nihil impedit quo minus id quod maxime placeat,\\
+Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+
+\songpart{Bridge}
+Temporibus autem quibusdam et aut officiis debitis,\\
+Aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae.\\
+Sint et molestiae non recusandae,\\
+Itaque earum rerum hic tenetur a sapiente delectus.\\
+Ut aut reiciendis voluptatibus maiores alias,\\
+Consequatur aut perferendis doloribus asperiores repellat.
+
+\songpart{Final Chorus}
+Sed ut perspiciatis unde omnis iste natus,\\
+Error sit voluptatem accusantium doloremque laudantium.\\
+Totam rem aperiam, eaque ipsa quae ab illo,\\
+Inventore veritatis et quasi architecto beatae vitae dicta sunt.\\
+Nemo enim ipsam voluptatem quia voluptas,\\
+Sit aspernatur aut odit aut fugit.
+
+\songpart{Outro}
+Lorem ipsum dolor sit amet,\\
+Consectetur adipiscing elit.
+\end{lyrics}
+\end{multicols*}
+\end{document}

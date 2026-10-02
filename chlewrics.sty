@@ -64,7 +64,7 @@
 \newlength{\x@left}
 \newcommand{\lyricsbreak}{\hfill\break\hspace*{-\x@indent}\ignorespaces}
 \newenvironment{lyrics}[1][\@empty]{\ifx\@empty#1%
-  \setlength\x@indent{1.25em}%
+  \setlength\x@indent{0.5em}%
 \else
   \setlength\x@left{\dimexpr\columnwidth - #1\relax}%
   \setlength\x@indent{0.5\x@left}%
@@ -75,7 +75,7 @@
 \setlength{\parskip}{1em}%
 \setlength{\parindent}{0pt}%
 %\raggedright
-\parshape=2 0pt \linewidth \x@indent \dimexpr\linewidth-\x@indent\relax
+\parshape=2 \@totalleftmargin \linewidth \dimexpr\@totalleftmargin+\x@indent\relax \dimexpr\linewidth-\x@indent\relax
 \let\\\lyricsbreak
 \lyricsfont\selectfont
 }{\end{adjustwidth}\medskip}

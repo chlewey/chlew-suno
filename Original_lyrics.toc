@@ -56,20 +56,20 @@
 \contentsline {chapter}{\chapternumberline {5}Restless Mind}{61}{}%
 \contentsline {section}{The Wrong Map}{62}{}%
 \contentsline {section}{The Wrong Map}{63}{}%
-\contentsline {section}{The Wrong Map}{65}{}%
-\contentsline {section}{A Mind That Craves Novelty}{66}{}%
-\contentsline {section}{Dejándome llevar}{67}{}%
-\contentsline {section}{Stimuli}{68}{}%
-\contentsline {section}{Piel}{69}{}%
-\contentsline {section}{Vueltas y vueltas}{70}{}%
-\contentsline {section}{Living Fantasies (electronic)}{71}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{72}{}%
-\contentsline {section}{Living Fantasies (native folk)}{73}{}%
-\contentsline {section}{Connection}{74}{}%
-\contentsline {section}{Mundos internos}{75}{}%
-\contentsline {section}{A Coffee Not Shared}{76}{}%
-\contentsline {section}{Perderme en el anhelo}{77}{}%
-\contentsline {section}{Easy Love}{78}{}%
+\contentsline {section}{The Wrong Map}{64}{}%
+\contentsline {section}{A Mind That Craves Novelty}{65}{}%
+\contentsline {section}{Dejándome llevar}{66}{}%
+\contentsline {section}{Stimuli}{67}{}%
+\contentsline {section}{Piel}{68}{}%
+\contentsline {section}{Vueltas y vueltas}{69}{}%
+\contentsline {section}{Living Fantasies (electronic)}{70}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{71}{}%
+\contentsline {section}{Living Fantasies (native folk)}{72}{}%
+\contentsline {section}{Connection}{73}{}%
+\contentsline {section}{Mundos internos}{74}{}%
+\contentsline {section}{A Coffee Not Shared}{75}{}%
+\contentsline {section}{Perderme en el anhelo}{76}{}%
+\contentsline {section}{Easy Love}{77}{}%
 \contentsline {chapter}{\chapternumberline {6}Essays and Reckonings}{79}{}%
 \contentsline {section}{History Witnessed Live}{80}{}%
 \contentsline {section}{Used to Say}{81}{}%
@@ -95,6 +95,6 @@
 \contentsline {section}{Message trop tard}{104}{}%
 \contentsline {section}{Pío}{105}{}%
 \contentsline {section}{The Fault in Your Character}{106}{}%
-\contentsline {section}{Tracing the Ink}{108}{}%
-\contentsline {section}{Swim Pool Submit}{109}{}%
-\contentsline {section}{Tiny Suits}{111}{}%
+\contentsline {section}{Tracing the Ink}{107}{}%
+\contentsline {section}{Swim Pool Submit}{108}{}%
+\contentsline {section}{Tiny Suits}{109}{}%

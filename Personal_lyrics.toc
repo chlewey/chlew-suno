@@ -17,10 +17,10 @@
 \contentsline {section}{History Witnessed Live}{17}{}%
 \contentsline {section}{Tuit y Ceniza}{18}{}%
 \contentsline {section}{Baltic and Bogotá}{19}{}%
-\contentsline {section}{Memoria de humo}{21}{}%
-\contentsline {section}{Ventana de noviembre}{22}{}%
-\contentsline {section}{Leading the Jump}{23}{}%
-\contentsline {section}{Två år på Söder}{24}{}%
+\contentsline {section}{Memoria de humo}{20}{}%
+\contentsline {section}{Ventana de noviembre}{21}{}%
+\contentsline {section}{Leading the Jump}{22}{}%
+\contentsline {section}{Två år på Söder}{23}{}%
 \contentsline {chapter}{\chapternumberline {2}Soul and craves}{25}{}%
 \contentsline {section}{No Excuse}{26}{}%
 \contentsline {section}{Irrelevant Conversations}{28}{}%
@@ -43,12 +43,12 @@
 \contentsline {section}{Lightning Rod Mode}{46}{}%
 \contentsline {section}{Multiply the Delay}{47}{}%
 \contentsline {section}{The Fault in Your Character}{48}{}%
-\contentsline {section}{The Wrong Map}{50}{}%
-\contentsline {section}{Time to Stop}{51}{}%
-\contentsline {section}{Entre mundos}{52}{}%
-\contentsline {section}{Used to Say}{54}{}%
-\contentsline {section}{Buscando culpables}{55}{}%
-\contentsline {section}{Kvar i mig}{56}{}%
+\contentsline {section}{The Wrong Map}{49}{}%
+\contentsline {section}{Time to Stop}{50}{}%
+\contentsline {section}{Entre mundos}{51}{}%
+\contentsline {section}{Used to Say}{53}{}%
+\contentsline {section}{Buscando culpables}{54}{}%
+\contentsline {section}{Kvar i mig}{55}{}%
 \contentsline {chapter}{\chapternumberline {4}Extra stuff}{57}{}%
 \contentsline {section}{Writing Ain't Easy}{58}{}%
 \contentsline {section}{Weather and Memory}{59}{}%
