@@ -19,33 +19,36 @@
 \contentsline {section}{Baltic and Bogotá}{19}{}%
 \contentsline {section}{Memoria de humo}{21}{}%
 \contentsline {section}{Ventana de noviembre}{22}{}%
-\contentsline {chapter}{\chapternumberline {2}Soul and craves}{23}{}%
-\contentsline {section}{No Excuse}{24}{}%
-\contentsline {section}{Irrelevant Conversations}{26}{}%
-\contentsline {section}{A Mind That Craves Novelty}{27}{}%
-\contentsline {section}{Dejándome llevar}{28}{}%
-\contentsline {section}{Stimuli}{29}{}%
-\contentsline {section}{Piel}{30}{}%
-\contentsline {section}{Connection}{31}{}%
-\contentsline {section}{Living Fantasies (electronic)}{32}{}%
-\contentsline {section}{Vueltas y vueltas}{33}{}%
-\contentsline {section}{Mundos internos}{34}{}%
-\contentsline {section}{A Coffee Not Shared}{35}{}%
-\contentsline {section}{Perderme en el anhelo}{36}{}%
-\contentsline {chapter}{\chapternumberline {3}The self}{37}{}%
-\contentsline {section}{Temblando}{38}{}%
-\contentsline {section}{Vulnerable}{39}{}%
-\contentsline {section}{The Loaded Mind}{40}{}%
-\contentsline {section}{Modo Pararrayos}{41}{}%
-\contentsline {section}{Lightning Rod Mode}{42}{}%
-\contentsline {section}{Multiply the Delay}{43}{}%
-\contentsline {section}{The Fault in Your Character}{44}{}%
-\contentsline {section}{The Wrong Map}{46}{}%
-\contentsline {section}{Time to Stop}{47}{}%
-\contentsline {section}{Entre mundos}{48}{}%
-\contentsline {section}{Used to Say}{50}{}%
-\contentsline {section}{Buscando culpables}{51}{}%
-\contentsline {section}{Kvar i mig}{52}{}%
-\contentsline {chapter}{\chapternumberline {4}Extra stuff}{53}{}%
-\contentsline {section}{Writing Ain't Easy}{54}{}%
-\contentsline {section}{Weather and Memory}{55}{}%
+\contentsline {section}{Leading the Jump}{23}{}%
+\contentsline {section}{Två år på Söder}{24}{}%
+\contentsline {chapter}{\chapternumberline {2}Soul and craves}{25}{}%
+\contentsline {section}{No Excuse}{26}{}%
+\contentsline {section}{Irrelevant Conversations}{28}{}%
+\contentsline {section}{A Mind That Craves Novelty}{29}{}%
+\contentsline {section}{Dejándome llevar}{30}{}%
+\contentsline {section}{Stimuli}{31}{}%
+\contentsline {section}{Piel}{32}{}%
+\contentsline {section}{Connection}{33}{}%
+\contentsline {section}{Living Fantasies (electronic)}{34}{}%
+\contentsline {section}{Vueltas y vueltas}{35}{}%
+\contentsline {section}{Mundos internos}{36}{}%
+\contentsline {section}{A Coffee Not Shared}{37}{}%
+\contentsline {section}{Perderme en el anhelo}{38}{}%
+\contentsline {section}{Easy Love}{39}{}%
+\contentsline {chapter}{\chapternumberline {3}The self}{41}{}%
+\contentsline {section}{Temblando}{42}{}%
+\contentsline {section}{Vulnerable}{43}{}%
+\contentsline {section}{The Loaded Mind}{44}{}%
+\contentsline {section}{Modo Pararrayos}{45}{}%
+\contentsline {section}{Lightning Rod Mode}{46}{}%
+\contentsline {section}{Multiply the Delay}{47}{}%
+\contentsline {section}{The Fault in Your Character}{48}{}%
+\contentsline {section}{The Wrong Map}{50}{}%
+\contentsline {section}{Time to Stop}{51}{}%
+\contentsline {section}{Entre mundos}{52}{}%
+\contentsline {section}{Used to Say}{54}{}%
+\contentsline {section}{Buscando culpables}{55}{}%
+\contentsline {section}{Kvar i mig}{56}{}%
+\contentsline {chapter}{\chapternumberline {4}Extra stuff}{57}{}%
+\contentsline {section}{Writing Ain't Easy}{58}{}%
+\contentsline {section}{Weather and Memory}{59}{}%

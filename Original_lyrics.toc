@@ -34,62 +34,67 @@
 \contentsline {section}{Delicate Swan}{36}{}%
 \contentsline {section}{Carbonia in the Rear Window}{37}{}%
 \contentsline {section}{Asleep in His Arms}{38}{}%
-\contentsline {chapter}{\chapternumberline {4}Other Narratives}{39}{}%
-\contentsline {section}{Fallen Messenger}{40}{}%
-\contentsline {section}{A la distancia}{41}{}%
-\contentsline {section}{Watching from a Distance}{42}{}%
-\contentsline {section}{El final del verano}{43}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{44}{}%
-\contentsline {section}{Wingman}{45}{}%
-\contentsline {section}{Peter City Walk}{46}{}%
-\contentsline {section}{Piravita View}{47}{}%
-\contentsline {section}{Thrice a Prisoner}{48}{}%
-\contentsline {section}{Throne of Smoke}{50}{}%
-\contentsline {section}{Between Us}{52}{}%
-\contentsline {section}{No Griot for Thee}{53}{}%
-\contentsline {section}{A Little Butterfly}{54}{}%
-\contentsline {section}{Marchan las hormigas}{55}{}%
-\contentsline {part}{\partnumberline {III}Self}{57}{}%
-\contentsline {chapter}{\chapternumberline {5}Restless Mind}{59}{}%
-\contentsline {section}{The Wrong Map}{60}{}%
-\contentsline {section}{The Wrong Map}{61}{}%
+\contentsline {section}{When I Say Yes}{39}{}%
+\contentsline {section}{Worthy}{40}{}%
+\contentsline {chapter}{\chapternumberline {4}Other Narratives}{41}{}%
+\contentsline {section}{Fallen Messenger}{42}{}%
+\contentsline {section}{A la distancia}{43}{}%
+\contentsline {section}{Watching from a Distance}{44}{}%
+\contentsline {section}{El final del verano}{45}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{46}{}%
+\contentsline {section}{Wingman}{47}{}%
+\contentsline {section}{Peter City Walk}{48}{}%
+\contentsline {section}{Piravita View}{49}{}%
+\contentsline {section}{Thrice a Prisoner}{50}{}%
+\contentsline {section}{Throne of Smoke}{52}{}%
+\contentsline {section}{Between Us}{54}{}%
+\contentsline {section}{No Griot for Thee}{55}{}%
+\contentsline {section}{A Little Butterfly}{56}{}%
+\contentsline {section}{Marchan las hormigas}{57}{}%
+\contentsline {section}{Mueca Pantera}{58}{}%
+\contentsline {part}{\partnumberline {III}Self}{59}{}%
+\contentsline {chapter}{\chapternumberline {5}Restless Mind}{61}{}%
+\contentsline {section}{The Wrong Map}{62}{}%
 \contentsline {section}{The Wrong Map}{63}{}%
-\contentsline {section}{A Mind That Craves Novelty}{64}{}%
-\contentsline {section}{Dejándome llevar}{65}{}%
-\contentsline {section}{Stimuli}{66}{}%
-\contentsline {section}{Piel}{67}{}%
-\contentsline {section}{Vueltas y vueltas}{68}{}%
-\contentsline {section}{Living Fantasies (electronic)}{69}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{70}{}%
-\contentsline {section}{Living Fantasies (native folk)}{71}{}%
-\contentsline {section}{Connection}{72}{}%
-\contentsline {section}{Mundos internos}{73}{}%
-\contentsline {section}{A Coffee Not Shared}{74}{}%
-\contentsline {section}{Perderme en el anhelo}{75}{}%
-\contentsline {chapter}{\chapternumberline {6}Essays and Reckonings}{77}{}%
-\contentsline {section}{History Witnessed Live}{78}{}%
-\contentsline {section}{Used to Say}{79}{}%
-\contentsline {section}{Writing Ain't Easy}{80}{}%
-\contentsline {section}{It's Still With Me}{81}{}%
-\contentsline {section}{Entre mundos}{82}{}%
-\contentsline {section}{Buscando culpables}{84}{}%
-\contentsline {section}{Two Years in Södermalm}{85}{}%
-\contentsline {part}{\partnumberline {IV}More}{87}{}%
-\contentsline {chapter}{\chapternumberline {7}Experimental}{89}{}%
-\contentsline {section}{Colombia, Tu Papá}{90}{}%
-\contentsline {section}{Co Co Co Co}{91}{}%
-\contentsline {section}{Kapu Lema}{92}{}%
-\contentsline {section}{Badiba Buka}{93}{}%
-\contentsline {section}{Tiempo Real}{94}{}%
-\contentsline {section}{dij Schdzjarvk}{95}{}%
-\contentsline {section}{dij Schdzjarvk}{96}{}%
-\contentsline {section}{Parará Pa Pa}{97}{}%
-\contentsline {section}{O ku pater de nos}{98}{}%
-\contentsline {section}{Cheese Spoon Paseo}{99}{}%
-\contentsline {chapter}{\chapternumberline {8}Partial Authorship}{101}{}%
-\contentsline {section}{Message trop tard}{102}{}%
-\contentsline {section}{Pío}{103}{}%
-\contentsline {section}{The Fault in Your Character}{104}{}%
-\contentsline {section}{Tracing the Ink}{106}{}%
-\contentsline {section}{Swim Pool Submit}{107}{}%
-\contentsline {section}{Tiny Suits}{109}{}%
+\contentsline {section}{The Wrong Map}{65}{}%
+\contentsline {section}{A Mind That Craves Novelty}{66}{}%
+\contentsline {section}{Dejándome llevar}{67}{}%
+\contentsline {section}{Stimuli}{68}{}%
+\contentsline {section}{Piel}{69}{}%
+\contentsline {section}{Vueltas y vueltas}{70}{}%
+\contentsline {section}{Living Fantasies (electronic)}{71}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{72}{}%
+\contentsline {section}{Living Fantasies (native folk)}{73}{}%
+\contentsline {section}{Connection}{74}{}%
+\contentsline {section}{Mundos internos}{75}{}%
+\contentsline {section}{A Coffee Not Shared}{76}{}%
+\contentsline {section}{Perderme en el anhelo}{77}{}%
+\contentsline {section}{Easy Love}{78}{}%
+\contentsline {chapter}{\chapternumberline {6}Essays and Reckonings}{79}{}%
+\contentsline {section}{History Witnessed Live}{80}{}%
+\contentsline {section}{Used to Say}{81}{}%
+\contentsline {section}{Writing Ain't Easy}{82}{}%
+\contentsline {section}{It's Still With Me}{83}{}%
+\contentsline {section}{Entre mundos}{84}{}%
+\contentsline {section}{Buscando culpables}{86}{}%
+\contentsline {section}{Two Years in Södermalm}{87}{}%
+\contentsline {section}{Leading the Jump}{88}{}%
+\contentsline {part}{\partnumberline {IV}More}{89}{}%
+\contentsline {chapter}{\chapternumberline {7}Experimental}{91}{}%
+\contentsline {section}{Colombia, Tu Papá}{92}{}%
+\contentsline {section}{Co Co Co Co}{93}{}%
+\contentsline {section}{Kapu Lema}{94}{}%
+\contentsline {section}{Badiba Buka}{95}{}%
+\contentsline {section}{Tiempo Real}{96}{}%
+\contentsline {section}{dij Schdzjarvk}{97}{}%
+\contentsline {section}{dij Schdzjarvk}{98}{}%
+\contentsline {section}{Parará Pa Pa}{99}{}%
+\contentsline {section}{O ku pater de nos}{100}{}%
+\contentsline {section}{Cheese Spoon Paseo}{101}{}%
+\contentsline {chapter}{\chapternumberline {8}Partial Authorship}{103}{}%
+\contentsline {section}{Message trop tard}{104}{}%
+\contentsline {section}{Pío}{105}{}%
+\contentsline {section}{The Fault in Your Character}{106}{}%
+\contentsline {section}{Tracing the Ink}{108}{}%
+\contentsline {section}{Swim Pool Submit}{109}{}%
+\contentsline {section}{Tiny Suits}{111}{}%
