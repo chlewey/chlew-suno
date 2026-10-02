@@ -147,27 +147,27 @@
 \contentsline {section}{Molten Sunlight}{180}{}%
 \contentsline {part}{\partnumberline {V}Self and Family}{181}{}%
 \contentsline {chapter}{\chapternumberline {18}Self}{183}{}%
-\contentsline {section}{Adi In The Locker}{184}{}%
-\contentsline {section}{Sofa at Midnight}{185}{}%
-\contentsline {section}{Ale On The Sofa}{186}{}%
-\contentsline {section}{Unconfessed}{187}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{188}{}%
-\contentsline {section}{Arrow Throwing Rat}{190}{}%
-\contentsline {section}{A la distancia}{191}{}%
-\contentsline {section}{Watching from a Distance}{192}{}%
-\contentsline {section}{Bogotá Cathedral}{193}{}%
-\contentsline {section}{Паутина Андрея}{194}{}%
-\contentsline {section}{Tuit y Ceniza}{195}{}%
-\contentsline {section}{Baltic and Bogotá}{196}{}%
-\contentsline {section}{Memoria de humo}{198}{}%
-\contentsline {section}{Ventana de noviembre}{199}{}%
-\contentsline {section}{Every Little Letter}{200}{}%
-\contentsline {section}{Havana-Bound}{201}{}%
-\contentsline {section}{On the Road to Chachagüí}{202}{}%
-\contentsline {section}{Lost in What}{203}{}%
-\contentsline {section}{Parked Outside the Classroom}{204}{}%
-\contentsline {section}{A Bag Sleeping in Jamaica}{205}{}%
-\contentsline {section}{Two Years in Södermalm}{206}{}%
+\contentsline {section}{Every Little Letter}{184}{}%
+\contentsline {section}{Adi In The Locker}{185}{}%
+\contentsline {section}{Havana-Bound}{186}{}%
+\contentsline {section}{Lost in What}{187}{}%
+\contentsline {section}{Two Years in Södermalm}{188}{}%
+\contentsline {section}{Sofa at Midnight}{189}{}%
+\contentsline {section}{Ale On The Sofa}{190}{}%
+\contentsline {section}{On the Road to Chachagüí}{191}{}%
+\contentsline {section}{Parked Outside the Classroom}{192}{}%
+\contentsline {section}{A Bag Sleeping in Jamaica}{193}{}%
+\contentsline {section}{Unconfessed}{194}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{195}{}%
+\contentsline {section}{Arrow Throwing Rat}{197}{}%
+\contentsline {section}{A la distancia}{198}{}%
+\contentsline {section}{Watching from a Distance}{199}{}%
+\contentsline {section}{Bogotá Cathedral}{200}{}%
+\contentsline {section}{Паутина Андрея}{201}{}%
+\contentsline {section}{Tuit y Ceniza}{202}{}%
+\contentsline {section}{Baltic and Bogotá}{203}{}%
+\contentsline {section}{Memoria de humo}{205}{}%
+\contentsline {section}{Ventana de noviembre}{206}{}%
 \contentsline {chapter}{\chapternumberline {19}Cats}{207}{}%
 \contentsline {section}{Little Velvet Ghost}{208}{}%
 \contentsline {section}{Blue-Point Mischief}{209}{}%
@@ -291,8 +291,8 @@
 \contentsline {section}{Kijana Msomi (short)}{274}{}%
 \contentsline {section}{Binwe, Jan-Alan}{275}{}%
 \contentsline {section}{Iníon an fhoghlaí mhara}{276}{}%
-\contentsline {section}{En upersonlig skjebne}{277}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{278}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{277}{}%
+\contentsline {section}{En upersonlig skjebne}{278}{}%
 \contentsline {chapter}{\chapternumberline {26}Covers}{279}{}%
 \contentsline {section}{La perrilla (pasillo)}{280}{}%
 \contentsline {section}{La perrilla (dance)}{281}{}%
