@@ -88,7 +88,9 @@ def parse_proposals(doc_path):
     for match in SECTION_RE.finditer(text):
         album = match.group('album').strip()
         stub = match.group('stub').strip()
-        prompt = match.group('prompt').strip()
+        prompt = '\n'.join(
+            ln for ln in match.group('prompt').splitlines()
+            if not ln.startswith('>')).strip()  # '> Note:' lines are for humans
         yield album, stub, prompt
 
 
