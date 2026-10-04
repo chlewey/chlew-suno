@@ -12,7 +12,7 @@ An overhead flatlay photograph on a background split into two flat fields — so
 
 `covers/personal/biographical-ii-twenty-first-century`
 
-An overhead flatlay photograph on a warm wooden desk in cool morning daylight, matching the palette of the first volume but without its black-and-white divide: an open laptop showing a half-written blog post, a passport with a visa stamp partly covered by a small yellow Jamaican postcard, a printed airline boarding pass for Chiang Mai, a smartphone face-up on a feed of short posts, and a cold cup of coffee beside a postcard of a Bogotá cathedral. A single thin gold-leaf line runs from the postcard across the desk to the boarding pass, like a route drawn over the whole spread. Photorealistic still life, soft natural window light, fine paper and metal textures, contemplative and slightly weary mood. No text overlay. Square 1:1 aspect ratio.
+An overhead flatlay photograph on a background split into two flat fields — solid matte white on the left, solid matte black on the right — divided by a single jagged, lightning-bolt-like seam traced in luminous gold leaf. Arranged in full natural color across the divide: an open laptop showing a half-written blog post, a passport open to a visa stamp partly covered by a small postcard of a Caribbean beach, a printed airline boarding pass for a long multi-leg trip to Chiang Mai, a smartphone face-up on a feed of short posts, a cold cup of coffee, and a small postcard of a Bogotá cathedral. Warm accent lighting on the objects against the stark flat black-and-white field. Photorealistic still life on a graphic background. No text overlay. Square 1:1 aspect ratio.
 ## Soul and craves
 
 `covers/personal/soul-and-craves`
