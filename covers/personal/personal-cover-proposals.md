@@ -1,11 +1,18 @@
 # Personal
 
-## Biographical
+## Biographical I: Twentieth Century
 
 `covers/personal/biographical`
 
 An overhead flatlay photograph on a background split into two flat fields — solid matte black on one side, solid matte white on the other — divided by a single jagged, lightning-bolt-like seam traced in luminous gold leaf. Arranged in full natural color across the divide: an old leather-bound journal open to a page with a hand-drawn decade timeline down its margin, a boarding pass, a torn photo corner, a small cat figurine, an old floppy disk, and a folded ticket stub from a chaotic multi-leg flight. Warm accent lighting on the objects against the stark flat black-and-white field. Photorealistic still life on a graphic background. No text overlay. Square 1:1 aspect ratio.
 
+> Note: Recycled cover. It was made for the former single album *Biographical*, which has been split by century; Biographical I inherits it (hence the `biographical` slug).
+
+## Biographical II: Twenty-First Century
+
+`covers/personal/biographical-ii-twenty-first-century`
+
+An overhead flatlay photograph on a warm wooden desk in cool morning daylight, matching the palette of the first volume but without its black-and-white divide: an open laptop showing a half-written blog post, a passport with a visa stamp partly covered by a small yellow Jamaican postcard, a printed airline boarding pass for Chiang Mai, a smartphone face-up on a feed of short posts, and a cold cup of coffee beside a postcard of a Bogotá cathedral. A single thin gold-leaf line runs from the postcard across the desk to the boarding pass, like a route drawn over the whole spread. Photorealistic still life, soft natural window light, fine paper and metal textures, contemplative and slightly weary mood. No text overlay. Square 1:1 aspect ratio.
 ## Soul and craves
 
 `covers/personal/soul-and-craves`
