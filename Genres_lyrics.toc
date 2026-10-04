@@ -290,28 +290,29 @@
 \contentsline {section}{Stellae Ex Pulvere}{331}{}%
 \contentsline {section}{Three Realms, Four Rites}{332}{}%
 \contentsline {section}{Under Aachen Sky}{334}{}%
-\contentsline {chapter}{\chapternumberline {20}Sylvia’s Italian Diary}{335}{}%
-\contentsline {section}{Casa non è}{336}{}%
-\contentsline {section}{Choosing Here}{338}{}%
-\contentsline {section}{Peccato d'aprile}{340}{}%
-\contentsline {section}{Qualcosa di vero}{342}{}%
-\contentsline {section}{Resto qui}{344}{}%
-\contentsline {section}{Sa fiamma}{346}{}%
-\contentsline {chapter}{\chapternumberline {21}European Threads — French \& Nordic}{349}{}%
-\contentsline {section}{Swedish Pages}{350}{}%
-\contentsline {section}{Beside the Storm}{351}{}%
-\contentsline {section}{Diana porte sa propre gravité}{352}{}%
-\contentsline {section}{Hangar at Olaya}{353}{}%
-\contentsline {section}{Le Rêve des Autres}{354}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{355}{}%
-\contentsline {section}{Tallinn, Standing Still}{356}{}%
-\contentsline {section}{Valise sur le tarmac}{357}{}%
-\contentsline {section}{Min enda röst}{358}{}%
-\contentsline {section}{The Same Colombia}{359}{}%
-\contentsline {chapter}{\chapternumberline {22}African Voices}{361}{}%
-\contentsline {section}{Moon in the Frame}{362}{}%
-\contentsline {section}{Stone Wall Portrait}{363}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{364}{}%
+\contentsline {section}{Hear!}{335}{}%
+\contentsline {chapter}{\chapternumberline {20}Sylvia’s Italian Diary}{337}{}%
+\contentsline {section}{Casa non è}{338}{}%
+\contentsline {section}{Choosing Here}{340}{}%
+\contentsline {section}{Peccato d'aprile}{342}{}%
+\contentsline {section}{Qualcosa di vero}{344}{}%
+\contentsline {section}{Resto qui}{346}{}%
+\contentsline {section}{Sa fiamma}{348}{}%
+\contentsline {chapter}{\chapternumberline {21}European Threads — French \& Nordic}{351}{}%
+\contentsline {section}{Swedish Pages}{352}{}%
+\contentsline {section}{Beside the Storm}{353}{}%
+\contentsline {section}{Diana porte sa propre gravité}{354}{}%
+\contentsline {section}{Hangar at Olaya}{355}{}%
+\contentsline {section}{Le Rêve des Autres}{356}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{357}{}%
+\contentsline {section}{Tallinn, Standing Still}{358}{}%
+\contentsline {section}{Valise sur le tarmac}{359}{}%
+\contentsline {section}{Min enda röst}{360}{}%
+\contentsline {section}{The Same Colombia}{361}{}%
+\contentsline {chapter}{\chapternumberline {22}African Voices}{363}{}%
+\contentsline {section}{Moon in the Frame}{364}{}%
+\contentsline {section}{Stone Wall Portrait}{365}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{366}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -332,17 +333,17 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Abulón (The Shadow Crown)}{365}{}%
-\contentsline {section}{Congo Ring}{366}{}%
-\contentsline {section}{Kijana Msomi}{367}{}%
-\contentsline {section}{Saffron Roof Smile}{368}{}%
-\contentsline {section}{Rise, Mande Jeli}{369}{}%
-\contentsline {section}{Twenty Ten Scripts}{371}{}%
-\contentsline {section}{Twenty Eleven Scripts}{372}{}%
-\contentsline {section}{The Song Walks On}{373}{}%
-\contentsline {chapter}{\chapternumberline {23}Asian Voices}{375}{}%
-\contentsline {section}{Adriana Tal Vez}{376}{}%
-\contentsline {section}{\textarabic {\sffamily کوچه‌ی دیگر} (Kuche-ye Digar)}{377}{}%
+\contentsline {section}{Abulón (The Shadow Crown)}{367}{}%
+\contentsline {section}{Congo Ring}{368}{}%
+\contentsline {section}{Kijana Msomi}{369}{}%
+\contentsline {section}{Saffron Roof Smile}{370}{}%
+\contentsline {section}{Rise, Mande Jeli}{371}{}%
+\contentsline {section}{Twenty Ten Scripts}{373}{}%
+\contentsline {section}{Twenty Eleven Scripts}{374}{}%
+\contentsline {section}{The Song Walks On}{375}{}%
+\contentsline {chapter}{\chapternumberline {23}Asian Voices}{377}{}%
+\contentsline {section}{Adriana Tal Vez}{378}{}%
+\contentsline {section}{\textarabic {\sffamily کوچه‌ی دیگر} (Kuche-ye Digar)}{379}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -361,13 +362,13 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Purple Under Dye}{378}{}%
-\contentsline {section}{The Night}{379}{}%
-\contentsline {section}{The Other Local Girl}{380}{}%
-\contentsline {section}{Whiteboard Queen}{382}{}%
-\contentsline {section}{Zahra in White}{383}{}%
-\contentsline {section}{Meet Me at Punta Espada}{384}{}%
-\contentsline {section}{\textarabic {\sffamily لایە‌لایەی جان‌ئالان} (Laye-layey Jan-Alan)}{385}{}%
+\contentsline {section}{Purple Under Dye}{380}{}%
+\contentsline {section}{The Night}{381}{}%
+\contentsline {section}{The Other Local Girl}{382}{}%
+\contentsline {section}{Whiteboard Queen}{384}{}%
+\contentsline {section}{Zahra in White}{385}{}%
+\contentsline {section}{Meet Me at Punta Espada}{386}{}%
+\contentsline {section}{\textarabic {\sffamily لایە‌لایەی جان‌ئالان} (Laye-layey Jan-Alan)}{387}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -380,23 +381,23 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Si pienso (Remastered)}{386}{}%
-\contentsline {chapter}{\chapternumberline {24}Chiptune, Ambient \& the Weird Edges}{387}{}%
-\contentsline {section}{Espectador de mi vida}{388}{}%
-\contentsline {section}{Miladi in the Dark}{389}{}%
-\contentsline {section}{Mobisarna}{390}{}%
-\contentsline {section}{E Numa Lah}{391}{}%
-\contentsline {section}{En la nube}{392}{}%
-\contentsline {section}{El juego}{393}{}%
-\contentsline {section}{Aurora by the Window}{394}{}%
-\contentsline {section}{Secret Fires (TrackB)}{395}{}%
-\contentsline {section}{She'll let you know}{396}{}%
-\contentsline {section}{Archivist's Map}{397}{}%
-\contentsline {section}{Badabum bin}{398}{}%
-\contentsline {section}{Claim Ledger Drift}{399}{}%
-\contentsline {section}{Closer to the Stars}{400}{}%
-\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{401}{}%
-\contentsline {section}{Post-Capitalist Lonely}{402}{}%
-\contentsline {section}{TrackB}{403}{}%
-\contentsline {section}{Red and Yellow}{404}{}%
-\contentsline {section}{Tiempo Real}{405}{}%
+\contentsline {section}{Si pienso (Remastered)}{388}{}%
+\contentsline {chapter}{\chapternumberline {24}Chiptune, Ambient \& the Weird Edges}{389}{}%
+\contentsline {section}{Espectador de mi vida}{390}{}%
+\contentsline {section}{Miladi in the Dark}{391}{}%
+\contentsline {section}{Mobisarna}{392}{}%
+\contentsline {section}{E Numa Lah}{393}{}%
+\contentsline {section}{En la nube}{394}{}%
+\contentsline {section}{El juego}{395}{}%
+\contentsline {section}{Aurora by the Window}{396}{}%
+\contentsline {section}{Secret Fires (TrackB)}{397}{}%
+\contentsline {section}{She'll let you know}{398}{}%
+\contentsline {section}{Archivist's Map}{399}{}%
+\contentsline {section}{Badabum bin}{400}{}%
+\contentsline {section}{Claim Ledger Drift}{401}{}%
+\contentsline {section}{Closer to the Stars}{402}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{403}{}%
+\contentsline {section}{Post-Capitalist Lonely}{404}{}%
+\contentsline {section}{TrackB}{405}{}%
+\contentsline {section}{Red and Yellow}{406}{}%
+\contentsline {section}{Tiempo Real}{407}{}%

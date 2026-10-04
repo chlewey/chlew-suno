@@ -37,309 +37,305 @@
 \contentsline {section}{Monoestable}{37}{}%
 \contentsline {section}{Lluvia En Tu Mirada}{38}{}%
 \contentsline {section}{Vaina en Græville}{39}{}%
-\contentsline {chapter}{\chapternumberline {3}Earlier Thoughts: Undated and Later Revisits}{41}{}%
-\contentsline {section}{Pared fría}{42}{}%
-\contentsline {section}{Papel en la escalera}{43}{}%
-\contentsline {section}{La duda - por qué}{44}{}%
-\contentsline {section}{Espectador de mi vida}{45}{}%
-\contentsline {chapter}{\chapternumberline {4}Gr\ae ville}{47}{}%
-\contentsline {section}{Chocolate Frío}{48}{}%
-\contentsline {section}{Cuarto de Peluches}{49}{}%
-\contentsline {section}{La Barrera}{50}{}%
-\contentsline {chapter}{\chapternumberline {5}Midlife Thoughts I: Social Feeds}{51}{}%
-\contentsline {section}{Another Log About Nothing}{52}{}%
-\contentsline {section}{Fantasma de quien no es}{53}{}%
-\contentsline {section}{Digital Skies}{54}{}%
-\contentsline {section}{Twenty Ten Scripts}{55}{}%
-\contentsline {section}{Twenty Eleven Scripts}{56}{}%
-\contentsline {section}{Twenty Twelve Scripts}{57}{}%
-\contentsline {section}{Twenty Thirteen Scripts}{58}{}%
-\contentsline {section}{Twenty Fourteen Scripts}{59}{}%
-\contentsline {section}{Twenty Fifteen Scripts}{60}{}%
-\contentsline {chapter}{\chapternumberline {6}Midlife Thoughts II: Trembling}{61}{}%
-\contentsline {section}{Polilla en las flamas}{62}{}%
-\contentsline {section}{Temblando}{63}{}%
-\contentsline {section}{Vulnerable}{64}{}%
-\contentsline {section}{Aconteceres}{65}{}%
-\contentsline {section}{The Loaded Mind}{66}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{67}{}%
-\contentsline {section}{Trembling Blues}{68}{}%
-\contentsline {section}{Pálpitos prohibidos}{69}{}%
-\contentsline {section}{Temblando}{70}{}%
-\contentsline {section}{Skälvning}{71}{}%
-\contentsline {section}{Cabeza Perdida}{72}{}%
-\contentsline {section}{El Mundo Gira}{73}{}%
-\contentsline {section}{Jugando}{74}{}%
-\contentsline {section}{El juego}{75}{}%
-\contentsline {chapter}{\chapternumberline {7}Later Thoughts I: The Grinder}{77}{}%
-\contentsline {section}{Alarm Cabinet}{78}{}%
-\contentsline {section}{A Drunk Without A Drop (Remix)}{79}{}%
-\contentsline {section}{Modo Pararrayos}{80}{}%
-\contentsline {section}{Lightning Rod Mode}{81}{}%
-\contentsline {section}{Somebody Out There}{82}{}%
-\contentsline {section}{Soap Line Logic}{83}{}%
-\contentsline {section}{Frictionless}{84}{}%
-\contentsline {section}{Paper In My Hands}{85}{}%
-\contentsline {section}{Let the Clock Slow Down}{86}{}%
-\contentsline {section}{Broken Tool}{87}{}%
-\contentsline {section}{Cornered By Systems}{88}{}%
-\contentsline {section}{Barrera de inicio}{89}{}%
+\contentsline {section}{Güiro quemado}{40}{}%
+\contentsline {section}{Espero}{42}{}%
+\contentsline {chapter}{\chapternumberline {3}Earlier Thoughts: Undated and Later Revisits}{43}{}%
+\contentsline {section}{Pared fría}{44}{}%
+\contentsline {section}{Papel en la escalera}{45}{}%
+\contentsline {section}{La duda - por qué}{46}{}%
+\contentsline {section}{Espectador de mi vida}{47}{}%
+\contentsline {chapter}{\chapternumberline {4}Gr\ae ville}{49}{}%
+\contentsline {section}{Chocolate Frío}{50}{}%
+\contentsline {section}{Cuarto de Peluches}{51}{}%
+\contentsline {section}{La Barrera}{52}{}%
+\contentsline {chapter}{\chapternumberline {5}Midlife Thoughts I: Social Feeds}{53}{}%
+\contentsline {section}{Another Log About Nothing}{54}{}%
+\contentsline {section}{Fantasma de quien no es}{55}{}%
+\contentsline {section}{Digital Skies}{56}{}%
+\contentsline {section}{Twenty Ten Scripts}{57}{}%
+\contentsline {section}{Twenty Eleven Scripts}{58}{}%
+\contentsline {section}{Twenty Twelve Scripts}{59}{}%
+\contentsline {section}{Twenty Thirteen Scripts}{60}{}%
+\contentsline {section}{Twenty Fourteen Scripts}{61}{}%
+\contentsline {section}{Twenty Fifteen Scripts}{62}{}%
+\contentsline {chapter}{\chapternumberline {6}Midlife Thoughts II: Trembling}{63}{}%
+\contentsline {section}{Polilla en las flamas}{64}{}%
+\contentsline {section}{Temblando}{65}{}%
+\contentsline {section}{Vulnerable}{66}{}%
+\contentsline {section}{Aconteceres}{67}{}%
+\contentsline {section}{The Loaded Mind}{68}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{69}{}%
+\contentsline {section}{Trembling Blues}{70}{}%
+\contentsline {section}{Pálpitos prohibidos}{71}{}%
+\contentsline {section}{Temblando}{72}{}%
+\contentsline {section}{Skälvning}{73}{}%
+\contentsline {section}{Cabeza Perdida}{74}{}%
+\contentsline {section}{El Mundo Gira}{75}{}%
+\contentsline {section}{Jugando}{76}{}%
+\contentsline {section}{El juego}{77}{}%
+\contentsline {chapter}{\chapternumberline {7}Later Thoughts I: The Grinder}{79}{}%
+\contentsline {section}{Alarm Cabinet}{80}{}%
+\contentsline {section}{A Drunk Without A Drop (Remix)}{81}{}%
+\contentsline {section}{Modo Pararrayos}{82}{}%
+\contentsline {section}{Lightning Rod Mode}{83}{}%
+\contentsline {section}{Somebody Out There}{84}{}%
+\contentsline {section}{Soap Line Logic}{85}{}%
+\contentsline {section}{Frictionless}{86}{}%
+\contentsline {section}{Paper In My Hands}{87}{}%
+\contentsline {section}{Let the Clock Slow Down}{88}{}%
+\contentsline {section}{Broken Tool}{89}{}%
 \contentsline {section}{Time to Stop}{90}{}%
-\contentsline {section}{Parked Outside the Classroom}{91}{}%
-\contentsline {chapter}{\chapternumberline {8}Later Thoughts II: Behind the Smile}{93}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{94}{}%
-\contentsline {section}{Guided Hands}{95}{}%
-\contentsline {section}{The Secret Fires}{96}{}%
-\contentsline {section}{The Secret Fires}{97}{}%
-\contentsline {section}{Let Me Finish}{98}{}%
-\contentsline {section}{Secret Fires (TrackB)}{99}{}%
-\contentsline {section}{Límite sincopado}{100}{}%
-\contentsline {section}{Two Storms in One Sky}{102}{}%
-\contentsline {section}{Behind the Smile}{103}{}%
-\contentsline {chapter}{\chapternumberline {9}Later Thoughts III: Online Sparks}{105}{}%
-\contentsline {section}{A Someone or a Someone}{106}{}%
-\contentsline {section}{Traga tuitera}{107}{}%
-\contentsline {section}{El hilo}{108}{}%
-\contentsline {section}{For That Moment}{109}{}%
-\contentsline {section}{In That Moment}{110}{}%
-\contentsline {section}{Irrelevant Conversations}{111}{}%
-\contentsline {chapter}{\chapternumberline {10}Later Thoughts IV: Unspoken}{113}{}%
-\contentsline {section}{Your Role}{114}{}%
-\contentsline {section}{Quiet Signal}{115}{}%
-\contentsline {section}{No Excuse}{116}{}%
-\contentsline {part}{\partnumberline {II}Soul and Turmoil}{119}{}%
-\contentsline {chapter}{\chapternumberline {11}Soul}{121}{}%
-\contentsline {section}{Dejándome llevar}{122}{}%
-\contentsline {section}{Stimuli}{123}{}%
-\contentsline {section}{Piel}{124}{}%
-\contentsline {section}{Living Fantasies (electronic)}{125}{}%
-\contentsline {section}{Vueltas y vueltas}{126}{}%
-\contentsline {section}{Mundos internos}{127}{}%
-\contentsline {section}{A Coffee Not Shared}{128}{}%
-\contentsline {section}{Perderme en el anhelo}{129}{}%
-\contentsline {section}{Easy Love}{130}{}%
-\contentsline {chapter}{\chapternumberline {12}Inner turmoil}{131}{}%
-\contentsline {section}{The Wrong Map}{132}{}%
-\contentsline {section}{Multiply the Delay}{133}{}%
-\contentsline {section}{The Fault in Your Character}{134}{}%
-\contentsline {section}{A Mind That Craves Novelty}{135}{}%
-\contentsline {section}{Connection}{136}{}%
-\contentsline {chapter}{\chapternumberline {13}Recap}{137}{}%
-\contentsline {section}{Used to Say}{138}{}%
-\contentsline {section}{Buscando culpables}{139}{}%
-\contentsline {section}{Kvar i mig}{140}{}%
-\contentsline {part}{\partnumberline {III}Faith and Argument}{141}{}%
-\contentsline {chapter}{\chapternumberline {14}Pray, Brother I: Apologetics}{143}{}%
-\contentsline {section}{Slightest Amount}{144}{}%
-\contentsline {section}{Complete By What}{145}{}%
-\contentsline {section}{Complete By What}{146}{}%
-\contentsline {section}{Not In The Creed}{147}{}%
-\contentsline {section}{Which God Stands Still}{148}{}%
-\contentsline {section}{Ashes in the Pews}{149}{}%
-\contentsline {section}{Morality Ain’t Imposed}{150}{}%
-\contentsline {section}{Categorical Error}{151}{}%
-\contentsline {section}{Antiphona: De Atheismi Utilitate}{152}{}%
-\contentsline {section}{Talk To Me}{153}{}%
-\contentsline {section}{Defined Or Dust}{154}{}%
-\contentsline {section}{Pews and Bridges}{155}{}%
-\contentsline {section}{Yes It Can}{156}{}%
-\contentsline {section}{Not Misreading Intention}{157}{}%
-\contentsline {section}{What The Book Leaves Out}{158}{}%
-\contentsline {section}{The Ground I Find}{159}{}%
-\contentsline {section}{Think About It}{160}{}%
-\contentsline {section}{It's Still With Me}{161}{}%
-\contentsline {section}{Actual and Relevant}{162}{}%
-\contentsline {chapter}{\chapternumberline {15}Pray, Brother II: Sacred Stories}{163}{}%
-\contentsline {section}{Dead Sea's barren dreams}{164}{}%
-\contentsline {section}{In the Time of Noah's Ark}{165}{}%
-\contentsline {section}{In the Time of Noah's Ark}{166}{}%
-\contentsline {section}{Succubus Portrait}{167}{}%
-\contentsline {section}{Fallen Messenger}{168}{}%
-\contentsline {section}{Gustavo Cerati que no estás con nosotros}{169}{}%
-\contentsline {section}{Keep the Vow}{170}{}%
-\contentsline {chapter}{\chapternumberline {16}Essays}{171}{}%
-\contentsline {section}{Retrogrades}{172}{}%
-\contentsline {section}{Balance of Three}{173}{}%
-\contentsline {section}{Critter Kin (Man's an Animal Too)}{174}{}%
-\contentsline {section}{La Casa y el Viento}{175}{}%
-\contentsline {section}{Espejo Luminoso}{176}{}%
-\contentsline {section}{Best Available Lens}{177}{}%
-\contentsline {section}{Todos al mismo lado}{178}{}%
-\contentsline {section}{Limits of the Load}{179}{}%
-\contentsline {section}{Second Gun Salesman}{180}{}%
-\contentsline {section}{The Good Guy's Dilemma}{181}{}%
-\contentsline {section}{Draw The Tree}{182}{}%
-\contentsline {section}{What Was Left Behind}{183}{}%
-\contentsline {section}{Two Ways to Think}{184}{}%
-\contentsline {section}{Los buenos somos más}{185}{}%
-\contentsline {section}{No Middle Seat}{186}{}%
-\contentsline {section}{Bogotá Backbone}{187}{}%
-\contentsline {section}{History Witnessed Live}{188}{}%
-\contentsline {section}{El fin de la historia}{189}{}%
-\contentsline {section}{EISH5 Worlds}{190}{}%
-\contentsline {section}{Moon in the Frame}{191}{}%
-\contentsline {section}{Check My Privilege}{192}{}%
-\contentsline {section}{Let the Border Breathe Again}{193}{}%
-\contentsline {section}{No me vendas dolor de patria}{194}{}%
-\contentsline {section}{Burden of Proof}{195}{}%
-\contentsline {section}{The Question Left Between Us}{196}{}%
-\contentsline {section}{Hold the Line}{197}{}%
-\contentsline {section}{Pass the Bread}{198}{}%
-\contentsline {section}{Draw the Line}{199}{}%
-\contentsline {part}{\partnumberline {IV}Places}{201}{}%
-\contentsline {chapter}{\chapternumberline {17}Circuits and roads}{203}{}%
-\contentsline {section}{Valdai Watershed}{204}{}%
-\contentsline {section}{Congo Ring}{205}{}%
-\contentsline {section}{Seidenstraße}{206}{}%
-\contentsline {section}{The Same Blue Field}{208}{}%
-\contentsline {section}{Mates and Rivers}{209}{}%
-\contentsline {section}{Red Bag Chichería}{210}{}%
-\contentsline {section}{From the Fields to the Flood}{211}{}%
-\contentsline {section}{Water Made Us}{212}{}%
-\contentsline {section}{Where Waters Sort}{213}{}%
-\contentsline {section}{Rif Valley Rave}{214}{}%
-\contentsline {section}{Пѣснь о Кругахъ Путей}{215}{}%
-\contentsline {section}{Ride The Circuits}{216}{}%
-\contentsline {section}{Circuit World}{217}{}%
-\contentsline {chapter}{\chapternumberline {18}Geography and spiritual travel}{219}{}%
-\contentsline {section}{Bucket List}{220}{}%
-\contentsline {section}{Bogotá}{221}{}%
-\contentsline {section}{Le cœur léger}{222}{}%
-\contentsline {section}{Canta la Ruta}{223}{}%
-\contentsline {section}{Take Me South}{224}{}%
-\contentsline {section}{Closer to the Stars}{225}{}%
-\contentsline {section}{Indiana Highway}{226}{}%
-\contentsline {part}{\partnumberline {V}Social Commentary}{227}{}%
-\contentsline {chapter}{\chapternumberline {19}Satire and mundane absurdity}{229}{}%
-\contentsline {section}{Operating Manual (For Changing a Light Bulb)}{230}{}%
-\contentsline {section}{Buba Kiki Riot}{231}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{232}{}%
-\contentsline {section}{Sabor en la Mesa}{233}{}%
-\contentsline {section}{Taste the Menu}{234}{}%
-\contentsline {section}{Tiempo Real}{235}{}%
-\contentsline {chapter}{\chapternumberline {20}Modern loneliness and social critique}{237}{}%
-\contentsline {section}{Cut Me Loose}{238}{}%
-\contentsline {section}{The Toxic Ghost}{239}{}%
-\contentsline {section}{Post-Capitalist Lonely}{240}{}%
-\contentsline {section}{Signed by Don Addis}{241}{}%
-\contentsline {section}{Del establecimiento}{242}{}%
-\contentsline {section}{Mouth of the Machine}{243}{}%
-\contentsline {chapter}{\chapternumberline {21}More}{245}{}%
-\contentsline {section}{TrackB}{246}{}%
-\contentsline {section}{Midnight Carnival Split}{247}{}%
-\contentsline {section}{Güiro quemado}{248}{}%
-\contentsline {section}{Memory Wakes}{250}{}%
-\contentsline {section}{Espero}{252}{}%
-\contentsline {section}{The Night}{253}{}%
-\contentsline {section}{Rainbow Candy Parade}{254}{}%
-\contentsline {section}{Entre cajas y llamadas}{255}{}%
-\contentsline {section}{Cuatro Maneras}{256}{}%
-\contentsline {section}{Stellae Ex Pulvere}{257}{}%
-\contentsline {section}{Between Us}{258}{}%
-\contentsline {section}{Five Rooms, One Key}{259}{}%
-\contentsline {section}{What Remains Where We Are}{260}{}%
-\contentsline {part}{\partnumberline {VI}Acrostics}{261}{}%
-\contentsline {chapter}{\chapternumberline {22}Enwigh Peady and Other Acrostics}{263}{}%
-\contentsline {section}{Chiq}{264}{}%
-\contentsline {section}{Doble-J}{265}{}%
-\contentsline {section}{Ack-Rostica}{266}{}%
-\contentsline {section}{Awk-Rustica}{267}{}%
-\contentsline {section}{Across-Ticks}{268}{}%
-\contentsline {part}{\partnumberline {VII}Nation and Ritual}{269}{}%
-\contentsline {chapter}{\chapternumberline {23}Hymns and Chants}{271}{}%
-\contentsline {section}{Red and Yellow}{272}{}%
-\contentsline {section}{Bajo La Tricolor}{273}{}%
-\contentsline {section}{Colombia, Tu Papá}{274}{}%
-\contentsline {section}{Co Co Co Co}{275}{}%
-\contentsline {section}{Patria Invicta}{276}{}%
-\contentsline {section}{Lutz de la Tèrra}{277}{}%
-\contentsline {section}{Sal de la tierra}{278}{}%
-\contentsline {section}{Wingman}{279}{}%
-\contentsline {section}{Cuore In Guerra}{280}{}%
-\contentsline {section}{Frost in Gold}{281}{}%
-\contentsline {chapter}{\chapternumberline {24}Conlangs and Glossolalia}{283}{}%
-\contentsline {section}{E Numa Lah}{284}{}%
-\contentsline {section}{Kapu Lema}{285}{}%
-\contentsline {section}{Badiba Buka}{286}{}%
-\contentsline {section}{Parará Pa Pa}{287}{}%
-\contentsline {section}{O ku pater de nos}{288}{}%
-\contentsline {section}{Cheese Spoon Paseo}{289}{}%
-\contentsline {section}{dij Schdzjarvk}{290}{}%
-\contentsline {part}{\partnumberline {VIII}Form and Craft}{291}{}%
-\contentsline {chapter}{\chapternumberline {25}Meta}{293}{}%
-\contentsline {section}{Writing Ain't Easy}{294}{}%
-\contentsline {section}{Weather and Memory}{295}{}%
-\contentsline {section}{Entre mundos}{296}{}%
-\contentsline {chapter}{\chapternumberline {26}Instrumental}{299}{}%
-\contentsline {section}{Callejón Azul}{300}{}%
-\contentsline {section}{Monstruo Ciudad}{301}{}%
-\contentsline {section}{March and Tumbao}{302}{}%
-\contentsline {section}{Candy Rock Day}{303}{}%
-\contentsline {section}{Clave and Chrome}{304}{}%
-\contentsline {section}{Beachside Boogie}{305}{}%
-\contentsline {section}{Scraper Road}{306}{}%
-\contentsline {section}{Iron Pulse}{307}{}%
-\contentsline {section}{Stone Light Portrait}{308}{}%
-\contentsline {section}{Calle Tumbao}{309}{}%
-\contentsline {section}{Claim Ledger Drift}{310}{}%
-\contentsline {section}{The Great Gatsby}{311}{}%
-\contentsline {section}{Migrant Echoes}{312}{}%
-\contentsline {section}{Viejo Bambuco}{313}{}%
-\contentsline {section}{Tambor y Gaita}{314}{}%
-\contentsline {section}{Dos Pesos}{315}{}%
-\contentsline {section}{The Last Waltz of the Northern}{316}{}%
-\contentsline {section}{Moonlit Caravan}{317}{}%
-\contentsline {section}{Grand Orchestra Ballad}{318}{}%
-\contentsline {section}{Timbales in Blue}{319}{}%
-\contentsline {section}{Purple Lace Stance}{320}{}%
-\contentsline {section}{September at the Window}{321}{}%
-\contentsline {chapter}{\chapternumberline {27}Fragments}{323}{}%
-\contentsline {section}{Burn the Glass}{324}{}%
-\contentsline {section}{A Drunk Without A Drop}{325}{}%
-\contentsline {section}{The Bitter Toll}{326}{}%
-\contentsline {chapter}{\chapternumberline {28}Adaptations I: Re-genres}{327}{}%
-\contentsline {section}{The Wrong Map}{328}{}%
-\contentsline {section}{The Wrong Map}{329}{}%
-\contentsline {section}{They Multiply}{330}{}%
-\contentsline {section}{Deserve}{331}{}%
-\contentsline {section}{The Fault in Your Character (EBD)}{332}{}%
-\contentsline {section}{Vida simple}{333}{}%
-\contentsline {section}{Los buenos somos más}{334}{}%
-\contentsline {section}{Non-Aligned}{335}{}%
-\contentsline {section}{Si no te hace falta}{336}{}%
-\contentsline {section}{Crave Stimuli}{337}{}%
-\contentsline {section}{Crave Stimuli (rave)}{338}{}%
-\contentsline {section}{Sex Without Compromise}{339}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{340}{}%
-\contentsline {section}{Living Fantasies (native folk)}{341}{}%
-\contentsline {section}{Skälvning}{342}{}%
-\contentsline {section}{The Decay of Hatred}{343}{}%
-\contentsline {section}{The Unreached Crush}{344}{}%
-\contentsline {section}{Domestic Realism}{345}{}%
-\contentsline {section}{Min enda röst}{346}{}%
-\contentsline {section}{Si pienso (Remastered)}{347}{}%
-\contentsline {chapter}{\chapternumberline {29}Adaptations II: Adapted Lyrics}{349}{}%
-\contentsline {section}{The Hardest Toll}{350}{}%
-\contentsline {section}{Piel / Stimuli}{351}{}%
-\contentsline {section}{Soundwall}{352}{}%
-\contentsline {section}{Keep Me}{353}{}%
-\contentsline {section}{New // Old}{354}{}%
-\contentsline {section}{Buildings Worlds}{355}{}%
-\contentsline {section}{Paper in the Grinder}{356}{}%
-\contentsline {section}{Grinder Glass}{357}{}%
-\contentsline {section}{Paper In My Teeth}{358}{}%
-\contentsline {section}{Paper Cup Engine}{359}{}%
-\contentsline {section}{Headlights That Crush}{360}{}%
-\contentsline {section}{Writing Takes Its Toll}{361}{}%
-\contentsline {section}{Not a Label, Not a Part}{363}{}%
-\contentsline {chapter}{\chapternumberline {30}Adaptations III: Cross-language}{365}{}%
-\contentsline {section}{Carried Away}{366}{}%
-\contentsline {section}{If You Don’t Need It}{368}{}%
-\contentsline {section}{Inner Space}{369}{}%
-\contentsline {section}{Frisson}{370}{}%
-\contentsline {section}{Å finne noen andre å bebreide}{371}{}%
-\contentsline {section}{Manifest Fault}{372}{}%
-\contentsline {section}{Between Worlds}{373}{}%
-\contentsline {section}{Manet Id}{375}{}%
-\contentsline {section}{That Hug}{376}{}%
-\contentsline {section}{Sané mirando tus ojos}{377}{}%
+\contentsline {chapter}{\chapternumberline {8}Later Thoughts II: Behind the Smile}{91}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{92}{}%
+\contentsline {section}{The Secret Fires}{93}{}%
+\contentsline {section}{Let Me Finish}{94}{}%
+\contentsline {section}{Two Storms in One Sky}{95}{}%
+\contentsline {section}{Behind the Smile}{96}{}%
+\contentsline {section}{Limits of the Load}{97}{}%
+\contentsline {chapter}{\chapternumberline {9}Later Thoughts III: Online Sparks and Unspoken}{99}{}%
+\contentsline {section}{A Someone or a Someone}{100}{}%
+\contentsline {section}{Traga tuitera}{101}{}%
+\contentsline {section}{El hilo}{102}{}%
+\contentsline {section}{For That Moment}{103}{}%
+\contentsline {section}{In That Moment}{104}{}%
+\contentsline {section}{Irrelevant Conversations}{105}{}%
+\contentsline {section}{Your Role}{106}{}%
+\contentsline {section}{Quiet Signal}{107}{}%
+\contentsline {section}{No Excuse}{108}{}%
+\contentsline {section}{Entre cajas y llamadas}{110}{}%
+\contentsline {part}{\partnumberline {II}Soul and Turmoil}{111}{}%
+\contentsline {chapter}{\chapternumberline {10}Soul}{113}{}%
+\contentsline {section}{Dejándome llevar}{114}{}%
+\contentsline {section}{Stimuli}{115}{}%
+\contentsline {section}{Piel}{116}{}%
+\contentsline {section}{Living Fantasies (electronic)}{117}{}%
+\contentsline {section}{Vueltas y vueltas}{118}{}%
+\contentsline {section}{Mundos internos}{119}{}%
+\contentsline {section}{A Coffee Not Shared}{120}{}%
+\contentsline {section}{Perderme en el anhelo}{121}{}%
+\contentsline {section}{Easy Love}{122}{}%
+\contentsline {chapter}{\chapternumberline {11}Inner turmoil}{123}{}%
+\contentsline {section}{The Wrong Map}{124}{}%
+\contentsline {section}{Multiply the Delay}{125}{}%
+\contentsline {section}{The Fault in Your Character}{126}{}%
+\contentsline {section}{A Mind That Craves Novelty}{127}{}%
+\contentsline {section}{Connection}{128}{}%
+\contentsline {chapter}{\chapternumberline {12}Recap}{129}{}%
+\contentsline {section}{Used to Say}{130}{}%
+\contentsline {section}{Buscando culpables}{131}{}%
+\contentsline {section}{Kvar i mig}{132}{}%
+\contentsline {part}{\partnumberline {III}Faith and Argument}{133}{}%
+\contentsline {chapter}{\chapternumberline {13}Pray, Brother I: Apologetics}{135}{}%
+\contentsline {section}{Slightest Amount}{136}{}%
+\contentsline {section}{Complete By What}{137}{}%
+\contentsline {section}{Complete By What}{138}{}%
+\contentsline {section}{Not In The Creed}{139}{}%
+\contentsline {section}{Which God Stands Still}{140}{}%
+\contentsline {section}{Ashes in the Pews}{141}{}%
+\contentsline {section}{Morality Ain’t Imposed}{142}{}%
+\contentsline {section}{Categorical Error}{143}{}%
+\contentsline {section}{Antiphona: De Atheismi Utilitate}{144}{}%
+\contentsline {section}{Talk To Me}{145}{}%
+\contentsline {section}{Defined Or Dust}{146}{}%
+\contentsline {section}{Pews and Bridges}{147}{}%
+\contentsline {section}{Yes It Can}{148}{}%
+\contentsline {section}{Not Misreading Intention}{149}{}%
+\contentsline {section}{What The Book Leaves Out}{150}{}%
+\contentsline {section}{The Ground I Find}{151}{}%
+\contentsline {section}{Think About It}{152}{}%
+\contentsline {section}{It's Still With Me}{153}{}%
+\contentsline {section}{Actual and Relevant}{154}{}%
+\contentsline {chapter}{\chapternumberline {14}Pray, Brother II: Sacred Stories}{155}{}%
+\contentsline {section}{Dead Sea's barren dreams}{156}{}%
+\contentsline {section}{In the Time of Noah's Ark}{157}{}%
+\contentsline {section}{In the Time of Noah's Ark}{158}{}%
+\contentsline {section}{Succubus Portrait}{159}{}%
+\contentsline {section}{Fallen Messenger}{160}{}%
+\contentsline {section}{Gustavo Cerati que no estás con nosotros}{161}{}%
+\contentsline {section}{Keep the Vow}{162}{}%
+\contentsline {chapter}{\chapternumberline {15}Essays}{163}{}%
+\contentsline {section}{Retrogrades}{164}{}%
+\contentsline {section}{Balance of Three}{165}{}%
+\contentsline {section}{La Casa y el Viento}{166}{}%
+\contentsline {section}{Espejo Luminoso}{167}{}%
+\contentsline {section}{Límite sincopado}{168}{}%
+\contentsline {section}{Best Available Lens}{170}{}%
+\contentsline {section}{Todos al mismo lado}{171}{}%
+\contentsline {section}{Los buenos somos más}{172}{}%
+\contentsline {section}{No Middle Seat}{173}{}%
+\contentsline {section}{Bogotá Backbone}{174}{}%
+\contentsline {section}{History Witnessed Live}{175}{}%
+\contentsline {section}{EISH5 Worlds}{176}{}%
+\contentsline {section}{Moon in the Frame}{177}{}%
+\contentsline {section}{Check My Privilege}{178}{}%
+\contentsline {section}{Let the Border Breathe Again}{179}{}%
+\contentsline {section}{No me vendas dolor de patria}{180}{}%
+\contentsline {section}{Hold the Line}{181}{}%
+\contentsline {section}{Pass the Bread}{182}{}%
+\contentsline {section}{Draw the Line}{183}{}%
+\contentsline {section}{Barrera de inicio}{184}{}%
+\contentsline {chapter}{\chapternumberline {16}Dilemmas and arguments}{185}{}%
+\contentsline {section}{Critter Kin (Man's an Animal Too)}{186}{}%
+\contentsline {section}{Second Gun Salesman}{187}{}%
+\contentsline {section}{The Good Guy's Dilemma}{188}{}%
+\contentsline {section}{Draw The Tree}{189}{}%
+\contentsline {section}{What Was Left Behind}{190}{}%
+\contentsline {section}{Two Ways to Think}{191}{}%
+\contentsline {section}{Burden of Proof}{192}{}%
+\contentsline {section}{The Question Left Between Us}{193}{}%
+\contentsline {part}{\partnumberline {IV}Places}{195}{}%
+\contentsline {chapter}{\chapternumberline {17}Circuits and roads}{197}{}%
+\contentsline {section}{Valdai Watershed}{198}{}%
+\contentsline {section}{Congo Ring}{199}{}%
+\contentsline {section}{Seidenstraße}{200}{}%
+\contentsline {section}{The Same Blue Field}{202}{}%
+\contentsline {section}{Mates and Rivers}{203}{}%
+\contentsline {section}{Red Bag Chichería}{204}{}%
+\contentsline {section}{From the Fields to the Flood}{205}{}%
+\contentsline {section}{Water Made Us}{206}{}%
+\contentsline {section}{Where Waters Sort}{207}{}%
+\contentsline {section}{Rif Valley Rave}{208}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{209}{}%
+\contentsline {section}{Ride The Circuits}{210}{}%
+\contentsline {section}{Circuit World}{211}{}%
+\contentsline {chapter}{\chapternumberline {18}Geography and spiritual travel}{213}{}%
+\contentsline {section}{Bucket List}{214}{}%
+\contentsline {section}{Bogotá}{215}{}%
+\contentsline {section}{Le cœur léger}{216}{}%
+\contentsline {section}{Canta la Ruta}{217}{}%
+\contentsline {section}{Take Me South}{218}{}%
+\contentsline {section}{Closer to the Stars}{219}{}%
+\contentsline {section}{Indiana Highway}{220}{}%
+\contentsline {part}{\partnumberline {V}Social Commentary}{221}{}%
+\contentsline {chapter}{\chapternumberline {19}Satire and mundane absurdity}{223}{}%
+\contentsline {section}{Operating Manual (For Changing a Light Bulb)}{224}{}%
+\contentsline {section}{Buba Kiki Riot}{225}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{226}{}%
+\contentsline {section}{Sabor en la Mesa}{227}{}%
+\contentsline {section}{Taste the Menu}{228}{}%
+\contentsline {section}{Tiempo Real}{229}{}%
+\contentsline {section}{Cuatro Maneras}{230}{}%
+\contentsline {chapter}{\chapternumberline {20}Modern loneliness and social critique}{231}{}%
+\contentsline {section}{Cut Me Loose}{232}{}%
+\contentsline {section}{The Toxic Ghost}{233}{}%
+\contentsline {section}{Post-Capitalist Lonely}{234}{}%
+\contentsline {section}{Signed by Don Addis}{235}{}%
+\contentsline {section}{Del establecimiento}{236}{}%
+\contentsline {section}{Mouth of the Machine}{237}{}%
+\contentsline {part}{\partnumberline {VI}Nation and Ritual}{239}{}%
+\contentsline {chapter}{\chapternumberline {21}Hymns and Chants}{241}{}%
+\contentsline {section}{Red and Yellow}{242}{}%
+\contentsline {section}{Bajo La Tricolor}{243}{}%
+\contentsline {section}{Colombia, Tu Papá}{244}{}%
+\contentsline {section}{Co Co Co Co}{245}{}%
+\contentsline {section}{Patria Invicta}{246}{}%
+\contentsline {section}{Lutz de la Tèrra}{247}{}%
+\contentsline {section}{Sal de la tierra}{248}{}%
+\contentsline {section}{Wingman}{249}{}%
+\contentsline {section}{Cuore In Guerra}{250}{}%
+\contentsline {section}{Frost in Gold}{251}{}%
+\contentsline {section}{Stellae Ex Pulvere}{252}{}%
+\contentsline {chapter}{\chapternumberline {22}Conlangs and Glossolalia}{253}{}%
+\contentsline {section}{E Numa Lah}{254}{}%
+\contentsline {section}{Kapu Lema}{255}{}%
+\contentsline {section}{Badiba Buka}{256}{}%
+\contentsline {section}{Parará Pa Pa}{257}{}%
+\contentsline {section}{O ku pater de nos}{258}{}%
+\contentsline {section}{Cheese Spoon Paseo}{259}{}%
+\contentsline {section}{dij Schdzjarvk}{260}{}%
+\contentsline {part}{\partnumberline {VII}Form and Craft}{261}{}%
+\contentsline {chapter}{\chapternumberline {23}Meta}{263}{}%
+\contentsline {section}{Writing Ain't Easy}{264}{}%
+\contentsline {section}{Weather and Memory}{265}{}%
+\contentsline {section}{Entre mundos}{266}{}%
+\contentsline {section}{Cornered By Systems}{268}{}%
+\contentsline {section}{Five Rooms, One Key}{269}{}%
+\contentsline {section}{What Remains Where We Are}{270}{}%
+\contentsline {chapter}{\chapternumberline {24}Enwigh Peady and Other Acrostics}{271}{}%
+\contentsline {section}{Chiq}{272}{}%
+\contentsline {section}{Doble-J}{273}{}%
+\contentsline {section}{Ack-Rostica}{274}{}%
+\contentsline {section}{Awk-Rustica}{275}{}%
+\contentsline {section}{Across-Ticks}{276}{}%
+\contentsline {chapter}{\chapternumberline {25}Instrumental I: Tropical groove}{277}{}%
+\contentsline {section}{Callejón Azul}{278}{}%
+\contentsline {section}{Monstruo Ciudad}{279}{}%
+\contentsline {section}{March and Tumbao}{280}{}%
+\contentsline {section}{Clave and Chrome}{281}{}%
+\contentsline {section}{Calle Tumbao}{282}{}%
+\contentsline {section}{Viejo Bambuco}{283}{}%
+\contentsline {section}{Tambor y Gaita}{284}{}%
+\contentsline {section}{Dos Pesos}{285}{}%
+\contentsline {section}{Grand Orchestra Ballad}{286}{}%
+\contentsline {section}{Timbales in Blue}{287}{}%
+\contentsline {section}{Midnight Carnival Split}{288}{}%
+\contentsline {chapter}{\chapternumberline {26}Instrumental II: Other colors}{289}{}%
+\contentsline {section}{Candy Rock Day}{290}{}%
+\contentsline {section}{Beachside Boogie}{291}{}%
+\contentsline {section}{Scraper Road}{292}{}%
+\contentsline {section}{Iron Pulse}{293}{}%
+\contentsline {section}{Stone Light Portrait}{294}{}%
+\contentsline {section}{Claim Ledger Drift}{295}{}%
+\contentsline {section}{The Great Gatsby}{296}{}%
+\contentsline {section}{Migrant Echoes}{297}{}%
+\contentsline {section}{The Last Waltz of the Northern}{298}{}%
+\contentsline {section}{Moonlit Caravan}{299}{}%
+\contentsline {section}{Purple Lace Stance}{300}{}%
+\contentsline {section}{September at the Window}{301}{}%
+\contentsline {section}{TrackB}{302}{}%
+\contentsline {section}{Rainbow Candy Parade}{303}{}%
+\contentsline {chapter}{\chapternumberline {27}Fragments}{305}{}%
+\contentsline {section}{Burn the Glass}{306}{}%
+\contentsline {section}{A Drunk Without A Drop}{307}{}%
+\contentsline {section}{The Bitter Toll}{308}{}%
+\contentsline {chapter}{\chapternumberline {28}Adaptations I: Re-genres}{309}{}%
+\contentsline {section}{The Wrong Map}{310}{}%
+\contentsline {section}{The Wrong Map}{311}{}%
+\contentsline {section}{They Multiply}{312}{}%
+\contentsline {section}{Deserve}{313}{}%
+\contentsline {section}{The Fault in Your Character (EBD)}{314}{}%
+\contentsline {section}{Vida simple}{315}{}%
+\contentsline {section}{Los buenos somos más}{316}{}%
+\contentsline {section}{Non-Aligned}{317}{}%
+\contentsline {section}{Si no te hace falta}{318}{}%
+\contentsline {section}{Crave Stimuli}{319}{}%
+\contentsline {section}{Crave Stimuli (rave)}{320}{}%
+\contentsline {section}{Sex Without Compromise}{321}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{322}{}%
+\contentsline {section}{Living Fantasies (native folk)}{323}{}%
+\contentsline {section}{Skälvning}{324}{}%
+\contentsline {section}{The Decay of Hatred}{325}{}%
+\contentsline {section}{The Unreached Crush}{326}{}%
+\contentsline {section}{Domestic Realism}{327}{}%
+\contentsline {section}{Min enda röst}{328}{}%
+\contentsline {section}{Si pienso (Remastered)}{329}{}%
+\contentsline {section}{Guided Hands}{330}{}%
+\contentsline {section}{The Secret Fires}{331}{}%
+\contentsline {section}{Secret Fires (TrackB)}{332}{}%
+\contentsline {chapter}{\chapternumberline {29}Adaptations II: Adapted Lyrics}{333}{}%
+\contentsline {section}{The Hardest Toll}{334}{}%
+\contentsline {section}{Piel / Stimuli}{335}{}%
+\contentsline {section}{Soundwall}{336}{}%
+\contentsline {section}{Keep Me}{337}{}%
+\contentsline {section}{New // Old}{338}{}%
+\contentsline {section}{Buildings Worlds}{339}{}%
+\contentsline {section}{Paper in the Grinder}{340}{}%
+\contentsline {section}{Grinder Glass}{341}{}%
+\contentsline {section}{Paper In My Teeth}{342}{}%
+\contentsline {section}{Paper Cup Engine}{343}{}%
+\contentsline {section}{Headlights That Crush}{344}{}%
+\contentsline {section}{Writing Takes Its Toll}{345}{}%
+\contentsline {section}{Not a Label, Not a Part}{347}{}%
+\contentsline {chapter}{\chapternumberline {30}Adaptations III: Cross-language}{349}{}%
+\contentsline {section}{Carried Away}{350}{}%
+\contentsline {section}{If You Don’t Need It}{352}{}%
+\contentsline {section}{Inner Space}{353}{}%
+\contentsline {section}{Frisson}{354}{}%
+\contentsline {section}{Å finne noen andre å bebreide}{355}{}%
+\contentsline {section}{Manifest Fault}{356}{}%
+\contentsline {section}{Between Worlds}{357}{}%
+\contentsline {section}{Manet Id}{359}{}%
+\contentsline {section}{That Hug}{360}{}%
+\contentsline {section}{Sané mirando tus ojos}{361}{}%
+\contentsline {section}{Memory Wakes}{362}{}%
+\contentsline {section}{El fin de la historia}{364}{}%
