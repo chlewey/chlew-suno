@@ -72,7 +72,7 @@ A photorealistic portrait of Claire Jones, a slender ginger-haired woman of abou
 
 `covers/entourage-eco/xumi`
 
-A photorealistic portrait of Xumi, a woman of about 37 with freckles like cinnamon across her cheeks and a huge, bright smile, wearing a brown leather jacket, a red scarf loosely tangled in her hair, and a leather-strapped wristwatch, standing on a narrow Barcelona street in warm autumn afternoon light with fallen leaves at her feet. Soft golden backlight, shallow depth of field, a warm, confident and slightly amused mood, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
+A photorealistic close-up portrait of Xumi Alexander, a slim adult woman of about 35, standing casually and posing for the camera with a subtle smile, looking straight at the viewer. She has a heart-shaped face with freckles across her cheeks and nose, a few beauty marks under her right eye, and smooth tanned skin with a soft blush. Her black hair is short, wavy and unruly, in a pixie cut with side-parted bangs. She has large brown almond-shaped eyes with medium arched eyebrows and long dark lashes, a small nose and full lips. She wears silver dangling earrings shaped like leaves, a simple necklace with a delicate pendant, and a plain white t-shirt. The background is an indoor room with large windows, soft daylight falling across her face, a cozy and inviting atmosphere. Sharp focus on the face, shallow depth of field, cinematic lighting, correct anatomy. No text overlay. Square 1:1 aspect ratio.
 
 ## Orbits
 
