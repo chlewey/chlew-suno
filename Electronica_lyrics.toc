@@ -146,65 +146,68 @@
 \contentsline {section}{Círculo Convexo}{170}{}%
 \contentsline {section}{Vaina en Græville}{171}{}%
 \contentsline {section}{Used to Say}{172}{}%
-\contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Physical Needs (Lyrical Part II)}{173}{}%
-\contentsline {section}{Fantasma de quien no es}{174}{}%
-\contentsline {section}{Vulnerable}{175}{}%
-\contentsline {section}{Pálpitos prohibidos}{176}{}%
-\contentsline {section}{Cabeza Perdida}{177}{}%
-\contentsline {section}{Jugando}{178}{}%
-\contentsline {section}{Alarm Cabinet}{179}{}%
-\contentsline {section}{Carried Away}{180}{}%
-\contentsline {section}{Deserve}{182}{}%
-\contentsline {section}{Lightning Rod Mode}{183}{}%
-\contentsline {section}{Soap Line Logic}{184}{}%
-\contentsline {section}{Somebody Out There}{185}{}%
-\contentsline {section}{Vida simple}{186}{}%
-\contentsline {section}{Crave Stimuli}{187}{}%
-\contentsline {section}{Piel}{188}{}%
-\contentsline {section}{Living Fantasies (electronic)}{189}{}%
-\contentsline {section}{The Wrong Map}{190}{}%
-\contentsline {section}{The Fault in Your Character (EBD)}{191}{}%
-\contentsline {section}{Crave Stimuli (rave)}{192}{}%
-\contentsline {section}{Mundos internos}{193}{}%
-\contentsline {section}{Inner Space}{194}{}%
-\contentsline {section}{A Coffee Not Shared}{195}{}%
-\contentsline {section}{The Unreached Crush}{196}{}%
-\contentsline {section}{Frisson}{197}{}%
-\contentsline {chapter}{\chapternumberline {11}Instrumental Textures (Lyrical Part III)}{199}{}%
-\contentsline {section}{Across-Ticks}{200}{}%
-\contentsline {section}{Cuatro Maneras}{201}{}%
-\contentsline {section}{Modo Pararrayos}{202}{}%
-\contentsline {section}{Pared fría}{203}{}%
-\contentsline {section}{La duda - por qué}{204}{}%
-\contentsline {section}{Papel en la escalera}{205}{}%
-\contentsline {section}{Si no te hace falta}{206}{}%
-\contentsline {section}{Vueltas y vueltas}{207}{}%
-\contentsline {section}{Kapu Lema}{208}{}%
-\contentsline {section}{They Multiply}{209}{}%
-\contentsline {section}{Purple Lace Stance}{210}{}%
-\contentsline {section}{If You Don’t Need It}{211}{}%
-\contentsline {section}{In That Moment}{212}{}%
-\contentsline {section}{Iron Pulse}{213}{}%
-\contentsline {section}{Keep Me}{214}{}%
-\contentsline {section}{New // Old}{215}{}%
-\contentsline {section}{Soundwall}{216}{}%
-\contentsline {section}{Stimuli}{217}{}%
-\contentsline {section}{Between Us}{218}{}%
-\contentsline {section}{Never Fall}{219}{}%
-\contentsline {part}{\partnumberline {VI}Street Corner Riot}{221}{}%
-\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{225}{}%
-\contentsline {section}{Je hais ma haine}{226}{}%
-\contentsline {section}{Dig}{227}{}%
-\contentsline {section}{Peccato bello}{228}{}%
-\contentsline {section}{Comfort Zones}{229}{}%
-\contentsline {section}{Kein Feuer}{230}{}%
-\contentsline {section}{Street Corner Zambomba}{231}{}%
-\contentsline {section}{Pacificate}{232}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{233}{}%
-\contentsline {section}{Ik schreef mijn naam in}{234}{}%
-\contentsline {section}{Liis Talveuks}{235}{}%
-\contentsline {section}{Тепло без якоря}{236}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{237}{}%
+\contentsline {section}{E numa lah}{173}{}%
+\contentsline {chapter}{\chapternumberline {10}ADHD Chaos \& Physical Needs (Lyrical Part II)}{175}{}%
+\contentsline {section}{Fantasma de quien no es}{176}{}%
+\contentsline {section}{Vulnerable}{177}{}%
+\contentsline {section}{Pálpitos prohibidos}{178}{}%
+\contentsline {section}{Cabeza Perdida}{179}{}%
+\contentsline {section}{Jugando}{180}{}%
+\contentsline {section}{Alarm Cabinet}{181}{}%
+\contentsline {section}{Carried Away}{182}{}%
+\contentsline {section}{Deserve}{184}{}%
+\contentsline {section}{Lightning Rod Mode}{185}{}%
+\contentsline {section}{Soap Line Logic}{186}{}%
+\contentsline {section}{Somebody Out There}{187}{}%
+\contentsline {section}{Vida simple}{188}{}%
+\contentsline {section}{Crave Stimuli}{189}{}%
+\contentsline {section}{Piel}{190}{}%
+\contentsline {section}{Living Fantasies (electronic)}{191}{}%
+\contentsline {section}{The Wrong Map}{192}{}%
+\contentsline {section}{The Fault in Your Character (EBD)}{193}{}%
+\contentsline {section}{Crave Stimuli (rave)}{194}{}%
+\contentsline {section}{Mundos internos}{195}{}%
+\contentsline {section}{Inner Space}{196}{}%
+\contentsline {section}{A Coffee Not Shared}{197}{}%
+\contentsline {section}{The Unreached Crush}{198}{}%
+\contentsline {section}{Frisson}{199}{}%
+\contentsline {section}{Keep On Rolling}{200}{}%
+\contentsline {chapter}{\chapternumberline {11}Instrumental Textures (Lyrical Part III)}{201}{}%
+\contentsline {section}{Across-Ticks}{202}{}%
+\contentsline {section}{Cuatro Maneras}{203}{}%
+\contentsline {section}{Modo Pararrayos}{204}{}%
+\contentsline {section}{Pared fría}{205}{}%
+\contentsline {section}{La duda - por qué}{206}{}%
+\contentsline {section}{Papel en la escalera}{207}{}%
+\contentsline {section}{Si no te hace falta}{208}{}%
+\contentsline {section}{Vueltas y vueltas}{209}{}%
+\contentsline {section}{Kapu Lema}{210}{}%
+\contentsline {section}{They Multiply}{211}{}%
+\contentsline {section}{Purple Lace Stance}{212}{}%
+\contentsline {section}{If You Don’t Need It}{213}{}%
+\contentsline {section}{In That Moment}{214}{}%
+\contentsline {section}{Iron Pulse}{215}{}%
+\contentsline {section}{Keep Me}{216}{}%
+\contentsline {section}{New // Old}{217}{}%
+\contentsline {section}{Soundwall}{218}{}%
+\contentsline {section}{Stimuli}{219}{}%
+\contentsline {section}{Between Us}{220}{}%
+\contentsline {section}{Never Fall}{221}{}%
+\contentsline {section}{Wetzing Sacquia}{222}{}%
+\contentsline {part}{\partnumberline {VI}Street Corner Riot}{223}{}%
+\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{227}{}%
+\contentsline {section}{Je hais ma haine}{228}{}%
+\contentsline {section}{Dig}{229}{}%
+\contentsline {section}{Peccato bello}{230}{}%
+\contentsline {section}{Comfort Zones}{231}{}%
+\contentsline {section}{Kein Feuer}{232}{}%
+\contentsline {section}{Street Corner Zambomba}{233}{}%
+\contentsline {section}{Pacificate}{234}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{235}{}%
+\contentsline {section}{Ik schreef mijn naam in}{236}{}%
+\contentsline {section}{Liis Talveuks}{237}{}%
+\contentsline {section}{Тепло без якоря}{238}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{239}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -215,7 +218,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{238}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{240}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -226,14 +229,14 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{239}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{240}{}%
-\contentsline {section}{dij Schdzjarvk}{241}{}%
-\contentsline {section}{Doopi-Do-Doos}{242}{}%
-\contentsline {section}{Anama'inreesü tüa}{243}{}%
-\contentsline {section}{Kijana Msomi (short)}{244}{}%
-\contentsline {section}{Kelidi Degar}{245}{}%
-\contentsline {section}{Binwe, Jan-Alan}{246}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{247}{}%
-\contentsline {section}{En upersonlig skjebne}{248}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{249}{}%
+\contentsline {section}{Xumi}{241}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{242}{}%
+\contentsline {section}{dij Schdzjarvk}{243}{}%
+\contentsline {section}{Doopi-Do-Doos}{244}{}%
+\contentsline {section}{Anama'inreesü tüa}{245}{}%
+\contentsline {section}{Kijana Msomi (short)}{246}{}%
+\contentsline {section}{Kelidi Degar}{247}{}%
+\contentsline {section}{Binwe, Jan-Alan}{248}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{249}{}%
+\contentsline {section}{En upersonlig skjebne}{250}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{251}{}%

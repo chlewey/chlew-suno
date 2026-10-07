@@ -145,6 +145,7 @@
 \contentsline {section}{A Mind That Craves Novelty}{157}{}%
 \contentsline {section}{The Last Waltz of the Northern}{158}{}%
 \contentsline {section}{Migrant Echoes}{159}{}%
+\contentsline {section}{Siento}{160}{}%
 \contentsline {chapter}{\chapternumberline {14}Life Stories in Rock}{161}{}%
 \contentsline {section}{Every Little Letter}{162}{}%
 \contentsline {section}{The Questions Kept On Shaping}{163}{}%
@@ -153,9 +154,11 @@
 \contentsline {section}{Leading the Jump}{166}{}%
 \contentsline {section}{Parked Outside the Classroom}{167}{}%
 \contentsline {section}{Bogotá Cathedral}{168}{}%
-\contentsline {chapter}{\chapternumberline {15}Playful Escapes \& Candy Rock Parades}{169}{}%
-\contentsline {section}{Candy Rock Day}{170}{}%
-\contentsline {section}{Rainbow Candy Parade}{171}{}%
-\contentsline {section}{Peter City Walk}{172}{}%
-\contentsline {section}{Pastel Dream}{173}{}%
-\contentsline {section}{Where the Gentle Things Begin}{174}{}%
+\contentsline {section}{Två år på Söder}{169}{}%
+\contentsline {chapter}{\chapternumberline {15}Playful Escapes \& Candy Rock Parades}{171}{}%
+\contentsline {section}{Candy Rock Day}{172}{}%
+\contentsline {section}{Rainbow Candy Parade}{173}{}%
+\contentsline {section}{Peter City Walk}{174}{}%
+\contentsline {section}{Pastel Dream}{175}{}%
+\contentsline {section}{Where the Gentle Things Begin}{176}{}%
+\contentsline {section}{Keep On Rolling}{177}{}%

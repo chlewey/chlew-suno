@@ -51,6 +51,7 @@
 \contentsline {section}{Used to Say}{55}{}%
 \contentsline {section}{Buscando culpables}{56}{}%
 \contentsline {section}{Kvar i mig}{57}{}%
+\contentsline {section}{Se Acabó la Discusión}{58}{}%
 \contentsline {chapter}{\chapternumberline {5}Extra stuff}{59}{}%
 \contentsline {section}{Writing Ain't Easy}{60}{}%
 \contentsline {section}{Weather and Memory}{61}{}%
