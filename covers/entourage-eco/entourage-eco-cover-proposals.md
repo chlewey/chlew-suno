@@ -68,6 +68,12 @@ A photorealistic portrait of Susana Bianchi, a confident olive-skinned woman of 
 
 A photorealistic portrait of Claire Jones, a slender ginger-haired woman of about 38 with straight hair, freckled skin, and green eyes, wearing a simple white tank top and a wristwatch, sitting in a couch in a private aircraft's business-class cabin. She gazes out the window with a quiet, sad expression, natural makeup, soft cabin light falling across her face. Shallow depth of field, contemplative mood, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
 
+## Character profile: Xumi
+
+`covers/entourage-eco/xumi`
+
+A photorealistic portrait of Xumi, a woman of about 37 with freckles like cinnamon across her cheeks and a huge, bright smile, wearing a brown leather jacket, a red scarf loosely tangled in her hair, and a leather-strapped wristwatch, standing on a narrow Barcelona street in warm autumn afternoon light with fallen leaves at her feet. Soft golden backlight, shallow depth of field, a warm, confident and slightly amused mood, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
+
 ## Orbits
 
 `covers/entourage-eco/orbits`
