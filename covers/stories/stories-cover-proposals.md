@@ -42,9 +42,9 @@ A formal family portrait photograph in an ornate gilded frame, hanging on a dark
 
 A vast, awe-inspiring science-fiction concept-art image of a gas giant's atmosphere seen from within: immense swirling cloud bands in amber, rust, and cream, layered like a storm-wracked ocean of sky. Scattered throughout the cloud layers, at wildly different scales, drift the translucent silhouettes of enormous winged "floater" creatures — some tiny, some as large as moons — their forms glowing faintly from within. Several pale moons are dimly visible through the haze in the upper distance. The composition emphasizes overwhelming cosmic scale and quiet biological wonder, photorealistic digital matte-painting style, warm golden-hour lighting diffused through thick clouds. No text overlay. Square 1:1 aspect ratio.
 
-## Piravita
+## Pirabita
 
-`covers/stories/piravita`
+`covers/stories/pirabita`
 
 A warm, dimly lit overhead photograph of a small study desk: two glasses of whiskey catching lamplight, positioned between a black clerical Roman collar and a folded political pamphlet with bold "purity test" style lettering. A wooden rosary is draped loosely nearby. In the soft-focus background, a window reveals a small agricultural town at dusk with a single modest church steeple silhouetted against the sky. The mood is quietly tense, a private negotiation dressed as hospitality. Photorealistic still life, warm muted palette, wood and glass textures, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 

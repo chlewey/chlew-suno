@@ -29,7 +29,7 @@ Some of the songs and draft files included here:
 - `gabi.v1.suno.txt`
 - `morocho.suno.txt`
 - `peccato.suno.txt`
-- `piravita.suno.txt`
+- `pirabita.suno.txt`
 - `qualcosa.v1.suno.txt`
 - `resto_qui.suno.txt`
 - `ricochets.suno.txt`
