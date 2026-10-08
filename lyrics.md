@@ -1361,7 +1361,7 @@ Leaving all the worry to the breaking of the day
 
 ---
 
-# Duda en Piravita
+# Duda en Pirabita
 
 ## Notes
 

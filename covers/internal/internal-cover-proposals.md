@@ -48,17 +48,21 @@ A desk lamp burning alone at 2am over untouched paperwork. Square 1:1 aspect rat
 
 A theatrical smile-mask lit warmly in front, its back entirely in shadow. Square 1:1 aspect ratio.
 
-## Later Thoughts III: Online Sparks
+## Later Thoughts III: Online Sparks and Unspoken
 
 `covers/internal/later-thoughts-iii-online-sparks`
 
 A phone glowing in the dark, one unread-message dot the only light. Square 1:1 aspect ratio.
+
+> Note: The album now absorbs the former Later Thoughts IV: Unspoken, and inherits this cover (the slug keeps the original name).
 
 ## Later Thoughts IV: Unspoken
 
 `covers/internal/later-thoughts-iv-unspoken`
 
 Two empty café chairs, coffee still steaming, no one in frame. Square 1:1 aspect ratio.
+
+> Note: Album merged into Later Thoughts III. This image is retained, unused, for possible reuse.
 
 # Soul and Turmoil
 
@@ -100,6 +104,12 @@ A wooden ark silhouette on a stormy horizon, a guitar leaning against its hull. 
 
 A chalkboard mid-diagram, an argument in branching arrows that never conclude. Square 1:1 aspect ratio.
 
+## Dilemmas and arguments
+
+`covers/internal/dilemmas-and-arguments`
+
+An old brass balance scale, perfectly level, a closed book on one pan and a stone on the other. Square 1:1 aspect ratio.
+
 # Places
 
 ## Circuits and roads
@@ -134,13 +144,7 @@ One lit window in an otherwise dark apartment tower, street level, night. Square
 
 A junk drawer from above — unsorted but oddly harmonious. Square 1:1 aspect ratio.
 
-# Acrostics
-
-## Enwigh Peady and Other Acrostics
-
-`covers/internal/acrostics`
-
-A poem's first letters highlighted down the margin, spelling a hidden word. Square 1:1 aspect ratio.
+> Note: The album has been dissolved and its songs placed elsewhere. This image is retained, unused, for possible reuse.
 
 # Nation and Ritual
 
@@ -164,11 +168,25 @@ A page of invented alphabet symbols, arranged like sheet music. Square 1:1 aspec
 
 A writer's desk from overhead, character sketches fanned around an open notebook. Square 1:1 aspect ratio.
 
-## Instrumental
+## Enwigh Peady and Other Acrostics
+
+`covers/internal/acrostics`
+
+A poem's first letters highlighted down the margin, spelling a hidden word. Square 1:1 aspect ratio.
+
+## Instrumental I: Tropical groove
 
 `covers/internal/instrumental`
 
 A drum kit and congas mid-strike, high-speed freeze-frame, no performer visible. Square 1:1 aspect ratio.
+
+> Note: Recycled cover. It was made for the former single album *Instrumental*, which has been split; the congas make this the half that inherits it.
+
+## Instrumental II: Other colors
+
+`covers/internal/instrumental-other-colors`
+
+A cool blue-violet workbench from above: patch cables across a modular synth, a cello bow, an NES cartridge and an orchestral score page, no performer in frame. Square 1:1 aspect ratio.
 
 ## Fragments
 
