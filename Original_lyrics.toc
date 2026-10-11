@@ -38,29 +38,29 @@
 \contentsline {section}{When I Say Yes}{39}{}%
 \contentsline {section}{Worthy}{40}{}%
 \contentsline {section}{My Quiet Genius}{41}{}%
-\contentsline {chapter}{\chapternumberline {4}Other Narratives}{43}{}%
-\contentsline {section}{Fallen Messenger}{44}{}%
-\contentsline {section}{A la distancia}{45}{}%
-\contentsline {section}{Watching from a Distance}{46}{}%
-\contentsline {section}{El final del verano}{47}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{48}{}%
-\contentsline {section}{Wingman}{49}{}%
-\contentsline {section}{Peter City Walk}{50}{}%
-\contentsline {section}{Pirabita View}{51}{}%
-\contentsline {section}{Between Us}{52}{}%
-\contentsline {section}{A Little Butterfly}{53}{}%
-\contentsline {section}{Marchan las hormigas}{54}{}%
-\contentsline {section}{Mueca Pantera}{55}{}%
-\contentsline {section}{Wild Cat}{56}{}%
-\contentsline {section}{Confusión}{57}{}%
-\contentsline {section}{I Found You}{58}{}%
-\contentsline {section}{Keep On Rolling}{59}{}%
-\contentsline {section}{Fallen}{60}{}%
-\contentsline {chapter}{\chapternumberline {5}African Empire -- Monukae}{61}{}%
-\contentsline {section}{Thrice a Prisoner}{62}{}%
-\contentsline {section}{Throne of Smoke}{64}{}%
-\contentsline {section}{No Griot for Thee}{66}{}%
-\contentsline {section}{Hear!}{67}{}%
+\contentsline {chapter}{\chapternumberline {4}African Empire -- Monukae}{43}{}%
+\contentsline {section}{Thrice a Prisoner}{44}{}%
+\contentsline {section}{Throne of Smoke}{46}{}%
+\contentsline {section}{No Griot for Thee}{48}{}%
+\contentsline {section}{Hear!}{49}{}%
+\contentsline {chapter}{\chapternumberline {5}Other Narratives}{51}{}%
+\contentsline {section}{Fallen Messenger}{52}{}%
+\contentsline {section}{A la distancia}{53}{}%
+\contentsline {section}{Watching from a Distance}{54}{}%
+\contentsline {section}{El final del verano}{55}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{56}{}%
+\contentsline {section}{Wingman}{57}{}%
+\contentsline {section}{Peter City Walk}{58}{}%
+\contentsline {section}{Pirabita View}{59}{}%
+\contentsline {section}{Between Us}{60}{}%
+\contentsline {section}{A Little Butterfly}{61}{}%
+\contentsline {section}{Marchan las hormigas}{62}{}%
+\contentsline {section}{Mueca Pantera}{63}{}%
+\contentsline {section}{Wild Cat}{64}{}%
+\contentsline {section}{Confusión}{65}{}%
+\contentsline {section}{I Found You}{66}{}%
+\contentsline {section}{Keep On Rolling}{67}{}%
+\contentsline {section}{Fallen}{68}{}%
 \contentsline {part}{\partnumberline {III}Self}{69}{}%
 \contentsline {chapter}{\chapternumberline {6}Restless Mind}{71}{}%
 \contentsline {section}{The Wrong Map}{72}{}%
