@@ -172,42 +172,43 @@
 \contentsline {section}{The Unreached Crush}{198}{}%
 \contentsline {section}{Frisson}{199}{}%
 \contentsline {section}{Keep On Rolling}{200}{}%
-\contentsline {chapter}{\chapternumberline {11}Instrumental Textures (Lyrical Part III)}{201}{}%
-\contentsline {section}{Across-Ticks}{202}{}%
-\contentsline {section}{Cuatro Maneras}{203}{}%
-\contentsline {section}{Modo Pararrayos}{204}{}%
-\contentsline {section}{Pared fría}{205}{}%
-\contentsline {section}{La duda - por qué}{206}{}%
-\contentsline {section}{Papel en la escalera}{207}{}%
-\contentsline {section}{Si no te hace falta}{208}{}%
-\contentsline {section}{Vueltas y vueltas}{209}{}%
-\contentsline {section}{Kapu Lema}{210}{}%
-\contentsline {section}{They Multiply}{211}{}%
-\contentsline {section}{Purple Lace Stance}{212}{}%
-\contentsline {section}{If You Don’t Need It}{213}{}%
-\contentsline {section}{In That Moment}{214}{}%
-\contentsline {section}{Iron Pulse}{215}{}%
-\contentsline {section}{Keep Me}{216}{}%
-\contentsline {section}{New // Old}{217}{}%
-\contentsline {section}{Soundwall}{218}{}%
-\contentsline {section}{Stimuli}{219}{}%
-\contentsline {section}{Between Us}{220}{}%
-\contentsline {section}{Never Fall}{221}{}%
-\contentsline {section}{Wetzing Sacquia}{222}{}%
-\contentsline {part}{\partnumberline {VI}Street Corner Riot}{223}{}%
-\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{227}{}%
-\contentsline {section}{Je hais ma haine}{228}{}%
-\contentsline {section}{Dig}{229}{}%
-\contentsline {section}{Peccato bello}{230}{}%
-\contentsline {section}{Comfort Zones}{231}{}%
-\contentsline {section}{Kein Feuer}{232}{}%
-\contentsline {section}{Street Corner Zambomba}{233}{}%
-\contentsline {section}{Pacificate}{234}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{235}{}%
-\contentsline {section}{Ik schreef mijn naam in}{236}{}%
-\contentsline {section}{Liis Talveuks}{237}{}%
-\contentsline {section}{Тепло без якоря}{238}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{239}{}%
+\contentsline {section}{Roule encore}{201}{}%
+\contentsline {chapter}{\chapternumberline {11}Instrumental Textures (Lyrical Part III)}{203}{}%
+\contentsline {section}{Across-Ticks}{204}{}%
+\contentsline {section}{Cuatro Maneras}{205}{}%
+\contentsline {section}{Modo Pararrayos}{206}{}%
+\contentsline {section}{Pared fría}{207}{}%
+\contentsline {section}{La duda - por qué}{208}{}%
+\contentsline {section}{Papel en la escalera}{209}{}%
+\contentsline {section}{Si no te hace falta}{210}{}%
+\contentsline {section}{Vueltas y vueltas}{211}{}%
+\contentsline {section}{Kapu Lema}{212}{}%
+\contentsline {section}{They Multiply}{213}{}%
+\contentsline {section}{Purple Lace Stance}{214}{}%
+\contentsline {section}{If You Don’t Need It}{215}{}%
+\contentsline {section}{In That Moment}{216}{}%
+\contentsline {section}{Iron Pulse}{217}{}%
+\contentsline {section}{Keep Me}{218}{}%
+\contentsline {section}{New // Old}{219}{}%
+\contentsline {section}{Soundwall}{220}{}%
+\contentsline {section}{Stimuli}{221}{}%
+\contentsline {section}{Between Us}{222}{}%
+\contentsline {section}{Never Fall}{223}{}%
+\contentsline {section}{Wetzing Sacquia}{224}{}%
+\contentsline {part}{\partnumberline {VI}Street Corner Riot}{225}{}%
+\contentsline {chapter}{\chapternumberline {12}The Multilingual Electroswing Matrix}{229}{}%
+\contentsline {section}{Je hais ma haine}{230}{}%
+\contentsline {section}{Dig}{231}{}%
+\contentsline {section}{Peccato bello}{232}{}%
+\contentsline {section}{Comfort Zones}{233}{}%
+\contentsline {section}{Kein Feuer}{234}{}%
+\contentsline {section}{Street Corner Zambomba}{235}{}%
+\contentsline {section}{Pacificate}{236}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{237}{}%
+\contentsline {section}{Ik schreef mijn naam in}{238}{}%
+\contentsline {section}{Liis Talveuks}{239}{}%
+\contentsline {section}{Тепло без якоря}{240}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{241}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -218,7 +219,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{240}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{242}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -229,14 +230,15 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{241}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{242}{}%
-\contentsline {section}{dij Schdzjarvk}{243}{}%
-\contentsline {section}{Doopi-Do-Doos}{244}{}%
-\contentsline {section}{Anama'inreesü tüa}{245}{}%
-\contentsline {section}{Kijana Msomi (short)}{246}{}%
-\contentsline {section}{Kelidi Degar}{247}{}%
-\contentsline {section}{Binwe, Jan-Alan}{248}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{249}{}%
-\contentsline {section}{En upersonlig skjebne}{250}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{251}{}%
+\contentsline {section}{Xumi}{243}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{244}{}%
+\contentsline {section}{dij Schdzjarvk}{245}{}%
+\contentsline {section}{Doopi-Do-Doos}{246}{}%
+\contentsline {section}{Anama'inreesü tüa}{247}{}%
+\contentsline {section}{Kijana Msomi (short)}{248}{}%
+\contentsline {section}{Kelidi Degar}{249}{}%
+\contentsline {section}{Binwe, Jan-Alan}{250}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{251}{}%
+\contentsline {section}{En upersonlig skjebne}{252}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{253}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{255}{}%

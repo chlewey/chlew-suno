@@ -46,7 +46,7 @@
 \contentsline {section}{Ute Där Vinden Vänder}{48}{}%
 \contentsline {section}{Wingman}{49}{}%
 \contentsline {section}{Peter City Walk}{50}{}%
-\contentsline {section}{Piravita View}{51}{}%
+\contentsline {section}{Pirabita View}{51}{}%
 \contentsline {section}{Thrice a Prisoner}{52}{}%
 \contentsline {section}{Throne of Smoke}{54}{}%
 \contentsline {section}{Between Us}{56}{}%
@@ -59,6 +59,7 @@
 \contentsline {section}{Confusión}{63}{}%
 \contentsline {section}{I Found You}{64}{}%
 \contentsline {section}{Keep On Rolling}{65}{}%
+\contentsline {section}{Fallen}{66}{}%
 \contentsline {part}{\partnumberline {III}Self}{67}{}%
 \contentsline {chapter}{\chapternumberline {5}Restless Mind}{69}{}%
 \contentsline {section}{The Wrong Map}{70}{}%
@@ -107,3 +108,5 @@
 \contentsline {section}{Swim Pool Submit}{116}{}%
 \contentsline {section}{Tiny Suits}{117}{}%
 \contentsline {section}{You Owe Me Nought}{118}{}%
+\contentsline {section}{Paths of Grief}{119}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{121}{}%

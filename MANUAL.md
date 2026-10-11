@@ -227,3 +227,31 @@ staging file.** An assistant staging new songs should only ever add
 (plus `%!` directives) to `temp.tex`/`temp2.tex` — never invent or
 pre-populate the individual per-author output files `desong.py` would create,
 and never overwrite a per-author file that already exists from a previous run.
+
+---
+
+## `xref_landing.py`
+
+Song notes cite other songs as `\emph{Title} (page \pageref{sec:<slug>})`,
+with the matching `\label{sec:<slug>}` on the cited song's `\tag*` line. A
+songbook only contains some of the songs, so a citation can point to a song
+that lives in a different songbook, and the reference has nothing to land on.
+
+`xref_landing.py` fixes this per songbook. It writes `xrefs/<book>.tex`, an
+appendix chapter (*Songs in Other Songbooks*) that defines each missing
+`\label`. The entry says which songbook(s) and album(s) the song is actually
+in. Each songbook pulls in its appendix just before `\backmatter`:
+
+```latex
+\appendix
+\input{xrefs/<book>}
+```
+
+The script adds those two lines on its first run. **Re-run it whenever songs
+are placed, moved or newly cross-referenced**, before building:
+
+```bash
+python xref_landing.py
+```
+
+It also reports any `\pageref` whose label no song defines anywhere.

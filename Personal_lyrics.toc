@@ -55,3 +55,4 @@
 \contentsline {chapter}{\chapternumberline {5}Extra stuff}{59}{}%
 \contentsline {section}{Writing Ain't Easy}{60}{}%
 \contentsline {section}{Weather and Memory}{61}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{63}{}%
