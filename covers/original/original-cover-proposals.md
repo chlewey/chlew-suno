@@ -24,6 +24,12 @@ An overhead photograph of a stack of overlapping handwritten manuscript pages on
 
 An overhead photograph of an open writer's notebook spread across two pages on a wooden desk, handwritten story openings visible but softly out of focus and illegible. Small doodled sketches fill the margins: a pair of delicate angel wings, a child's crayon-style city map, a tiny crown, and a single red eye glancing sideways. A fountain pen rests across the spread's center fold. Warm desk light, photorealistic still life, shallow depth of field, an eclectic idea-board mood spanning many genres at once. No text overlay. Square 1:1 aspect ratio.
 
+## African Empire -- Monukae
+
+`covers/original/monukae`
+
+An overhead photograph of handwritten manuscript pages fanned across a dark wooden desk, verses in the same hand throughout with cross-outs and marginal revisions. Inked in the margins: a small sketch of a West African kora, a sailing ship flying an unmarked pennant, and a simple crown. A loose sheet at the edge carries a hand-drawn coastline with routes running from a river delta out to open sea. A fountain pen rests across the top page beside a single brass ring. Warm candlelight, deep umber and bronze tones, photorealistic still life, shallow depth of field, a sense of authorship rather than illustration. No text overlay. Square 1:1 aspect ratio.
+
 ## Restless Mind
 
 `covers/original/restless-mind`
