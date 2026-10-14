@@ -61,6 +61,7 @@
 \contentsline {section}{The Women He Chose}{73}{}%
 \contentsline {section}{Beyond the Frame}{74}{}%
 \contentsline {section}{The Fixed Point}{75}{}%
+\contentsline {section}{Nothing More}{76}{}%
 \contentsline {chapter}{\chapternumberline {6}Ballads in Other Narratives}{77}{}%
 \contentsline {section}{Heart to Heart}{78}{}%
 \contentsline {section}{Smoke and Steel}{79}{}%
@@ -141,25 +142,30 @@
 \contentsline {section}{O ku pater de nos}{163}{}%
 \contentsline {section}{A la distancia}{164}{}%
 \contentsline {section}{A Narrow Way}{165}{}%
-\contentsline {chapter}{\chapternumberline {14}Indie-Pop}{167}{}%
-\contentsline {section}{Food Truck Line}{168}{}%
-\contentsline {section}{Hallway Portraits}{169}{}%
-\contentsline {section}{Zelma in the Mist}{170}{}%
-\contentsline {section}{Terracotta View (Golden Mid-Glance)}{171}{}%
-\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{172}{}%
-\contentsline {section}{Todos al mismo lado}{173}{}%
-\contentsline {section}{Signed by Don Addis}{174}{}%
-\contentsline {section}{Stop\_or\_Ellipsis}{175}{}%
-\contentsline {section}{Domestic Realism}{176}{}%
-\contentsline {section}{Si pienso en ti}{177}{}%
-\contentsline {section}{Stone Light Portrait}{178}{}%
-\contentsline {chapter}{\chapternumberline {15}El Final del Verano}{179}{}%
-\contentsline {section}{El final del verano}{180}{}%
-\contentsline {section}{End of the Summer}{181}{}%
-\contentsline {section}{Era o final do verão}{182}{}%
-\contentsline {section}{La Fin de l'Été}{183}{}%
-\contentsline {section}{Slutet av Sommaren}{184}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{185}{}%
+\contentsline {section}{A Name Passed Down Like Iron}{166}{}%
+\contentsline {section}{The Dream Stayed Out of Reach}{167}{}%
+\contentsline {section}{The Little Motor}{168}{}%
+\contentsline {section}{Qi Angbu}{169}{}%
+\contentsline {section}{The Unstated Departure}{170}{}%
+\contentsline {chapter}{\chapternumberline {14}Indie-Pop}{171}{}%
+\contentsline {section}{Food Truck Line}{172}{}%
+\contentsline {section}{Hallway Portraits}{173}{}%
+\contentsline {section}{Zelma in the Mist}{174}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{175}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{176}{}%
+\contentsline {section}{Todos al mismo lado}{177}{}%
+\contentsline {section}{Signed by Don Addis}{178}{}%
+\contentsline {section}{Stop\_or\_Ellipsis}{179}{}%
+\contentsline {section}{Domestic Realism}{180}{}%
+\contentsline {section}{Si pienso en ti}{181}{}%
+\contentsline {section}{Stone Light Portrait}{182}{}%
+\contentsline {chapter}{\chapternumberline {15}El Final del Verano}{183}{}%
+\contentsline {section}{El final del verano}{184}{}%
+\contentsline {section}{End of the Summer}{185}{}%
+\contentsline {section}{Era o final do verão}{186}{}%
+\contentsline {section}{La Fin de l'Été}{187}{}%
+\contentsline {section}{Slutet av Sommaren}{188}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{189}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -180,7 +186,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{186}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{190}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -201,60 +207,61 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Green Water Memory}{187}{}%
-\contentsline {chapter}{\chapternumberline {16}Plain Pop}{189}{}%
-\contentsline {section}{Tomorrow Morning}{190}{}%
-\contentsline {section}{Fiona at the Desk}{191}{}%
-\contentsline {section}{Carbonia in the Rear Window}{192}{}%
-\contentsline {section}{Step In Coat}{193}{}%
-\contentsline {section}{Every Step, Every Stripe}{194}{}%
-\contentsline {part}{\partnumberline {VII}Alternative Pop}{195}{}%
-\contentsline {chapter}{\chapternumberline {17}Dream-Pop}{197}{}%
-\contentsline {section}{The Motion and the Spark}{198}{}%
-\contentsline {section}{Diana Moves Cleanly}{199}{}%
-\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{200}{}%
-\contentsline {section}{Le Cordon Bleu}{201}{}%
-\contentsline {section}{Uks, mis pole lahti}{202}{}%
-\contentsline {section}{Let It Stay Sweet}{203}{}%
-\contentsline {section}{Unopened Door}{204}{}%
-\contentsline {section}{The Weight of Gravity}{205}{}%
-\contentsline {section}{Right Here}{206}{}%
-\contentsline {section}{Moonstone Veil}{207}{}%
-\contentsline {section}{Entre cajas y llamadas}{208}{}%
-\contentsline {section}{Liam Guards the Light}{209}{}%
-\contentsline {section}{Perderme en el anhelo}{210}{}%
-\contentsline {section}{Autumn in Barcelona}{211}{}%
-\contentsline {section}{Frost Against My Skin}{212}{}%
-\contentsline {section}{Make-Believe World}{213}{}%
-\contentsline {chapter}{\chapternumberline {18}Sophisti-Pop}{215}{}%
-\contentsline {section}{Aurora On The Sofa}{216}{}%
-\contentsline {section}{Moon at the Cabin}{217}{}%
-\contentsline {section}{My Delicate Verse}{218}{}%
-\contentsline {section}{Steady Hands}{219}{}%
-\contentsline {section}{Ghost Cheek Kiss}{220}{}%
-\contentsline {section}{Worthy}{221}{}%
-\contentsline {section}{Clinical Distance}{222}{}%
-\contentsline {section}{Ego-Syntonic}{223}{}%
-\contentsline {chapter}{\chapternumberline {19}Misc}{225}{}%
-\contentsline {section}{Delicate Swan}{226}{}%
-\contentsline {section}{Seamless}{227}{}%
-\contentsline {section}{Vicky's Impossible Chart}{229}{}%
-\contentsline {section}{Public Face}{230}{}%
-\contentsline {section}{Weather and Memory}{231}{}%
-\contentsline {section}{Australian Daughter, Colombian Name}{232}{}%
-\contentsline {section}{Blue Wall Grace}{234}{}%
-\contentsline {section}{Paper Cup Kisses}{235}{}%
-\contentsline {section}{Mark of 87}{236}{}%
-\contentsline {section}{Grinder Glass}{237}{}%
-\contentsline {section}{Paper In My Teeth}{238}{}%
-\contentsline {section}{Vaina que crece}{239}{}%
-\contentsline {section}{Del establecimiento}{240}{}%
-\contentsline {section}{Easy Love}{241}{}%
-\contentsline {section}{Top of the Curve}{242}{}%
-\contentsline {section}{I Chose This Life}{243}{}%
-\contentsline {section}{Confusión}{244}{}%
-\contentsline {section}{Slow Capital}{245}{}%
-\contentsline {section}{I Learned the Measure}{246}{}%
-\contentsline {section}{You Owe Me Nought}{247}{}%
-\contentsline {section}{I Never Wrote the Rules Down}{248}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{249}{}%
+\contentsline {section}{Green Water Memory}{191}{}%
+\contentsline {chapter}{\chapternumberline {16}Plain Pop}{193}{}%
+\contentsline {section}{Tomorrow Morning}{194}{}%
+\contentsline {section}{Fiona at the Desk}{195}{}%
+\contentsline {section}{Carbonia in the Rear Window}{196}{}%
+\contentsline {section}{Step In Coat}{197}{}%
+\contentsline {section}{Every Step, Every Stripe}{198}{}%
+\contentsline {section}{Sin complicaciones}{199}{}%
+\contentsline {part}{\partnumberline {VII}Alternative Pop}{201}{}%
+\contentsline {chapter}{\chapternumberline {17}Dream-Pop}{203}{}%
+\contentsline {section}{The Motion and the Spark}{204}{}%
+\contentsline {section}{Diana Moves Cleanly}{205}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{206}{}%
+\contentsline {section}{Le Cordon Bleu}{207}{}%
+\contentsline {section}{Uks, mis pole lahti}{208}{}%
+\contentsline {section}{Let It Stay Sweet}{209}{}%
+\contentsline {section}{Unopened Door}{210}{}%
+\contentsline {section}{The Weight of Gravity}{211}{}%
+\contentsline {section}{Right Here}{212}{}%
+\contentsline {section}{Moonstone Veil}{213}{}%
+\contentsline {section}{Entre cajas y llamadas}{214}{}%
+\contentsline {section}{Liam Guards the Light}{215}{}%
+\contentsline {section}{Perderme en el anhelo}{216}{}%
+\contentsline {section}{Autumn in Barcelona}{217}{}%
+\contentsline {section}{Frost Against My Skin}{218}{}%
+\contentsline {section}{Make-Believe World}{219}{}%
+\contentsline {chapter}{\chapternumberline {18}Sophisti-Pop}{221}{}%
+\contentsline {section}{Aurora On The Sofa}{222}{}%
+\contentsline {section}{Moon at the Cabin}{223}{}%
+\contentsline {section}{My Delicate Verse}{224}{}%
+\contentsline {section}{Steady Hands}{225}{}%
+\contentsline {section}{Ghost Cheek Kiss}{226}{}%
+\contentsline {section}{Worthy}{227}{}%
+\contentsline {section}{Clinical Distance}{228}{}%
+\contentsline {section}{Ego-Syntonic}{229}{}%
+\contentsline {chapter}{\chapternumberline {19}Misc}{231}{}%
+\contentsline {section}{Delicate Swan}{232}{}%
+\contentsline {section}{Seamless}{233}{}%
+\contentsline {section}{Vicky's Impossible Chart}{235}{}%
+\contentsline {section}{Public Face}{236}{}%
+\contentsline {section}{Weather and Memory}{237}{}%
+\contentsline {section}{Australian Daughter, Colombian Name}{238}{}%
+\contentsline {section}{Blue Wall Grace}{240}{}%
+\contentsline {section}{Paper Cup Kisses}{241}{}%
+\contentsline {section}{Mark of 87}{242}{}%
+\contentsline {section}{Grinder Glass}{243}{}%
+\contentsline {section}{Paper In My Teeth}{244}{}%
+\contentsline {section}{Vaina que crece}{245}{}%
+\contentsline {section}{Del establecimiento}{246}{}%
+\contentsline {section}{Easy Love}{247}{}%
+\contentsline {section}{Top of the Curve}{248}{}%
+\contentsline {section}{I Chose This Life}{249}{}%
+\contentsline {section}{Confusión}{250}{}%
+\contentsline {section}{Slow Capital}{251}{}%
+\contentsline {section}{I Learned the Measure}{252}{}%
+\contentsline {section}{You Owe Me Nought}{253}{}%
+\contentsline {section}{I Never Wrote the Rules Down}{254}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{255}{}%

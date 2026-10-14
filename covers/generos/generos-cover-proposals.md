@@ -78,11 +78,17 @@ An overhead flatlay photograph on an open antique atlas page showing Havana and 
 
 An overhead flatlay photograph on an open antique atlas page showing Colombia's Caribbean coast, faintly visible beneath the objects. A wooden gaita flute rests diagonally across the map, beside a small vallenato accordion. Warm coastal golden-hour lighting, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
 
-## Dembow, Dancehall & Bossa
+## Dembow, Dancehall & Reggae
 
 `covers/generos/dembow-dancehall-and-bossa`
 
-An overhead flatlay photograph on an open antique atlas page showing the wider Caribbean stretching toward Brazil, faintly visible beneath the objects. A ridged metal güira scraper rests across the map, beside a small Brazilian cavaquinho. Warm tropical saturated lighting, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+An overhead flatlay photograph on an open antique atlas page showing the wider Caribbean from Hispaniola to Jamaica, faintly visible beneath the objects. A ridged metal güira scraper rests across the map, beside a stack of vintage 7-inch reggae singles in faded sleeves. Warm tropical saturated lighting, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
+## Brasil: Bossa, Forró & Piseiro
+
+`covers/generos/brasil`
+
+An overhead flatlay photograph on an open antique atlas page showing Brazil's northeastern coast around São Luís, faintly visible beneath the objects. A nylon-string guitar's headstock and neck enter from one edge, beside a small red-bellowed eight-bass accordion, a steel triangle with its beater, and a folded beach towel with a few grains of sand. Warm late-afternoon coastal light, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
 
 # Hispana (otros)
 
