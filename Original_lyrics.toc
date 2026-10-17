@@ -114,4 +114,5 @@
 \contentsline {section}{You Owe Me Nought}{122}{}%
 \contentsline {section}{Paths of Grief}{123}{}%
 \contentsline {section}{Nothing More}{124}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{125}{}%
+\contentsline {section}{Sin complicaciones}{125}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{127}{}%
