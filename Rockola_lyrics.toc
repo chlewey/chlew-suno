@@ -120,51 +120,53 @@
 \contentsline {section}{The Country That Never Was}{128}{}%
 \contentsline {section}{Mouth of the Machine}{129}{}%
 \contentsline {section}{Draw the Line}{130}{}%
-\contentsline {part}{\partnumberline {V}Lyrical}{131}{}%
-\contentsline {chapter}{\chapternumberline {12}ADHD Chaos \& Executive Burnout}{135}{}%
-\contentsline {section}{Skälvning}{136}{}%
-\contentsline {section}{Monoestable}{137}{}%
-\contentsline {section}{Paper in the Grinder}{138}{}%
-\contentsline {section}{The Loaded Mind}{139}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{140}{}%
-\contentsline {section}{The Wrong Map}{141}{}%
-\contentsline {section}{The Bitter Toll}{142}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{143}{}%
-\contentsline {section}{The Fault in Your Character}{144}{}%
-\contentsline {section}{The Hardest Toll}{145}{}%
-\contentsline {section}{Let Me Finish}{146}{}%
-\contentsline {section}{Buildings Worlds}{147}{}%
-\contentsline {section}{Burn the Glass}{148}{}%
-\contentsline {section}{The Wrong Map}{149}{}%
-\contentsline {section}{Time to Stop}{150}{}%
-\contentsline {section}{Ripping the Page}{151}{}%
-\contentsline {chapter}{\chapternumberline {13}Confessions \& Small Defeats}{153}{}%
-\contentsline {section}{Je hais}{154}{}%
-\contentsline {section}{Je hais}{155}{}%
-\contentsline {section}{La haine que je te dois}{156}{}%
-\contentsline {section}{Siento}{157}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{158}{}%
-\contentsline {section}{Still Unfinished}{159}{}%
-\contentsline {section}{No Excuse}{160}{}%
-\contentsline {section}{Your Role}{162}{}%
-\contentsline {section}{A Mind That Craves Novelty}{163}{}%
-\contentsline {section}{The Last Waltz of the Northern}{164}{}%
-\contentsline {section}{Migrant Echoes}{165}{}%
-\contentsline {section}{Siento}{166}{}%
-\contentsline {chapter}{\chapternumberline {14}Life Stories in Rock}{167}{}%
-\contentsline {section}{Every Little Letter}{168}{}%
-\contentsline {section}{The Questions Kept On Shaping}{169}{}%
-\contentsline {section}{Havana-Bound}{170}{}%
-\contentsline {section}{Three Notebooks}{171}{}%
-\contentsline {section}{Leading the Jump}{172}{}%
-\contentsline {section}{Parked Outside the Classroom}{173}{}%
-\contentsline {section}{Bogotá Cathedral}{174}{}%
-\contentsline {section}{Två år på Söder}{175}{}%
-\contentsline {chapter}{\chapternumberline {15}Playful Escapes \& Candy Rock Parades}{177}{}%
-\contentsline {section}{Candy Rock Day}{178}{}%
-\contentsline {section}{Rainbow Candy Parade}{179}{}%
-\contentsline {section}{Peter City Walk}{180}{}%
-\contentsline {section}{Pastel Dream}{181}{}%
-\contentsline {section}{Where the Gentle Things Begin}{182}{}%
-\contentsline {section}{Keep On Rolling}{183}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{185}{}%
+\contentsline {section}{Liberation, Mostly}{131}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{133}{}%
+\contentsline {chapter}{\chapternumberline {12}ADHD Chaos \& Executive Burnout}{137}{}%
+\contentsline {section}{Skälvning}{138}{}%
+\contentsline {section}{Monoestable}{139}{}%
+\contentsline {section}{Paper in the Grinder}{140}{}%
+\contentsline {section}{The Loaded Mind}{141}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{142}{}%
+\contentsline {section}{The Wrong Map}{143}{}%
+\contentsline {section}{The Bitter Toll}{144}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{145}{}%
+\contentsline {section}{The Fault in Your Character}{146}{}%
+\contentsline {section}{The Hardest Toll}{147}{}%
+\contentsline {section}{Let Me Finish}{148}{}%
+\contentsline {section}{Buildings Worlds}{149}{}%
+\contentsline {section}{Burn the Glass}{150}{}%
+\contentsline {section}{The Wrong Map}{151}{}%
+\contentsline {section}{Time to Stop}{152}{}%
+\contentsline {section}{Ripping the Page}{153}{}%
+\contentsline {chapter}{\chapternumberline {13}Confessions \& Small Defeats}{155}{}%
+\contentsline {section}{Je hais}{156}{}%
+\contentsline {section}{Je hais}{157}{}%
+\contentsline {section}{La haine que je te dois}{158}{}%
+\contentsline {section}{Siento}{159}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{160}{}%
+\contentsline {section}{Still Unfinished}{161}{}%
+\contentsline {section}{No Excuse}{162}{}%
+\contentsline {section}{Your Role}{164}{}%
+\contentsline {section}{A Mind That Craves Novelty}{165}{}%
+\contentsline {section}{The Last Waltz of the Northern}{166}{}%
+\contentsline {section}{Migrant Echoes}{167}{}%
+\contentsline {section}{Siento}{168}{}%
+\contentsline {chapter}{\chapternumberline {14}Life Stories in Rock}{169}{}%
+\contentsline {section}{Every Little Letter}{170}{}%
+\contentsline {section}{The Questions Kept On Shaping}{171}{}%
+\contentsline {section}{Havana-Bound}{172}{}%
+\contentsline {section}{Three Notebooks}{173}{}%
+\contentsline {section}{Leading the Jump}{174}{}%
+\contentsline {section}{Parked Outside the Classroom}{175}{}%
+\contentsline {section}{Bogotá Cathedral}{176}{}%
+\contentsline {section}{Två år på Söder}{177}{}%
+\contentsline {chapter}{\chapternumberline {15}Playful Escapes \& Candy Rock Parades}{179}{}%
+\contentsline {section}{Candy Rock Day}{180}{}%
+\contentsline {section}{Rainbow Candy Parade}{181}{}%
+\contentsline {section}{Peter City Walk}{182}{}%
+\contentsline {section}{Pastel Dream}{183}{}%
+\contentsline {section}{Where the Gentle Things Begin}{184}{}%
+\contentsline {section}{Keep On Rolling}{185}{}%
+\contentsline {section}{Window Seat}{186}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{187}{}%

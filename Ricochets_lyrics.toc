@@ -58,7 +58,9 @@
 \contentsline {section}{Tiny Suits}{63}{}%
 \contentsline {section}{A Narrow Way}{64}{}%
 \contentsline {section}{The Lens Cannot Know}{65}{}%
-\contentsline {chapter}{\chapternumberline {6}Inspired}{67}{}%
-\contentsline {section}{El corrido de Carlson}{68}{}%
-\contentsline {section}{Two Faces in the Ledger}{69}{}%
-\contentsline {section}{Two Women One Case}{70}{}%
+\contentsline {section}{Keep Your Eyes Open}{66}{}%
+\contentsline {section}{Wrong Enough}{67}{}%
+\contentsline {chapter}{\chapternumberline {6}Inspired}{69}{}%
+\contentsline {section}{El corrido de Carlson}{70}{}%
+\contentsline {section}{Two Faces in the Ledger}{71}{}%
+\contentsline {section}{Two Women One Case}{72}{}%

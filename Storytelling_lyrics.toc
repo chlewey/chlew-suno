@@ -304,33 +304,35 @@
 \xpg@aux {}{english}
 \contentsline {section}{Drones sobre el maizal}{285}{}%
 \contentsline {section}{The Final Offer}{286}{}%
-\contentsline {chapter}{\chapternumberline {28}Children's songs and small creatures}{287}{}%
-\contentsline {section}{A Little Butterfly}{288}{}%
-\contentsline {section}{Marchan las hormigas}{289}{}%
-\contentsline {section}{Pío}{290}{}%
-\contentsline {section}{Peter City Walk}{291}{}%
-\contentsline {section}{Confusión}{292}{}%
-\contentsline {chapter}{\chapternumberline {29}Uncomplicated life}{293}{}%
-\contentsline {section}{Un día}{294}{}%
-\contentsline {section}{La noche en que bailamos sin música}{295}{}%
-\contentsline {section}{Keep On Rolling}{296}{}%
-\contentsline {section}{Roule encore}{297}{}%
-\contentsline {section}{Sigue Rumbeando}{298}{}%
-\contentsline {part}{\partnumberline {VIII}Form and Craft}{299}{}%
-\contentsline {chapter}{\chapternumberline {30}Fragments}{301}{}%
-\contentsline {section}{Peccato bello}{302}{}%
-\contentsline {section}{Comfort Zones}{303}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{304}{}%
-\contentsline {section}{Kein Feuer}{305}{}%
-\contentsline {section}{Gota a gota}{306}{}%
-\contentsline {section}{Cataplún Zap!}{307}{}%
-\contentsline {section}{Street Corner Zambomba}{308}{}%
-\contentsline {section}{Pacificate}{309}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{310}{}%
-\contentsline {section}{The Night}{311}{}%
-\contentsline {section}{Ik schreef mijn naam in}{312}{}%
-\contentsline {section}{Тепло без якоря}{313}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{314}{}%
+\contentsline {section}{The Long Way to Paris}{287}{}%
+\contentsline {chapter}{\chapternumberline {28}Children's songs and small creatures}{289}{}%
+\contentsline {section}{A Little Butterfly}{290}{}%
+\contentsline {section}{Marchan las hormigas}{291}{}%
+\contentsline {section}{Pío}{292}{}%
+\contentsline {section}{Peter City Walk}{293}{}%
+\contentsline {section}{Confusión}{294}{}%
+\contentsline {section}{Window Seat}{295}{}%
+\contentsline {chapter}{\chapternumberline {29}Uncomplicated life}{297}{}%
+\contentsline {section}{Un día}{298}{}%
+\contentsline {section}{La noche en que bailamos sin música}{299}{}%
+\contentsline {section}{Keep On Rolling}{300}{}%
+\contentsline {section}{Roule encore}{301}{}%
+\contentsline {section}{Sigue Rumbeando}{302}{}%
+\contentsline {part}{\partnumberline {VIII}Form and Craft}{303}{}%
+\contentsline {chapter}{\chapternumberline {30}Fragments}{305}{}%
+\contentsline {section}{Peccato bello}{306}{}%
+\contentsline {section}{Comfort Zones}{307}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{308}{}%
+\contentsline {section}{Kein Feuer}{309}{}%
+\contentsline {section}{Gota a gota}{310}{}%
+\contentsline {section}{Cataplún Zap!}{311}{}%
+\contentsline {section}{Street Corner Zambomba}{312}{}%
+\contentsline {section}{Pacificate}{313}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{314}{}%
+\contentsline {section}{The Night}{315}{}%
+\contentsline {section}{Ik schreef mijn naam in}{316}{}%
+\contentsline {section}{Тепло без якоря}{317}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{318}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -341,7 +343,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{315}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{319}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -352,19 +354,19 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{316}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{317}{}%
-\contentsline {section}{dij Schdzjarvk}{318}{}%
-\contentsline {section}{Doopi-Do-Doos}{319}{}%
-\contentsline {section}{Anama'inreesü tüa}{320}{}%
-\contentsline {section}{Kijana Msomi (short)}{321}{}%
-\contentsline {section}{Binwe, Jan-Alan}{322}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{323}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{324}{}%
-\contentsline {section}{En upersonlig skjebne}{325}{}%
-\contentsline {chapter}{\chapternumberline {31}Covers}{327}{}%
-\contentsline {section}{La perrilla (pasillo)}{328}{}%
-\contentsline {section}{La perrilla (dance)}{329}{}%
-\contentsline {section}{Diamond Depth August}{330}{}%
-\contentsline {section}{Tu puro vivir}{331}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{333}{}%
+\contentsline {section}{Xumi}{320}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{321}{}%
+\contentsline {section}{dij Schdzjarvk}{322}{}%
+\contentsline {section}{Doopi-Do-Doos}{323}{}%
+\contentsline {section}{Anama'inreesü tüa}{324}{}%
+\contentsline {section}{Kijana Msomi (short)}{325}{}%
+\contentsline {section}{Binwe, Jan-Alan}{326}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{327}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{328}{}%
+\contentsline {section}{En upersonlig skjebne}{329}{}%
+\contentsline {chapter}{\chapternumberline {31}Covers}{331}{}%
+\contentsline {section}{La perrilla (pasillo)}{332}{}%
+\contentsline {section}{La perrilla (dance)}{333}{}%
+\contentsline {section}{Diamond Depth August}{334}{}%
+\contentsline {section}{Tu puro vivir}{335}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{337}{}%

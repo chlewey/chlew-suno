@@ -37,22 +37,24 @@
 \contentsline {section}{A Coffee Not Shared}{39}{}%
 \contentsline {section}{Perderme en el anhelo}{40}{}%
 \contentsline {section}{Easy Love}{41}{}%
-\contentsline {chapter}{\chapternumberline {4}The self}{43}{}%
-\contentsline {section}{Temblando}{44}{}%
-\contentsline {section}{Vulnerable}{45}{}%
-\contentsline {section}{The Loaded Mind}{46}{}%
-\contentsline {section}{Modo Pararrayos}{47}{}%
-\contentsline {section}{Lightning Rod Mode}{48}{}%
-\contentsline {section}{Multiply the Delay}{49}{}%
-\contentsline {section}{The Fault in Your Character}{50}{}%
-\contentsline {section}{The Wrong Map}{51}{}%
-\contentsline {section}{Time to Stop}{52}{}%
-\contentsline {section}{Entre mundos}{53}{}%
-\contentsline {section}{Used to Say}{55}{}%
-\contentsline {section}{Buscando culpables}{56}{}%
-\contentsline {section}{Kvar i mig}{57}{}%
-\contentsline {section}{Se Acabó la Discusión}{58}{}%
-\contentsline {chapter}{\chapternumberline {5}Extra stuff}{59}{}%
-\contentsline {section}{Writing Ain't Easy}{60}{}%
-\contentsline {section}{Weather and Memory}{61}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{63}{}%
+\contentsline {section}{Loose}{42}{}%
+\contentsline {section}{Victless Crime}{43}{}%
+\contentsline {chapter}{\chapternumberline {4}The self}{45}{}%
+\contentsline {section}{Temblando}{46}{}%
+\contentsline {section}{Vulnerable}{47}{}%
+\contentsline {section}{The Loaded Mind}{48}{}%
+\contentsline {section}{Modo Pararrayos}{49}{}%
+\contentsline {section}{Lightning Rod Mode}{50}{}%
+\contentsline {section}{Multiply the Delay}{51}{}%
+\contentsline {section}{The Fault in Your Character}{52}{}%
+\contentsline {section}{The Wrong Map}{53}{}%
+\contentsline {section}{Time to Stop}{54}{}%
+\contentsline {section}{Entre mundos}{55}{}%
+\contentsline {section}{Used to Say}{57}{}%
+\contentsline {section}{Buscando culpables}{58}{}%
+\contentsline {section}{Kvar i mig}{59}{}%
+\contentsline {section}{Se Acabó la Discusión}{60}{}%
+\contentsline {chapter}{\chapternumberline {5}Extra stuff}{61}{}%
+\contentsline {section}{Writing Ain't Easy}{62}{}%
+\contentsline {section}{Weather and Memory}{63}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{65}{}%

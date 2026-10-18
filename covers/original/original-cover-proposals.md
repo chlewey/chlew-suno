@@ -53,3 +53,9 @@ An overhead photograph of a single manuscript page where the top third is writte
 `covers/original/experimental`
 
 An overhead flatlay photograph of a hand-drawn constructed-language alphabet chart on lined notebook paper, filled with invented symbols and a small phonetic key. Resting on top of the page, slightly askew: a small plastic vuvuzela horn and a literal cheese spoon, both out of place next to the careful linguistic notation. From beneath the notebook page, the corner of a printed corporate memo peeks out, one paragraph highlighted in yellow marker. Bright, playful, slightly mismatched lighting and color palette compared to the rest of the collection. Photorealistic still life, whimsical and irreverent mood, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
+
+## AI Mimicry
+
+`covers/original/ai-mimicry`
+
+An overhead photograph of two handwritten manuscript pages side by side on a wooden desk. The left page is in a familiar human hand, with cross-outs and marginal revisions; the right page imitates the same handwriting almost perfectly, but its letters are too even, its lines too straight, and faint pale-blue pixel grid lines show through the paper. A fountain pen rests on the left page; on the right, the same pen's shadow falls with no pen to cast it. Warm desk-lamp light on the left fading into cool screen-glow on the right, photorealistic still life, shallow depth of field, an uncanny sense of a voice borrowed rather than owned. No text overlay. Square 1:1 aspect ratio.
