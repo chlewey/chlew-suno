@@ -150,11 +150,17 @@ The open cabin door of a wide-body Boeing 787 BBJ ("the Air Jaguar"), photograph
 
 # Extras
 
-## Translations and adaptations
+## Translations
 
-`covers/entourage-eco/translations-and-adaptations`
+`covers/entourage-eco/translations`
 
 An overhead close-up photograph of a cream notebook page holding the same handwritten line of lyrics copied out in several different scripts and languages, each fragment on a slightly different scrap of paper pinned loosely with small brass tacks, some worn and aged more than others. Soft warm window light, photorealistic still life with fine paper texture, echoing a companion songbook's fragments imagery. No text overlay. Square 1:1 aspect ratio.
+
+## Adaptations
+
+`covers/entourage-eco/adaptations`
+
+An overhead close-up photograph of a cream notebook page holding one handwritten verse copied out several times in the same hand and the same language, each copy on its own scrap of paper pinned loosely with small brass tacks: one heavily crossed out and rewritten, one with its line breaks moved, one with a different rhythm marked above the words in pencil, one written over a scrap of printed sheet music. Soft warm window light, photorealistic still life with fine paper texture, a companion to the Translations cover. No text overlay. Square 1:1 aspect ratio.
 
 ## Drafts
 
