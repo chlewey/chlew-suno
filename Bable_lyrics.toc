@@ -1,0 +1,197 @@
+\xpg@aux {}{english}
+\contentsline {part}{\partnumberline {I}Europe}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}Swedish}{3}{}%
+\contentsline {section}{Bilden}{4}{}%
+\contentsline {section}{Jag avskyr}{5}{}%
+\contentsline {section}{Svarta Ögon}{6}{}%
+\contentsline {section}{Svarta Ögon Skena}{7}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{8}{}%
+\contentsline {section}{Mobisarna}{9}{}%
+\contentsline {section}{Skälvning}{10}{}%
+\contentsline {section}{Skälvning}{11}{}%
+\contentsline {section}{Kvar i mig}{12}{}%
+\contentsline {section}{Luciafestens dugg}{13}{}%
+\contentsline {section}{Min enda röst}{14}{}%
+\contentsline {section}{That Night}{15}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{16}{}%
+\contentsline {section}{Ökenskor av Salt}{17}{}%
+\contentsline {section}{Två år på Söder}{18}{}%
+\contentsline {section}{Två år på Söder}{19}{}%
+\contentsline {section}{Vinterfrostleende}{20}{}%
+\contentsline {section}{Mellan is och hård betong}{21}{}%
+\contentsline {section}{Slutet av Sommaren}{22}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{23}{}%
+\contentsline {section}{När dörren var öppen}{24}{}%
+\contentsline {chapter}{\chapternumberline {2}French}{25}{}%
+\contentsline {section}{Je hais}{26}{}%
+\contentsline {section}{Je hais}{27}{}%
+\contentsline {section}{La haine que je te dois}{28}{}%
+\contentsline {section}{Message trop tard}{29}{}%
+\contentsline {section}{Frisson}{30}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{31}{}%
+\contentsline {section}{Diana porte sa propre gravité}{32}{}%
+\contentsline {section}{Le cœur léger}{33}{}%
+\contentsline {section}{Trois fois prisonnier}{34}{}%
+\contentsline {section}{La Fin de l'Été}{36}{}%
+\contentsline {section}{Le Rêve des Autres}{37}{}%
+\contentsline {section}{Mémoire En miettes}{38}{}%
+\contentsline {section}{Roule encore}{39}{}%
+\contentsline {chapter}{\chapternumberline {3}Italian}{41}{}%
+\contentsline {section}{Doble-J}{42}{}%
+\contentsline {section}{Casa non è}{43}{}%
+\contentsline {section}{Peccato d'aprile}{45}{}%
+\contentsline {section}{Qualcosa di vero}{47}{}%
+\contentsline {section}{Resto qui}{49}{}%
+\contentsline {section}{Cuore In Guerra}{51}{}%
+\contentsline {chapter}{\chapternumberline {4}German}{53}{}%
+\contentsline {section}{La Barrera}{54}{}%
+\contentsline {section}{Vor Barcelona (Deutsch)}{55}{}%
+\contentsline {section}{Fast Neunzehn (Zwei Welten Bluten)}{56}{}%
+\contentsline {section}{Potsdam Leeres Büro}{57}{}%
+\contentsline {section}{Mein blinder Polyhistor}{58}{}%
+\contentsline {chapter}{\chapternumberline {5}Latin}{59}{}%
+\contentsline {section}{Antiphona: De Atheismi Utilitate}{60}{}%
+\contentsline {section}{Manet Id}{61}{}%
+\contentsline {section}{Patria Invicta}{62}{}%
+\contentsline {section}{Stellae Ex Pulvere}{63}{}%
+\contentsline {chapter}{\chapternumberline {6}Romance}{65}{}%
+\contentsline {section}{Sa fiamma}{66}{}%
+\contentsline {section}{Su peccadu meu}{68}{}%
+\contentsline {section}{De igual pra igual}{69}{}%
+\contentsline {section}{Sin complicaciones}{70}{}%
+\contentsline {section}{Dividir a cama}{71}{}%
+\contentsline {section}{Era o final do verão}{72}{}%
+\contentsline {section}{Lutz de la Tèrra}{73}{}%
+\contentsline {section}{Tres Ciutats, Una Mateixa Freqüència}{74}{}%
+\contentsline {chapter}{\chapternumberline {7}Other European}{75}{}%
+\contentsline {section}{Паутина Андрея}{76}{}%
+\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{77}{}%
+\contentsline {section}{Å finne noen andre å bebreide}{78}{}%
+\contentsline {section}{Laoi Ghláidial}{79}{}%
+\contentsline {section}{Petrovna // Петровна}{81}{}%
+\contentsline {section}{Uks, mis pole lahti}{82}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{83}{}%
+\contentsline {section}{Sabbatical}{84}{}%
+\contentsline {section}{Μομπούτη, αμάν}{85}{}%
+\contentsline {part}{\partnumberline {II}Constructed Languages}{87}{}%
+\contentsline {chapter}{\chapternumberline {8}Constructed}{89}{}%
+\contentsline {section}{Uneekwa En Urbo}{90}{}%
+\contentsline {section}{Le phases de Thomas}{91}{}%
+\contentsline {section}{Matena Signo}{92}{}%
+\contentsline {part}{\partnumberline {III}Beyond Europe}{93}{}%
+\contentsline {chapter}{\chapternumberline {9}East Asia}{95}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{96}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{97}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{98}{}%
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\xpg@aux {}{korean}
+\xpg@aux {}{english}
+\contentsline {chapter}{\chapternumberline {10}Middle East \& Africa}{99}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{100}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {section}{Kijana Msomi}{101}{}%
+\contentsline {section}{\textarabic {\sffamily کوچه‌ی دیگر} (Kuche-ye Digar)}{102}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {section}{\textarabic {\sffamily لایە‌لایەی جان‌ئالان} (Laye-layey Jan-Alan)}{103}{}%
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\xpg@aux {}{arabic}
+\xpg@aux {}{english}
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{105}{}%

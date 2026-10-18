@@ -15,7 +15,7 @@
 
 .PARAMETER Target
     One of: all, chlewrics, electronica, pop, rockola, generos, internal,
-    stories, entourage, ricochets, original, personal, clean, distclean.
+    stories, entourage, ricochets, original, personal, bable, clean, distclean.
     Default: all.
 
 .EXAMPLE
@@ -26,7 +26,7 @@
 param(
     [ValidateSet('all','chlewrics','electronica','pop','rockola','generos',
                  'internal','stories','entourage','ricochets','original',
-                 'personal','clean','distclean')]
+                 'personal','bable','clean','distclean')]
     [string]$Target = 'all'
 )
 
@@ -62,6 +62,7 @@ $books = [ordered]@{
     ricochets   = @{ Src = 'ricochets.tex';     Job = 'Ricochets_lyrics' }
     original    = @{ Src = 'original.tex';      Job = 'Original_lyrics' }
     personal    = @{ Src = 'personal.tex';      Job = 'Personal_lyrics' }
+    bable       = @{ Src = 'bable.tex';         Job = 'Bable_lyrics' }
     chlewrics   = @{ Src = 'chlewrics.tex';     Job = 'Chlewrics' }
 }
 

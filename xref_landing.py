@@ -27,6 +27,7 @@ BOOKS = {
     'stories': 'Stories Songbook',
     'internal': 'Internal and Non-Fiction Songbook',
     'personal': 'Personal Songbook',
+    'bable': 'Babel Songbook',
     'original': 'Original Lyrics Songbook',
     'generos': 'By Genre Songbook',
     'electronica': 'Electronica Soundtrack',
