@@ -54,7 +54,8 @@
 \contentsline {section}{Buscando culpables}{58}{}%
 \contentsline {section}{Kvar i mig}{59}{}%
 \contentsline {section}{Se Acabó la Discusión}{60}{}%
-\contentsline {chapter}{\chapternumberline {5}Extra stuff}{61}{}%
-\contentsline {section}{Writing Ain't Easy}{62}{}%
-\contentsline {section}{Weather and Memory}{63}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{65}{}%
+\contentsline {section}{Soledad y Compañía}{61}{}%
+\contentsline {chapter}{\chapternumberline {5}Extra stuff}{63}{}%
+\contentsline {section}{Writing Ain't Easy}{64}{}%
+\contentsline {section}{Weather and Memory}{65}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{67}{}%

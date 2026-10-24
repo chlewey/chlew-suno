@@ -318,21 +318,23 @@
 \contentsline {section}{Keep On Rolling}{300}{}%
 \contentsline {section}{Roule encore}{301}{}%
 \contentsline {section}{Sigue Rumbeando}{302}{}%
-\contentsline {part}{\partnumberline {VIII}Form and Craft}{303}{}%
-\contentsline {chapter}{\chapternumberline {30}Fragments}{305}{}%
-\contentsline {section}{Peccato bello}{306}{}%
-\contentsline {section}{Comfort Zones}{307}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{308}{}%
-\contentsline {section}{Kein Feuer}{309}{}%
-\contentsline {section}{Gota a gota}{310}{}%
-\contentsline {section}{Cataplún Zap!}{311}{}%
-\contentsline {section}{Street Corner Zambomba}{312}{}%
-\contentsline {section}{Pacificate}{313}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{314}{}%
-\contentsline {section}{The Night}{315}{}%
-\contentsline {section}{Ik schreef mijn naam in}{316}{}%
-\contentsline {section}{Тепло без якоря}{317}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{318}{}%
+\contentsline {section}{Lo que se ve}{303}{}%
+\contentsline {section}{Live Light, Love Loud}{304}{}%
+\contentsline {part}{\partnumberline {VIII}Form and Craft}{305}{}%
+\contentsline {chapter}{\chapternumberline {30}Fragments}{307}{}%
+\contentsline {section}{Peccato bello}{308}{}%
+\contentsline {section}{Comfort Zones}{309}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{310}{}%
+\contentsline {section}{Kein Feuer}{311}{}%
+\contentsline {section}{Gota a gota}{312}{}%
+\contentsline {section}{Cataplún Zap!}{313}{}%
+\contentsline {section}{Street Corner Zambomba}{314}{}%
+\contentsline {section}{Pacificate}{315}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{316}{}%
+\contentsline {section}{The Night}{317}{}%
+\contentsline {section}{Ik schreef mijn naam in}{318}{}%
+\contentsline {section}{Тепло без якоря}{319}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{320}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -343,7 +345,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{319}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{321}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -354,19 +356,19 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{320}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{321}{}%
-\contentsline {section}{dij Schdzjarvk}{322}{}%
-\contentsline {section}{Doopi-Do-Doos}{323}{}%
-\contentsline {section}{Anama'inreesü tüa}{324}{}%
-\contentsline {section}{Kijana Msomi (short)}{325}{}%
-\contentsline {section}{Binwe, Jan-Alan}{326}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{327}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{328}{}%
-\contentsline {section}{En upersonlig skjebne}{329}{}%
-\contentsline {chapter}{\chapternumberline {31}Covers}{331}{}%
-\contentsline {section}{La perrilla (pasillo)}{332}{}%
-\contentsline {section}{La perrilla (dance)}{333}{}%
-\contentsline {section}{Diamond Depth August}{334}{}%
-\contentsline {section}{Tu puro vivir}{335}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{337}{}%
+\contentsline {section}{Xumi}{322}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{323}{}%
+\contentsline {section}{dij Schdzjarvk}{324}{}%
+\contentsline {section}{Doopi-Do-Doos}{325}{}%
+\contentsline {section}{Anama'inreesü tüa}{326}{}%
+\contentsline {section}{Kijana Msomi (short)}{327}{}%
+\contentsline {section}{Binwe, Jan-Alan}{328}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{329}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{330}{}%
+\contentsline {section}{En upersonlig skjebne}{331}{}%
+\contentsline {chapter}{\chapternumberline {31}Covers}{333}{}%
+\contentsline {section}{La perrilla (pasillo)}{334}{}%
+\contentsline {section}{La perrilla (dance)}{335}{}%
+\contentsline {section}{Diamond Depth August}{336}{}%
+\contentsline {section}{Tu puro vivir}{337}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{339}{}%
