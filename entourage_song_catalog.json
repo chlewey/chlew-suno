@@ -1,0 +1,5992 @@
+[
+  {
+    "title": "Le phases de Thomas",
+    "slug": "le_phases_de_thomas",
+    "file": "gabisson/le_phases_de_thomas.tex",
+    "albums": [
+      "entourage-eco: The Entourage"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Thomas' life phases, from shyness to quiet acceptance",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Lucía"
+    ],
+    "location": "Tokyo; San Francisco",
+    "date_of_events": "age 15 to 51 (2009, 2020, 2024 milestones)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Orbit Of Names",
+    "slug": "orbit_of_names",
+    "file": "gabisson/orbit_of_names.tex",
+    "albums": [
+      "entourage-eco: The Entourage"
+    ],
+    "lyricist": "Suno",
+    "original_source": "text Entanglement Situation June 2025 by Carlos Thompson",
+    "theme": "Map of Thomas' consensual non-monogamous circle",
+    "narrator": "third person",
+    "main_focus": "Thomas' circle",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Mariain",
+      "Pilar"
+    ],
+    "location": "",
+    "date_of_events": "June 2025",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Women He Chose",
+    "slug": "the_women_he_chose",
+    "file": "temp/the_women_he_chose.tex",
+    "albums": [
+      "entourage-eco: The Entourage"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Roll call of the women in Thomas' orbit",
+    "narrator": "third person",
+    "main_focus": "the women around Thomas",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Aurora",
+      "Mariain",
+      "Erika",
+      "Susana",
+      "Diana",
+      "Pilar",
+      "Natalia",
+      "Fiona",
+      "Xumi",
+      "Vicky"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Runaway And Canvas",
+    "slug": "runaway_and_canvas",
+    "file": "temp/runaway_and_canvas.tex",
+    "albums": [
+      "entourage-eco: The Entourage"
+    ],
+    "lyricist": "Suno",
+    "original_source": "brief description of Thomas’ Entourage",
+    "theme": "Visual portraits of the women around Thomas",
+    "narrator": "third person",
+    "main_focus": "the women of the entourage",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Aurora",
+      "Erika",
+      "Diana",
+      "Natalia",
+      "Vicky"
+    ],
+    "location": "private jet; Berlin; various",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Punta Espada 2026",
+    "slug": "punta_espada_2026",
+    "file": "temp/punta_espada_2026.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Suno",
+    "original_source": "NotebookLM summary of the mock document Ciudad Punta Espada Onboarding Memo (Carlos Thompson & Claude)",
+    "theme": "Punta Espada port city, built with Wayuu consent",
+    "narrator": "collective voice",
+    "main_focus": "Punta Espada project",
+    "other_characters": [],
+    "location": "Punta Espada, La Guajira",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Tri-Spine País",
+    "slug": "trispine_pais",
+    "file": "temp/trispine_pais.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Suno",
+    "original_source": "NotebookLM summary of the article Red Ferroviaria Nacional de Colombia (Carlos Thompson & Claude)",
+    "theme": "Tri-Spine national railway reconnecting Colombia",
+    "narrator": "collective voice",
+    "main_focus": "Colombian national rail network (RFNC)",
+    "other_characters": [],
+    "location": "Colombia",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Bogotá Bajo Tierra",
+    "slug": "bogota_bajo_tierra",
+    "file": "temp/bogota_bajo_tierra.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Gemini Notebook summary of a document by Carlos Thompson & Claude",
+    "theme": "Tunnels below, a walkable Bogotá above",
+    "narrator": "collective voice",
+    "main_focus": "InfraVia Bogotá tunnel plan",
+    "other_characters": [],
+    "location": "Bogotá",
+    "date_of_events": "2026 (twenty-year phases)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Nueva Concordia",
+    "slug": "nueva_concordia",
+    "file": "temp/nueva_concordia.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Gemini Notebook summary of a document by Carlos Thompson & Claude (idea worked through ChatGPT)",
+    "theme": "A new national capital on the Magdalena",
+    "narrator": "collective voice",
+    "main_focus": "Nueva Concordia capital project",
+    "other_characters": [],
+    "location": "Magdalena valley, Colombia",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "MACAW Alza Vuelo",
+    "slug": "macaw_alza_vuelo",
+    "file": "temp/macaw_alza_vuelo.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Gemini Notebook summary of a document by Carlos Thompson & Claude",
+    "theme": "MACAW hybrid airline flying through political turbulence",
+    "narrator": "collective voice",
+    "main_focus": "MACAW airline",
+    "other_characters": [],
+    "location": "the Americas",
+    "date_of_events": "since 2011",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Ciudad Índigo",
+    "slug": "ciudad_indigo",
+    "file": "temp/ciudad_indigo.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "ChatGPT (interactive session with Carlos Thompson)",
+    "original_source": "conversation between Carlos Thompson and ChatGPT on the Ciudad Índigo project",
+    "theme": "Walkable city-within-a-city where everything is near",
+    "narrator": "a resident (first person)",
+    "main_focus": "Ciudad Índigo",
+    "other_characters": [],
+    "location": "Ciudad Índigo",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Vor Barcelona (Deutsch)",
+    "slug": "vor_barcelona_deutsch",
+    "file": "gabisson/vor_barcelona_deutsch.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Gemini (German translation)",
+    "original_source": "Vor Barcelona (English lyrics)",
+    "theme": "Gabi's many loves: mother, brothers, Potsdam",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "before Barcelona",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Uks, mis pole lahti",
+    "slug": "uks_mis_pole_lahti",
+    "file": "rataflechera/uks_mis_pole_lahti.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Liis' one season with Thomas, taken without regret",
+    "narrator": "third person",
+    "main_focus": "Liis",
+    "other_characters": [
+      "Thomas",
+      "Tõnis"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2019 (Thomas aged 46)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Nomad Butterfly",
+    "slug": "nomad_butterfly",
+    "file": "rataflechera/nomad_butterfly.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Fiona's restless life between Jersey, London and California",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [],
+    "location": "New Jersey; London; Los Angeles; Berkeley; Barcelona",
+    "date_of_events": "1990s–2020s",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Fiona at the Desk",
+    "slug": "fiona_at_the_desk",
+    "file": "rataflechera/fiona_at_the_desk.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Fiona's calm, exacting focus at work",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [],
+    "location": "an open-plan office",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Su peccadu meu",
+    "slug": "su_peccadu_meu",
+    "file": "wyomee/su_peccadu_meu.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Sylvia's April sin: claiming her desire for Thomas",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia and Thomas",
+    "other_characters": [
+      "Martina",
+      "Chiara",
+      "Matteo"
+    ],
+    "location": "Carbonia, Sardinia",
+    "date_of_events": "April 2020 (with teenage memories)",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Lilac-eyed Demon",
+    "slug": "lilaceyed_demon",
+    "file": "wyomee/lilaceyed_demon.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Accusing Mariain of feeding on dreams, then redemption",
+    "narrator": "an unnamed accuser (second person)",
+    "main_focus": "Mariain",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "East Rock / The Village",
+    "slug": "east_rock_the_village",
+    "file": "wyomee/east_rock_the_village.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Mariain split between New Haven roots and the Village",
+    "narrator": "third person",
+    "main_focus": "Mariain",
+    "other_characters": [
+      "Thomas",
+      "Gabi"
+    ],
+    "location": "New Haven (East Rock); Greenwich Village; Long Island City",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Mariain, You Arrive Right on",
+    "slug": "mariain_you_arrive_right_on",
+    "file": "rataflechera/mariain_you_arrive_right_on.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "2025 character summary of Mariain Schumer by Carlos Thompson",
+    "theme": "Mariain as the discreet bridge in Thomas' circle",
+    "narrator": "third person",
+    "main_focus": "Mariain",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Susana",
+      "Thomas"
+    ],
+    "location": "New Haven",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Whiteboard Queen",
+    "slug": "whiteboard_queen",
+    "file": "rataflechera/whiteboard_queen.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Zahra calmly commanding a planning room",
+    "narrator": "an observer (second person)",
+    "main_focus": "Zahra",
+    "other_characters": [],
+    "location": "a meeting room",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Pilar Venegas",
+    "slug": "pilar_venegas",
+    "file": "gabisson/pilar_venegas.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Pilar's career and her role as Thomas' fixer",
+    "narrator": "third person",
+    "main_focus": "Pilar",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Mariain",
+      "Erika",
+      "Susana",
+      "Diana",
+      "Natalia",
+      "Fiona",
+      "Xumi",
+      "Vicky",
+      "Alicia",
+      "Esteban"
+    ],
+    "location": "Ibagué; Bogotá",
+    "date_of_events": "1981–2020s",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Rough Diamond",
+    "slug": "rough_diamond",
+    "file": "rataflechera/rough_diamond.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Two outsiders recognising each other at the room's edge",
+    "narrator": "Thomas (likely; a foreign student)",
+    "main_focus": "Kadri",
+    "other_characters": [
+      "Liis"
+    ],
+    "location": "Tallinn (university campus)",
+    "date_of_events": "2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Petrovna // Петровна",
+    "slug": "petrovna_petrovna",
+    "file": "rataflechera/petrovna_petrovna.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Kadri's deliberate walls and warmth without anchors",
+    "narrator": "Kadri",
+    "main_focus": "Kadri",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Kedri Petrovna Kuznetsova",
+    "slug": "kedri_petrovna_kuznetsova",
+    "file": "temp/kedri_petrovna_kuznetsova.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Kedri's biographical profile co-written by Carlos Thompson and ChatGPT",
+    "theme": "Portrait of Kadri, guarded, defiant and kind",
+    "narrator": "third person",
+    "main_focus": "Kadri",
+    "other_characters": [],
+    "location": "Tallinn; Tartu",
+    "date_of_events": "born 1987",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Greca Piras",
+    "slug": "greca_piras",
+    "file": "temp/greca_piras.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Greca's biographical profile co-written by Carlos Thompson and ChatGPT",
+    "theme": "Greca holding the Lai family together and its secret",
+    "narrator": "third person",
+    "main_focus": "Greca",
+    "other_characters": [
+      "Sylvia",
+      "Paolo",
+      "Alessandro"
+    ],
+    "location": "Cagliari; Carbonia",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Liis Sepp Raising",
+    "slug": "liis_sepp_raising",
+    "file": "temp/liis_sepp_raising.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Liis' biographical profile co-written by Carlos Thompson and ChatGPT",
+    "theme": "Portrait of Liis, clear-eyed and self-possessed",
+    "narrator": "third person",
+    "main_focus": "Liis",
+    "other_characters": [],
+    "location": "Estonia",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Zahra Moradi",
+    "slug": "zahra_moradi",
+    "file": "temp/zahra_moradi.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Zahra's biographical profile co-written by Carlos Thompson and ChatGPT",
+    "theme": "Portrait of Zahra: Kurdish heart, Persian breath, quiet faith",
+    "narrator": "third person",
+    "main_focus": "Zahra",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Double Register",
+    "slug": "double_register",
+    "file": "temp/double_register.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Fiona Levit",
+    "theme": "Fiona's Anglo-American double register and career",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [],
+    "location": "Englewood, NJ; London; Los Angeles; Berkeley",
+    "date_of_events": "born January 1992 – her first jobs",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "My Quiet Genius",
+    "slug": "my_quiet_genius",
+    "file": "gabisson/my_quiet_genius.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "a Simpsons episode with Hank Scorpio",
+    "theme": "Thomas as an oblivious, systems-minded polymath",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/8d461670-954c-4fde-9092-48401c3f0afd"
+  },
+  {
+    "title": "Mein blinder Polyhistor",
+    "slug": "mein_blinder_polyhistor",
+    "file": "gabisson/mein_blinder_polyhistor.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Claude (German adaptation)",
+    "original_source": "My Quiet Genius",
+    "theme": "Thomas as an oblivious, systems-minded polymath",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/a782acaf-827d-45d7-8dfd-de2209aa9220"
+  },
+  {
+    "title": "Every Step, Every Stripe",
+    "slug": "every_step_every_stripe",
+    "file": "gabisson/every_step_every_stripe.tex",
+    "albums": [
+      "entourage-eco: Characters"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Pilar's dossier by Carlos Thompson and Claude",
+    "theme": "Pilar's path from law school to army captain",
+    "narrator": "third person",
+    "main_focus": "Pilar",
+    "other_characters": [],
+    "location": "Bogotá (ESMIC; ESICI)",
+    "date_of_events": "2004–2012",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/a8efbe3d-87b1-4f40-acaa-33aa342ee501"
+  },
+  {
+    "title": "Thomas, baja del pedestal",
+    "slug": "thomas_baja_del_pedestal",
+    "file": "chlewey/thomas_baja_del_pedestal.tex",
+    "albums": [
+      "entourage-eco: Character profile: Thomas"
+    ],
+    "lyricist": "Suno",
+    "original_source": "prompt by Carlos Thompson on Thomas Garcia's impostor syndrome",
+    "theme": "Billionaire image hiding Thomas' impostor syndrome",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Thomas",
+    "slug": "thomas",
+    "file": "chlewey/thomas.tex",
+    "albums": [
+      "entourage-eco: Character profile: Thomas"
+    ],
+    "lyricist": "Suno",
+    "original_source": "prompt by Carlos Thompson on Thomas Garcia's impostor syndrome",
+    "theme": "Billionaire image hiding Thomas' impostor syndrome",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Some Things Survive",
+    "slug": "some_things_survive",
+    "file": "rataflechera/some_things_survive.tex",
+    "albums": [
+      "entourage-eco: Character profile: Thomas"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Architectural Dynamics by Carlos Thompson (2026)",
+    "theme": "Thomas can't believe affection without a price",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "I Understand",
+    "slug": "i_understand",
+    "file": "chlewey/i_understand.tex",
+    "albums": [
+      "entourage-eco: Character profile: Thomas"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Understanding his effect on others, unable to feel it",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/bb91e57b-e0a6-431e-99c0-0845e09563c5"
+  },
+  {
+    "title": "Diana porte sa propre gravité",
+    "slug": "diana_porte_sa_propre_gravite",
+    "file": "rataflechera/diana_porte_sa_propre_gravite.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Diana moving through life on her own gravity",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [
+      "Susana",
+      "Lucía",
+      "Thomas"
+    ],
+    "location": "Casablanca; Paris; London; Ibiza",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Le Cordon Bleu",
+    "slug": "le_cordon_bleu",
+    "file": "temp/le_cordon_bleu.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "studies section of Diana Naji's profile",
+    "theme": "Diana's studies: duty's degrees, Le Cordon Bleu for herself",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "Paris; London",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Diana Moves Cleanly",
+    "slug": "diana_moves_cleanly",
+    "file": "temp/diana_moves_cleanly.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "personal section of Diana Naji's profile",
+    "theme": "Diana loves fully, then leaves room to breathe",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "Diana aged 33",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Let It Stay Sweet",
+    "slug": "let_it_stay_sweet",
+    "file": "temp/let_it_stay_sweet.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "Suno, corrected by Carlos Thompson & ChatGPT",
+    "original_source": "The Thomas García Connection section of Diana Naji's profile",
+    "theme": "Diana remembered Thomas long before he knew her",
+    "narrator": "Diana",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Casablanca; Ibiza",
+    "date_of_events": "September 2014 (Casablanca); August 2017 (Ibiza)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Weight of Gravity",
+    "slug": "the_weight_of_gravity",
+    "file": "temp/the_weight_of_gravity.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Diana Naji",
+    "theme": "Diana running from the weight of commitment",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "Paris",
+    "date_of_events": "Diana aged 33",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Eyes from the Dance Floor",
+    "slug": "eyes_from_the_dance_floor",
+    "file": "dvigitt/eyes_from_the_dance_floor.tex",
+    "albums": [
+      "entourage-eco: Character profile: Diana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a story by Carlos Thompson",
+    "theme": "Diana luring Thomas across an island dance floor",
+    "narrator": "Thomas",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "Ibiza",
+    "date_of_events": "2017",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Hidden Things' Keeper",
+    "slug": "hidden_things_keeper",
+    "file": "wyomee/hidden_things_keeper.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Aurora the therapist holding everyone's confessions",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Aurora's practice",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "More Honestly Than Hearts",
+    "slug": "more_honestly_than_hearts",
+    "file": "wyomee/more_honestly_than_hearts.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Aurora trusting bodies over vows",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Worcester; Clark University; Bogotá",
+    "date_of_events": "her childhood to the Bogotá sessions",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Glass on File",
+    "slug": "glass_on_file",
+    "file": "temp/glass_on_file.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "",
+    "original_source": "profile summary by Carlos Thompson about Aurora Swansen",
+    "theme": "Aurora quietly mapping Thomas' circle for him",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Mariain",
+      "Vicky"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Terms of the Split",
+    "slug": "terms_of_the_split",
+    "file": "temp/terms_of_the_split.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Aurora Swansen",
+    "theme": "Aurora shaped by her parents' divorce",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "Worcester",
+    "date_of_events": "born 8 August 1991; 2000 onward",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Aurora In Bogotá",
+    "slug": "aurora_in_bogota",
+    "file": "wyomee/aurora_in_bogota.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Aurora Swansen",
+    "theme": "Aurora's closed practice and new job with Thomas",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Bogotá",
+    "date_of_events": "2021–2023 onward",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Bogotá Ledger",
+    "slug": "bogota_ledger",
+    "file": "wyomee/bogota_ledger.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Aurora Swansen",
+    "theme": "Aurora's self-sufficient, unattached Bogotá life",
+    "narrator": "Aurora",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire"
+    ],
+    "location": "Bogotá",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Velvet File Cabinet",
+    "slug": "velvet_file_cabinet",
+    "file": "wyomee/velvet_file_cabinet.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Aurora Swansen",
+    "theme": "Aurora keeping professional distance from Thomas' circle",
+    "narrator": "third person",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Aurora in Green",
+    "slug": "aurora_in_green",
+    "file": "wyomee/aurora_in_green.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Aurora Swansen",
+    "theme": "Aurora's composed look, office to nightclub",
+    "narrator": "an admirer (first person)",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "Bogotá (Zona Rosa)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Explicit Agreements",
+    "slug": "explicit_agreements",
+    "file": "chlewey/explicit_agreements.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Aurora's psychological profile of Thomas (written by Claude from Carlos Thompson's notes)",
+    "theme": "Aurora's clinical profile of Thomas' contracts",
+    "narrator": "Aurora",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia"
+    ],
+    "location": "",
+    "date_of_events": "2023–2025",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/508aac14-fd7f-45ec-a3b7-6695cec9c93d"
+  },
+  {
+    "title": "No Reassessment",
+    "slug": "no_reassessment",
+    "file": "chlewey/no_reassessment.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Aurora's psychological profile of Thomas (written by Claude from Carlos Thompson's notes)",
+    "theme": "Thomas' file before Aurora's leave: open questions",
+    "narrator": "Aurora",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "July 2025",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/50372dc5-828f-49bf-a5e0-f2ce1df56929"
+  },
+  {
+    "title": "Clinical Distance",
+    "slug": "clinical_distance",
+    "file": "gabisson/clinical_distance.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Aurora's psychological profile of Sylvia (written by Claude from Carlos Thompson's notes)",
+    "theme": "Aurora's profile of Sylvia's chosen, managed role",
+    "narrator": "Aurora",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi"
+    ],
+    "location": "Bogotá",
+    "date_of_events": "2023–2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/f18786b1-d03c-40d3-b03d-eb5125f6fc47"
+  },
+  {
+    "title": "Ego-Syntonic",
+    "slug": "egosyntonic",
+    "file": "gabisson/egosyntonic.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Aurora's psychological profile of Sylvia (written by Claude from Carlos Thompson's notes)",
+    "theme": "Aurora's profile of Sylvia's controlled presentation",
+    "narrator": "Aurora",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "Bogotá",
+    "date_of_events": "2023–2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/23e5f3a3-45d5-4426-8d5e-faf77563cd0a"
+  },
+  {
+    "title": "The Talk and the Warm",
+    "slug": "the_talk_and_the_warm",
+    "file": "wyomee/the_talk_and_the_warm.tex",
+    "albums": [
+      "entourage-eco: Character profile: Aurora"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Why Thomas needs Aurora for his darkest ghosts",
+    "narrator": "Thomas",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Diana"
+    ],
+    "location": "Aurora's practice",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/83f352eb-cbd2-4778-b3f9-61c8def9281b"
+  },
+  {
+    "title": "Kyou Park",
+    "slug": "kyou_park",
+    "file": "wyomee/kyou_park.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Natalia's rise and parallel, unexamined double life",
+    "narrator": "third person",
+    "main_focus": "Natalia",
+    "other_characters": [
+      "Michael"
+    ],
+    "location": "Los Angeles; various",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Three Tongues, One Heart",
+    "slug": "three_tonges_one_heart",
+    "file": "gabisson/three_tonges_one_heart.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Natalia Kyou Park",
+    "theme": "Natalia's trilingual Korean-Japanese-American upbringing",
+    "narrator": "third person",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "Los Angeles",
+    "date_of_events": "born 7 October 1989",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Sharp and Sweet",
+    "slug": "sharp_and_sweet",
+    "file": "gabisson/sharp_and_sweet.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Natalia Kyou Park",
+    "theme": "Natalia's sharp style and clear authority",
+    "narrator": "third person",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "Los Angeles (UCLA)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Paper Trail Heart",
+    "slug": "paper_trail_heart",
+    "file": "gabisson/paper_trail_heart.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Natalia Kyou Park",
+    "theme": "Natalia's rise on merit after a hotel-bar meeting",
+    "narrator": "third person",
+    "main_focus": "Natalia",
+    "other_characters": [
+      "Erika",
+      "Thomas"
+    ],
+    "location": "Milan; London; Barcelona; Punta Espada; Los Angeles",
+    "date_of_events": "2023",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Easy to Breath",
+    "slug": "easy_to_breath",
+    "file": "gabisson/easy_to_breath.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Natalia Kyou Park",
+    "theme": "Natalia's free, undefined closeness beyond her marriage",
+    "narrator": "Natalia",
+    "main_focus": "Natalia",
+    "other_characters": [
+      "Thomas",
+      "Michael"
+    ],
+    "location": "Los Angeles; various",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Line in Gold",
+    "slug": "line_in_gold",
+    "file": "gabisson/line_in_gold.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Natalia Kyou Park",
+    "theme": "Natalia leading her department and the circle's respect",
+    "narrator": "second person (to Natalia)",
+    "main_focus": "Natalia",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Aurora",
+      "Erika",
+      "Susana",
+      "Pilar",
+      "Fiona"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Natalia, Raise the Colors High",
+    "slug": "natalia_raise_the_colors_high",
+    "file": "rataflechera/natalia_raise_the_colors_high.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Architectural Dynamics by Carlos Thompson (2026)",
+    "theme": "Natalia turning complex plans clear, on merit",
+    "narrator": "third person",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "When I Say Yes",
+    "slug": "when_i_say_yes",
+    "file": "dvigitt/when_i_say_yes.tex",
+    "albums": [
+      "entourage-eco: Character profile: Natalia"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Natalia ending her arrangement with Thomas before marrying",
+    "narrator": "Natalia",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Michael"
+    ],
+    "location": "Los Angeles (Los Feliz)",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/b6af2f2b-a834-44f5-8398-5f982b7abaf1"
+  },
+  {
+    "title": "Mellan is och hård betong",
+    "slug": "mellan_is_och_haard_betong",
+    "file": "rataflechera/mellan_is_och_haard_betong.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Erika between figure-skating ice and tropical concrete",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [],
+    "location": "Europe; the tropics",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Love's Final Name",
+    "slug": "loves_final_name",
+    "file": "rataflechera/loves_final_name.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Erika letting love grow without naming it",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [],
+    "location": "Utrecht; Stockholm",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Lilac in Utrecht",
+    "slug": "lilac_in_utrecht",
+    "file": "temp/lilac_in_utrecht.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Erika Czajka",
+    "theme": "Erika's steady path from Stockholm ice to Utrecht",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [],
+    "location": "Stockholm; Jönköping; Utrecht",
+    "date_of_events": "2017 onward",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Erika in Motion",
+    "slug": "erika_in_motion",
+    "file": "chlewey/erika_in_motion.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Erika Czajka",
+    "theme": "Erika weaving green urbanism into Punta Espada",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [],
+    "location": "Punta Espada; Utrecht",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Room for What Is Real",
+    "slug": "room_for_what_is_real",
+    "file": "chlewey/room_for_what_is_real.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Erika Czajka",
+    "theme": "Erika's small circle and an unnamed tender bond",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Thomas",
+      "Vicky",
+      "Lucy",
+      "Francine",
+      "Gabriel"
+    ],
+    "location": "Tallinn; Bogotá",
+    "date_of_events": "December to spring (year unstated)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Inside Thomas's Orbit",
+    "slug": "inside_thomass_orbit",
+    "file": "chlewey/inside_thomass_orbit.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Erika Czajka",
+    "theme": "Erika's measured place within Thomas' circle",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Sylvia",
+      "Natalia"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Yet In Her Hands",
+    "slug": "yet_in_her_hands",
+    "file": "chlewey/yet_in_her_hands.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "Suno",
+    "original_source": "profile of Erika Czajka",
+    "theme": "Something unnamed starting for Erika, left unfinished",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Thomas",
+      "Claire",
+      "Susana",
+      "Pilar",
+      "Fernando",
+      "Sandra",
+      "Jessica"
+    ],
+    "location": "Barcelona; the cabin",
+    "date_of_events": "December (a Christmas gathering)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Same Colombia",
+    "slug": "the_same_colombia",
+    "file": "chlewey/the_same_colombia.tex",
+    "albums": [
+      "entourage-eco: Character profile: Erika"
+    ],
+    "lyricist": "ChatGPT",
+    "original_source": "a short story by Carlos Thompson",
+    "theme": "Erika's first Colombia trip with Vicky, an unspoken pull",
+    "narrator": "Erika",
+    "main_focus": "Vicky",
+    "other_characters": [
+      "Thomas",
+      "Claire",
+      "Natalia",
+      "Francine",
+      "Gabriel"
+    ],
+    "location": "Punta Espada; Colombia",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/d3db2017-d573-47d3-976f-e98ca615c096"
+  },
+  {
+    "title": "Australian Daughter, Colombian Name",
+    "slug": "australian_daughter_colombian_name",
+    "file": "gabisson/australian_daughter_colombian_name.tex",
+    "albums": [
+      "entourage-eco: Character profile: Vicky"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Vicky the one friend anchored in London",
+    "narrator": "Vicky",
+    "main_focus": "Vicky",
+    "other_characters": [
+      "Thomas",
+      "Claire",
+      "Erika",
+      "Fiona"
+    ],
+    "location": "London (the Thames)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Tomorrow Morning",
+    "slug": "tomorrow_morning",
+    "file": "gabisson/tomorrow_morning.tex",
+    "albums": [
+      "entourage-eco: Character profile: Vicky"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Vicky, trainer, preaching recovery in a jet-set life",
+    "narrator": "Vicky",
+    "main_focus": "Vicky",
+    "other_characters": [],
+    "location": "London; Barcelona; Bogotá",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Sydney to London (Vicky's Theme)",
+    "slug": "sydney_to_london_vickys_theme",
+    "file": "gabisson/sydney_to_london_vickys_theme.tex",
+    "albums": [
+      "entourage-eco: Character profile: Vicky"
+    ],
+    "lyricist": "ChatGPT",
+    "original_source": "profile of Victoria Ospina",
+    "theme": "Vicky's Australian-Colombian upbringing and road to London",
+    "narrator": "third person",
+    "main_focus": "Vicky",
+    "other_characters": [],
+    "location": "Sydney; London; Bogotá",
+    "date_of_events": "November (birth) onward",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Go",
+    "slug": "go",
+    "file": "chlewey/go.tex",
+    "albums": [
+      "entourage-eco: Character profile: Vicky"
+    ],
+    "lyricist": "Suno",
+    "original_source": "character profile of Victoria Ospina by Carlos Thompson and Claude (2026)",
+    "theme": "Vicky the trainer planning everyone's next step",
+    "narrator": "third person",
+    "main_focus": "Vicky",
+    "other_characters": [
+      "Thomas",
+      "Aurora"
+    ],
+    "location": "London",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Cuando despega la tormenta",
+    "slug": "cuando_despega_la_tormenta",
+    "file": "gabisson/cuando_despega_la_tormenta.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Susana refusing love that wants to own her",
+    "narrator": "third person",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Gregor"
+    ],
+    "location": "Dubai; the Caribbean",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Minutes Home",
+    "slug": "minutes_home",
+    "file": "gabisson/minutes_home.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Susana, pilot, wondering where home finally is",
+    "narrator": "third person",
+    "main_focus": "Susana",
+    "other_characters": [],
+    "location": "Dubai; the Caribbean; Bogotá",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Every Reason Why",
+    "slug": "every_reason_why",
+    "file": "rataflechera/every_reason_why.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Architectural Dynamics by Carlos Thompson (2026)",
+    "theme": "Thomas testing Susana before hiring her as pilot",
+    "narrator": "third person",
+    "main_focus": "Thomas and Susana",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "almost ten years after they met",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Este mar es azul sin disculpa",
+    "slug": "este_mar_es_azul_sin_disculpa",
+    "file": "temp/este_mar_es_azul_sin_disculpa.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana weighing the Caribbean sea against her past",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Thomas",
+      "Natalia",
+      "Gregor"
+    ],
+    "location": "Punta Espada; Punta Arenas; Dubai; Fort Lauderdale",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "La frazada",
+    "slug": "la_frazada",
+    "file": "temp/la_frazada.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana choosing Bogotá's imperfect warmth over Dubai",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Fernando"
+    ],
+    "location": "Bogotá (Ciudad Índigo); Dubai",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Vuelvo al sillón",
+    "slug": "vuelvo_al_sillon",
+    "file": "dvigitt/vuelvo_al_sillon.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana's family wings: mechanic father, pilot grandfather",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Gregor"
+    ],
+    "location": "Argentina",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Pieza en vuelo",
+    "slug": "pieza_en_vuelo",
+    "file": "dvigitt/pieza_en_vuelo.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana refusing to be Gregor's quiet piece",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Thomas",
+      "Gregor"
+    ],
+    "location": "Buenos Aires; Dubai",
+    "date_of_events": "before and after the pandemic",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "La sabana y el cerro",
+    "slug": "la_sabana_y_el_cerro",
+    "file": "dvigitt/la_sabana_y_el_cerro.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Hiking the Sumapaz páramo with Lucy changed Susana",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Thomas",
+      "Lucy"
+    ],
+    "location": "Bogotá savannah; Sumapaz",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "El Air Jaguar",
+    "slug": "el_air_jaguar",
+    "file": "dvigitt/el_air_jaguar.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana's ownership of the Air Jaguar in all but law",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Thomas",
+      "Fernando"
+    ],
+    "location": "Punta Espada",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Ninguno de los dos",
+    "slug": "ninguno_de_los_dos",
+    "file": "dvigitt/ninguno_de_los_dos.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana free because neither Fernando nor Thomas possess her",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Thomas",
+      "Fernando",
+      "Gregor"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Turned Back",
+    "slug": "the_turned_back",
+    "file": "wyomee/the_turned_back.tex",
+    "albums": [
+      "entourage-eco: Character profile: Susana"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Susana Bianchi's monologue (Carlos Thompson)",
+    "theme": "Susana's father's silence and Gregor's charm",
+    "narrator": "Susana",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Gregor"
+    ],
+    "location": "Patagonia; Argentina",
+    "date_of_events": "twenty years of memory",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Beside the Storm",
+    "slug": "beside_the_storm",
+    "file": "chlewey/beside_the_storm.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Claire staying beside Thomas' many loves despite jealousy",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Gabi"
+    ],
+    "location": "above the Atlantic; Barcelona",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Full Semester Data",
+    "slug": "full_semester_data",
+    "file": "gabisson/full_semester_data.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Punta–Barcelona cabin reflections by Claire Jones (2023 in universe)",
+    "theme": "Claire reading the crew and holding her heart back",
+    "narrator": "Claire",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Susana",
+      "Fernando",
+      "Sandra",
+      "Jessica"
+    ],
+    "location": "Rotterdam; Bogotá",
+    "date_of_events": "late 2016 onward",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Airport Hotel Bar",
+    "slug": "airport_hotel_bar",
+    "file": "gabisson/airport_hotel_bar.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Punta–Barcelona cabin reflections by Claire Jones (2023 in universe)",
+    "theme": "Claire resisting Thomas' charm, then seeing his sincerity",
+    "narrator": "Claire",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Fernando"
+    ],
+    "location": "Rotterdam; Madrid; Bogotá",
+    "date_of_events": "2016–2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Two Separate Rooms",
+    "slug": "two_separate_rooms",
+    "file": "gabisson/two_separate_rooms.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Punta–Barcelona cabin reflections by Claire Jones (2023 in universe)",
+    "theme": "Claire learning Thomas' love isn't divided",
+    "narrator": "Claire",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Pilar"
+    ],
+    "location": "Guaymaral; Teterboro; Rotterdam; Tallinn",
+    "date_of_events": "August 2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Tallinn, Standing Still",
+    "slug": "tallinn_standing_still",
+    "file": "gabisson/tallinn_standing_still.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "ChatGPT",
+    "original_source": "Punta–Barcelona cabin reflections by Claire Jones (2023 in universe)",
+    "theme": "Snowbound in Tallinn, Claire finally lets herself in",
+    "narrator": "Claire",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Diana"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2018 (winter)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Barcelona Turnaround",
+    "slug": "barcelona_turnaround",
+    "file": "dvigitt/barcelona_turnaround.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claire Jones's monologue (Carlos Thompson)",
+    "theme": "Claire's practiced post-flight turnaround in Barcelona",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Susana",
+      "Fernando",
+      "Jessica"
+    ],
+    "location": "Barcelona (airport)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "All Good",
+    "slug": "all_good",
+    "file": "dvigitt/all_good.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claire Jones's monologue (Carlos Thompson)",
+    "theme": "Claire closes the galley and chooses her day",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Susana"
+    ],
+    "location": "Barcelona (airport)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Seamless",
+    "slug": "seamless",
+    "file": "gabisson/seamless.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Claire seamlessly running every flight's logistics",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Pilar"
+    ],
+    "location": "the private jet",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Royal Docks",
+    "slug": "royal_docks",
+    "file": "rataflechera/royal_docks.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Claire leaving Cardiff and building a London home",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Erika",
+      "Diana",
+      "Pilar",
+      "Fiona",
+      "Vicky"
+    ],
+    "location": "Cardiff; London (Barking; Royal Docks)",
+    "date_of_events": "from age 26",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Ciudad Prestada",
+    "slug": "ciudad_prestada",
+    "file": "wyomee/ciudad_prestada.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Claire living in Bogotá as Thomas' borrowed city",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Aurora",
+      "Susana",
+      "Pilar",
+      "Lucía",
+      "Lucy",
+      "Alicia",
+      "Esteban",
+      "Sandra",
+      "Francine",
+      "Gabriel"
+    ],
+    "location": "Bogotá (El Dorado; Guaymaral; Ciudad Índigo)",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Worthy",
+    "slug": "worthy",
+    "file": "gabisson/worthy.tex",
+    "albums": [
+      "entourage-eco: Character profile: Claire"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Claire reassuring Thomas his worth isn't money",
+    "narrator": "Claire",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Erika",
+      "Susana",
+      "Diana",
+      "Pilar",
+      "Fiona",
+      "Xumi",
+      "Fernando",
+      "Sandra"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/526f8798-3e1d-43fb-8b1d-0800fbe549d5"
+  },
+  {
+    "title": "Call Me Xumi",
+    "slug": "call_me_xumi",
+    "file": "dvigitt/call_me_xumi.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi's São Luís childhood between two families' cultures",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "São Luís; Birmingham",
+    "date_of_events": "born 1989; childhood",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/3dd33f20-d8bd-403d-b6fc-9b1dc31409da"
+  },
+  {
+    "title": "Slow Capital",
+    "slug": "slow_capital",
+    "file": "dvigitt/slow_capital.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi's LSE years learning London and long-cycle capital",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "London (LSE; Stockwell; Vauxhall)",
+    "date_of_events": "late 2000s",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/ca8f71f7-6b4a-4b8b-a640-502312299dcf"
+  },
+  {
+    "title": "I Learned the Measure",
+    "slug": "i_learned_the_measure",
+    "file": "dvigitt/i_learned_the_measure.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi trying, then leaving, a relationship's conventional shape",
+    "narrator": "Xumi",
+    "main_focus": "Edward John",
+    "other_characters": [],
+    "location": "London (the City)",
+    "date_of_events": "2015–2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/cab4a3fd-78f9-49f2-ba69-f5caddec7faa"
+  },
+  {
+    "title": "Autumn in Barcelona",
+    "slug": "autumn_in_barcelona",
+    "file": "dvigitt/autumn_in_barcelona.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an excerpt from Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi's relationship with Abdel ending over her terms",
+    "narrator": "Xumi",
+    "main_focus": "Abdel",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "autumn 2022 – 2024",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/ef216873-d225-49b2-a73c-b1b84dbeb5fd"
+  },
+  {
+    "title": "I Chose This Life",
+    "slug": "i_chose_this_life",
+    "file": "dvigitt/i_chose_this_life.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "the closing chapter of Xumi's memoir (Carlos Thompson & ChatGPT, 2025)",
+    "theme": "Xumi's chosen Barcelona life, not a waiting room",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [
+      "Pere Joan",
+      "Juan Carlos"
+    ],
+    "location": "Barcelona (Gràcia)",
+    "date_of_events": "2023–2025",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/79980f89-4523-4560-aaa1-b53688c89753"
+  },
+  {
+    "title": "Open Hearts",
+    "slug": "open_hearts",
+    "file": "wyomee/open_hearts.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Xumi building a life of chosen cities and open hearts",
+    "narrator": "third person",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "London; São Luís; Barcelona (Eixample)",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "De igual pra igual",
+    "slug": "de_igual_pra_igual",
+    "file": "wyomee/de_igual_pra_igual.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Xumi only lets people in as equals",
+    "narrator": "third person",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "Barcelona (Eixample)",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Abu Dhabi",
+    "slug": "abu_dhabi",
+    "file": "wyomee/abu_dhabi.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Thomas promising Xumi he'll never be her boss",
+    "narrator": "Thomas",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "Abu Dhabi (hotel)",
+    "date_of_events": "",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/8657d30a-b8bb-44d3-90ae-25de3305cfff"
+  },
+  {
+    "title": "Founding Footing in Barcelona",
+    "slug": "founding_footing_in_barcelona",
+    "file": "dvigitt/founding_footing_in_barcelona.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi's freelance start and footing in Barcelona",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Barcelona (Eixample); London",
+    "date_of_events": "February 2021",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/b7f8df8c-b4a5-43b4-b237-a1931b999ada"
+  },
+  {
+    "title": "I Never Wrote the Rules Down",
+    "slug": "i_never_wrote_the_rules_down",
+    "file": "dvigitt/i_never_wrote_the_rules_down.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi's unwritten rules: closeness without claim",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/cb6f4127-2540-4eb9-9036-bac2f6929c52"
+  },
+  {
+    "title": "We Knew the Terms",
+    "slug": "we_knew_the_terms",
+    "file": "dvigitt/we_knew_the_terms.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Xumi's memoir by Carlos Thompson",
+    "theme": "Xumi meeting Thomas and their friendship of clear terms",
+    "narrator": "Xumi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Diana",
+      "Pilar",
+      "Fiona"
+    ],
+    "location": "London; Aachen; Bogotá",
+    "date_of_events": "April (London meeting); October (Aachen)",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/d17e6d65-346b-44fc-adef-18fbbaa1bef3"
+  },
+  {
+    "title": "Dividir a cama",
+    "slug": "dividir_a_cama",
+    "file": "rataflechera/dividir_a_cama.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Grok (Portuguese adaptation)",
+    "original_source": "My Kind of Friend (original lyrics by Carlos Thompson)",
+    "theme": "Xumi's Rhineland road trip with a friend to share a bed",
+    "narrator": "Xumi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Liège; Maastricht; Aachen; Cologne; Bonn",
+    "date_of_events": "October",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/0359a29c-c41f-4974-9cf8-1a0ec421f421"
+  },
+  {
+    "title": "Eyes That Met Their Equal",
+    "slug": "eyes_that_met_their_equal",
+    "file": "chlewey/eyes_that_met_their_equal.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "My Gabriele by Carlos Thompson (2026)",
+    "theme": "Mariain grieving as Gabi finds her equal in Thomas",
+    "narrator": "Mariain",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "New York; Germany; Tallinn",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Equals",
+    "slug": "equals",
+    "file": "wyomee/equals.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Mariain and Gabi's toxic love recalibrated into friendship",
+    "narrator": "Mariain",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "New York",
+    "date_of_events": "Gabi's freshman year – 2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Then There's You",
+    "slug": "then_theres_you",
+    "file": "rataflechera/then_theres_you.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Vicky's neat categories broken by one person",
+    "narrator": "Vicky",
+    "main_focus": "an unnamed lover (likely Erika)",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Sylvia",
+      "Fiona",
+      "Alicia"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Room for Her",
+    "slug": "room_for_her",
+    "file": "gabisson/room_for_her.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Mariain always keeps a room for Gabi",
+    "narrator": "third person",
+    "main_focus": "Mariain and Gabi",
+    "other_characters": [
+      "Thomas",
+      "Sylvia"
+    ],
+    "location": "Manhattan (Mariain's penthouse)",
+    "date_of_events": "after a disappointing show",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Unspoken Rhythm",
+    "slug": "unspoken_rhythm",
+    "file": "rataflechera/unspoken_rhythm.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "The wordless rhythm of Thomas, Gabi and Mariain",
+    "narrator": "third person",
+    "main_focus": "Thomas, Gabi and Mariain",
+    "other_characters": [
+      "Sylvia",
+      "Alicia"
+    ],
+    "location": "New York (the Village); Bogotá",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Asleep in His Arms",
+    "slug": "asleep_in_his_arms",
+    "file": "dvigitt/asleep_in_his_arms.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Sylvia's security sleeping with Thomas, not love",
+    "narrator": "Sylvia",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/fd308676-663d-4310-9148-6d9d57a1f1bf"
+  },
+  {
+    "title": "Different Maps",
+    "slug": "different_maps",
+    "file": "gabisson/different_maps.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a diary entry written by Carlos Thompson (Sylvia)",
+    "theme": "Sylvia surveys Thomas' circle; none draws her in",
+    "narrator": "Sylvia",
+    "main_focus": "Thomas' circle",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Mariain",
+      "Erika",
+      "Diana",
+      "Natalia",
+      "Fiona",
+      "Xumi",
+      "Vicky",
+      "Michael",
+      "Martina"
+    ],
+    "location": "the jet cabin",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/61cd6b7c-307c-46d0-8d4e-f1632bedc67f"
+  },
+  {
+    "title": "Watching the Play",
+    "slug": "watching_the_play",
+    "file": "gabisson/watching_the_play.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "the diary entry behind Different Maps",
+    "theme": "Sylvia's theory: Erika and Vicky belong together",
+    "narrator": "Sylvia",
+    "main_focus": "Erika and Vicky",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/77c14cdc-2f89-4b60-a7a1-79ae7a495ea2"
+  },
+  {
+    "title": "لایە‌لایەی جان‌ئالان (Laye-layey Jan-Alan)",
+    "slug": "laye_layey_jan_alan",
+    "file": "wyomee/laye_layey_jan_alan.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Suno (English), translated into Kurdish by Claude",
+    "original_source": "",
+    "theme": "Lullaby for Jan-Alan tracing his family's geography",
+    "narrator": "a parent (Zahra or Mihai)",
+    "main_focus": "Jan-Alan",
+    "other_characters": [
+      "Mihai"
+    ],
+    "location": "Kraków; Sanandaj; Ismail",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/c9cf477b-cdd2-42bd-9171-6749c2363415"
+  },
+  {
+    "title": "The Fixed Point",
+    "slug": "the_fixed_point",
+    "file": "wyomee/the_fixed_point.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Claude",
+    "original_source": "an original text by Carlos Thompson, corrected and expanded by ChatGPT",
+    "theme": "Pilar the fixed point while the circle shifts",
+    "narrator": "third person",
+    "main_focus": "Pilar",
+    "other_characters": [
+      "Sylvia",
+      "Aurora",
+      "Susana",
+      "Diana"
+    ],
+    "location": "Bogotá; Pereira; the cabin",
+    "date_of_events": "after the Pereira landslide (2026)",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/9a3958a6-34fa-4e8b-b873-81cc95fd48cb"
+  },
+  {
+    "title": "Public Knowledge",
+    "slug": "public_knowledge",
+    "file": "wyomee/public_knowledge.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Claude",
+    "original_source": "an original text by Carlos Thompson, corrected and expanded by ChatGPT",
+    "theme": "The circle's open secrets nobody names",
+    "narrator": "third person",
+    "main_focus": "Thomas' circle",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Mariain",
+      "Erika",
+      "Natalia",
+      "Xumi",
+      "Vicky",
+      "Michael",
+      "Pere Joan"
+    ],
+    "location": "London; Utrecht",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/4e214d07-fdee-4ee3-be2f-ce6d0f92cea7"
+  },
+  {
+    "title": "Somewhere Between Flights",
+    "slug": "somewhere_between_flights",
+    "file": "wyomee/somewhere_between_flights.tex",
+    "albums": [
+      "entourage-eco: Orbits"
+    ],
+    "lyricist": "Claude",
+    "original_source": "an original text by Carlos Thompson, corrected and expanded by ChatGPT",
+    "theme": "The circle resettling between cities",
+    "narrator": "third person",
+    "main_focus": "Thomas' circle",
+    "other_characters": [
+      "Gabi",
+      "Sylvia",
+      "Aurora",
+      "Susana",
+      "Fiona",
+      "Zahra",
+      "Jan"
+    ],
+    "location": "Potsdam; Queens; Poblenou",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/0741ae1b-f7a2-4dbd-b6e8-c916ac89ce54"
+  },
+  {
+    "title": "La puerta está abierta",
+    "slug": "la_puerta_esta_abierta",
+    "file": "wyomee/la_puerta_esta_abierta.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Claude",
+    "original_source": "La puerta abierta (original lyrics by Carlos Thompson)",
+    "theme": "Lucía's response to Thomas' confession of infidelity",
+    "narrator": "Lucía",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Bogotá (their home)",
+    "date_of_events": "2011",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/99e9e68c-c0c2-45da-88ee-61e5831dcce2"
+  },
+  {
+    "title": "Potsdam Leeres Büro",
+    "slug": "potsdam_leeres_buro",
+    "file": "wyomee/potsdam_leeres_buro.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Gabi lonely at SVA, afraid to return to Potsdam",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "New York (SVA)",
+    "date_of_events": "2013",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Best Friends Until the Word Changed Shape",
+    "slug": "best_friends_until_the_word_changed_shape",
+    "file": "chlewey/best_friends_until_the_word_changed_shape.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an excerpt from My Gabriele by Carlos Thompson",
+    "theme": "Naming their love broke Mariain and Gabi's friendship",
+    "narrator": "Mariain",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "Greenwich Village; New Haven; Carroll Gardens",
+    "date_of_events": "2016",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Xumi",
+    "slug": "xumi",
+    "file": "chlewey/xumi.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "a short story",
+    "theme": "Thomas meeting Xumi in a London pub",
+    "narrator": "Thomas",
+    "main_focus": "Xumi",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "London",
+    "date_of_events": "2016",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Una locura",
+    "slug": "una_locura",
+    "file": "gabisson/una_locura.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Pilar's hotel-lobby proposition to Thomas",
+    "narrator": "third person",
+    "main_focus": "Pilar and Thomas",
+    "other_characters": [],
+    "location": "a hotel reception",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Seat 14C",
+    "slug": "seat_14c",
+    "file": "gabisson/seat_14c.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Grok",
+    "original_source": "The Leg",
+    "theme": "Gabi's cheap jet seat to Rotterdam beside Thomas",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "New York (Teterboro); flight to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Name That Spell",
+    "slug": "name_that_spell",
+    "file": "chlewey/name_that_spell.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an excerpt from My Gabriele by Carlos Thompson",
+    "theme": "Mariain watching Gabi come back into herself through Thomas",
+    "narrator": "Mariain",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "New Haven; Carroll Gardens",
+    "date_of_events": "summer 2018 – 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Motion and the Spark",
+    "slug": "the_motion_and_the_spark",
+    "file": "wyomee/the_motion_and_the_spark.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Young Sylvia finding herself in pandemic New York",
+    "narrator": "third person",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi"
+    ],
+    "location": "New York",
+    "date_of_events": "2020 (second wave)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Reading Too Much",
+    "slug": "reading_too_much",
+    "file": "temp/reading_too_much.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Carlos Thompson, edited by Grok and Gemini",
+    "original_source": "",
+    "theme": "Gabi unsure whether to protect Thomas or Sylvia",
+    "narrator": "Gabi",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Tallinn; London; Bogotá; New York",
+    "date_of_events": "2020 (second wave)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "A Modest Castle",
+    "slug": "a_modest_castle",
+    "file": "temp/a_modest_castle.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "ChatGPT (interactive session with Carlos Thompson)",
+    "original_source": "A Modest Castle (2026), Second Wave tetralogy, by Carlos Thompson",
+    "theme": "Sylvia falling for the world around Thomas, and Gabi",
+    "narrator": "Sylvia",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "New York (Gabi's apartment)",
+    "date_of_events": "2020 (second wave)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Right Here",
+    "slug": "right_here",
+    "file": "temp/right_here.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an original story by Carlos Thompson",
+    "theme": "Gabi and Sylvia's dangerous closeness over dinner",
+    "narrator": "third person",
+    "main_focus": "Gabi and Sylvia",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Long Island City (Gabi's warehouse studio)",
+    "date_of_events": "2020",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Official Plus One",
+    "slug": "official_plus_one",
+    "file": "wyomee/official_plus_one.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "",
+    "theme": "Gabi becoming Thomas' untitled official plus one",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas",
+      "Sylvia"
+    ],
+    "location": "New York; Brooklyn",
+    "date_of_events": "2020 (second wave)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Back Seat Proposal",
+    "slug": "back_seat_proposal",
+    "file": "rataflechera/back_seat_proposal.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Thomas fumbling labels; Gabi proposes in the back seat",
+    "narrator": "third person",
+    "main_focus": "Thomas and Gabi",
+    "other_characters": [
+      "Sylvia",
+      "Mariain",
+      "Sandra"
+    ],
+    "location": "New York (car ride)",
+    "date_of_events": "2020",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "February Door",
+    "slug": "february_door",
+    "file": "chlewey/february_door.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an excerpt from My Gabriele by Carlos Thompson",
+    "theme": "Mariain meets Thomas; Gabi asks if they could share him",
+    "narrator": "Mariain",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "New York",
+    "date_of_events": "February 2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Half-Drawn Door",
+    "slug": "halfdrawn_door",
+    "file": "wyomee/halfdrawn_door.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "summary of Aurora and Thomas's first sessions (storyline by Carlos Thompson, written by Claude, summary by Grok)",
+    "theme": "Aurora's first sessions reading Thomas' hidden patterns",
+    "narrator": "Aurora",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "Aurora's practice, Bogotá",
+    "date_of_events": "2021",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/ea7baa3e-188a-4cac-81f1-c2199dde3c00"
+  },
+  {
+    "title": "Private Country Without a Map",
+    "slug": "private_country_without_a_map",
+    "file": "wyomee/private_country_without_a_map.tex",
+    "albums": [
+      "entourage-eco: Stories - Part I"
+    ],
+    "lyricist": "Suno",
+    "original_source": "summary of Aurora and Thomas's first sessions (storyline by Carlos Thompson, written by Claude, summary by Grok)",
+    "theme": "Aurora seeking the tender part Thomas hides",
+    "narrator": "Aurora",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "Aurora's practice, Bogotá",
+    "date_of_events": "2021",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/425b3209-a909-433b-ba6b-0beaaa205d25"
+  },
+  {
+    "title": "Promise Keeps Its Own Address",
+    "slug": "promise_keeps_its_own_address",
+    "file": "dvigitt/promise_keeps_its_own_address.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "the Victoria vignette by Carlos Thompson (2026)",
+    "theme": "Sylvia turns eighteen and holds Thomas to his promise",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Vicky",
+      "Greca",
+      "Paolo"
+    ],
+    "location": "Barcelona; London; New York; Riohacha",
+    "date_of_events": "December 2020 – 2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Last Night's Extranger",
+    "slug": "last_nights_extranger",
+    "file": "wyomee/last_nights_extranger.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Natalia's hotel-bar stranger turns out to be her boss",
+    "narrator": "Natalia",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Michael"
+    ],
+    "location": "Milan",
+    "date_of_events": "July 2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "A Long Way Round the World",
+    "slug": "a_long_way_round_the_world",
+    "file": "dvigitt/a_long_way_round_the_world.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a story by Carlos Thompson",
+    "theme": "The entourage's long jet route to Sydney",
+    "narrator": "Thomas",
+    "main_focus": "Vicky",
+    "other_characters": [
+      "Claire",
+      "Sylvia",
+      "Pilar",
+      "Fernando",
+      "Sandra"
+    ],
+    "location": "London; Dubai; Sendai; Darwin; Sydney",
+    "date_of_events": "2021",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "A Chance",
+    "slug": "a_chance",
+    "file": "gabisson/a_chance.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Paolo reveals Sylvia is his daughter and asks Thomas' help",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Greca",
+      "Paolo"
+    ],
+    "location": "Paolo's villa, Sardinia",
+    "date_of_events": "just before the 2020 lockdown",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Pacifica Miles",
+    "slug": "pacifica_miles",
+    "file": "gabisson/pacifica_miles.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Gemini",
+    "original_source": "the story Chicago–Boston",
+    "theme": "Family road trip from Chicago to Boston with Claire",
+    "narrator": "Thomas",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Gabi",
+      "Lucía",
+      "Alicia",
+      "Esteban"
+    ],
+    "location": "Chicago (Midway); Niagara; Boston",
+    "date_of_events": "2023 (Alicia's delayed quinceañera)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "La distancia justa",
+    "slug": "la_distancia_justa",
+    "file": "wyomee/la_distancia_justa.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Claude",
+    "original_source": "",
+    "theme": "Lucía years later: loving Thomas at the right distance",
+    "narrator": "Lucía",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Alicia",
+      "Esteban"
+    ],
+    "location": "Bogotá",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/a20c60af-3839-443a-944c-d40150879c02"
+  },
+  {
+    "title": "Gabi’s Shoulder",
+    "slug": "gabis_shoulder",
+    "file": "rataflechera/gabis_shoulder.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "A failed show, and the circle's wordless comfort",
+    "narrator": "third person",
+    "main_focus": "Gabi and Mariain",
+    "other_characters": [
+      "Thomas",
+      "Sylvia",
+      "Alicia"
+    ],
+    "location": "Manhattan (Upper East Side penthouse)",
+    "date_of_events": "2025",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "After the Lights",
+    "slug": "after_the_lights",
+    "file": "temp/after_the_lights.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "a short story",
+    "theme": "Tired lovers' gentle soirée after a flat exhibition",
+    "narrator": "third person",
+    "main_focus": "Gabi and Mariain",
+    "other_characters": [
+      "Thomas",
+      "Claire",
+      "Sylvia",
+      "Alicia"
+    ],
+    "location": "Manhattan (Upper East Side penthouse)",
+    "date_of_events": "2025",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Melgar Table",
+    "slug": "melgar_table",
+    "file": "wyomee/melgar_table.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Jan 2026 by Carlos Thompson (Thomas' version of Sylvia's 2025–2026 diaries)",
+    "theme": "An easy, crowded family New Year's Eve",
+    "narrator": "Thomas",
+    "main_focus": "the family gathering",
+    "other_characters": [
+      "Gabi",
+      "Sylvia",
+      "Pilar",
+      "Lucía"
+    ],
+    "location": "Melgar (villa)",
+    "date_of_events": "New Year's Eve 2025–26",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Public Face",
+    "slug": "public_face",
+    "file": "temp/public_face.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an original vignette by Carlos Thompson",
+    "theme": "Punta Espada's quiet inauguration; Claire's public kiss",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Susana",
+      "Pilar",
+      "Natalia",
+      "Fernando"
+    ],
+    "location": "Punta Espada",
+    "date_of_events": "July 2026",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Moon at the Cabin",
+    "slug": "moon_at_the_cabin",
+    "file": "rataflechera/moon_at_the_cabin.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a short story by Carlos Thompson",
+    "theme": "The night before going public, together at the cabin",
+    "narrator": "collective (first person plural)",
+    "main_focus": "Thomas, Claire and Gabi",
+    "other_characters": [],
+    "location": "the cabin at Punta Espada",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Cabin at Sunrise",
+    "slug": "cabin_at_sunrise",
+    "file": "rataflechera/cabin_at_sunrise.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a short story by Carlos Thompson",
+    "theme": "Cabin breakfast before the presidential inauguration visit",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Pilar"
+    ],
+    "location": "the cabin at Punta Espada",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Where the Tide Turns",
+    "slug": "where_the_tide_turns",
+    "file": "dvigitt/where_the_tide_turns.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Aurora reassuring a tired Thomas he's more than his work",
+    "narrator": "Aurora and Thomas (duet)",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "the beach and cabin below the Punta Espada house",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/21ad9e9f-ffdd-4e40-9db6-3d4ca4344352"
+  },
+  {
+    "title": "Not an Infrastructure Guy",
+    "slug": "not_an_infrastructure_guy",
+    "file": "gabisson/not_an_infrastructure_guy.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Grok",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Thomas tired of infrastructure, wanting to write a novel",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "the beach and cabin below the Punta Espada house",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/4de64999-1082-4389-80e8-0d65d9807775"
+  },
+  {
+    "title": "Stay a Little Longer",
+    "slug": "stay_a_little_longer",
+    "file": "dvigitt/stay_a_little_longer.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "End of the beach walk; Aurora reads what he won't say",
+    "narrator": "Aurora and Thomas (duet)",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "the beach and cabin below the Punta Espada house",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/f152610f-99b6-4e51-9845-2a388480355e"
+  },
+  {
+    "title": "Weird",
+    "slug": "weird",
+    "file": "rataflechera/weird.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Grok",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Vicky's newly named relationship feels weird",
+    "narrator": "collective (first person plural)",
+    "main_focus": "Vicky",
+    "other_characters": [
+      "Thomas",
+      "Aurora",
+      "Erika",
+      "Pilar"
+    ],
+    "location": "the Punta Espada house (dinner)",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/ebb3b4bb-3f84-4d12-b208-ad9ba3865986"
+  },
+  {
+    "title": "Night-long Embrace",
+    "slug": "nightlong_embrace",
+    "file": "gabisson/nightlong_embrace.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Grok",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Thomas asks Aurora to drop the script and stay",
+    "narrator": "Thomas",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "the cabin at Punta Espada",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/1bba9df6-5db6-426c-a9a8-e993213a5d64"
+  },
+  {
+    "title": "Stay Here Beside Me",
+    "slug": "stay_here_beside_me",
+    "file": "dvigitt/stay_here_beside_me.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Held through the night without deciding what it means",
+    "narrator": "Thomas and Aurora (duet)",
+    "main_focus": "Thomas and Aurora",
+    "other_characters": [],
+    "location": "the cabin at Punta Espada",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/4d7dcf80-4171-4a87-b766-6c6cb39e2020"
+  },
+  {
+    "title": "Well-Meaning Conspiracies",
+    "slug": "wellmeaning_conspiracies",
+    "file": "gabisson/wellmeaning_conspiracies.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Grok",
+    "original_source": "a scene written by Carlos Thompson",
+    "theme": "Claire and Gabi expose Thomas' secret for his own good",
+    "narrator": "Thomas",
+    "main_focus": "Claire and Gabi",
+    "other_characters": [
+      "Aurora"
+    ],
+    "location": "the beach and cabin below the Punta Espada house",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/c0b28a5f-6b50-4ce1-a483-ce1d317b3a57"
+  },
+  {
+    "title": "Ciudad Punta Espada",
+    "slug": "ciudad_punta_espada",
+    "file": "temp/ciudad_punta_espada.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a story by Carlos Thompson",
+    "theme": "Punta Espada's subdued opening after the Venezuelan earthquake",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Natalia"
+    ],
+    "location": "Ciudad Punta Espada",
+    "date_of_events": "29 June – 1 July 2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Meet Me at Punta Espada",
+    "slug": "meet_me_at_punta_espada",
+    "file": "rataflechera/meet_me_at_punta_espada.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an email exchange between Zahra Moradi and Thomas Garcia (Carlos Thompson & Claude)",
+    "theme": "Zahra and Thomas arranging her family's December visit",
+    "narrator": "third person",
+    "main_focus": "Zahra and Thomas",
+    "other_characters": [
+      "Gabi",
+      "Mihai"
+    ],
+    "location": "Kraków; Punta Espada",
+    "date_of_events": "autumn 2026; visit 8–20 December",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Two Roads Refusing to Divide",
+    "slug": "two_roads_refusing_to_divide",
+    "file": "rataflechera/two_roads_refusing_to_divide.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude summary of Zahra Moradi's post-Tallinn development, guided by Carlos Thompson",
+    "theme": "Zahra and Mihai building a home across borders",
+    "narrator": "third person",
+    "main_focus": "Zahra and Mihai",
+    "other_characters": [
+      "Thomas",
+      "Jan"
+    ],
+    "location": "Tallinn; Kraków; Sanandaj",
+    "date_of_events": "2020 onward",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "La puerta abierta",
+    "slug": "la_puerta_abierta",
+    "file": "wyomee/la_puerta_abierta.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson (his own Spanish version)",
+    "original_source": "After the Door Was Open",
+    "theme": "Thomas confesses how Tokyo opened the door to infidelity",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tokyo",
+    "date_of_events": "2009",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/405aa06f-eb62-457c-b007-8d4d7e762a3a"
+  },
+  {
+    "title": "Wheels Up",
+    "slug": "wheels_up",
+    "file": "gabisson/wheels_up.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Claude",
+    "original_source": "",
+    "theme": "Thomas' start-up gamble, from pitch to Tokyo and the Bay",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tokyo; the Bay Area; San José; Bogotá",
+    "date_of_events": "21 May – September (start-up years)",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/21888b02-8713-4121-a0f7-d4708ed3e114"
+  },
+  {
+    "title": "Line of Credit",
+    "slug": "line_of_credit",
+    "file": "gabisson/line_of_credit.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Claude",
+    "original_source": "",
+    "theme": "Rich in others' trust, broke himself, until funding lands",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Barranquilla; Medellín; Cali; Houston; the Bay Area",
+    "date_of_events": "start-up years, until 14 March",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/ff4e1078-bb8b-4d55-85af-a567a4b11091"
+  },
+  {
+    "title": "Ibiza Hunt",
+    "slug": "ibiza_hunt",
+    "file": "rataflechera/ibiza_hunt.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Thomas the hunter becomes Diana's prey in Ibiza",
+    "narrator": "Thomas",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "Casablanca; Ibiza",
+    "date_of_events": "2014 (Casablanca); 2017 (Ibiza)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Last Kiss at Potsdam",
+    "slug": "last_kiss_at_potsdam",
+    "file": "chlewey/last_kiss_at_potsdam.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Platform by Carlos Thompson (2026)",
+    "theme": "Thomas haunted by Gabi's goodbye kiss on the platform",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Mariain"
+    ],
+    "location": "Potsdam (train platform)",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Landscape",
+    "slug": "landscape",
+    "file": "wyomee/landscape.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Thomas filing Liis as mere landscape",
+    "narrator": "third person",
+    "main_focus": "Liis",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Efficient and Charming",
+    "slug": "efficient_and_charming",
+    "file": "rataflechera/efficient_and_charming.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Thomas falling for his cabin chief Claire",
+    "narrator": "Thomas",
+    "main_focus": "Claire",
+    "other_characters": [],
+    "location": "the private jet (Rotterdam–New York)",
+    "date_of_events": "2016–2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Borrowed Time",
+    "slug": "borrowed_time",
+    "file": "chlewey/borrowed_time.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a story by Carlos Thompson",
+    "theme": "Thomas looking back on his Tallinn-era romances",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Aurora",
+      "Erika",
+      "Liis",
+      "Zahra",
+      "Kadri",
+      "Greca"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2018–2020, recalled seven years later",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "That Night",
+    "slug": "that_night",
+    "file": "chlewey/that_night.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "The endless conversation that became Thomas and Erika's affair",
+    "narrator": "Thomas",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Niklas"
+    ],
+    "location": "Stockholm (Luciafesten); Tallinn",
+    "date_of_events": "December 2018 – spring 2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Carbonia in the Rear Window",
+    "slug": "carbonia_in_the_rear_window",
+    "file": "wyomee/carbonia_in_the_rear_window.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Pilar needling Thomas about Greca on the airport drive",
+    "narrator": "Thomas",
+    "main_focus": "Pilar",
+    "other_characters": [
+      "Greca",
+      "Paolo"
+    ],
+    "location": "Carbonia to Cagliari airport",
+    "date_of_events": "2019 (autumn)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Vicky's Impossible Chart",
+    "slug": "vickys_impossible_chart",
+    "file": "rataflechera/vickys_impossible_chart.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Thomas and Vicky's playful, unchartable bond",
+    "narrator": "Thomas",
+    "main_focus": "Vicky",
+    "other_characters": [],
+    "location": "London; Dubai; Medan; Darwin; Sydney",
+    "date_of_events": "2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Delicate Swan",
+    "slug": "delicate_swan",
+    "file": "wyomee/delicate_swan.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Aurora's unorthodox, physical therapy with Thomas",
+    "narrator": "Thomas",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "Aurora's practice, Bogotá",
+    "date_of_events": "2021",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "A Night To Remember",
+    "slug": "a_night_to_remember",
+    "file": "rataflechera/a_night_to_remember.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a short story by Carlos Thompson",
+    "theme": "Strangers Thomas and Natalia in a Milan hotel bar",
+    "narrator": "Thomas",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "Milan (hotel bar)",
+    "date_of_events": "July 2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Tracing the Ink",
+    "slug": "tracing_the_ink",
+    "file": "rataflechera/tracing_the_ink.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Gemini (verse 1, pre-chorus), Grok (other verses, bridge), Carlos Thompson (chorus)",
+    "original_source": "a prompt by Carlos Thompson",
+    "theme": "Thomas and Fiona's long-awaited Boston night",
+    "narrator": "Thomas",
+    "main_focus": "Fiona",
+    "other_characters": [],
+    "location": "Boston",
+    "date_of_events": "2022",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Woman from the Storm",
+    "slug": "the_woman_from_the_storm",
+    "file": "dvigitt/the_woman_from_the_storm.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Grok",
+    "original_source": "a short story by Carlos Thompson",
+    "theme": "Thomas recognising the pilot who once saved his flight",
+    "narrator": "Thomas",
+    "main_focus": "Susana",
+    "other_characters": [
+      "Fernando"
+    ],
+    "location": "Madrid; Patagonia",
+    "date_of_events": "2022 (memory of a Patagonian charter)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "My Delicate Verse",
+    "slug": "my_delicate_verse",
+    "file": "temp/my_delicate_verse.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Gabi as Thomas' partner, wingman and plural equal",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Sylvia",
+      "Mariain"
+    ],
+    "location": "",
+    "date_of_events": "2018–2025",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "After the Bliss",
+    "slug": "after_the_bliss",
+    "file": "wyomee/after_the_bliss.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Comfort, not passion: a night with Mariain missing Gabi",
+    "narrator": "Thomas",
+    "main_focus": "Mariain",
+    "other_characters": [],
+    "location": "New York",
+    "date_of_events": "2026",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/8a7477d7-5396-45d2-aacd-419d7b976dd6"
+  },
+  {
+    "title": "Serious Enquires",
+    "slug": "serious_enquires",
+    "file": "temp/serious_enquires.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section I (The listing) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Gabi hunting a cheap way home to Potsdam",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Mariain",
+      "Michael",
+      "Susan",
+      "José"
+    ],
+    "location": "Queens (studio)",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Private Flight",
+    "slug": "private_flight",
+    "file": "temp/private_flight.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section II (The reply) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "A reply offers Gabi one private-jet seat",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Michael",
+      "José"
+    ],
+    "location": "Queens (studio)",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Teterboro Tarmac",
+    "slug": "teterboro_tarmac",
+    "file": "temp/teterboro_tarmac.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section III (Teterboro) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Arriving at Teterboro; the jet becomes real",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Michael"
+    ],
+    "location": "Teterboro airport",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Rotterdam First",
+    "slug": "rotterdam_first",
+    "file": "temp/rotterdam_first.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section IV (Boarding) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Boarding with an exit plan; Thomas knows her name",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire",
+      "Michael"
+    ],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Reasonable Attribution",
+    "slug": "reasonable_attribution",
+    "file": "temp/reasonable_attribution.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section V (The Seating) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Sparring over Thomas' 'efficient' seating choice",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Tallinn Window",
+    "slug": "tallinn_window",
+    "file": "temp/tallinn_window.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section VI (Tallinn, the magister, the Wall) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Thomas explains Estonia's digital state",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Where's the Fun",
+    "slug": "wheres_the_fun",
+    "file": "temp/wheres_the_fun.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section VII (The Sculpture) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Thomas reads Gabi's art; she keeps him guessing",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "I'm Gonna Be Boring",
+    "slug": "im_gonna_be_boring",
+    "file": "temp/im_gonna_be_boring.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section VIII (Claire didn't ask) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Claire's silent service; Gabi chooses tea",
+    "narrator": "Gabi",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "For Now",
+    "slug": "for_now",
+    "file": "temp/for_now.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section IX (Apple juice) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Apple juice dispels Gabi's Colombian stereotype",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Baguettine",
+    "slug": "baguettine",
+    "file": "temp/baguettine.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section X (The chicken sandwich) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "A chicken-sandwich offer tests Gabi's Rotterdam plan",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "That Kind",
+    "slug": "that_kind",
+    "file": "temp/that_kind.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XI (The turbulence) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Thomas calmly handles turbulence and broken glass",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Footnotes and Maps",
+    "slug": "footnotes_and_maps",
+    "file": "temp/footnotes_and_maps.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XII (Interrail) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Trading travel footnotes: Potsdam, Interrail, trains",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Measured Sip",
+    "slug": "measured_sip",
+    "file": "temp/measured_sip.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XIII (The high-speed line) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Gabi realises Thomas builds Colombia's high-speed rail",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Just Trains",
+    "slug": "just_trains",
+    "file": "temp/just_trains.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XIV (No trafficking) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Gabi checks his money isn't criminal: just trains",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Queens Changes Fast",
+    "slug": "queens_changes_fast",
+    "file": "temp/queens_changes_fast.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XV (The city and the neighborhood) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Gentrification: trains raise rents and push people out",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Refuel First",
+    "slug": "refuel_first",
+    "file": "temp/refuel_first.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XVI (Confirmed) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Thomas hints at Tallinn; Gabi pushes back",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "private jet, Teterboro to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "First Checkpoint",
+    "slug": "first_checkpoint",
+    "file": "temp/first_checkpoint.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XVII (Descent) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Descent to Rotterdam; Gabi distracted by Claire",
+    "narrator": "Gabi",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "private jet, descending to Rotterdam",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "No Signal Yet",
+    "slug": "no_signal_yet",
+    "file": "temp/no_signal_yet.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XVIII (Rotterdam) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Landing and passport control; no phone signal",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire",
+      "Michael"
+    ],
+    "location": "Rotterdam airport",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Baseline Cleared",
+    "slug": "baseline_cleared",
+    "file": "temp/baseline_cleared.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XIX (Michael) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Calling Michael on Thomas' phone: not kidnapped",
+    "narrator": "Gabi",
+    "main_focus": "Michael",
+    "other_characters": [
+      "Thomas",
+      "Mariain"
+    ],
+    "location": "Rotterdam airport",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Chicken Sandwich Deal",
+    "slug": "chicken_sandwich_deal",
+    "file": "temp/chicken_sandwich_deal.tex",
+    "albums": [
+      "entourage-eco: Rotterdam Leg"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Leg, section XX (Panela lemonade) (Carlos Thompson, Claude & ChatGPT)",
+    "theme": "Claire's SIM card and Gabi insisting on paying",
+    "narrator": "Gabi",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas",
+      "Mariain",
+      "Matthias"
+    ],
+    "location": "Rotterdam airport",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Tucanito to Tallinn",
+    "slug": "tucanito_to_tallinn",
+    "file": "temp/tucanito_to_tallinn.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Thomas leaves for a Tallinn master's in digital government",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Pilar"
+    ],
+    "location": "Guaymaral; New York; Rotterdam; Tallinn",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Semestermap in Tallinn",
+    "slug": "semestermap_in_tallinn",
+    "file": "temp/semestermap_in_tallinn.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Thomas' first semester and nightlife in Tallinn",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Erika",
+      "Lucía",
+      "Alicia",
+      "Esteban",
+      "Niklas"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "autumn 2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Tallinn By January",
+    "slug": "tallinn_by_january",
+    "file": "temp/tallinn_by_january.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Snowbound Tallinn: Thomas and Claire finally speak plainly",
+    "narrator": "third person",
+    "main_focus": "Thomas and Claire",
+    "other_characters": [
+      "Erika"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "January 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Tallinn To Riga",
+    "slug": "tallinn_to_riga",
+    "file": "temp/tallinn_to_riga.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Summer Baltic trip with the kids, Erika joining",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Mariain",
+      "Erika",
+      "Alicia",
+      "Esteban"
+    ],
+    "location": "Hamburg; Tallinn; Riga; Stockholm; Rotterdam",
+    "date_of_events": "summer 2019 (to 9 July)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Villa in Sardinia",
+    "slug": "villa_in_sardinia",
+    "file": "temp/villa_in_sardinia.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "The Lai villa visit where Thomas first sees Sylvia",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Sylvia"
+    ],
+    "location": "Carbonia, Sardinia; Tallinn; Madrid; Paris",
+    "date_of_events": "October – December 2019",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Eight March Locked In",
+    "slug": "eight_march_locked_in",
+    "file": "temp/eight_march_locked_in.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Sylvia's two-week visit becomes the Tallinn lockdown",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "8 March 2020 onward",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Teal in Carbonia",
+    "slug": "teal_in_carbonia",
+    "file": "temp/teal_in_carbonia.tex",
+    "albums": [
+      "entourage-eco: Tallin Series"
+    ],
+    "lyricist": "Suno",
+    "original_source": "story line of Thomas García's Tallinn Arc by Carlos Thompson",
+    "theme": "Leaving locked-down Tallinn for Bogotá via London",
+    "narrator": "Thomas",
+    "main_focus": "Thomas and Sylvia",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Lucía"
+    ],
+    "location": "Tallinn; Paris; London; Málaga; Miami; Bogotá",
+    "date_of_events": "late August 2020",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Steel & Violet",
+    "slug": "steel_n_violet",
+    "file": "gabisson/steel_n_violet.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Tallinn 1: Gabi, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Thomas and Gabi's mile-high, three-day Tallinn affair",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "private jet; Tallinn",
+    "date_of_events": "August 2018",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "So Wrong",
+    "slug": "so_wrong",
+    "file": "gabisson/so_wrong.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Tallinn 2: Claire, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Snowbound Thomas and Claire cross the boss line",
+    "narrator": "third person",
+    "main_focus": "Claire",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "January 2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Extension of Friendship",
+    "slug": "extension_of_friendship",
+    "file": "wyomee/extension_of_friendship.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Tallinn 4: Erika, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Erika and Thomas: friendship extended into bed",
+    "narrator": "third person",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Lucía",
+      "Niklas"
+    ],
+    "location": "Stockholm; Tallinn",
+    "date_of_events": "December 2018 – March 2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Catching Up",
+    "slug": "catching_up",
+    "file": "wyomee/catching_up.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Tallinn 5: Diana, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Diana and Thomas' no-strings hotel reunion",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [
+      "Claire",
+      "Erika",
+      "Liis"
+    ],
+    "location": "Tallinn (hotel)",
+    "date_of_events": "2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Carroll Gardens",
+    "slug": "carroll_gardens",
+    "file": "gabisson/carroll_gardens.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Claude (likely)",
+    "original_source": "My Gabriele (Mariain) and Gabi's Reflexion (Gabi), by Carlos Thompson",
+    "theme": "Mariain sizing up Thomas at a Brooklyn party for Gabi",
+    "narrator": "Mariain and Gabi (duet)",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "Carroll Gardens, Brooklyn",
+    "date_of_events": "2019",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "I Thought We Were Home",
+    "slug": "i_thought_we_were_home",
+    "file": "rataflechera/i_thought_we_were_home.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Tallinn 7: Zahra, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Zahra's unpromised Tallinn home with Thomas",
+    "narrator": "Zahra",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "autumn 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Carbonia Villa Blues",
+    "slug": "carbonia_villa_blues",
+    "file": "gabisson/carbonia_villa_blues.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Carbonia: Greca, a Tallinn-series vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Thomas' business visit to the Carbonia villa and Greca",
+    "narrator": "Thomas",
+    "main_focus": "Greca",
+    "other_characters": [
+      "Claire",
+      "Sylvia",
+      "Pilar",
+      "Kadri",
+      "Paolo",
+      "Alessandro"
+    ],
+    "location": "Cagliari; Carbonia (Lai villa)",
+    "date_of_events": "October 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "کوچه‌ی دیگر (Kuche-ye Digar)",
+    "slug": "kucheye_digar",
+    "file": "rataflechera/kucheye_digar.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Claude (Persian adaptation)",
+    "original_source": "The Other Local Girl",
+    "theme": "Zahra discovering Kadri, the other local girl",
+    "narrator": "Zahra",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Kadri"
+    ],
+    "location": "Tallinn (Kalamaja)",
+    "date_of_events": "September – December 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Paolo’s Text",
+    "slug": "paolos_text",
+    "file": "gabisson/paolos_text.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Tallinn 8: Sylvia, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Paolo's vague request; Sylvia's Tallinn visit takes shape",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Esteban",
+      "Paolo"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "early 2020 (as COVID spreads)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Quiet Cracked Routine",
+    "slug": "quiet_cracked_routine",
+    "file": "gabisson/quiet_cracked_routine.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Tallinn 8: Sylvia, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Thomas building a lockdown routine with young Sylvia",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "March – April 2020",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Peccato d'aprile",
+    "slug": "peccato_daprile",
+    "file": "wyomee/peccato_daprile.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Carlos Thompson & Claude (Suno rewrote parts)",
+    "original_source": "",
+    "theme": "Sylvia's chosen April sin in locked-down Tallinn",
+    "narrator": "Sylvia",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Carbonia; Tallinn",
+    "date_of_events": "March – April 2020",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Casa non è",
+    "slug": "casa_non_e",
+    "file": "wyomee/casa_non_e.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Home isn't a place: Carbonia, Tallinn, the Atlantic",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Lucía",
+      "Francine",
+      "Thomas"
+    ],
+    "location": "Carbonia; Tallinn",
+    "date_of_events": "2020",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Qualcosa di vero",
+    "slug": "qualcosa_di_vero",
+    "file": "wyomee/qualcosa_di_vero.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Sylvia in New York: Thomas cold, Gabi watching",
+    "narrator": "Sylvia",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Greca",
+      "Alessandro"
+    ],
+    "location": "Teterboro; Upper East Side, New York",
+    "date_of_events": "2020",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Sa fiamma",
+    "slug": "sa_fiamma",
+    "file": "wyomee/sa_fiamma.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Sylvia returns to Carbonia changed and unrepentant",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Greca",
+      "Alessandro"
+    ],
+    "location": "Elmas airport; Carbonia",
+    "date_of_events": "2020",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Sin complicaciones",
+    "slug": "sin_complicaciones",
+    "file": "gabisson/sin_complicaciones.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Claude, Spanish chorus by Carlos Thompson",
+    "original_source": "a screenplay by Carlos Thompson",
+    "theme": "An uncomplicated Christmas-to-New-Year holiday",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Lucía"
+    ],
+    "location": "Carbonia; New York; Colombia",
+    "date_of_events": "Christmas 2025 – January 2026",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/76589df5-05cb-4b99-ade5-35c94b5f5735"
+  },
+  {
+    "title": "She Notices",
+    "slug": "she_notices",
+    "file": "rataflechera/she_notices.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a scene by Carlos Thompson",
+    "theme": "Who sleeps where at Melgar, and why Sylvia notices",
+    "narrator": "third person",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Pilar",
+      "Lucía",
+      "Lucy",
+      "Alicia",
+      "Esteban",
+      "Francine",
+      "Gabriel"
+    ],
+    "location": "Melgar (villa)",
+    "date_of_events": "New Year 2025–26",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/0dc45a5a-ea69-4b69-a20c-68a9b259ae03"
+  },
+  {
+    "title": "Resto qui",
+    "slug": "resto_qui",
+    "file": "wyomee/resto_qui.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Carlos Thompson & Claude",
+    "original_source": "",
+    "theme": "Sylvia chooses Barcelona after years of travel",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Erika",
+      "Vicky"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "By the Office Door",
+    "slug": "by_the_office_door",
+    "file": "wyomee/by_the_office_door.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri noticing Thomas' needless visits to her office",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tallinn (university)",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Beyond the Frame",
+    "slug": "beyond_the_frame",
+    "file": "wyomee/beyond_the_frame.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri's one-night procedure becomes something unclassifiable",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Liis"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "October 2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Winter Moves, and I Remain",
+    "slug": "winter_moves_and_i_remain",
+    "file": "wyomee/winter_moves_and_i_remain.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri accepting Thomas' Christmas absence without claim",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Erika"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "December 2018 – January 2019",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Filed Under Fine",
+    "slug": "filed_under_fine",
+    "file": "wyomee/filed_under_fine.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri watching Thomas' life rearrange around Zahra",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire",
+      "Liis",
+      "Zahra"
+    ],
+    "location": "Tallinn; Cagliari",
+    "date_of_events": "autumn 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Borrowed Calm",
+    "slug": "borrowed_calm",
+    "file": "wyomee/borrowed_calm.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri walked in on, keeping calm through the fallout",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Zahra"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "December 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Keep the Thread",
+    "slug": "keep_the_thread",
+    "file": "wyomee/keep_the_thread.tex",
+    "albums": [
+      "entourage-eco: Kadri's Ledger"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Claude-guided story of Kadri's account of her relationship with Thomas (story and guidance by Carlos Thompson)",
+    "theme": "Kadri getting through the end without calling",
+    "narrator": "Kadri",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "December 2019 – January 2020",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Potsdam After the Fall",
+    "slug": "potsdam_after_the_fall",
+    "file": "temp/potsdam_after_the_fall.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi's family through East German collapse",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Matthias",
+      "Lars"
+    ],
+    "location": "Potsdam",
+    "date_of_events": "1989 – 2000s",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Garage Lines",
+    "slug": "garage_lines",
+    "file": "temp/garage_lines.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi's father teaching her welding in the garage",
+    "narrator": "Gabi",
+    "main_focus": "Gabi's father",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "2005–2006",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Welding Certificate",
+    "slug": "welding_certificate",
+    "file": "temp/welding_certificate.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi clashing with her mother, leaving for New York",
+    "narrator": "Gabi",
+    "main_focus": "Gabi's mother",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "age 17–19 (c. 2006–2008)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Queens Weld Shop",
+    "slug": "queens_weld_shop",
+    "file": "temp/queens_weld_shop.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi beating New York loneliness with work",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "New York (NYU; Queens)",
+    "date_of_events": "c. 2008–2012",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Summer of Potsdam",
+    "slug": "summer_of_potsdam",
+    "file": "temp/summer_of_potsdam.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi missing her father's funeral, grief held in",
+    "narrator": "Gabi",
+    "main_focus": "Gabi's father",
+    "other_characters": [
+      "Matthias"
+    ],
+    "location": "New York; Potsdam",
+    "date_of_events": "her last NYU year (c. 2012)",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Summer Of Thirteen",
+    "slug": "summer_of_thirteen",
+    "file": "temp/summer_of_thirteen.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi burnt out, work no longer the answer",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Matthias"
+    ],
+    "location": "New York (NYU; SVA; Queens)",
+    "date_of_events": "summer 2013",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Mariain",
+    "slug": "mariain",
+    "file": "temp/mariain.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Mariain discovers Gabi; Gabi finds her own feet",
+    "narrator": "Gabi",
+    "main_focus": "Mariain",
+    "other_characters": [],
+    "location": "New York",
+    "date_of_events": "2013",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Inherited Heat",
+    "slug": "inherited_heat",
+    "file": "temp/inherited_heat.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Gabi's welding craft and her shared studio family",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Mariain",
+      "Michael",
+      "José",
+      "Susan"
+    ],
+    "location": "Long Island City",
+    "date_of_events": "2010s",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Clean Cut Winter",
+    "slug": "clean_cut_winter",
+    "file": "temp/clean_cut_winter.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Gabi and Mariain's suffocating cohabitation and breakup",
+    "narrator": "Gabi",
+    "main_focus": "Mariain",
+    "other_characters": [],
+    "location": "Greenwich Village; New Haven; Carroll Gardens; Queens",
+    "date_of_events": "early – December 2016",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Thomas In August",
+    "slug": "thomas_in_august",
+    "file": "temp/thomas_in_august.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Potsdam family visit and the jet seat beside Thomas",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Matthias",
+      "Lars",
+      "Maria",
+      "Magnus"
+    ],
+    "location": "Potsdam; Teterboro; Rotterdam; Tallinn",
+    "date_of_events": "August 2018",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "What Thomas Gave",
+    "slug": "what_thomas_gave",
+    "file": "temp/what_thomas_gave.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Thomas offers no exclusivity, but fully sees Gabi",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Mariain"
+    ],
+    "location": "New York (Queens)",
+    "date_of_events": "autumn 2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Official Partner",
+    "slug": "official_partner",
+    "file": "temp/official_partner.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Lockdown, Sylvia's arrival, and becoming Thomas' official partner",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Sylvia",
+      "Lucía"
+    ],
+    "location": "Carroll Gardens; Teterboro",
+    "date_of_events": "2020 (to December)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Potsdam 2021",
+    "slug": "potsdam_2021",
+    "file": "temp/potsdam_2021.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a section of Gabi's biography (Carlos Thompson & Claude)",
+    "theme": "Gabi and her mother finally speak",
+    "narrator": "Gabi",
+    "main_focus": "Gabi's mother",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "2021",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Queens Studio Key",
+    "slug": "queens_studio_key",
+    "file": "temp/queens_studio_key.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi's nomadic years, keeping her own studio",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Mariain",
+      "Lucía",
+      "Esteban",
+      "Thomas"
+    ],
+    "location": "Manhattan penthouse; Carroll Gardens; Queens; Hunter's Point South",
+    "date_of_events": "mid-2021 – 2025",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "The Cleaner Exit",
+    "slug": "the_cleaner_exit",
+    "file": "temp/the_cleaner_exit.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi choosing a clean voluntary exit from US residency",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas",
+      "Sylvia",
+      "Mariain"
+    ],
+    "location": "New York; Berlin; Barcelona; Bogotá; Potsdam",
+    "date_of_events": "before Christmas 2025",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Before Barcelona",
+    "slug": "before_barcelona",
+    "file": "temp/before_barcelona.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Two weeks reconciling with family before Barcelona",
+    "narrator": "Gabi",
+    "main_focus": "Gabi's family",
+    "other_characters": [
+      "Thomas",
+      "Claire",
+      "Sylvia",
+      "Mariain",
+      "Michael",
+      "Matthias"
+    ],
+    "location": "Potsdam",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Still A Promise",
+    "slug": "still_a_promise",
+    "file": "temp/still_a_promise.tex",
+    "albums": [
+      "entourage-eco: Gabi's bio"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a biography of Gabriele \"Gabi\" Wiater by Carlos Thompson",
+    "theme": "Gabi between Queens, Punta Espada and Barcelona",
+    "narrator": "Gabi",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Thomas",
+      "Sylvia"
+    ],
+    "location": "Queens; Kansas City; Ciudad Punta Espada; Tokyo; Sydney; Barcelona (Poblenou)",
+    "date_of_events": "July 2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "London to Punta",
+    "slug": "london_to_punta",
+    "file": "temp/london_to_punta.tex",
+    "albums": [
+      "entourage-eco: London To Punta"
+    ],
+    "lyricist": "ChatGPT (interactive session with Carlos Thompson)",
+    "original_source": "2024 London to Punta flight story by Carlos Thompson",
+    "theme": "The nine-hour London City to Punta Espada flight",
+    "narrator": "third person",
+    "main_focus": "the London–Punta flight",
+    "other_characters": [
+      "Claire"
+    ],
+    "location": "London City; Punta Espada",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Air Jaguar",
+    "slug": "air_jaguar",
+    "file": "temp/air_jaguar.tex",
+    "albums": [
+      "entourage-eco: London To Punta"
+    ],
+    "lyricist": "ChatGPT (interactive session with Carlos Thompson)",
+    "original_source": "2024 London to Punta flight story by Carlos Thompson",
+    "theme": "Thomas' Air Jaguar Dreamliner and its crew",
+    "narrator": "third person",
+    "main_focus": "the Air Jaguar",
+    "other_characters": [
+      "Claire",
+      "Susana",
+      "Sandra",
+      "Jan",
+      "Jessica"
+    ],
+    "location": "aboard the Air Jaguar",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Punta Espada",
+    "slug": "punta_espada",
+    "file": "temp/punta_espada.tex",
+    "albums": [
+      "entourage-eco: London To Punta"
+    ],
+    "lyricist": "ChatGPT (interactive session with Carlos Thompson)",
+    "original_source": "2024 London to Punta flight story by Carlos Thompson",
+    "theme": "Punta Espada, La Guajira's new seaside city",
+    "narrator": "third person",
+    "main_focus": "Punta Espada project",
+    "other_characters": [],
+    "location": "Punta Espada, La Guajira",
+    "date_of_events": "mid-2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Carry On Reset",
+    "slug": "carry_on_reset",
+    "file": "temp/carry_on_reset.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 1",
+    "theme": "Fiona lands in Newark and resets her routine",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [
+      "Mariain",
+      "Diana",
+      "Lucas"
+    ],
+    "location": "Newark; Fort Lee",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Jersey Summers",
+    "slug": "jersey_summers",
+    "file": "temp/jersey_summers.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 2",
+    "theme": "Fiona's childhood Jersey crew reunites",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [
+      "Lucas",
+      "Rachel",
+      "Sarah",
+      "Jacob",
+      "Eliah"
+    ],
+    "location": "Teaneck, NJ",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Thursday's Plans",
+    "slug": "thursdays_plans",
+    "file": "temp/thursdays_plans.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 3",
+    "theme": "Diana's message reshapes Fiona's week",
+    "narrator": "third person",
+    "main_focus": "Fiona",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Mariain",
+      "Diana"
+    ],
+    "location": "Fort Lee",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Five Sharp Dinner",
+    "slug": "five_sharp_dinner",
+    "file": "temp/five_sharp_dinner.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 4",
+    "theme": "Fiona cooks a simple dinner for Claire",
+    "narrator": "Fiona",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Gabi",
+      "Sylvia",
+      "Diana"
+    ],
+    "location": "Fort Lee",
+    "date_of_events": "2024",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Bring Claire",
+    "slug": "bring_claire",
+    "file": "temp/bring_claire.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 5",
+    "theme": "Thomas summons Fiona to tea: bring Claire",
+    "narrator": "Fiona",
+    "main_focus": "Claire",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Fort Lee; Manhattan",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "East Side Table",
+    "slug": "east_side_table",
+    "file": "gabisson/east_side_table.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 6",
+    "theme": "Tea at Thomas' with Claire's obvious closeness",
+    "narrator": "Fiona",
+    "main_focus": "Thomas and Claire",
+    "other_characters": [
+      "Gabi",
+      "Sylvia",
+      "Mariain",
+      "Diana"
+    ],
+    "location": "Upper East Side, Manhattan",
+    "date_of_events": "2024",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Ross Dock Lunch",
+    "slug": "ross_dock_lunch",
+    "file": "gabisson/ross_dock_lunch.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 7",
+    "theme": "Easy night with Claire, then a server meltdown",
+    "narrator": "Fiona",
+    "main_focus": "Fiona",
+    "other_characters": [
+      "Claire",
+      "Sylvia",
+      "Diana"
+    ],
+    "location": "Midtown; Fort Lee",
+    "date_of_events": "2024",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Hell's Kitchen Dress",
+    "slug": "hells_kitchen_dress",
+    "file": "gabisson/hells_kitchen_dress.tex",
+    "albums": [
+      "entourage-eco: A New York Night"
+    ],
+    "lyricist": "Suno",
+    "original_source": "A New York Night by Carlos Thompson, segment 8",
+    "theme": "Fiona dresses up for a Hell's Kitchen night out",
+    "narrator": "Fiona",
+    "main_focus": "Fiona",
+    "other_characters": [
+      "Gabi",
+      "Sylvia",
+      "Mariain",
+      "Diana",
+      "Mariana",
+      "Shanon",
+      "Susan"
+    ],
+    "location": "Hell's Kitchen, Manhattan",
+    "date_of_events": "2024",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Diana carries her own gravity",
+    "slug": "diana_carries_her_own_gravity",
+    "file": "rataflechera/diana_carries_her_own_gravity.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Diana porte sa propre gravité (French version)",
+    "theme": "Diana moving through life on her own gravity",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [
+      "Susana",
+      "Lucía",
+      "Thomas"
+    ],
+    "location": "Casablanca; Paris; London; Ibiza",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "ديانا كاتحمل ثقلها (Diana Kathmil Tqlha)",
+    "slug": "diana_kathmil_tqlha",
+    "file": "rataflechera/diana_kathmil_tqlha.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Diana carries her own gravity",
+    "theme": "Diana moving through life on her own gravity",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "Casablanca; Paris; London; Ibiza",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Unopened Door",
+    "slug": "unopened_door",
+    "file": "rataflechera/unopened_door.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Uks, mis pole lahti (Estonian version)",
+    "theme": "Liis' one season with Thomas, taken without regret",
+    "narrator": "third person",
+    "main_focus": "Liis",
+    "other_characters": [
+      "Thomas",
+      "Tõnis"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2019 (Thomas aged 46)",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Choosing Here",
+    "slug": "choosing_here",
+    "file": "wyomee/choosing_here.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Claude (English translation)",
+    "original_source": "Resto qui",
+    "theme": "Sylvia chooses Barcelona after years of travel",
+    "narrator": "third person",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Erika",
+      "Vicky"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "2026",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Petrovna",
+    "slug": "petrovna",
+    "file": "rataflechera/petrovna.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Petrovna // Петровна (Estonian–Russian version)",
+    "theme": "Kadri's deliberate walls and warmth without anchors",
+    "narrator": "Kadri",
+    "main_focus": "Kadri",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Luciafestens dugg",
+    "slug": "luciafestens_dugg",
+    "file": "chlewey/luciafestens_dugg.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Claude (Swedish adaptation)",
+    "original_source": "That Night (original lyrics by Carlos Thompson)",
+    "theme": "The endless conversation that became Thomas and Erika's affair",
+    "narrator": "Thomas",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Niklas"
+    ],
+    "location": "Stockholm (Luciafesten); Tallinn",
+    "date_of_events": "December 2018 – spring 2019",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "The Other Local Girl",
+    "slug": "the_other_local_girl",
+    "file": "rataflechera/the_other_local_girl.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Tallinn 7: Zahra, a vignette by Carlos Thompson narrated by Thomas",
+    "theme": "Zahra discovering Kadri, the other local girl",
+    "narrator": "Zahra",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Kadri"
+    ],
+    "location": "Tallinn (Kalamaja)",
+    "date_of_events": "September – December 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Little Trouble Tonight",
+    "slug": "little_trouble_tonight",
+    "file": "wyomee/little_trouble_tonight.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Una locura",
+    "theme": "Pilar's hotel-lobby proposition to Thomas",
+    "narrator": "Pilar (with Thomas)",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "a hotel lobby",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Your Room or Mine",
+    "slug": "your_room_or_mine",
+    "file": "wyomee/your_room_or_mine.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "",
+    "original_source": "Una locura",
+    "theme": "Pilar's hotel-lobby proposition to Thomas",
+    "narrator": "Pilar",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "a hotel lobby",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "My Kind of Friend",
+    "slug": "my_kind_of_friend",
+    "file": "rataflechera/my_kind_of_friend.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Xumi's Rhineland road trip with a friend to share a bed",
+    "narrator": "Xumi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Liège; Maastricht; Aachen; Cologne; Bonn",
+    "date_of_events": "October",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/f359f83a-6b38-49e6-8b1c-f24550845a4f"
+  },
+  {
+    "title": "När dörren var öppen",
+    "slug": "nar_dorren_var_oppen",
+    "file": "wyomee/nar_dorren_var_oppen.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Claude (Swedish adaptation)",
+    "original_source": "After the Door Was Open (original lyrics by Carlos Thompson)",
+    "theme": "Thomas confesses how Tokyo opened the door to infidelity",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tokyo",
+    "date_of_events": "2009",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/cfdcbcc1-9bb3-4550-9065-332f7b19b126"
+  },
+  {
+    "title": "After the Door Was Open",
+    "slug": "after_the_door_was_open",
+    "file": "wyomee/after_the_door_was_open.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Thomas confesses how Tokyo opened the door to infidelity",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Mariko"
+    ],
+    "location": "Tokyo",
+    "date_of_events": "2009",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/f72af552-d2d1-437c-82ea-96b3f473ea6d"
+  },
+  {
+    "title": "Vor Barcelona (English)",
+    "slug": "vor_barcelona_english",
+    "file": "gabisson/vor_barcelona_english.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "ChatGPT (with Carlos Thompson), gender-corrected remix",
+    "original_source": "the text Vor Barcelona (Carlos Thompson & Claude)",
+    "theme": "Gabi's many loves: mother, brothers, Potsdam",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "before Barcelona",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Gabi",
+    "slug": "gabi",
+    "file": "rataflechera/gabi.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Grok (adaptation)",
+    "original_source": "My Delicate Verse (original lyrics by Carlos Thompson)",
+    "theme": "Gabi as Thomas' partner, wingman and plural equal",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Sylvia",
+      "Mariain"
+    ],
+    "location": "",
+    "date_of_events": "2018–2025",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "At The Cabin",
+    "slug": "at_the_cabin",
+    "file": "rataflechera/at_the_cabin.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a short story by Carlos Thompson (twin take of Moon at the Cabin)",
+    "theme": "After the meeting, the cabin night before going public",
+    "narrator": "collective (first person plural)",
+    "main_focus": "Thomas, Claire and Gabi",
+    "other_characters": [
+      "Pilar"
+    ],
+    "location": "the cabin at Punta Espada",
+    "date_of_events": "2026",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Natalia in Milan",
+    "slug": "natalia_in_milan",
+    "file": "rataflechera/natalia_in_milan.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a short story by Carlos Thompson (twin take of A Night To Remember)",
+    "theme": "Strangers Thomas and Natalia's one night in Milan",
+    "narrator": "Thomas",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "Milan (hotel)",
+    "date_of_events": "July 2021",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Delicate Swan",
+    "slug": "delicate_swan_1",
+    "file": "wyomee/delicate_swan_1.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Grok (refinement and R&B adaptation)",
+    "original_source": "Delicate Swan (original lyrics by Carlos Thompson)",
+    "theme": "Aurora's unorthodox, physical therapy with Thomas",
+    "narrator": "Thomas",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "Aurora's practice, Bogotá",
+    "date_of_events": "2021",
+    "intimacy": "explicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Last Kiss at Potsdam",
+    "slug": "last_kiss_at_potsdam_1",
+    "file": "chlewey/last_kiss_at_potsdam_1.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Platform by Carlos Thompson (2026)",
+    "theme": "Thomas haunted by Gabi's goodbye kiss on the platform",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Mariain",
+      "Lucía"
+    ],
+    "location": "Potsdam (train platform)",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Name-Shaped Silence",
+    "slug": "nameshaped_silence",
+    "file": "gabisson/nameshaped_silence.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a ChatGPT analysis of The Platform by Carlos Thompson (2026)",
+    "theme": "An unlabelled bond left a name-shaped silence",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "That Kiss",
+    "slug": "that_kiss",
+    "file": "gabisson/that_kiss.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a ChatGPT analysis of The Platform by Carlos Thompson (2026)",
+    "theme": "One kiss unsettles Thomas' unnamed arrangement with Gabi",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "2018",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Kelidi Degar",
+    "slug": "kelidi_degar",
+    "file": "rataflechera/kelidi_degar.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Claude (Persian, from The Other Local Girl)",
+    "original_source": "Kuche-ye Digar (electroswing adaptation)",
+    "theme": "Zahra discovering the other local girl (fragment)",
+    "narrator": "Zahra",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "December 2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Nothing More",
+    "slug": "nothing_more",
+    "file": "rataflechera/nothing_more.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Carlos Thompson, meter and rhyme tightened by Grok",
+    "original_source": "My Kind of Friend",
+    "theme": "Xumi's Rhineland road trip with a friend to share a bed",
+    "narrator": "Xumi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Liège; Maastricht; Aachen; Cologne; Bonn",
+    "date_of_events": "October",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/6f6bb5e8-6bdd-48e0-a723-c8f72784543a"
+  },
+  {
+    "title": "I Need My Aurora",
+    "slug": "i_need_my_aurora",
+    "file": "wyomee/i_need_my_aurora.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Claude",
+    "original_source": "The Talk and the Warm (original lyrics by Carlos Thompson)",
+    "theme": "Why Thomas needs Aurora for his darkest ghosts",
+    "narrator": "Thomas",
+    "main_focus": "Aurora",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "Aurora's practice",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/8df7da7c-f82f-46ca-b30f-ddf365659ddd"
+  },
+  {
+    "title": "No Titles",
+    "slug": "no_titles",
+    "file": "wyomee/no_titles.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Abu Dhabi (original lyrics by Carlos Thompson)",
+    "theme": "Thomas promising Xumi he'll never be her boss",
+    "narrator": "Thomas",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "Abu Dhabi (hotel)",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/17525760-9ada-4992-864d-578dc6861416"
+  },
+  {
+    "title": "Landing (soft rock)",
+    "slug": "landing_soft_rock",
+    "file": "chlewey/landing_soft_rock.tex",
+    "albums": [
+      "entourage-eco: Adaptations"
+    ],
+    "lyricist": "Claude (adaptation)",
+    "original_source": "I Understand (original lyrics by Carlos Thompson)",
+    "theme": "Understanding his effect on others, unable to feel it",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/3f46c200-3b36-4428-90a6-2890dc34caa9"
+  },
+  {
+    "title": "Into the Digital Night",
+    "slug": "into_the_digital_night",
+    "file": "dvigitt/into_the_digital_night.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a detailed Gemini Notebook prompt on the creative process behind Thomas' Entourage",
+    "theme": "Genesis of the cast through AI image prompts",
+    "narrator": "the author (first person)",
+    "main_focus": "the women of the entourage",
+    "other_characters": [
+      "Thomas",
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Aurora",
+      "Erika",
+      "Diana",
+      "Natalia",
+      "Vicky"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "A Little Universe",
+    "slug": "a_little_universe",
+    "file": "dvigitt/a_little_universe.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a detailed Gemini Notebook prompt on the creative process behind Thomas' Entourage",
+    "theme": "Genesis of the cast through AI image prompts",
+    "narrator": "the author (first person)",
+    "main_focus": "the women of the entourage",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Sylvia",
+      "Aurora",
+      "Erika",
+      "Diana",
+      "Natalia",
+      "Vicky"
+    ],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "A Ground I Choose",
+    "slug": "a_ground_i_choose",
+    "file": "gabisson/a_ground_i_choose.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a ChatGPT conversation on why Gabi would not marry Thomas for an EB-5 visa",
+    "theme": "Why Gabi won't marry Thomas for a visa",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "a lawyer's office",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/0b9ea40e-d5e6-448d-beb8-8d514f050e95"
+  },
+  {
+    "title": "Leave the Door Unlatched",
+    "slug": "leave_the_door_unlatched",
+    "file": "gabisson/leave_the_door_unlatched.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a ChatGPT conversation on why Gabi would not marry Thomas for an EB-5 visa",
+    "theme": "Gabi tells Thomas she won't marry him for papers",
+    "narrator": "Gabi",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/de0b6226-3661-40da-bdef-c4d8fff893f4"
+  },
+  {
+    "title": "Vor Barcelona",
+    "slug": "vor_barcelona",
+    "file": "gabisson/vor_barcelona.tex",
+    "albums": [
+      "entourage-eco: Drafts"
+    ],
+    "lyricist": "Carlos Thompson & ChatGPT",
+    "original_source": "the text Vor Barcelona (Carlos Thompson & Claude)",
+    "theme": "Gabi's many loves: mother, brothers, Potsdam (gender-confused draft)",
+    "narrator": "third person",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "Potsdam",
+    "date_of_events": "before Barcelona",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Zahra in White",
+    "slug": "zahra_in_white",
+    "file": "rataflechera/zahra_in_white.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "an image-generation prompt by Carlos Thompson and Gemini",
+    "theme": "Admiring Zahra's serene, golden presence",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Zahra",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Liis Talveuks",
+    "slug": "liis_talveuks",
+    "file": "rataflechera/liis_talveuks.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "",
+    "original_source": "Uks, mis pole lahti",
+    "theme": "Liis' one season with Thomas (electroswing fragment)",
+    "narrator": "third person",
+    "main_focus": "Liis",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Tallinn",
+    "date_of_events": "2019",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Indigo Portrait (Gray-Blue Eyes)",
+    "slug": "indigo_portrait_grayblue_eyes",
+    "file": "rataflechera/indigo_portrait_grayblue_eyes.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Liis as a luminous indigo portrait",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Liis",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Peeling Paint Girl",
+    "slug": "peeling_paint_girl",
+    "file": "wyomee/peeling_paint_girl.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "",
+    "original_source": "",
+    "theme": "Portrait of a hard-eyed woman by a peeling wall",
+    "narrator": "third person",
+    "main_focus": "Kadri (likely)",
+    "other_characters": [],
+    "location": "by a weathered concrete wall",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Claire Jones, My Love",
+    "slug": "claire_jones_my_love",
+    "file": "wyomee/claire_jones_my_love.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a redhead private jet stewardess)",
+    "theme": "Longing for Claire, the stewardess, across the sky",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Claire",
+    "other_characters": [],
+    "location": "a private jet cabin",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Victoria, Take the Lead",
+    "slug": "victoria_take_the_lead",
+    "file": "wyomee/victoria_take_the_lead.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a young latina smiling cutie)",
+    "theme": "Vicky setting the pace on a mountain trail",
+    "narrator": "Vicky (first person) and an observer",
+    "main_focus": "Vicky",
+    "other_characters": [],
+    "location": "a mountain park",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Natalia",
+    "slug": "natalia",
+    "file": "wyomee/natalia.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a green-eyed Asian)",
+    "theme": "Admiring Natalia walking a city avenue",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Natalia",
+    "other_characters": [],
+    "location": "a city avenue",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Aurora On The Sofa",
+    "slug": "aurora_on_the_sofa",
+    "file": "wyomee/aurora_on_the_sofa.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a femme fatale redhead psychotherapist)",
+    "theme": "Aurora's femme-fatale pull from a city sofa",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "an apartment overlooking city and mountains",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": ""
+  },
+  {
+    "title": "Aurora by the Window",
+    "slug": "aurora_by_the_window",
+    "file": "dvigitt/aurora_by_the_window.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a femme fatale redhead psychotherapist)",
+    "theme": "Aurora as harbor light for sailors",
+    "narrator": "sailors (chorus)",
+    "main_focus": "Aurora",
+    "other_characters": [],
+    "location": "a window over a harbor city",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Gabi in Focus",
+    "slug": "gabi_in_focus",
+    "file": "dvigitt/gabi_in_focus.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a purple-haired, purple-eyed beauty)",
+    "theme": "Gabi framed in amber light, a fearless still",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Gabi",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Stone Wall Portrait",
+    "slug": "stone_wall_portrait",
+    "file": "dvigitt/stone_wall_portrait.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a dark-skinned Mediterranean / Middle-Eastern woman)",
+    "theme": "Diana posed against an ancient stone wall",
+    "narrator": "third person",
+    "main_focus": "Diana",
+    "other_characters": [],
+    "location": "by an ancient stone wall",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  },
+  {
+    "title": "Grace in the Gale",
+    "slug": "grace_in_the_gale",
+    "file": "dvigitt/grace_in_the_gale.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "a Stable Diffusion prompt by Carlos Thompson (a grey-eyed waifu with side bangs)",
+    "theme": "Erika standing calm in a lakeside storm",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Erika",
+    "other_characters": [],
+    "location": "a lakeshore in a storm",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": ""
+  }
+]
