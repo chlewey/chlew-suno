@@ -78,7 +78,7 @@ Lyrics by Suno based on a Quora post by Carlos Thompson
 
 
 
-## chlewey/duda_en_piravita.tex
+## chlewey/duda_en_pirabita.tex
 
 Based on an original story by Carlos Thompson from 2022.\\
 Adapted to merengue in a conversation between Carlos Thompson and Gemini.
@@ -269,13 +269,13 @@ Based on a very short story by Carlos Thompson, ca. %
 2025.\\
 Lyrics by LLM.
 
-## chlewey/piravita_view.tex
+## chlewey/pirabita_view.tex
 
-From the \emph{Piravita} short story by Carlos Thompson. Lyrics by Suno based on the story's characters and events -- Father Peter and Pastor Miguel Jara.
+From the \emph{Pirabita} short story by Carlos Thompson. Lyrics by Suno based on the story's characters and events -- Father Peter and Pastor Miguel Jara.
 
 ## chlewey/purity_test.tex
 
-Chamber-pop adaptation of \emph{Piravita View}, retaining the same lyrics. Retrieved from Carlos Thompson's Suno page (V6-MINI, 13 September 2026).
+Chamber-pop adaptation of \emph{Pirabita View}, retaining the same lyrics. Retrieved from Carlos Thompson's Suno page (V6-MINI, 13 September 2026).
 
 ## chlewey/quiet_signal.tex
 

@@ -24,6 +24,12 @@ An overhead photograph of a stack of overlapping handwritten manuscript pages on
 
 An overhead photograph of an open writer's notebook spread across two pages on a wooden desk, handwritten story openings visible but softly out of focus and illegible. Small doodled sketches fill the margins: a pair of delicate angel wings, a child's crayon-style city map, a tiny crown, and a single red eye glancing sideways. A fountain pen rests across the spread's center fold. Warm desk light, photorealistic still life, shallow depth of field, an eclectic idea-board mood spanning many genres at once. No text overlay. Square 1:1 aspect ratio.
 
+## African Empire -- Monukae
+
+`covers/original/monukae`
+
+An overhead photograph of handwritten manuscript pages fanned across a dark wooden desk, verses in the same hand throughout with cross-outs and marginal revisions. Inked in the margins: a small sketch of a West African kora, a sailing ship flying an unmarked pennant, and a simple crown. A loose sheet at the edge carries a hand-drawn coastline with routes running from a river delta out to open sea. A fountain pen rests across the top page beside a single brass ring. Warm candlelight, deep umber and bronze tones, photorealistic still life, shallow depth of field, a sense of authorship rather than illustration. No text overlay. Square 1:1 aspect ratio.
+
 ## Restless Mind
 
 `covers/original/restless-mind`
@@ -47,3 +53,9 @@ An overhead photograph of a single manuscript page where the top third is writte
 `covers/original/experimental`
 
 An overhead flatlay photograph of a hand-drawn constructed-language alphabet chart on lined notebook paper, filled with invented symbols and a small phonetic key. Resting on top of the page, slightly askew: a small plastic vuvuzela horn and a literal cheese spoon, both out of place next to the careful linguistic notation. From beneath the notebook page, the corner of a printed corporate memo peeks out, one paragraph highlighted in yellow marker. Bright, playful, slightly mismatched lighting and color palette compared to the rest of the collection. Photorealistic still life, whimsical and irreverent mood, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
+
+## AI Mimicry
+
+`covers/original/ai-mimicry`
+
+An overhead photograph of two handwritten manuscript pages side by side on a wooden desk. The left page is in a familiar human hand, with cross-outs and marginal revisions; the right page imitates the same handwriting almost perfectly, but its letters are too even, its lines too straight, and faint pale-blue pixel grid lines show through the paper. A fountain pen rests on the left page; on the right, the same pen's shadow falls with no pen to cast it. Warm desk-lamp light on the left fading into cool screen-glow on the right, photorealistic still life, shallow depth of field, an uncanny sense of a voice borrowed rather than owned. No text overlay. Square 1:1 aspect ratio.

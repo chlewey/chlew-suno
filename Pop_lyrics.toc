@@ -12,147 +12,170 @@
 \contentsline {section}{Thrice a Prisoner}{14}{}%
 \contentsline {section}{Trois fois prisonnier}{16}{}%
 \contentsline {section}{Every Fact in Its Own Time}{18}{}%
-\contentsline {chapter}{\chapternumberline {2}Lyrical and Essays in Hip-Hop}{19}{}%
-\contentsline {section}{Morality Ain’t Imposed}{20}{}%
-\contentsline {section}{Broken Tool}{21}{}%
-\contentsline {section}{Paper In My Hands}{22}{}%
-\contentsline {section}{Cuarto de Peluches}{23}{}%
-\contentsline {section}{La Barrera}{24}{}%
-\contentsline {section}{Efecto Locker}{25}{}%
-\contentsline {section}{Writing Ain't Easy}{26}{}%
-\contentsline {part}{\partnumberline {II}R\&B}{27}{}%
-\contentsline {chapter}{\chapternumberline {3}Thomas' Entourage in Rhythm and Blues}{31}{}%
-\contentsline {section}{More Honestly Than Hearts}{32}{}%
-\contentsline {section}{Gabi}{33}{}%
-\contentsline {section}{Name That Spell}{34}{}%
-\contentsline {section}{Delicate Swan}{35}{}%
-\contentsline {section}{Diana carries her own gravity}{36}{}%
-\contentsline {section}{Ibiza Hunt}{37}{}%
-\contentsline {section}{Reasonable Attribution}{38}{}%
-\contentsline {section}{Best Friends Until the Word Changed Shape}{39}{}%
-\contentsline {section}{Eyes That Met Their Equal}{40}{}%
-\contentsline {section}{February Door}{41}{}%
-\contentsline {section}{Room for Her}{42}{}%
-\contentsline {subsection}{Breakdown}{42}{}%
-\contentsline {section}{After the Lights}{43}{}%
-\contentsline {section}{When I Say Yes}{44}{}%
-\contentsline {chapter}{\chapternumberline {4}Rhythm and Blues -- Ohter Sessions}{45}{}%
-\contentsline {section}{Vuelta a Bal Harbour}{46}{}%
-\contentsline {section}{Cancelled Plans}{47}{}%
-\contentsline {section}{Early Desire}{48}{}%
-\contentsline {section}{Pío}{50}{}%
-\contentsline {section}{Cornered By Systems}{51}{}%
-\contentsline {section}{For That Moment}{52}{}%
-\contentsline {section}{Quiet Signal}{53}{}%
-\contentsline {section}{Sex Without Compromise}{54}{}%
-\contentsline {section}{Behind the Smile}{55}{}%
-\contentsline {section}{That Hug}{56}{}%
-\contentsline {section}{Two Years in Södermalm}{57}{}%
-\contentsline {part}{\partnumberline {III}Ballads}{59}{}%
-\contentsline {chapter}{\chapternumberline {5}Thomas' Entourage through Ballads}{63}{}%
-\contentsline {section}{Official Plus One}{64}{}%
-\contentsline {section}{East Rock / The Village}{65}{}%
-\contentsline {section}{Equals}{66}{}%
-\contentsline {section}{That Kiss}{67}{}%
-\contentsline {section}{Natalia}{68}{}%
-\contentsline {section}{The Women He Chose}{69}{}%
-\contentsline {section}{Beyond the Frame}{70}{}%
-\contentsline {section}{The Fixed Point}{71}{}%
-\contentsline {chapter}{\chapternumberline {6}Ballads in Other Narratives}{73}{}%
-\contentsline {section}{Heart to Heart}{74}{}%
-\contentsline {section}{Smoke and Steel}{75}{}%
-\contentsline {section}{Andrea in the Doorway}{76}{}%
-\contentsline {section}{Cada uno en su lugar}{77}{}%
-\contentsline {section}{Café Glance}{78}{}%
-\contentsline {section}{Strangers in the Light}{79}{}%
-\contentsline {section}{Ginger on the Bench}{80}{}%
-\contentsline {section}{Park Bench Spark}{81}{}%
-\contentsline {section}{Tangerine \& Olive}{82}{}%
-\contentsline {section}{Hotel Afterglow}{83}{}%
-\contentsline {section}{Food Truck Spark}{84}{}%
-\contentsline {section}{Stolen Office Flame}{85}{}%
-\contentsline {section}{Bachees of the Deep}{86}{}%
-\contentsline {section}{Drift Between Floaters}{87}{}%
-\contentsline {chapter}{\chapternumberline {7}Lyrical Ballads}{89}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{90}{}%
-\contentsline {section}{Almost Enough}{91}{}%
-\contentsline {section}{Obsidian Gaze}{92}{}%
-\contentsline {section}{Amber Eyes, Six Faces}{93}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{94}{}%
-\contentsline {section}{A Someone or a Someone}{95}{}%
-\contentsline {section}{The Secret Fires}{96}{}%
-\contentsline {part}{\partnumberline {IV}Ska, Trap \& Funk}{97}{}%
-\contentsline {chapter}{\chapternumberline {8}Ska}{101}{}%
-\contentsline {section}{A Long Way Round the World}{102}{}%
-\contentsline {section}{Miguel, Corazón Sereno}{103}{}%
-\contentsline {section}{Forever Window Seat}{104}{}%
-\contentsline {section}{Tabby Parade}{105}{}%
-\contentsline {section}{Bogotá Backbone}{106}{}%
-\contentsline {chapter}{\chapternumberline {9}Trap}{107}{}%
-\contentsline {section}{Teal Tips On The Bed}{108}{}%
-\contentsline {section}{From the Fields to the Flood}{109}{}%
-\contentsline {section}{Water Made Us}{110}{}%
-\contentsline {section}{Temblando}{111}{}%
-\contentsline {section}{Five Rooms, One Key}{112}{}%
-\contentsline {chapter}{\chapternumberline {10}Funk}{113}{}%
-\contentsline {section}{Henry Little}{114}{}%
-\contentsline {section}{Khamid Khaled}{115}{}%
-\contentsline {section}{Beachside Boogie}{116}{}%
-\contentsline {section}{Actual and Relevant}{117}{}%
-\contentsline {section}{What Remains Where We Are}{118}{}%
-\contentsline {part}{\partnumberline {V}Regional Pop}{119}{}%
-\contentsline {chapter}{\chapternumberline {11}Vispop}{123}{}%
-\contentsline {section}{Lilac in Utrecht}{124}{}%
-\contentsline {section}{Room for What Is Real}{125}{}%
-\contentsline {section}{Yet In Her Hands}{126}{}%
-\contentsline {section}{Luciafestens dugg}{127}{}%
-\contentsline {section}{Erika in Motion}{128}{}%
-\contentsline {section}{Inside Thomas's Orbit}{129}{}%
-\contentsline {section}{Skälvning}{130}{}%
-\contentsline {section}{Två år på Söder}{131}{}%
-\contentsline {chapter}{\chapternumberline {12}K-pop \& J-pop}{133}{}%
-\contentsline {section}{Natalia, Raise the Colors High}{134}{}%
-\contentsline {section}{Paper Trail Heart}{135}{}%
-\contentsline {section}{Three Tongues, One Heart}{136}{}%
-\contentsline {section}{Sharp and Sweet}{137}{}%
-\contentsline {section}{Line in Gold}{138}{}%
-\contentsline {section}{Easy to Breath}{139}{}%
-\contentsline {section}{Draw The Tree}{140}{}%
-\contentsline {section}{Chiang Mai to Bangkok}{141}{}%
-\contentsline {section}{Ack-Rostica}{142}{}%
-\contentsline {section}{Awk-Rustica}{143}{}%
-\contentsline {section}{Lost in What}{144}{}%
-\contentsline {part}{\partnumberline {VI}Mainstream Pop}{145}{}%
-\contentsline {chapter}{\chapternumberline {13}Symphonic \& Chamber Pop}{147}{}%
-\contentsline {section}{Parapet of Ash}{148}{}%
-\contentsline {section}{dij Schdzjarvk}{149}{}%
-\contentsline {section}{Frost in Gold}{150}{}%
-\contentsline {section}{Guiltless Flame}{151}{}%
-\contentsline {section}{Amber on the Cliff}{152}{}%
-\contentsline {section}{Copper-Fire Crown}{153}{}%
-\contentsline {section}{Purity Test}{154}{}%
-\contentsline {section}{O ku pater de nos}{155}{}%
-\contentsline {section}{A la distancia}{156}{}%
-\contentsline {section}{A Narrow Way}{157}{}%
-\contentsline {chapter}{\chapternumberline {14}Indie-Pop}{159}{}%
-\contentsline {section}{Food Truck Line}{160}{}%
-\contentsline {section}{Hallway Portraits}{161}{}%
-\contentsline {section}{Zelma in the Mist}{162}{}%
-\contentsline {section}{Terracotta View (Golden Mid-Glance)}{163}{}%
-\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{164}{}%
-\contentsline {section}{Todos al mismo lado}{165}{}%
-\contentsline {section}{Signed by Don Addis}{166}{}%
-\contentsline {section}{Stop\_or\_Ellipsis}{167}{}%
-\contentsline {section}{Domestic Realism}{168}{}%
-\contentsline {section}{Si pienso en ti}{169}{}%
-\contentsline {section}{Stone Light Portrait}{170}{}%
-\contentsline {chapter}{\chapternumberline {15}El Final del Verano}{171}{}%
-\contentsline {section}{El final del verano}{172}{}%
-\contentsline {section}{End of the Summer}{173}{}%
-\contentsline {section}{Era o final do verão}{174}{}%
-\contentsline {section}{La Fin de l'Été}{175}{}%
-\contentsline {section}{Slutet av Sommaren}{176}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{177}{}%
+\contentsline {section}{The Long Way to Paris}{19}{}%
+\contentsline {chapter}{\chapternumberline {2}Lyrical and Essays in Hip-Hop}{21}{}%
+\contentsline {section}{Morality Ain’t Imposed}{22}{}%
+\contentsline {section}{Broken Tool}{23}{}%
+\contentsline {section}{Paper In My Hands}{24}{}%
+\contentsline {section}{Cuarto de Peluches}{25}{}%
+\contentsline {section}{La Barrera}{26}{}%
+\contentsline {section}{Efecto Locker}{27}{}%
+\contentsline {section}{Writing Ain't Easy}{28}{}%
+\contentsline {part}{\partnumberline {II}R\&B}{29}{}%
+\contentsline {chapter}{\chapternumberline {3}Thomas' Entourage in Rhythm and Blues}{33}{}%
+\contentsline {section}{More Honestly Than Hearts}{34}{}%
+\contentsline {section}{Gabi}{35}{}%
+\contentsline {section}{Name That Spell}{36}{}%
+\contentsline {section}{Delicate Swan}{37}{}%
+\contentsline {section}{Diana carries her own gravity}{38}{}%
+\contentsline {section}{Ibiza Hunt}{39}{}%
+\contentsline {section}{Reasonable Attribution}{40}{}%
+\contentsline {section}{Best Friends Until the Word Changed Shape}{41}{}%
+\contentsline {section}{Eyes That Met Their Equal}{42}{}%
+\contentsline {section}{February Door}{43}{}%
+\contentsline {section}{Room for Her}{44}{}%
+\contentsline {subsection}{Breakdown}{44}{}%
+\contentsline {section}{After the Lights}{45}{}%
+\contentsline {section}{When I Say Yes}{46}{}%
+\contentsline {section}{My Quiet Genius}{47}{}%
+\contentsline {section}{Half-Drawn Door}{48}{}%
+\contentsline {section}{Private Country Without a Map}{49}{}%
+\contentsline {section}{Night-long Embrace}{50}{}%
+\contentsline {chapter}{\chapternumberline {4}Rhythm and Blues -- Ohter Sessions}{51}{}%
+\contentsline {section}{Vuelta a Bal Harbour}{52}{}%
+\contentsline {section}{Cancelled Plans}{53}{}%
+\contentsline {section}{Early Desire}{54}{}%
+\contentsline {section}{Pío}{56}{}%
+\contentsline {section}{Cornered By Systems}{57}{}%
+\contentsline {section}{For That Moment}{58}{}%
+\contentsline {section}{Quiet Signal}{59}{}%
+\contentsline {section}{Sex Without Compromise}{60}{}%
+\contentsline {section}{Behind the Smile}{61}{}%
+\contentsline {section}{That Hug}{62}{}%
+\contentsline {section}{Two Years in Södermalm}{63}{}%
+\contentsline {part}{\partnumberline {III}Ballads}{65}{}%
+\contentsline {chapter}{\chapternumberline {5}Thomas' Entourage through Ballads}{69}{}%
+\contentsline {section}{Official Plus One}{70}{}%
+\contentsline {section}{East Rock / The Village}{71}{}%
+\contentsline {section}{Equals}{72}{}%
+\contentsline {section}{That Kiss}{73}{}%
+\contentsline {section}{Natalia}{74}{}%
+\contentsline {section}{The Women He Chose}{75}{}%
+\contentsline {section}{Beyond the Frame}{76}{}%
+\contentsline {section}{The Fixed Point}{77}{}%
+\contentsline {section}{Nothing More}{78}{}%
+\contentsline {section}{La puerta está abierta}{79}{}%
+\contentsline {section}{Where the Tide Turns}{80}{}%
+\contentsline {section}{Stay a Little Longer}{81}{}%
+\contentsline {section}{Stay Here Beside Me}{82}{}%
+\contentsline {chapter}{\chapternumberline {6}Ballads in Other Narratives}{83}{}%
+\contentsline {section}{Heart to Heart}{84}{}%
+\contentsline {section}{Smoke and Steel}{85}{}%
+\contentsline {section}{Andrea in the Doorway}{86}{}%
+\contentsline {section}{Cada uno en su lugar}{87}{}%
+\contentsline {section}{Café Glance}{88}{}%
+\contentsline {section}{Strangers in the Light}{89}{}%
+\contentsline {section}{Ginger on the Bench}{90}{}%
+\contentsline {section}{Park Bench Spark}{91}{}%
+\contentsline {section}{Tangerine \& Olive}{92}{}%
+\contentsline {section}{Hotel Afterglow}{93}{}%
+\contentsline {section}{Food Truck Spark}{94}{}%
+\contentsline {section}{Stolen Office Flame}{95}{}%
+\contentsline {section}{Bachees of the Deep}{96}{}%
+\contentsline {section}{Drift Between Floaters}{97}{}%
+\contentsline {section}{Was I an Angel Once?}{98}{}%
+\contentsline {chapter}{\chapternumberline {7}Lyrical Ballads}{99}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{100}{}%
+\contentsline {section}{Almost Enough}{101}{}%
+\contentsline {section}{Obsidian Gaze}{102}{}%
+\contentsline {section}{Amber Eyes, Six Faces}{103}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{104}{}%
+\contentsline {section}{A Someone or a Someone}{105}{}%
+\contentsline {section}{The Secret Fires}{106}{}%
+\contentsline {section}{A Someone or a Someone}{107}{}%
+\contentsline {section}{One Real Hand}{108}{}%
+\contentsline {section}{Enough, and More Than Enough}{109}{}%
+\contentsline {section}{Thoughts Are Not Crimes}{110}{}%
+\contentsline {section}{Alone or Only Alone}{111}{}%
+\contentsline {part}{\partnumberline {IV}Ska, Trap \& Funk}{113}{}%
+\contentsline {chapter}{\chapternumberline {8}Ska}{117}{}%
+\contentsline {section}{A Long Way Round the World}{118}{}%
+\contentsline {section}{Miguel, Corazón Sereno}{119}{}%
+\contentsline {section}{Forever Window Seat}{120}{}%
+\contentsline {section}{Tabby Parade}{121}{}%
+\contentsline {section}{Bogotá Backbone}{122}{}%
+\contentsline {chapter}{\chapternumberline {9}Trap}{123}{}%
+\contentsline {section}{Teal Tips On The Bed}{124}{}%
+\contentsline {section}{From the Fields to the Flood}{125}{}%
+\contentsline {section}{Water Made Us}{126}{}%
+\contentsline {section}{Temblando}{127}{}%
+\contentsline {section}{Five Rooms, One Key}{128}{}%
+\contentsline {section}{Sora Keli Muna Taro}{129}{}%
+\contentsline {chapter}{\chapternumberline {10}Funk}{131}{}%
+\contentsline {section}{Henry Little}{132}{}%
+\contentsline {section}{Khamid Khaled}{133}{}%
+\contentsline {section}{Beachside Boogie}{134}{}%
+\contentsline {section}{Actual and Relevant}{135}{}%
+\contentsline {section}{What Remains Where We Are}{136}{}%
+\contentsline {part}{\partnumberline {V}Regional Pop}{137}{}%
+\contentsline {chapter}{\chapternumberline {11}Vispop}{141}{}%
+\contentsline {section}{Lilac in Utrecht}{142}{}%
+\contentsline {section}{Room for What Is Real}{143}{}%
+\contentsline {section}{Yet In Her Hands}{144}{}%
+\contentsline {section}{Luciafestens dugg}{145}{}%
+\contentsline {section}{Erika in Motion}{146}{}%
+\contentsline {section}{Inside Thomas's Orbit}{147}{}%
+\contentsline {section}{Skälvning}{148}{}%
+\contentsline {section}{Två år på Söder}{149}{}%
+\contentsline {chapter}{\chapternumberline {12}K-pop \& J-pop}{151}{}%
+\contentsline {section}{Natalia, Raise the Colors High}{152}{}%
+\contentsline {section}{Paper Trail Heart}{153}{}%
+\contentsline {section}{Three Tongues, One Heart}{154}{}%
+\contentsline {section}{Sharp and Sweet}{155}{}%
+\contentsline {section}{Line in Gold}{156}{}%
+\contentsline {section}{Easy to Breath}{157}{}%
+\contentsline {section}{Draw The Tree}{158}{}%
+\contentsline {section}{Chiang Mai to Bangkok}{159}{}%
+\contentsline {section}{Ack-Rostica}{160}{}%
+\contentsline {section}{Awk-Rustica}{161}{}%
+\contentsline {section}{Lost in What}{162}{}%
+\contentsline {part}{\partnumberline {VI}Mainstream Pop}{163}{}%
+\contentsline {chapter}{\chapternumberline {13}Symphonic \& Chamber Pop}{165}{}%
+\contentsline {section}{Parapet of Ash}{166}{}%
+\contentsline {section}{dij Schdzjarvk}{167}{}%
+\contentsline {section}{Frost in Gold}{168}{}%
+\contentsline {section}{Guiltless Flame}{169}{}%
+\contentsline {section}{Amber on the Cliff}{170}{}%
+\contentsline {section}{Copper-Fire Crown}{171}{}%
+\contentsline {section}{Purity Test}{172}{}%
+\contentsline {section}{O ku pater de nos}{173}{}%
+\contentsline {section}{A la distancia}{174}{}%
+\contentsline {section}{A Narrow Way}{175}{}%
+\contentsline {section}{A Name Passed Down Like Iron}{176}{}%
+\contentsline {section}{The Dream Stayed Out of Reach}{177}{}%
+\contentsline {section}{The Little Motor}{178}{}%
+\contentsline {section}{Qi Angbu}{179}{}%
+\contentsline {section}{The Unstated Departure}{180}{}%
+\contentsline {section}{Weird}{181}{}%
+\contentsline {chapter}{\chapternumberline {14}Indie-Pop}{183}{}%
+\contentsline {section}{Food Truck Line}{184}{}%
+\contentsline {section}{Hallway Portraits}{185}{}%
+\contentsline {section}{Zelma in the Mist}{186}{}%
+\contentsline {section}{Terracotta View (Golden Mid-Glance)}{187}{}%
+\contentsline {section}{Golden Hour Terrace (Portrait in Light)}{188}{}%
+\contentsline {section}{Todos al mismo lado}{189}{}%
+\contentsline {section}{Signed by Don Addis}{190}{}%
+\contentsline {section}{Stop\_or\_Ellipsis}{191}{}%
+\contentsline {section}{Domestic Realism}{192}{}%
+\contentsline {section}{Si pienso en ti}{193}{}%
+\contentsline {section}{Stone Light Portrait}{194}{}%
+\contentsline {chapter}{\chapternumberline {15}El Final del Verano}{195}{}%
+\contentsline {section}{El final del verano}{196}{}%
+\contentsline {section}{End of the Summer}{197}{}%
+\contentsline {section}{Era o final do verão}{198}{}%
+\contentsline {section}{La Fin de l'Été}{199}{}%
+\contentsline {section}{Slutet av Sommaren}{200}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{201}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -173,7 +196,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{178}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{202}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -194,48 +217,65 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Green Water Memory}{179}{}%
-\contentsline {chapter}{\chapternumberline {16}Plain Pop}{181}{}%
-\contentsline {section}{Tomorrow Morning}{182}{}%
-\contentsline {section}{Fiona at the Desk}{183}{}%
-\contentsline {section}{Carbonia in the Rear Window}{184}{}%
-\contentsline {section}{Step In Coat}{185}{}%
-\contentsline {part}{\partnumberline {VII}Alternative Pop}{187}{}%
-\contentsline {chapter}{\chapternumberline {17}Dream-Pop}{189}{}%
-\contentsline {section}{The Motion and the Spark}{190}{}%
-\contentsline {section}{Diana Moves Cleanly}{191}{}%
-\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{192}{}%
-\contentsline {section}{Le Cordon Bleu}{193}{}%
-\contentsline {section}{Uks, mis pole lahti}{194}{}%
-\contentsline {section}{Let It Stay Sweet}{195}{}%
-\contentsline {section}{Unopened Door}{196}{}%
-\contentsline {section}{The Weight of Gravity}{197}{}%
-\contentsline {section}{Right Here}{198}{}%
-\contentsline {section}{Moonstone Veil}{199}{}%
-\contentsline {section}{Entre cajas y llamadas}{200}{}%
-\contentsline {section}{Liam Guards the Light}{201}{}%
-\contentsline {section}{Perderme en el anhelo}{202}{}%
-\contentsline {chapter}{\chapternumberline {18}Sophisti-Pop}{203}{}%
-\contentsline {section}{Aurora On The Sofa}{204}{}%
-\contentsline {section}{Moon at the Cabin}{205}{}%
-\contentsline {section}{My Delicate Verse}{206}{}%
-\contentsline {section}{Steady Hands}{207}{}%
-\contentsline {section}{Ghost Cheek Kiss}{208}{}%
-\contentsline {section}{Worthy}{209}{}%
-\contentsline {chapter}{\chapternumberline {19}Misc}{211}{}%
-\contentsline {section}{Delicate Swan}{212}{}%
-\contentsline {section}{Seamless}{213}{}%
-\contentsline {section}{Vicky's Impossible Chart}{215}{}%
-\contentsline {section}{Public Face}{216}{}%
-\contentsline {section}{Weather and Memory}{217}{}%
-\contentsline {section}{Australian Daughter, Colombian Name}{218}{}%
-\contentsline {section}{Blue Wall Grace}{220}{}%
-\contentsline {section}{Paper Cup Kisses}{221}{}%
-\contentsline {section}{Mark of 87}{222}{}%
-\contentsline {section}{Grinder Glass}{223}{}%
-\contentsline {section}{Paper In My Teeth}{224}{}%
-\contentsline {section}{Vaina que crece}{225}{}%
-\contentsline {section}{Del establecimiento}{226}{}%
-\contentsline {section}{Easy Love}{227}{}%
-\contentsline {section}{Top of the Curve}{228}{}%
-\contentsline {section}{I Chose This Life}{229}{}%
+\contentsline {section}{Green Water Memory}{203}{}%
+\contentsline {chapter}{\chapternumberline {16}Plain Pop}{205}{}%
+\contentsline {section}{Tomorrow Morning}{206}{}%
+\contentsline {section}{Fiona at the Desk}{207}{}%
+\contentsline {section}{Carbonia in the Rear Window}{208}{}%
+\contentsline {section}{Step In Coat}{209}{}%
+\contentsline {section}{Every Step, Every Stripe}{210}{}%
+\contentsline {section}{Sin complicaciones}{211}{}%
+\contentsline {section}{Different Maps}{212}{}%
+\contentsline {part}{\partnumberline {VII}Alternative Pop}{213}{}%
+\contentsline {chapter}{\chapternumberline {17}Dream-Pop}{215}{}%
+\contentsline {section}{The Motion and the Spark}{216}{}%
+\contentsline {section}{Diana Moves Cleanly}{217}{}%
+\contentsline {section}{Indigo Portrait (Gray-Blue Eyes)}{218}{}%
+\contentsline {section}{Le Cordon Bleu}{219}{}%
+\contentsline {section}{Uks, mis pole lahti}{220}{}%
+\contentsline {section}{Let It Stay Sweet}{221}{}%
+\contentsline {section}{Unopened Door}{222}{}%
+\contentsline {section}{The Weight of Gravity}{223}{}%
+\contentsline {section}{Right Here}{224}{}%
+\contentsline {section}{Moonstone Veil}{225}{}%
+\contentsline {section}{Entre cajas y llamadas}{226}{}%
+\contentsline {section}{Liam Guards the Light}{227}{}%
+\contentsline {section}{Perderme en el anhelo}{228}{}%
+\contentsline {section}{Autumn in Barcelona}{229}{}%
+\contentsline {section}{Frost Against My Skin}{230}{}%
+\contentsline {section}{Make-Believe World}{231}{}%
+\contentsline {chapter}{\chapternumberline {18}Sophisti-Pop}{233}{}%
+\contentsline {section}{Aurora On The Sofa}{234}{}%
+\contentsline {section}{Moon at the Cabin}{235}{}%
+\contentsline {section}{My Delicate Verse}{236}{}%
+\contentsline {section}{Steady Hands}{237}{}%
+\contentsline {section}{Ghost Cheek Kiss}{238}{}%
+\contentsline {section}{Worthy}{239}{}%
+\contentsline {section}{Clinical Distance}{240}{}%
+\contentsline {section}{Ego-Syntonic}{241}{}%
+\contentsline {section}{Watching the Play}{242}{}%
+\contentsline {section}{I Need My Aurora}{243}{}%
+\contentsline {chapter}{\chapternumberline {19}Misc}{245}{}%
+\contentsline {section}{Delicate Swan}{246}{}%
+\contentsline {section}{Seamless}{247}{}%
+\contentsline {section}{Vicky's Impossible Chart}{249}{}%
+\contentsline {section}{Public Face}{250}{}%
+\contentsline {section}{Weather and Memory}{251}{}%
+\contentsline {section}{Australian Daughter, Colombian Name}{252}{}%
+\contentsline {section}{Blue Wall Grace}{254}{}%
+\contentsline {section}{Paper Cup Kisses}{255}{}%
+\contentsline {section}{Mark of 87}{256}{}%
+\contentsline {section}{Grinder Glass}{257}{}%
+\contentsline {section}{Paper In My Teeth}{258}{}%
+\contentsline {section}{Vaina que crece}{259}{}%
+\contentsline {section}{Del establecimiento}{260}{}%
+\contentsline {section}{Easy Love}{261}{}%
+\contentsline {section}{Top of the Curve}{262}{}%
+\contentsline {section}{I Chose This Life}{263}{}%
+\contentsline {section}{Confusión}{264}{}%
+\contentsline {section}{Slow Capital}{265}{}%
+\contentsline {section}{I Learned the Measure}{266}{}%
+\contentsline {section}{You Owe Me Nought}{267}{}%
+\contentsline {section}{I Never Wrote the Rules Down}{268}{}%
+\contentsline {section}{Landing}{269}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{271}{}%

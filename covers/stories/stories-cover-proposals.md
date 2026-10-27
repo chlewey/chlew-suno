@@ -42,9 +42,9 @@ A formal family portrait photograph in an ornate gilded frame, hanging on a dark
 
 A vast, awe-inspiring science-fiction concept-art image of a gas giant's atmosphere seen from within: immense swirling cloud bands in amber, rust, and cream, layered like a storm-wracked ocean of sky. Scattered throughout the cloud layers, at wildly different scales, drift the translucent silhouettes of enormous winged "floater" creatures — some tiny, some as large as moons — their forms glowing faintly from within. Several pale moons are dimly visible through the haze in the upper distance. The composition emphasizes overwhelming cosmic scale and quiet biological wonder, photorealistic digital matte-painting style, warm golden-hour lighting diffused through thick clouds. No text overlay. Square 1:1 aspect ratio.
 
-## Piravita
+## Pirabita
 
-`covers/stories/piravita`
+`covers/stories/pirabita`
 
 A warm, dimly lit overhead photograph of a small study desk: two glasses of whiskey catching lamplight, positioned between a black clerical Roman collar and a folded political pamphlet with bold "purity test" style lettering. A wooden rosary is draped loosely nearby. In the soft-focus background, a window reveals a small agricultural town at dusk with a single modest church steeple silhouetted against the sky. The mood is quietly tense, a private negotiation dressed as hospitality. Photorealistic still life, warm muted palette, wood and glass textures, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
@@ -108,19 +108,21 @@ An overhead photograph of an open leather-bound character dossier resting on a w
 
 A moody close-up photograph of an antique hand mirror with a cracked glass surface, reflecting a single glowing amber eye framed by dark lashes. Dried black flowers and a single black feather rest on dark velvet fabric beside the mirror, lit by a single flickering candle just out of frame. Deep violet, black, and warm amber tones dominate, with dramatic chiaroscuro lighting. Photorealistic still life with a gothic, seductive, faintly supernatural atmosphere. No text overlay. Square 1:1 aspect ratio.
 
-# Self and Family
+# Self
 
-## Self
+## Life progression
 
 `covers/stories/self`
 
 A warm, intimate overhead photograph of a wooden desk under a single desk lamp at night: an open handwritten journal in the center, a pair of reading glasses resting on its pages. Arranged around the journal are small markers of a life's chapters — a worn airline boarding pass, a folded yellowed newspaper clipping with a faint headline, a small wooden cross set gently to one side, and a half-finished cup of coffee. Rich warm browns and ambers, soft lamp glow, photorealistic still life with fine paper and wood textures, contemplative and nostalgic mood. No text overlay. Square 1:1 aspect ratio.
 
-## Cats
+> Note: Recycled cover. It was made for the former album *Self*, which has been split into Life progression and Life arcs; Life progression, the chronological one, inherits it (hence the `self` slug).
 
-`covers/stories/cats`
+## Life arcs
 
-A cozy overhead-angled photograph of a well-worn armchair — "the throne" — its cushion covered in visible cat hair and one wooden leg scratched with claw marks. Soft gray rain-light falls across a nearby windowsill where a small collection of engraved cat-collar nametags rests in a loose pile. The palette is soft cream and gray, warm and affectionate. Photorealistic still life, soft natural window light, shallow depth of field. A small playful title reading "CATS" near the top. Square 1:1 aspect ratio.
+`covers/stories/life-arcs`
+
+A warm overhead-angled photograph of a low wooden bookshelf at night, lit by a single brass desk lamp, holding a long row of worn notebooks and journals whose spines are hand-labeled with years spanning several decades, the older ones faded and cracked, the newer ones crisp. One notebook from the middle of the row is pulled halfway out and lies open on the shelf's edge, its pages showing a pressed leaf, a postcard of a Bogotá cathedral, and a folded boarding pass used as a bookmark. Rich ambers and browns, soft lamp glow, photorealistic still life with fine paper, leather, and wood textures, contemplative and unhurried mood, the feeling of stories that take years to finish. No text overlay. Square 1:1 aspect ratio.
 
 # Thematic Cycles
 
@@ -148,11 +150,47 @@ A quiet dusk photograph of a small two-person table at the edge of the sea, two 
 
 A tense, warmly lit overhead photograph of a kitchen table: a young woman's borrowed denim jacket draped over the back of a chair, positioned between two half-finished cups of coffee facing each other like a silent standoff. A smartphone lies face-down on the table, the faint edge of a notification barely visible beneath it. Warm sepia tones with subtle underlying tension, photorealistic still life, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
+# Thematic Albums
+
+## Cats
+
+`covers/stories/cats`
+
+A cozy overhead-angled photograph of a well-worn armchair — "the throne" — its cushion covered in visible cat hair and one wooden leg scratched with claw marks. Soft gray rain-light falls across a nearby windowsill where a small collection of engraved cat-collar nametags rests in a loose pile. The palette is soft cream and gray, warm and affectionate. Photorealistic still life, soft natural window light, shallow depth of field. A small playful title reading "CATS" near the top. Square 1:1 aspect ratio.
+
 ## Fleeting intimacy and power dynamics
 
 `covers/stories/fleeting-intimacy-and-power-dynamics`
 
 A moody nighttime photograph inside a parked car: a single red plastic party cup tipped on its side on the leather passenger seat, faint claw-like scratch marks visible in the leather beside it. Through the windshield, blurred city lights glow in cool neon blue and magenta bokeh. The mood is charged, sensual, and fleeting. Photorealistic automotive interior still life, shallow depth of field, cinematic color grading. No text overlay. Square 1:1 aspect ratio.
+
+## Waiting, nostalgia and melancholy
+
+`covers/stories/meditation`
+
+A quiet, melancholic photograph of a café window seat at dusk, rain streaking the glass. A single cold cup of coffee with a thin skin on its surface sits on a small round table beside a smartphone lying face-down and an empty second chair pulled slightly out. Through the rain-blurred window, a distant stone footbridge arches over a river under a low full moon rising above the rooftops. Cool blue-gray dusk tones dominate, with one warm amber glow from the café lamp lighting the cup. Photorealistic, shallow depth of field, soft film grain, restrained nostalgic mood of waiting for someone who may not come. No text overlay. Square 1:1 aspect ratio.
+
+> Note: The album was formerly "Meditation on waiting and melancholy", hence the `meditation` slug. No earlier image was ever generated.
+
+## Pursuit, surveillance and betrayal
+
+`covers/stories/pursuit-surveillance-and-betrayal`
+
+A tense nighttime photograph of a car's rear-view mirror hanging in a dark cabin, its glass reflecting the red and blue flicker of distant sirens and a pair of headlights closing in on a rain-slick, neon-lit road. At the top edge of the mirror, small and easy to miss, the silhouette of a quadcopter drone hovers above a pale cornfield. On the dashboard below, partly in shadow, a folded sheet of paper lies with a short handwritten list of names, one corner lifted by the air vent. Cold cyan and deep black shadows broken by hot red and magenta neon highlights, photorealistic, cinematic shallow depth of field, a sense of being watched and cornered. No text overlay. Square 1:1 aspect ratio.
+
+## Children's songs and small creatures
+
+`covers/stories/childrens-songs-and-small-creatures`
+
+A bright, cheerful overhead photograph of a low child's table in warm morning daylight, covered with large sheets of white paper drawn on in thick crayon: a rainbow-winged butterfly on one sheet, a long wobbly line of tiny ants marching across another toward a crayon-drawn anthill. A small toy piano with colorful keys, a yellow rubber-chick figurine, and a scatter of loose crayons rest on the table. Primary colors of yellow, red, sky blue, and grass green under soft natural window light, photorealistic still life with waxy crayon textures and a gentle handmade feel, playful and innocent mood. No text overlay. Square 1:1 aspect ratio.
+
+> Note: The album replaced "Transformation, Fate, and Magical Realism" (its slug was misspelled and no image was ever generated).
+
+## Uncomplicated life
+
+`covers/stories/uncomplicated-life`
+
+A bright, calm photograph of a small sunlit table by a balcony window early in the morning: a white espresso cup with a thin ring of crema, a set of house keys on a leather tag, an open laptop at the edge, and a folded gray blanket over a chair. Through the window, a hazy city of rooftops stretches toward green mountains beneath a pale sky, with a few tiny motorcycle light-trails on the street far below. At the very edge of the frame, the tip of a cat's tail is just visible. Soft golden-white morning light, gentle warm tones, photorealistic still life, shallow depth of field, a relaxed, easy mood with no conflict. No text overlay. Square 1:1 aspect ratio.
 
 # Form and Craft
 
@@ -173,3 +211,5 @@ A warm sepia-toned overhead photograph of an old poetry book lying open on a woo
 `covers/stories/more`
 
 An overhead photograph of a half-open wooden drawer spilling a mismatched collection of small keepsakes onto a table: a returned envelope with no visible return address, three coffee cups in different states from full to empty and cold, a small tin toy drone, and a folded ticket stub. Neutral warm lighting, photorealistic still life, catch-all and slightly cluttered but intimate mood. A small quiet title reading "MORE" near the bottom edge. Square 1:1 aspect ratio.
+
+> Note: The album has been dissolved and its songs placed elsewhere. This image is retained, unused, for possible reuse.

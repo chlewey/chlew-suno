@@ -68,6 +68,12 @@ A photorealistic portrait of Susana Bianchi, a confident olive-skinned woman of 
 
 A photorealistic portrait of Claire Jones, a slender ginger-haired woman of about 38 with straight hair, freckled skin, and green eyes, wearing a simple white tank top and a wristwatch, sitting in a couch in a private aircraft's business-class cabin. She gazes out the window with a quiet, sad expression, natural makeup, soft cabin light falling across her face. Shallow depth of field, contemplative mood, sharp focus on her face. No text overlay. Square 1:1 aspect ratio.
 
+## Character profile: Xumi
+
+`covers/entourage-eco/xumi`
+
+A photorealistic close-up portrait of Xumi Alexander, a slim adult woman of about 35, standing casually and posing for the camera with a subtle smile, looking straight at the viewer. She has a heart-shaped face with freckles across her cheeks and nose, a few beauty marks under her right eye, and smooth tanned skin with a soft blush. Her black hair is short, wavy and unruly, in a pixie cut with side-parted bangs. She has large brown almond-shaped eyes with medium arched eyebrows and long dark lashes, a small nose and full lips. She wears silver dangling earrings shaped like leaves, a simple necklace with a delicate pendant, and a plain white t-shirt. The background is an indoor room with large windows, soft daylight falling across her face, a cozy and inviting atmosphere. Sharp focus on the face, shallow depth of field, cinematic lighting, correct anatomy. No text overlay. Square 1:1 aspect ratio.
+
 ## Orbits
 
 `covers/entourage-eco/orbits`
@@ -144,11 +150,17 @@ The open cabin door of a wide-body Boeing 787 BBJ ("the Air Jaguar"), photograph
 
 # Extras
 
-## Translations and adaptations
+## Translations
 
-`covers/entourage-eco/translations-and-adaptations`
+`covers/entourage-eco/translations`
 
 An overhead close-up photograph of a cream notebook page holding the same handwritten line of lyrics copied out in several different scripts and languages, each fragment on a slightly different scrap of paper pinned loosely with small brass tacks, some worn and aged more than others. Soft warm window light, photorealistic still life with fine paper texture, echoing a companion songbook's fragments imagery. No text overlay. Square 1:1 aspect ratio.
+
+## Adaptations
+
+`covers/entourage-eco/adaptations`
+
+An overhead close-up photograph of a cream notebook page holding one handwritten verse copied out several times in the same hand and the same language, each copy on its own scrap of paper pinned loosely with small brass tacks: one heavily crossed out and rewritten, one with its line breaks moved, one with a different rhythm marked above the words in pencil, one written over a scrap of printed sheet music. Soft warm window light, photorealistic still life with fine paper texture, a companion to the Translations cover. No text overlay. Square 1:1 aspect ratio.
 
 ## Drafts
 

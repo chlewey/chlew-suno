@@ -17,9 +17,9 @@ LATEXMK := latexmk
 # job names match the old `%& -job-name=...` lines the sources carry;
 # lualatex does not honor that comment, so it's passed explicitly instead.
 .PHONY: all clean distclean \
-        chlewrics electronica pop rockola generos internal stories entourage ricochets original personal
+        chlewrics electronica pop rockola generos internal stories entourage ricochets original personal bable
 
-all: chlewrics electronica pop rockola generos internal stories entourage ricochets original personal
+all: chlewrics electronica pop rockola generos internal stories entourage ricochets original personal bable
 
 chlewrics:
 	$(LATEXMK) -jobname=Chlewrics chlewrics.tex
@@ -54,6 +54,9 @@ original:
 personal:
 	$(LATEXMK) -jobname=Personal_lyrics personal.tex
 
+bable:
+	$(LATEXMK) -jobname=Bable_lyrics bable.tex
+
 clean:
 	-$(LATEXMK) -c -jobname=Chlewrics chlewrics.tex
 	-$(LATEXMK) -c -jobname=Electronica_lyrics electronica.tex
@@ -66,9 +69,10 @@ clean:
 	-$(LATEXMK) -c -jobname=Ricochets_lyrics ricochets.tex
 	-$(LATEXMK) -c -jobname=Original_lyrics original.tex
 	-$(LATEXMK) -c -jobname=Personal_lyrics personal.tex
+	-$(LATEXMK) -c -jobname=Bable_lyrics bable.tex
 	-rm -f songs.idx songs.ind songs.ilg tags.idx tags.ind tags.ilg
 
 distclean: clean
 	-rm -f Chlewrics.pdf Electronica_lyrics.pdf Pop_lyrics.pdf Rockola_lyrics.pdf \
 	       Genres_lyrics.pdf Internal.pdf Storytelling_lyrics.pdf Entourage_Lyrics.pdf \
-	       Ricochets_lyrics.pdf Original_lyrics.pdf Personal_lyrics.pdf
+	       Ricochets_lyrics.pdf Original_lyrics.pdf Personal_lyrics.pdf Bable_lyrics.pdf
