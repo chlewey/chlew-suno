@@ -39,23 +39,27 @@
 \contentsline {section}{Easy Love}{41}{}%
 \contentsline {section}{Loose}{42}{}%
 \contentsline {section}{Victless Crime}{43}{}%
-\contentsline {chapter}{\chapternumberline {4}The self}{45}{}%
-\contentsline {section}{Temblando}{46}{}%
-\contentsline {section}{Vulnerable}{47}{}%
-\contentsline {section}{The Loaded Mind}{48}{}%
-\contentsline {section}{Modo Pararrayos}{49}{}%
-\contentsline {section}{Lightning Rod Mode}{50}{}%
-\contentsline {section}{Multiply the Delay}{51}{}%
-\contentsline {section}{The Fault in Your Character}{52}{}%
-\contentsline {section}{The Wrong Map}{53}{}%
-\contentsline {section}{Time to Stop}{54}{}%
-\contentsline {section}{Entre mundos}{55}{}%
-\contentsline {section}{Used to Say}{57}{}%
-\contentsline {section}{Buscando culpables}{58}{}%
-\contentsline {section}{Kvar i mig}{59}{}%
-\contentsline {section}{Se Acabó la Discusión}{60}{}%
-\contentsline {section}{Soledad y Compañía}{61}{}%
-\contentsline {chapter}{\chapternumberline {5}Extra stuff}{63}{}%
-\contentsline {section}{Writing Ain't Easy}{64}{}%
-\contentsline {section}{Weather and Memory}{65}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{67}{}%
+\contentsline {section}{¿Qué busco?}{44}{}%
+\contentsline {section}{What I'm Allowed to Need}{45}{}%
+\contentsline {section}{A Body Without a Name}{46}{}%
+\contentsline {chapter}{\chapternumberline {4}The self}{47}{}%
+\contentsline {section}{Temblando}{48}{}%
+\contentsline {section}{Vulnerable}{49}{}%
+\contentsline {section}{The Loaded Mind}{50}{}%
+\contentsline {section}{Modo Pararrayos}{51}{}%
+\contentsline {section}{Lightning Rod Mode}{52}{}%
+\contentsline {section}{Multiply the Delay}{53}{}%
+\contentsline {section}{The Fault in Your Character}{54}{}%
+\contentsline {section}{The Wrong Map}{55}{}%
+\contentsline {section}{Time to Stop}{56}{}%
+\contentsline {section}{Entre mundos}{57}{}%
+\contentsline {section}{Used to Say}{59}{}%
+\contentsline {section}{Buscando culpables}{60}{}%
+\contentsline {section}{Kvar i mig}{61}{}%
+\contentsline {section}{Se Acabó la Discusión}{62}{}%
+\contentsline {section}{Soledad y Compañía}{63}{}%
+\contentsline {section}{Let You Sit With Me}{64}{}%
+\contentsline {chapter}{\chapternumberline {5}Extra stuff}{65}{}%
+\contentsline {section}{Writing Ain't Easy}{66}{}%
+\contentsline {section}{Weather and Memory}{67}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{69}{}%

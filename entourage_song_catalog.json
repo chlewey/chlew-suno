@@ -2351,13 +2351,13 @@
     ],
     "lyricist": "Carlos Thompson",
     "original_source": "the diary entry behind Different Maps",
-    "theme": "Sylvia's theory: Erika and Vicky belong together",
+    "theme": "Sylvia's alt-universe theory: Thomas and Erika belong together",
     "narrator": "Sylvia",
-    "main_focus": "Erika and Vicky",
+    "main_focus": "Thomas and Erika",
     "other_characters": [
-      "Thomas",
       "Gabi",
-      "Claire"
+      "Claire",
+      "Vicky"
     ],
     "location": "",
     "date_of_events": "",
@@ -2721,7 +2721,7 @@
     "slug": "february_door",
     "file": "chlewey/february_door.tex",
     "albums": [
-      "entourage-eco: Stories - Part I"
+      "entourage-eco: Stories - Part II"
     ],
     "lyricist": "Suno",
     "original_source": "an excerpt from My Gabriele by Carlos Thompson",
@@ -2741,7 +2741,7 @@
     "slug": "halfdrawn_door",
     "file": "wyomee/halfdrawn_door.tex",
     "albums": [
-      "entourage-eco: Stories - Part I"
+      "entourage-eco: Stories - Part II"
     ],
     "lyricist": "Suno",
     "original_source": "summary of Aurora and Thomas's first sessions (storyline by Carlos Thompson, written by Claude, summary by Grok)",
@@ -2761,7 +2761,7 @@
     "slug": "private_country_without_a_map",
     "file": "wyomee/private_country_without_a_map.tex",
     "albums": [
-      "entourage-eco: Stories - Part I"
+      "entourage-eco: Stories - Part II"
     ],
     "lyricist": "Suno",
     "original_source": "summary of Aurora and Thomas's first sessions (storyline by Carlos Thompson, written by Claude, summary by Grok)",
@@ -2785,7 +2785,7 @@
     ],
     "lyricist": "Suno",
     "original_source": "the Victoria vignette by Carlos Thompson (2026)",
-    "theme": "Sylvia turns eighteen and holds Thomas to his promise",
+    "theme": "Sylvia returns to Thomas after finishing school, as promised",
     "narrator": "Thomas",
     "main_focus": "Sylvia",
     "other_characters": [
@@ -2980,7 +2980,7 @@
     "slug": "public_face",
     "file": "temp/public_face.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "an original vignette by Carlos Thompson",
@@ -3005,7 +3005,7 @@
     "slug": "moon_at_the_cabin",
     "file": "rataflechera/moon_at_the_cabin.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a short story by Carlos Thompson",
@@ -3023,7 +3023,7 @@
     "slug": "cabin_at_sunrise",
     "file": "rataflechera/cabin_at_sunrise.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a short story by Carlos Thompson",
@@ -3045,7 +3045,7 @@
     "slug": "where_the_tide_turns",
     "file": "dvigitt/where_the_tide_turns.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a scene written by Carlos Thompson",
@@ -3063,7 +3063,7 @@
     "slug": "not_an_infrastructure_guy",
     "file": "gabisson/not_an_infrastructure_guy.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Grok",
     "original_source": "a scene written by Carlos Thompson",
@@ -3081,7 +3081,7 @@
     "slug": "stay_a_little_longer",
     "file": "dvigitt/stay_a_little_longer.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a scene written by Carlos Thompson",
@@ -3099,7 +3099,7 @@
     "slug": "weird",
     "file": "rataflechera/weird.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Grok",
     "original_source": "a scene written by Carlos Thompson",
@@ -3122,7 +3122,7 @@
     "slug": "nightlong_embrace",
     "file": "gabisson/nightlong_embrace.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Grok",
     "original_source": "a scene written by Carlos Thompson",
@@ -3140,7 +3140,7 @@
     "slug": "stay_here_beside_me",
     "file": "dvigitt/stay_here_beside_me.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a scene written by Carlos Thompson",
@@ -3158,7 +3158,7 @@
     "slug": "wellmeaning_conspiracies",
     "file": "gabisson/wellmeaning_conspiracies.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Grok",
     "original_source": "a scene written by Carlos Thompson",
@@ -3178,7 +3178,7 @@
     "slug": "ciudad_punta_espada",
     "file": "temp/ciudad_punta_espada.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "a story by Carlos Thompson",
@@ -3199,7 +3199,7 @@
     "slug": "meet_me_at_punta_espada",
     "file": "rataflechera/meet_me_at_punta_espada.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "an email exchange between Zahra Moradi and Thomas Garcia (Carlos Thompson & Claude)",
@@ -3220,7 +3220,7 @@
     "slug": "two_roads_refusing_to_divide",
     "file": "rataflechera/two_roads_refusing_to_divide.tex",
     "albums": [
-      "entourage-eco: Stories - Part II"
+      "entourage-eco: Stories - Part III"
     ],
     "lyricist": "Suno",
     "original_source": "Claude summary of Zahra Moradi's post-Tallinn development, guided by Carlos Thompson",
@@ -4340,7 +4340,7 @@
     ],
     "lyricist": "Carlos Thompson & Claude",
     "original_source": "",
-    "theme": "Home isn't a place: Carbonia, Tallinn, the Atlantic",
+    "theme": "Sylvia in Bogotá: home isn't a place",
     "narrator": "Sylvia",
     "main_focus": "Sylvia",
     "other_characters": [
@@ -4348,7 +4348,7 @@
       "Francine",
       "Thomas"
     ],
-    "location": "Carbonia; Tallinn",
+    "location": "Bogotá",
     "date_of_events": "2020",
     "intimacy": "absent",
     "suno_url": ""
