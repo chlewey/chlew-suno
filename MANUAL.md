@@ -168,7 +168,11 @@ When enabled (`-r`/`--regex-fix` on the command line, or `%! regex-fix=true`
 in the file), each song body is transformed before being written out:
 
 - `[Verse 1]`, `[Chorus]`, `[Pre-Chorus]`, `[Bridge]`, `[Breakdown]`, `[Intro]`,
-  `[Outro]`, etc. become `\songpart{...}`.
+  `[Outro]`, etc. become `\songpart{...}`, as do the Spanish (`[Estrofa]`,
+  `[Coro]`, `[Pre-coro]`, `[Estribillo]`, `[Puente]`, `[Desglose]`, `[Cierre]`,
+  ...) and Swedish (`[Refräng]`, `[Förrefräng]`, `[Brygga]`) forms. The word
+  after a space or hyphen may be lowercase (`[Final chorus]`, `[Pre-coro]`);
+  the first letter must be uppercase.
 - Any other `[...]` bracketed cue becomes `\annotation{...}`.
 - Line breaks inside a stanza get `\\` inserted automatically.
 

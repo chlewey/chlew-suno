@@ -12,6 +12,7 @@
 *.bak
 *.bk
 *.backup
+*.zip
 
 # latexmk build metadata (machine-local, records absolute paths)
 *.fdb_latexmk
@@ -32,6 +33,8 @@
 .venv/
 __pycache__/
 *.pyc
+
+.txt/
 
 # secrets - never commit API keys/credentials
 .env
