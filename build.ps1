@@ -14,7 +14,7 @@
     book below -- this script always builds sequentially; don't parallelize.
 
 .PARAMETER Target
-    One of: all, chlewrics, electronica, pop, rockola, generos, internal,
+    One of: all, chlewrics, electronica, pop, rockola, generos, americana, internal,
     stories, entourage, ricochets, original, personal, bable, clean, distclean.
     Default: all.
 
@@ -24,7 +24,7 @@
     .\build.ps1 -Target clean
 #>
 param(
-    [ValidateSet('all','chlewrics','electronica','pop','rockola','generos',
+    [ValidateSet('all','chlewrics','electronica','pop','rockola','generos','americana',
                  'internal','stories','entourage','ricochets','original',
                  'personal','bable','clean','distclean')]
     [string]$Target = 'all'
@@ -56,6 +56,7 @@ $books = [ordered]@{
     pop         = @{ Src = 'pop.tex';           Job = 'Pop_lyrics' }
     rockola     = @{ Src = 'rockola.tex';       Job = 'Rockola_lyrics' }
     generos     = @{ Src = 'generos.tex';       Job = 'Genres_lyrics' }
+    americana   = @{ Src = 'americana.tex';     Job = 'Americana_lyrics' }
     internal    = @{ Src = 'internal.tex';      Job = 'Internal' }
     stories     = @{ Src = 'stories.tex';       Job = 'Storytelling_lyrics' }
     entourage   = @{ Src = 'entourage-eco.tex'; Job = 'Entourage_Lyrics' }

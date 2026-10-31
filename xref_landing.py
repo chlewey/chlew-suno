@@ -30,6 +30,7 @@ BOOKS = {
     'bable': 'Babel Songbook',
     'original': 'Original Lyrics Songbook',
     'generos': 'By Genre Songbook',
+    'americana': 'Americana and the US Sounds Songbook',
     'electronica': 'Electronica Soundtrack',
     'pop': 'Pop Songbook',
     'rockola': 'Rock Songbook',
