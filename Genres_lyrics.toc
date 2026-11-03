@@ -100,6 +100,7 @@
 \contentsline {section}{Sané mirando tus ojos}{119}{}%
 \contentsline {section}{Amor, contra todo}{120}{}%
 \contentsline {section}{Amor, sin gloria}{121}{}%
+\contentsline {section}{The Condor Line}{122}{}%
 \contentsline {chapter}{\chapternumberline {8}Bolero \& Ballad}{123}{}%
 \contentsline {section}{Chiq}{124}{}%
 \contentsline {section}{Hombre de sociedad}{125}{}%
@@ -179,6 +180,7 @@
 \contentsline {section}{Qualcosa di vero}{212}{}%
 \contentsline {section}{Resto qui}{214}{}%
 \contentsline {section}{Sa fiamma}{216}{}%
+\contentsline {section}{Il più bello del liceo}{218}{}%
 \contentsline {chapter}{\chapternumberline {13}European Threads — French \& Nordic}{219}{}%
 \contentsline {section}{Swedish Pages}{220}{}%
 \contentsline {section}{Beside the Storm}{221}{}%
@@ -287,4 +289,5 @@
 \contentsline {section}{TrackB}{279}{}%
 \contentsline {section}{Red and Yellow}{280}{}%
 \contentsline {section}{Tiempo Real}{281}{}%
+\contentsline {section}{Sudden Stop}{282}{}%
 \contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{283}{}%

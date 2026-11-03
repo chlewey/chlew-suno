@@ -12,11 +12,17 @@ A close-up photograph of a torn spiral-notebook page, ragged edges still attache
 
 An overhead flatlay photograph on a warm wooden desk: a vintage postcard propped against a small ceramic vase, an ornate hand-lettered card bearing an elaborate acrostic poem with a small decorative wax-stamped seal reading two initials in the corner, a tiny pen-and-ink sketch of an ark on a torn scrap of paper, and a folded card with a name worked into ornamental mock-prayer script. At the far edge of the frame, slightly apart from the aged paper items, a modern smartphone lies face-up with a softly glowing notification. The objects trace a timeline from yellowed vintage paper to the one glowing screen. Warm, nostalgic, wry lighting, photorealistic still life, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
-## Thomas' Entourage
+## Thomas' Entourage I: Thomas' Voice
 
 `covers/original/thomas-entourage`
 
 An overhead photograph of a stack of overlapping handwritten manuscript pages on a wooden desk, visible cross-outs and revisions in the same handwriting throughout. Each page's exposed corner shows a different name written by hand — partial glimpses of "Mariain," "Erika," "Gabi," and others just visible where pages overlap. A fountain pen rests diagonally across the topmost sheet, its nib catching warm desk-lamp light. Photorealistic still life, warm amber tones, shallow depth of field, a sense of authorship rather than portraiture. No text overlay. Square 1:1 aspect ratio.
+
+## Thomas' Entourage II: Other Voices
+
+`covers/original/thomas-entourage-other-voices`
+
+A row of handwritten letters laid side by side on the same wooden desk, each in a different hand and on different paper -- a lined notebook page, a hotel notepad, a folded airmail sheet, a newspaper clipping -- every one beginning "Thomas," or ending with his name. Warm desk-lamp light from one side, the fountain pen from the first album absent. Photorealistic still life, warm amber tones, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
 ## Other Narratives
 

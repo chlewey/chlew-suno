@@ -37,12 +37,12 @@
 \contentsline {section}{Mémoire En miettes}{38}{}%
 \contentsline {section}{Roule encore}{39}{}%
 \contentsline {chapter}{\chapternumberline {3}Italian}{41}{}%
-\contentsline {section}{Doble-J}{42}{}%
-\contentsline {section}{Casa non è}{43}{}%
-\contentsline {section}{Peccato d'aprile}{45}{}%
-\contentsline {section}{Qualcosa di vero}{47}{}%
-\contentsline {section}{Resto qui}{49}{}%
-\contentsline {section}{Cuore In Guerra}{51}{}%
+\contentsline {section}{Casa non è}{42}{}%
+\contentsline {section}{Peccato d'aprile}{44}{}%
+\contentsline {section}{Qualcosa di vero}{46}{}%
+\contentsline {section}{Resto qui}{48}{}%
+\contentsline {section}{Cuore In Guerra}{50}{}%
+\contentsline {section}{Il più bello del liceo}{51}{}%
 \contentsline {chapter}{\chapternumberline {4}German}{53}{}%
 \contentsline {section}{La Barrera}{54}{}%
 \contentsline {section}{Vor Barcelona (Deutsch)}{55}{}%
