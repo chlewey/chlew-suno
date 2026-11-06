@@ -1,0 +1,385 @@
+# Thomas' Entourage -- character sheet
+#
+# Appearance reference for the album covers (and anything else that draws the cast).
+# Keys are the song-tag slugs, so covers, songs and tags line up.
+#
+# Extracted from entourage-characters_files/sheet001.html (Stable Diffusion prompts),
+# plus prompts supplied later for Liis, Kadri, Zahra and Greca. Generator-specific
+# syntax (1girl, masterpiece, weights like (x:1.4), framing, camera/lighting terms)
+# is dropped; only the person is described. The scene each original prompt used is
+# kept as `typical_setting` -- a default, not part of the character.
+#
+# `age` is the age in the source prompt, which is the age at the character's main
+# story moment, NOT a common reference year (Sylvia is 21, Liis 22, Greca mid-40s).
+# Adjust per cover to the album's in-universe date.
+#
+# `outfit.signature` is the source prompt's clothing (portrait + full-body combined).
+#
+# `scenes` holds alternative, album-specific moments: only what changes (age, outfit,
+# hair, setting, props) is listed; everything else comes from the main entry.
+
+thomas-garcia:
+  name: Thomas García
+  depiction: >-
+    Never shown face-on. Keep him absent, in silhouette, or in the background
+    (from behind, over the shoulder, a reflection, out of focus).
+  height: 5'11"
+  build: 170 lbs
+  skin: light brown
+  hair: black, well groomed
+  beard: well-groomed, gray-and-black
+  outfit:
+    casual: polo shirt
+    formal: custom-tailored suit
+  hints:
+    - "Sincere: Europeans keep asking whether he speaks Arabic, and once Farsi -- \"part of my look\" -- though he is not Middle Eastern (Colombian)."
+  sources: [user description 2026-11-02, "Sincere"]
+
+claire-jones:
+  name: Claire Jones
+  age: 38
+  height: 5'9"
+  build: thin, slim, small-chested
+  skin: fair, freckled
+  hair: ginger, straight
+  eyes: green
+  makeup: natural
+  accessories: [wristwatch]
+  outfit:
+    signature: white tank top, beige cargo pants, sneakers
+  demeanor: quietly sad
+  typical_setting: sitting on a couch in a private aircraft's business-class cabin, looking out the window
+  sources: [sheet001.html]
+
+gabriele-wiater:
+  name: Gabriele "Gabi" Wiater
+  age: 35
+  height: 5'9"
+  build: medium-chested
+  skin: tanned, freckled
+  hair: long, straight, purple
+  eyes: purple
+  face:
+    brows: softly angled
+    nose: straight
+    lips: round, coral lipstick
+  outfit:
+    signature: black lace tank top, white short pants, sneakers
+  demeanor: defiant, standing tall
+  typical_setting: a cozy wooden room
+  sources: [sheet001.html]
+
+aurora-swansen:
+  name: Aurora Swansen
+  age: 32
+  height: 5'8"
+  build: thin, medium-to-large-chested
+  skin: pale, flawless, freckled
+  hair: straight ginger (redhead)
+  eyes: green
+  makeup: natural, red lipstick
+  accessories: [necklace with a golden medallion]
+  outfit:
+    signature: white shirt worn unbuttoned, black skirt, tights, heels
+  demeanor: alluring
+  typical_setting: sitting on a sofa with a view of the city and mountains (Bogotá)
+  scenes:
+    office-session:
+      setting: her practice office in Bogotá, attending a session (as in the current cover)
+  sources: [sheet001.html]
+
+victoria-ospina:
+  name: Victoria "Vicky" Ospina
+  age: 23
+  height: 5'7"
+  build: thin, athletic, medium-chested
+  skin: tanned
+  hair: jet-black, wavy
+  eyes: hazel
+  face:
+    brows: slanted
+    nose: straight
+    lips: heart-shaped, peach lipstick
+  accessories: [wristbands]
+  outfit:
+    signature: red bikini top, short shorts, sneakers
+  demeanor: inviting, playful grin, looking at the viewer
+  typical_setting: outdoors in a park with a mountain view, daylight
+  scenes:
+    thames-terrace:
+      age: 23
+      outfit: blue spaghetti-strap blouse, wristbands
+      demeanor: playful grin, looking at the viewer
+      setting: sitting at a table on an open restaurant terrace overlooking the Thames and the London skyline, drinks and food across the table, daylight
+    personal-gym:
+      age: 23
+      hair: jet-black, in a ponytail
+      outfit: yellow jersey with a green kangaroo insignia over the left chest, biker trousers, wristbands, whistle, clipboard
+      demeanor: concentrated, looking past the viewer
+      setting: working as a coach in a small personal gym -- treadmill, weights station, windows with a mountain view, daylight
+  sources: [sheet001.html, user scene prompts 2026-11-02]
+
+erika-czajka:
+  name: Erika Czajka
+  age: 26
+  height: 5'6"
+  build: thin, medium-chested
+  skin: tanned, rosy cheekbones
+  hair: dark brown updo with loose side locks
+  eyes: gray (emphasized in the source)
+  face:
+    nose: upturned
+    marks: dimples
+    lips: lilac lipstick
+  accessories: [silver earrings, blue leather choker]
+  outfit:
+    signature: pink collarless silk blouse, long black skirt, heels
+  demeanor: confident
+  typical_setting: outdoors on a windy day by a lake
+  sources: [sheet001.html]
+
+natalia-kyou-park:
+  name: Natalia Kyou Park
+  age: 34
+  height: 5'6"
+  build: slim, medium-chested
+  skin: pale, Asian, rosy cheeks
+  hair: straight brown, past the shoulders, side bangs, green side locks
+  eyes: green, epicanthic fold
+  face:
+    brows: slanted
+    nose: upturned
+    lips: red, parted
+  accessories: [pendant earrings, nose piercing, green choker]
+  outfit:
+    signature: black t-shirt, blue jeans, sneakers
+  demeanor: flirtatious
+  typical_setting: walking through the city
+  sources: [sheet001.html]
+
+diana-naji:
+  name: Diana Naji
+  age: 32
+  height: 5'5"
+  build: slender (115 lbs)
+  skin: dark (strongly emphasized in the source)
+  hair: black, wavy, to the shoulders, forehead visible
+  eyes: brown
+  face:
+    shape: diamond
+    brows: thin, slanted
+    nose: button
+    lips: thin, terracotta lipstick
+    marks: mole on the cheek
+  accessories: [golden collar necklace, matching golden earrings]
+  outfit:
+    signature: strapless terracotta blouse, long beige skirt, flat shoes
+  demeanor: confident, smiling, looking away
+  typical_setting: standing outdoors against a stone wall
+  sources: [sheet001.html]
+
+sylvia-lai:
+  name: Sylvia Lai
+  age: 21
+  height: 5'6"
+  build: small-chested
+  skin: tanned, heavily freckled
+  hair: teal pixie cut, falling over one eye
+  eyes: hazel (strongly emphasized)
+  face:
+    jaw: prominent
+    nose: upturned, small dark nose piercings
+    lips: peach lipstick
+  makeup: mascara, olive-green eyeshadow
+  accessories: [emerald stud earrings]
+  outfit:
+    signature: white crop top, torn jeans, sneakers
+  demeanor: happy, playful smile, looking at the viewer
+  typical_setting: a city park in summer
+  sources: [sheet001.html]
+
+susana-bianchi:
+  name: Susana Bianchi
+  age: 35
+  height: 5'8"
+  build: medium-chested
+  skin: olive
+  hair: dark brown pixie cut, forehead visible
+  eyes: brown
+  face:
+    nose: straight
+    lips: thin
+  makeup: natural
+  accessories: [aviator sunglasses, headset with boom microphone]
+  outfit:
+    signature: white pilot's blouse with insignia, black pants, black boots
+  demeanor: confident
+  typical_setting: sitting in an airliner's cockpit
+  sources: [sheet001.html]
+
+xumi:
+  name: Xumi (Camila Eugenia Santos Alexander)
+  age: 35
+  height: 5'9"
+  build: slim, small-chested
+  skin: smooth, tanned, soft blush
+  hair: short black pixie cut, wavy and unruly, side-parted bangs
+  eyes: large brown almond-shaped eyes, long dark lashes
+  face:
+    shape: heart-shaped
+    brows: medium, arched
+    nose: small
+    lips: full
+    marks: freckles on cheeks and nose, beauty marks under the right eye
+  accessories: [silver dangling leaf-shaped earrings, simple necklace with a delicate pendant]
+  outfit:
+    signature: white t-shirt, denim pants, red sneakers
+  demeanor: subtle smile, looking at the viewer
+  typical_setting: indoors, large windows, cozy and inviting
+  scenes:
+    london-pub:
+      age: 28
+      outfit: dark blue tailored suit, white shirt (leaf earrings and pendant as always)
+      props: a beer in hand
+      setting: sitting in a London pub, dim lighting, a crowd blurred behind her
+  sources: [sheet001.html, user scene prompts 2026-11-02]
+
+mariain-schumer:
+  name: Mariain Schumer
+  age: 42
+  height: 5'8"
+  build: voluptuous
+  skin: pale, smooth, soft blush
+  hair: platinum blonde, long and straight, bangs over one eye
+  eyes: lilac, almond-shaped
+  face:
+    shape: oval
+    brows: thin, slanted
+    nose: turned-up
+    lips: full
+    marks: mole under the eye
+  makeup: natural
+  accessories: [silver jewelry -- earrings, necklaces, bracelets, wristwatch]
+  outfit:
+    signature: flower-print collared blouse worn unbuttoned, black pants, construction boots
+  demeanor: shy smile
+  typical_setting: outdoors in a garden with white walls and plant pots
+  sources: [sheet001.html]
+
+pilar-venegas:
+  name: María del Pilar Venegas
+  age: 44
+  height: 5'6"
+  build: large-chested
+  skin: tanned, freckled
+  hair: black, straight
+  eyes: bluish gray
+  face:
+    shape: round
+    brows: thin, slanted
+    nose: straight, fine
+    lips: thin
+  accessories: [small earrings]
+  outfit:
+    signature: white low-cut blouse, windbreaker jacket, black pants, black boots
+  demeanor: serious
+  typical_setting: outdoors at the front exit of a building in a modern city
+  sources: [sheet001.html]
+
+fiona-levit:
+  name: Fiona Levit
+  age: 33
+  height: 5'5"
+  build: petite, untoned, medium-chested
+  skin: pale, freckled
+  hair: short black, wavy
+  eyes: hazel, almond-shaped
+  face:
+    shape: oval, prominent cheekbones
+    brows: thin, arched
+    nose: straight, fine, nose piercing
+    lips: thin
+    marks: butterfly tattoo on the left shoulder
+  accessories: [glasses, multiple earrings, wristwatch, red scarf]
+  outfit:
+    signature: pink spaghetti-strap tank top, mini-skirt, fishnets, construction boots
+  demeanor: concentrated
+  typical_setting: sitting at a messy desk with a laptop in an open-plan office
+  scenes:
+    night-out:
+      accessories: [contact lenses instead of glasses, multiple earrings]
+      outfit: black stretch pants, tight crop top, black silk jacket
+      setting: her Fort Lee apartment at dusk, desk shut down, window over the Hudson and the George Washington Bridge
+      source: "Hell's Kitchen Dress"
+  sources: [sheet001.html, "A New York Night" songs]
+
+liis-sepp:
+  name: Liis Sepp
+  age: 22
+  height: 5'9"
+  build: medium-chested
+  skin: flawless porcelain
+  hair: long, voluminous, wavy blonde -- bright face-framing highlights, natural honey-blonde lowlights
+  eyes: large, luminous blue-gray; heavy upper lids, well-defined lashes
+  face:
+    shape: heart-shaped, structured jawline, prominent high cheekbones
+    brows: slender, slightly arched
+    nose: straight, subtle tip
+    lips: full, prominent cupid's bow
+  accessories: [stud earrings]
+  outfit:
+    signature: blue collared shirt, black trousers, biker boots
+  demeanor: serious, walking confidently
+  typical_setting: indoors in a cafeteria
+  sources: [user prompt 2026-11-02, "Liis Sepp Raising", "Indigo Portrait (Gray-Blue Eyes)"]
+
+kadri-kuznetsova:
+  name: Kadri Kuznetsova
+  age: mid-20s (Tallinn years); a second prompt shows her in her mid-30s
+  build: slim, untoned, medium-chested
+  skin: pale, matte
+  hair: medium-length straight black, greasy and damp-looking, in separated textured strands
+  eyes: striking greenish gray, weary but intense
+  face:
+    cheekbones: sharp, very prominent
+    brows: thin, natural
+    nose: straight, defined
+    lips: thin, natural color
+  accessories: [multiple piercings in both ears -- silver hoops and studs]
+  outfit:
+    signature: distressed heavy black leather jacket with visible wear and tears, tight beige tank top with a torn raw-edge neckline, torn black jeans
+  demeanor: edgy; weary but intense
+  typical_setting:
+    - standing outdoors against a weathered concrete wall with peeling layers of paint, low golden-hour sun (mid-20s)
+    - relaxed in a small office or practice waiting room under fluorescent light, looking down at a tablet (mid-30s)
+  sources: [user prompts 2026-11-02, "Rough Diamond", "Kedri Petrovna Kuznetsova"]
+
+zahra-moradi:
+  name: Zahra Moradi
+  skin: warm olive
+  hair: medium-length dark brown, soft natural waves
+  eyes: warm golden brown, long defined lashes
+  accessories: [small gold hoop earrings, thin gold chain with a crescent-moon pendant]
+  outfit:
+    signature: black ribbed turtleneck sweater
+  demeanor: confident, serene, slight knowing smile
+  typical_setting: >-
+    in front of an office whiteboard full of neat handwritten analysis, a polished wooden
+    conference table with a silver tablet, a silver pen and a closed brown leather notebook,
+    glass-walled offices and BI dashboards behind her
+  sources: [user prompt 2026-11-02, "Zahra Moradi", "Whiteboard Queen"]
+
+greca-piras:
+  name: Greca Piras (in Lai)
+  age: mid-40s, young-looking
+  hair: black, slightly wavy
+  eyes: deep olive
+  face:
+    brows: arched
+    nose: straight
+    phenotype: Italian (Sardinian, born in Cagliari)
+  outfit:
+    signature: white blouse
+  demeanor: graceful, elegant posture, subtle smile
+  typical_setting: sitting on an outdoor patio, a house of mixed stone and beige walls behind her, golden-hour sun
+  sources: [user prompt 2026-11-02, "Greca Piras"]
