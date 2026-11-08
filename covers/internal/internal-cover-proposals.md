@@ -98,6 +98,12 @@ An open notebook beside a worn Bible, both full of cross-referencing marginalia.
 
 A wooden ark silhouette on a stormy horizon, a guitar leaning against its hull. Square 1:1 aspect ratio.
 
+## Pray, Brother III: Advent and Christmas
+
+`covers/internal/pray-brother-iii-advent-and-christmas`
+
+A homemade Colombian nativity scene of small clay figures on moss and paper hills, the manger still empty, a lit candle, a tambourine and maracas resting beside it, a worn prayer booklet with an unreadable cover. Square 1:1 aspect ratio.
+
 ## Essays
 
 `covers/internal/essays`

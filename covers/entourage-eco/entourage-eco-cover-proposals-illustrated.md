@@ -128,6 +128,12 @@ New Year's Eve at a long outdoor table at a country villa in Melgar, in Colombia
 
 Dusk over a coastal seawall road curving toward Punta Espada, a half-built city on the horizon: construction cranes, a runway and a new port silhouetted against violet and orange sky, a crescent moon reflected on dark water. A black SUV's headlights trace the curve of the road. On a low headland in the foreground, a small wooden cabin with one lit window. Deep blue and violet with warm headlight and construction-light accents; a sense of arrival and founding. Comic-book illustration. Characters drawn in clear-line style: clean ink outlines of even weight, flat cel colours with at most one shadow tone, no hatching, no gradients on skin or clothing. Backgrounds painted in gouache and watercolour: soft, atmospheric, no outlines, visible brush texture, naturalistic light, so the crisp figures stand out against a painterly world. No text, lettering, signage or speech balloons; no panel borders. Square 1:1 aspect ratio.
 
+## Stories - Part IV
+
+`covers/entourage-eco/stories-part-iv`
+
+Dusk on the beach at Punta Espada in December, seen from a little way up the sand. At the waterline, Thomas walks away from us toward the open sea, seen from behind: black hair, the edge of a gray-and-black beard, a white polo shirt, trousers rolled at the ankle, the shallow surf around his feet. A few steps behind him on the wet sand, Zahra has stopped and turned the other way, back toward the beach: a woman with warm olive skin and medium-length dark brown hair in soft waves, a thin gold chain with a crescent-moon pendant, a light linen dress moving in the wind. Farther up the beach, small figures of her family wait by a beach umbrella: a man and a small child waving. Between the two of them, the line of the last wave on the sand. Turquoise sea going violet, ochre desert headland, the first lights of the new city on the horizon. Tender, quiet, unresolved. Comic-book illustration. Characters drawn in clear-line style: clean ink outlines of even weight, flat cel colours with at most one shadow tone, no hatching, no gradients on skin or clothing. Backgrounds painted in gouache and watercolour: soft, atmospheric, no outlines, visible brush texture, naturalistic light, so the crisp figures stand out against a painterly world. No text, lettering, signage or speech balloons; no panel borders. Square 1:1 aspect ratio.
+
 ## Thomas gaze
 
 `covers/entourage-eco/thomas-gaze`
