@@ -178,19 +178,21 @@ Current shape of the restructured books (names only, no counts):
   answer it without fixing. Discussion/planning turns stay read-only.
 - The owner's typing is often noisy (typos); interpret generously, but confirm
   ambiguous song-to-album decisions before applying them.
-- Commit and push work (a stop hook insists on a clean tree). Create a pull request only
-  when asked.
+- Commit and push work to `main` (a stop hook insists on a clean tree).
 
 ## Git and GitHub
 
-- Default branch is `main`. Cloud sessions develop on a `claude/...` branch, push with
-  `git push -u origin <branch>`, and the owner merges (as of 2026-11-06 `main` and
-  `claude/vigilant-thompson-wxmkim` pointed at the same commit).
-- GitHub work goes through the `mcp__github__*` tools (no `gh` CLI). Creating a PR for
-  a 113-file diff failed repeatedly with an API 500; the compare URL
-  (`.../compare/main...<branch>`) is the fallback.
-- Commit messages and PR bodies end with the attribution lines the harness gives for the
-  session.
+- Work only on `main`: commit there and `git push origin main`. Do not create, switch to
+  or keep any other branch (`claude/...` or otherwise), locally or on GitHub, and do not
+  open pull requests. The owner confirmed this on 2026-11-08 after a stale
+  `claude/vigilant-thompson-wxmkim` branch caused confusion; it has been deleted.
+- If a session starts on another branch, stop and tell the owner instead of committing
+  there.
+- On Windows, a file open in Excel, a browser or an editor is locked: `git checkout`/
+  `merge` can half-apply ("unable to unlink ... Invalid argument"). Check that each git
+  step succeeded before the next one; never chain destructive steps with `;`.
+- GitHub work goes through the `mcp__github__*` tools when available (no `gh` CLI).
+- Commit messages end with the attribution lines the harness gives for the session.
 
 ## Open items (as of 2026-11-06)
 
