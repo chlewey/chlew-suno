@@ -24,6 +24,12 @@ A warm, candlelit overhead still-life photograph on a dark wooden table: a West 
 
 A stately overhead photograph on a polished colonial courthouse table: an ornate royal crown resting atop an open parliamentary charter with elegant handwritten script, a white quill pen and a red wax seal beside it. Warm brass candlelight and deep red velvet cloth beneath the crown add ceremonial richness. Behind the table, out of focus through a tall window, a wide tidewater river is visible under soft daylight, evoking a Williamsburg-style colonial setting. No flag or banner imagery anywhere in the frame. Photorealistic still life, warm wood tones, brass and velvet textures, dignified and formal mood, shallow depth of field. A small engraved title reading "KINGDOM OF COLUMBIA" along the bottom edge. Square 1:1 aspect ratio.
 
+## Panamax
+
+`covers/stories/panamax`
+
+A wide dawn photograph from the end of the long old pier at Puerto Colombia, its weathered concrete reaching out over a calm, pearl-gray Caribbean. Moored just off the pier lies the Tucuxi, a large white expedition yacht of Panamax proportions, a slender gray-dolphin motif along her bow, her hull unlettered. On her aft deck, a handful of deckhands in matching navy shirts coil lines and check the rails, small figures against her size. Off the bow, two gray tucuxi dolphins break the surface in a low arc. The sky is warming from violet to apricot over the low coast, gulls on the pier railings, the water barely moving. Photorealistic, soft early light, a quiet sense of departure. Square 1:1 aspect ratio.
+
 ## Saulon
 
 `covers/stories/saulon`

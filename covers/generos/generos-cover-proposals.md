@@ -46,6 +46,14 @@ An overhead flatlay photograph on an open antique atlas page showing the Mississ
 
 An overhead flatlay photograph on an open antique atlas page showing Texas and Nashville, faintly visible beneath the objects. A dusty acoustic guitar with a worn leather strap lies diagonally across the map, beside a battered cowboy hat. Warm rust-amber road-trip lighting, sun-faded texture, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
 
+## Outlaw, Alt-Country & Heartland
+
+`covers/generos/outlaw-alt-country-and-heartland`
+
+An overhead flatlay photograph on an open antique atlas page showing the American heartland crossed by highways, faintly visible beneath the objects. A battered butterscotch Telecaster-style electric guitar lies diagonally across the map, beside a rusty pickup-truck key on a worn leather fob and a blank roadside-motel matchbook. Low dusk light through a dusty window, amber and rust, a faint noir edge. Eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
+> Note: Americana album; the image lives under covers/generos/ like the rest of the Americana covers.
+
 ## The Tallinn Folk-Rock Cycle
 
 `covers/generos/the-tallinn-folk-rock-cycle`
@@ -63,6 +71,14 @@ An overhead flatlay photograph on an open antique atlas page showing Brooklyn an
 `covers/generos/ballads-and-bare-folk`
 
 An overhead flatlay photograph on an open antique atlas page showing a rural American backroad, faintly visible beneath the objects. A fingerpicked acoustic guitar rests diagonally across the map, beside a small glowing porch lantern. Warm quiet lamplight, the sparest and most intimate lighting of the set, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
+## Road Folk & Folk Anthems
+
+`covers/generos/road-folk-and-folk-anthems`
+
+An overhead flatlay photograph on an open antique atlas page showing a winding road from the Andes down to a Caribbean coast, faintly visible beneath the objects. An acoustic guitar with a woven Wayuu strap rests diagonally across the map, beside a round loaf of bread on a folded linen cloth. Warm late-afternoon light, communal and open-air. Eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
+> Note: Americana album; the image lives under covers/generos/ like the rest of the Americana covers.
 
 # Tropical latina
 
@@ -153,6 +169,12 @@ An overhead flatlay photograph on an open antique atlas page showing a sweep fro
 `covers/generos/asian-voices`
 
 An overhead flatlay photograph on an open antique atlas page showing a sweep from the Punjab through Kurdistan and Persia to Japan, faintly visible beneath the objects. An oud rests diagonally across the map, beside a small folded paper origami crane resting near the page's far corner. Warm richly saturated lighting spanning desert gold to soft cherry-blossom pink, eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
+## Sea Shanties
+
+`covers/generos/sea-shanties`
+
+An overhead flatlay photograph on an open antique atlas page showing the Caribbean coast of Colombia and the open Atlantic, faintly visible beneath the objects. A weathered concertina rests diagonally across the map, beside a coil of tarred rope tied in a sailor's knot. Storm-gray light warmed by one ship's-lantern glow, salt-stained paper. Eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
 
 ## Chiptune, Ambient & the Weird Edges
 

@@ -62,6 +62,8 @@ A classic roadside-diner-style neon sign shaped like an open book, glowing cool 
 
 An old roadside neon sign reading an "OPEN 24 HOURS" motel-style message, glowing warm amber, but with two of its letters visibly dark and unlit, flickering faintly as if about to fail. The sign is viewed through a rain-streaked window from inside a dim room, droplets bending and smearing its amber light. Photorealistic night photography, faded analog-era nostalgia, grainy film texture. No text overlay. Square 1:1 aspect ratio.
 
+> Note: Album retired when Lyrical was split by genre; this prompt was recycled, without its lettered sign, for Lyrical Trance & Techno.
+
 ## ADHD Chaos & Physical Needs (Lyrical Part II)
 
 `covers/electronica/adhd-chaos-and-physical-needs`
@@ -73,6 +75,38 @@ A cluttered cluster of mismatched neon signs crowded together on one dark wall, 
 `covers/electronica/instrumental-textures`
 
 A soft pink neon outline of two open hands reaching toward each other, fingertips almost but not quite touching, glowing against an otherwise completely dark room. Nearby, a second, fainter neon squiggle traces a line of invented, language-like symbols that resemble no real alphabet, glowing a cooler blue. Photorealistic night photography, minimal and intimate, a sense of near-connection and quiet artificial language. No text overlay. Square 1:1 aspect ratio.
+
+## Lyrical House
+
+`covers/electronica/lyrical-house`
+
+A neon outline of an open spiral notebook glowing warm magenta on a dark brick wall, its ruled lines curving into the concentric grooves of a spinning vinyl record. Photorealistic night photography, nostalgic and steady. No text overlay. Square 1:1 aspect ratio.
+
+## Lyrical Trance & Techno
+
+`covers/electronica/lyrical-trance-and-techno`
+
+An old amber neon sign shaped as a looping spiral, two of its segments dark and flickering as if about to fail, viewed through a rain-streaked window from inside a dim room, droplets smearing its light. Photorealistic night photography, faded analog-era nostalgia, grainy film texture, hypnotic. No text overlay. Square 1:1 aspect ratio.
+
+> Note: Recycled from the retired The 1990s Trance Diaries (Lyrical Part I) prompt, with the lettered sign replaced by a spiral.
+
+## Lyrical Dubstep
+
+`covers/electronica/lyrical-dubstep`
+
+A neon outline of a diary page glowing acid green against a dark concrete wall, its ruled lines sagging into one deep, slow waveform near the bottom of the page. Photorealistic night photography, heavy and introspective. No text overlay. Square 1:1 aspect ratio.
+
+## Lyrical Eurodance, Rave & Disco
+
+`covers/electronica/lyrical-eurodance-rave-and-disco`
+
+A neon mirror-ball outline hanging in darkness, throwing straight neon rays of magenta and cyan across a black wall and a glossy floor that reflects them. Photorealistic night photography, euphoric dance-floor energy. No text overlay. Square 1:1 aspect ratio.
+
+## Lyrical Synth, Electro-Pop & EBM
+
+`covers/electronica/lyrical-synth-electro-pop-and-ebm`
+
+A neon outline of a vintage analog synthesizer keyboard glowing violet, a single sine wave arcing above it, set before a receding neon grid horizon in cyan. Photorealistic night photography, retro-futurist and clean. No text overlay. Square 1:1 aspect ratio.
 
 # Street Corner Riot
 

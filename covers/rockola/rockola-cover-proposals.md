@@ -12,6 +12,12 @@ A dramatically lit still-life photograph composed as a triangle: a scuffed gunme
 
 A dramatically lit still-life photograph composed as a triangle: a battered cherry-red electric guitar leaning in the lower-left corner, a small cracked marble pedestal with nothing on top of it in the upper-center corner, and a dented vintage microphone lying beside a hotel room key and a folded handwritten note in the lower-right corner. Warm tungsten stage lighting against a dark backdrop, rust-red and charcoal tones, a hint of drifting smoke. Photorealistic product photography, dramatic rim lighting, sharp focus on the empty pedestal. No text overlay. Square 1:1 aspect ratio.
 
+## Thomas on Others
+
+`covers/rockola/thomas-on-others`
+
+A dramatically lit still-life photograph composed as a triangle: a charcoal-black semi-hollow electric guitar leaning in the lower-left corner, a pair of white figure skates hanging by their knotted laces from a hook in the upper-center corner, and a loose fan of picture postcards from several cities (a railway platform, a snowy harbor, a desert skyline, Mediterranean rooftops) lying beside a folded train ticket in the lower-right corner. Warm tungsten stage light against a dark backdrop, slate and ivory tones. Photorealistic product photography, dramatic rim lighting. No text overlay. Square 1:1 aspect ratio.
+
 ## Crew, Cabin & Flight
 
 `covers/rockola/the-rotterdam-leg-and-cabin-monologues`
@@ -30,9 +36,10 @@ A dramatically lit still-life photograph composed as a triangle: a cherry-red Gi
 
 `covers/rockola/operatic-portals`
 
-A dramatically lit still-life photograph composed as a triangle: a matte-black Gibson Flying V-style electric guitar standing upright in the lower-left corner, an ornate Baltic kannel (folk zither) resting diagonally in the upper-center corner, and a gilded, feathered opera mask propped in the lower-right corner. A single warm gold stage-spotlight beam cuts through darkness to illuminate all three objects against a deep burgundy-black velvet backdrop. Photorealistic product photography, theatrical dramatic lighting, rich shadow detail. No text overlay. Square 1:1 aspect ratio.
+A dramatically lit still-life photograph composed as a triangle: a silver-sparkle electric guitar leaning in the lower-left corner, a single empty microphone stand caught in a narrow white spotlight beam in the upper-center corner, and four backstage passes on lanyards of different colors (ice gray, black, red, yellow) fanned out in the lower-right corner, their cards blank. Deep black backdrop, one hard spotlight, everything else in shadow. Photorealistic product photography, theatrical lighting. No text overlay. Square 1:1 aspect ratio.
 
-> Note: The album now also holds the single-character spotlights (Xumi, Fiona, Vicky) alongside the Erika portraits. The cover is unchanged and keeps its slug.
+> Note: Redone 2026-11-08 -- the album no longer holds the Baltic or operatic portraits (now in Baltic Anthems); it is single-woman spotlights (Erika, Xumi, Fiona, Vicky). The previous image is kept as `covers/rockola/operatic-portals.bkp.png`; its prompt was:
+> A dramatically lit still-life photograph composed as a triangle: a matte-black Gibson Flying V-style electric guitar standing upright in the lower-left corner, an ornate Baltic kannel (folk zither) resting diagonally in the upper-center corner, and a gilded, feathered opera mask propped in the lower-right corner. A single warm gold stage-spotlight beam cuts through darkness to illuminate all three objects against a deep burgundy-black velvet backdrop. Photorealistic product photography, theatrical dramatic lighting, rich shadow detail. No text overlay. Square 1:1 aspect ratio.
 
 ## Baltic Anthems
 
