@@ -10,8 +10,13 @@
     machine for the Arabic/CJK content used across these songbooks. Keep
     this file and the Makefile in sync if you add or rename a book.
 
-    songs.idx/songs.ind/tags.idx/tags.ind are SHARED filenames across every
-    book below -- this script always builds sequentially; don't parallelize.
+    Each book writes its intermediate files (.aux, .toc, .log, .fls,
+    .fdb_latexmk and the songs/tags indexes) to its own directory,
+    build/<JobName>/ (latexmk -auxdir); only the PDF and its .synctex.gz stay
+    in the root. imakeidx names its indexes songs.* and tags.* in every book,
+    so a shared directory made latexmk rerun a book whenever another book had
+    been built in between. With one aux directory per book, an unchanged book
+    is up to date on the second build.
 
 .PARAMETER Target
     One of: all, chlewrics, electronica, pop, rockola, generos, americana, internal,
@@ -72,19 +77,25 @@ function Invoke-Book([string]$Name, [hashtable]$Info) {
     # Splat an explicit args array -- passing "-jobname=$($Info.Job)" and
     # "$($Info.Src)" inline on the call line makes latexmk ignore the
     # filename and fall back to its own (ambiguous) default-file detection.
-    $latexmkArgs = @("-jobname=$($Info.Job)", $Info.Src)
+    $latexmkArgs = @("-jobname=$($Info.Job)", "-auxdir=$(Get-AuxDir $Info)", $Info.Src)
     & latexmk @latexmkArgs
     if ($LASTEXITCODE -ne 0) {
-        throw "latexmk failed for $($Info.Src) (jobname $($Info.Job)); see $($Info.Job).log"
+        throw "latexmk failed for $($Info.Src) (jobname $($Info.Job)); see $(Get-AuxDir $Info)/$($Info.Job).log"
     }
 }
 
+function Get-AuxDir([hashtable]$Info) {
+    return "build/$($Info.Job)"
+}
+
 function Clear-Book([hashtable]$Info) {
-    $latexmkArgs = @('-c', "-jobname=$($Info.Job)", $Info.Src)
+    $latexmkArgs = @('-c', "-jobname=$($Info.Job)", "-auxdir=$(Get-AuxDir $Info)", $Info.Src)
     & latexmk @latexmkArgs 2>$null | Out-Null
 }
 
 function Remove-SharedIndexFiles {
+    # Leftovers from before the per-book aux directories (songs.*/tags.* used
+    # to be written to the root by every book). Harmless if absent.
     Remove-Item -ErrorAction SilentlyContinue songs.idx, songs.ind, songs.ilg, tags.idx, tags.ind, tags.ilg
 }
 

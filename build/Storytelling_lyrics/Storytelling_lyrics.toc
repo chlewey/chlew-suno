@@ -334,21 +334,24 @@
 \contentsline {section}{Sigue Rumbeando}{318}{}%
 \contentsline {section}{Lo que se ve}{319}{}%
 \contentsline {section}{Live Light, Love Loud}{320}{}%
-\contentsline {part}{\partnumberline {VIII}Form and Craft}{321}{}%
-\contentsline {chapter}{\chapternumberline {31}Fragments}{323}{}%
-\contentsline {section}{Peccato bello}{324}{}%
-\contentsline {section}{Comfort Zones}{325}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{326}{}%
-\contentsline {section}{Kein Feuer}{327}{}%
-\contentsline {section}{Gota a gota}{328}{}%
-\contentsline {section}{Cataplún Zap!}{329}{}%
-\contentsline {section}{Street Corner Zambomba}{330}{}%
-\contentsline {section}{Pacificate}{331}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{332}{}%
-\contentsline {section}{The Night}{333}{}%
-\contentsline {section}{Ik schreef mijn naam in}{334}{}%
-\contentsline {section}{Тепло без якоря}{335}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{336}{}%
+\contentsline {section}{Life's What Happens}{321}{}%
+\contentsline {section}{Life's What Occurs}{322}{}%
+\contentsline {section}{Put Out the Little Fires}{323}{}%
+\contentsline {part}{\partnumberline {VIII}Form and Craft}{325}{}%
+\contentsline {chapter}{\chapternumberline {31}Fragments}{327}{}%
+\contentsline {section}{Peccato bello}{328}{}%
+\contentsline {section}{Comfort Zones}{329}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{330}{}%
+\contentsline {section}{Kein Feuer}{331}{}%
+\contentsline {section}{Gota a gota}{332}{}%
+\contentsline {section}{Cataplún Zap!}{333}{}%
+\contentsline {section}{Street Corner Zambomba}{334}{}%
+\contentsline {section}{Pacificate}{335}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{336}{}%
+\contentsline {section}{The Night}{337}{}%
+\contentsline {section}{Ik schreef mijn naam in}{338}{}%
+\contentsline {section}{Тепло без якоря}{339}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{340}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -359,7 +362,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{337}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{341}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -370,19 +373,19 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{338}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{339}{}%
-\contentsline {section}{dij Schdzjarvk}{340}{}%
-\contentsline {section}{Doopi-Do-Doos}{341}{}%
-\contentsline {section}{Anama'inreesü tüa}{342}{}%
-\contentsline {section}{Kijana Msomi (short)}{343}{}%
-\contentsline {section}{Binwe, Jan-Alan}{344}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{345}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{346}{}%
-\contentsline {section}{En upersonlig skjebne}{347}{}%
-\contentsline {chapter}{\chapternumberline {32}Covers}{349}{}%
-\contentsline {section}{La perrilla (pasillo)}{350}{}%
-\contentsline {section}{La perrilla (dance)}{351}{}%
-\contentsline {section}{Diamond Depth August}{352}{}%
-\contentsline {section}{Tu puro vivir}{353}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{355}{}%
+\contentsline {section}{Xumi}{342}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{343}{}%
+\contentsline {section}{dij Schdzjarvk}{344}{}%
+\contentsline {section}{Doopi-Do-Doos}{345}{}%
+\contentsline {section}{Anama'inreesü tüa}{346}{}%
+\contentsline {section}{Kijana Msomi (short)}{347}{}%
+\contentsline {section}{Binwe, Jan-Alan}{348}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{349}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{350}{}%
+\contentsline {section}{En upersonlig skjebne}{351}{}%
+\contentsline {chapter}{\chapternumberline {32}Covers}{353}{}%
+\contentsline {section}{La perrilla (pasillo)}{354}{}%
+\contentsline {section}{La perrilla (dance)}{355}{}%
+\contentsline {section}{Diamond Depth August}{356}{}%
+\contentsline {section}{Tu puro vivir}{357}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{359}{}%

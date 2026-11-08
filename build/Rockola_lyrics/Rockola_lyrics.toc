@@ -1,0 +1,202 @@
+\xpg@aux {}{english}
+\contentsline {part}{\partnumberline {I}Thomas’ Entourage}{1}{}%
+\contentsline {chapter}{\chapternumberline {1}Gabi’s Industrial}{5}{}%
+\contentsline {section}{Just Trains}{6}{}%
+\contentsline {section}{Steel \& Violet}{7}{}%
+\contentsline {section}{Vor Barcelona}{8}{}%
+\contentsline {section}{Vor Barcelona (English)}{9}{}%
+\contentsline {section}{Vor Barcelona (Deutsch)}{10}{}%
+\contentsline {section}{Mein blinder Polyhistor}{11}{}%
+\contentsline {chapter}{\chapternumberline {2}About Thomas}{13}{}%
+\contentsline {section}{Borrowed Time}{14}{}%
+\contentsline {section}{Thomas, baja del pedestal}{16}{}%
+\contentsline {section}{Thomas}{18}{}%
+\contentsline {section}{Explicit Agreements}{19}{}%
+\contentsline {section}{No Reassessment}{20}{}%
+\contentsline {section}{My Kind of Friend}{21}{}%
+\contentsline {section}{Wheels Up}{22}{}%
+\contentsline {section}{Line of Credit}{23}{}%
+\contentsline {section}{The Talk and the Warm}{24}{}%
+\contentsline {section}{I Understand}{25}{}%
+\contentsline {section}{Landing (soft rock)}{26}{}%
+\contentsline {section}{Behind the Condor}{27}{}%
+\contentsline {section}{Villa Jaguar}{28}{}%
+\contentsline {section}{Little Guajiro}{29}{}%
+\contentsline {section}{Roads Run North}{30}{}%
+\contentsline {section}{Noted and Continued}{31}{}%
+\contentsline {chapter}{\chapternumberline {3}Thomas on Others}{33}{}%
+\contentsline {section}{Last Kiss at Potsdam}{34}{}%
+\contentsline {section}{Last Kiss at Potsdam}{35}{}%
+\contentsline {section}{That Night}{36}{}%
+\contentsline {section}{Quiet Cracked Routine}{37}{}%
+\contentsline {section}{När dörren var öppen}{38}{}%
+\contentsline {section}{Well-Meaning Conspiracies}{39}{}%
+\contentsline {section}{Abu Dhabi}{40}{}%
+\contentsline {section}{No Titles}{41}{}%
+\contentsline {section}{Devirtualizing}{42}{}%
+\contentsline {section}{Mis brazos, no a mí}{43}{}%
+\contentsline {section}{When It Falls Apart}{44}{}%
+\contentsline {section}{Her Own Place}{46}{}%
+\contentsline {section}{Not a Messenger}{47}{}%
+\contentsline {chapter}{\chapternumberline {4}Crew, Cabin \& Flight}{49}{}%
+\contentsline {section}{London to Punta}{50}{}%
+\contentsline {section}{Full Semester Data}{51}{}%
+\contentsline {section}{Airport Hotel Bar}{52}{}%
+\contentsline {section}{Two Separate Rooms}{53}{}%
+\contentsline {section}{Minutes Home}{54}{}%
+\contentsline {section}{Every Reason Why}{55}{}%
+\contentsline {section}{The Woman from the Storm}{56}{}%
+\contentsline {section}{Just Out of Range}{58}{}%
+\contentsline {section}{Between the Ground and the Clouds}{59}{}%
+\contentsline {chapter}{\chapternumberline {5}New York Nights \& Fort Lee Diaries}{61}{}%
+\contentsline {section}{Carroll Gardens}{62}{}%
+\contentsline {section}{Going with the Tenderness}{64}{}%
+\contentsline {section}{Carry On Reset}{65}{}%
+\contentsline {section}{Jersey Summers}{66}{}%
+\contentsline {section}{Thursday's Plans}{67}{}%
+\contentsline {section}{Five Sharp Dinner}{68}{}%
+\contentsline {section}{Bring Claire}{69}{}%
+\contentsline {section}{East Side Table}{70}{}%
+\contentsline {section}{Ross Dock Lunch}{71}{}%
+\contentsline {section}{Hell's Kitchen Dress}{72}{}%
+\contentsline {chapter}{\chapternumberline {6}Operatic Portals}{73}{}%
+\contentsline {section}{Grace in the Gale}{74}{}%
+\contentsline {section}{Mellan is och hård betong}{75}{}%
+\contentsline {section}{Love's Final Name}{76}{}%
+\contentsline {section}{Open Hearts}{77}{}%
+\contentsline {section}{Nomad Butterfly}{78}{}%
+\contentsline {section}{Double Register}{80}{}%
+\contentsline {section}{Go}{81}{}%
+\contentsline {chapter}{\chapternumberline {7}Baltic Anthems}{83}{}%
+\contentsline {section}{Liis Sepp Raising}{84}{}%
+\contentsline {section}{Kedri Petrovna Kuznetsova}{85}{}%
+\contentsline {section}{Petrovna // Петровна}{86}{}%
+\contentsline {section}{Petrovna}{87}{}%
+\contentsline {section}{Zahra Moradi}{88}{}%
+\contentsline {section}{Greca Piras}{89}{}%
+\contentsline {section}{Winter Moves, and I Remain}{90}{}%
+\contentsline {section}{Filed Under Fine}{91}{}%
+\contentsline {section}{Keep the Thread}{92}{}%
+\contentsline {section}{Two Roads Refusing to Divide}{93}{}%
+\contentsline {section}{Warm Hidden in the Cold}{94}{}%
+\contentsline {section}{Sincere}{95}{}%
+\contentsline {chapter}{\chapternumberline {8}Ensembles \& Offices}{97}{}%
+\contentsline {section}{Somewhere Between Flights}{98}{}%
+\contentsline {section}{Ciudad Punta Espada}{99}{}%
+\contentsline {section}{Public Knowledge}{100}{}%
+\contentsline {part}{\partnumberline {II}Ricochets}{101}{}%
+\contentsline {chapter}{\chapternumberline {9}The Colombian Trap (Ricochets)}{105}{}%
+\contentsline {section}{Rosario House}{106}{}%
+\contentsline {section}{Destinies Overlap}{107}{}%
+\contentsline {section}{Berent Steel (Opa's Shadow)}{109}{}%
+\contentsline {section}{Hold Your Breath}{110}{}%
+\contentsline {section}{Inter-Flota Caerá}{111}{}%
+\contentsline {section}{Ricochets Hangover}{112}{}%
+\contentsline {section}{The Steady Hand}{113}{}%
+\contentsline {section}{The Lens Cannot Know}{114}{}%
+\contentsline {part}{\partnumberline {III}Other narrative}{115}{}%
+\contentsline {chapter}{\chapternumberline {10}Encounter Icons \& Heavy Chemistry}{119}{}%
+\contentsline {section}{Ice Cream Friday}{120}{}%
+\contentsline {section}{Passenger-Side Switch}{121}{}%
+\contentsline {section}{Brass Eyed Siren}{122}{}%
+\contentsline {section}{Peeling Paint Girl}{123}{}%
+\contentsline {section}{Wild Cat}{124}{}%
+\contentsline {section}{Watching from a Distance}{125}{}%
+\contentsline {section}{Era el final del verano}{126}{}%
+\contentsline {section}{Enough Sun to Share}{127}{}%
+\contentsline {chapter}{\chapternumberline {11}Shadows \& Goth-Metal Fables}{129}{}%
+\contentsline {section}{Evi Sem Yike}{130}{}%
+\contentsline {section}{Evi Sem Yike (single)}{132}{}%
+\contentsline {section}{Gota a gota}{134}{}%
+\contentsline {section}{Ökenskor av Salt}{135}{}%
+\contentsline {section}{Molten Sunlight}{136}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{137}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{Blue-Point Mischief}{138}{}%
+\contentsline {section}{Headlights That Crush}{139}{}%
+\contentsline {section}{The Decay of Hatred}{140}{}%
+\contentsline {part}{\partnumberline {IV}Essays}{141}{}%
+\contentsline {chapter}{\chapternumberline {12}Debates, Satires \& Systems}{145}{}%
+\contentsline {section}{Cut Me Loose}{146}{}%
+\contentsline {section}{The Toxic Ghost}{147}{}%
+\contentsline {section}{El fin de la historia}{148}{}%
+\contentsline {section}{History Witnessed Live}{149}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{150}{}%
+\contentsline {section}{Balance of Three}{151}{}%
+\contentsline {section}{In the Time of Noah's Ark}{152}{}%
+\contentsline {section}{Dead Sea's barren dreams}{153}{}%
+\contentsline {section}{Buba Kiki Riot}{154}{}%
+\contentsline {section}{Limits of the Load}{155}{}%
+\contentsline {section}{The Country That Never Was}{156}{}%
+\contentsline {section}{Mouth of the Machine}{157}{}%
+\contentsline {section}{Draw the Line}{158}{}%
+\contentsline {section}{Liberation, Mostly}{159}{}%
+\contentsline {section}{Build It with Intention}{160}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{161}{}%
+\contentsline {chapter}{\chapternumberline {13}ADHD Chaos \& Executive Burnout}{165}{}%
+\contentsline {section}{Skälvning}{166}{}%
+\contentsline {section}{Monoestable}{167}{}%
+\contentsline {section}{Paper in the Grinder}{168}{}%
+\contentsline {section}{The Loaded Mind}{169}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{170}{}%
+\contentsline {section}{The Wrong Map}{171}{}%
+\contentsline {section}{The Bitter Toll}{172}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{173}{}%
+\contentsline {section}{The Fault in Your Character}{174}{}%
+\contentsline {section}{The Hardest Toll}{175}{}%
+\contentsline {section}{Let Me Finish}{176}{}%
+\contentsline {section}{Buildings Worlds}{177}{}%
+\contentsline {section}{Burn the Glass}{178}{}%
+\contentsline {section}{The Wrong Map}{179}{}%
+\contentsline {section}{Time to Stop}{180}{}%
+\contentsline {section}{Ripping the Page}{181}{}%
+\contentsline {chapter}{\chapternumberline {14}Confessions \& Small Defeats}{183}{}%
+\contentsline {section}{Je hais}{184}{}%
+\contentsline {section}{Je hais}{185}{}%
+\contentsline {section}{La haine que je te dois}{186}{}%
+\contentsline {section}{Siento}{187}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{188}{}%
+\contentsline {section}{Still Unfinished}{189}{}%
+\contentsline {section}{No Excuse}{190}{}%
+\contentsline {section}{Your Role}{192}{}%
+\contentsline {section}{A Mind That Craves Novelty}{193}{}%
+\contentsline {section}{The Last Waltz of the Northern}{194}{}%
+\contentsline {section}{Migrant Echoes}{195}{}%
+\contentsline {section}{Siento}{196}{}%
+\contentsline {section}{Those Kinds of Crushes}{197}{}%
+\contentsline {chapter}{\chapternumberline {15}Life Stories in Rock}{199}{}%
+\contentsline {section}{Every Little Letter}{200}{}%
+\contentsline {section}{The Questions Kept On Shaping}{201}{}%
+\contentsline {section}{Havana-Bound}{202}{}%
+\contentsline {section}{Three Notebooks}{203}{}%
+\contentsline {section}{Leading the Jump}{204}{}%
+\contentsline {section}{Parked Outside the Classroom}{205}{}%
+\contentsline {section}{Bogotá Cathedral}{206}{}%
+\contentsline {section}{Två år på Söder}{207}{}%
+\contentsline {section}{Between Buffalo and Boston}{208}{}%
+\contentsline {chapter}{\chapternumberline {16}Playful Escapes \& Candy Rock Parades}{209}{}%
+\contentsline {section}{Candy Rock Day}{210}{}%
+\contentsline {section}{Rainbow Candy Parade}{211}{}%
+\contentsline {section}{Peter City Walk}{212}{}%
+\contentsline {section}{Pastel Dream}{213}{}%
+\contentsline {section}{Where the Gentle Things Begin}{214}{}%
+\contentsline {section}{Keep On Rolling}{215}{}%
+\contentsline {section}{Window Seat}{216}{}%
+\contentsline {section}{Kimi sela}{217}{}%
+\contentsline {section}{Live Light, Love Loud}{218}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{219}{}%

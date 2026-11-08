@@ -8,8 +8,10 @@
 # (Windows without WSL/msys/choco make); build.ps1 is the equivalent that
 # runs there today. Keep the two in sync if you add or rename a book.
 #
-# IMPORTANT: songs.idx/songs.ind/tags.idx/tags.ind are SHARED filenames
-# across every book below -- never run this with `make -j`.
+# Each book writes its intermediate files (including the songs/tags
+# indexes, which imakeidx names identically in every book) to its own
+# build/<JobName>/ directory via -auxdir, so books no longer overwrite each
+# other's indexes and an unchanged book is up to date on the next build.
 
 LATEXMK := latexmk
 
@@ -22,58 +24,58 @@ LATEXMK := latexmk
 all: chlewrics electronica pop rockola generos americana internal stories entourage ricochets original personal bable
 
 chlewrics:
-	$(LATEXMK) -jobname=Chlewrics chlewrics.tex
+	$(LATEXMK) -jobname=Chlewrics -auxdir=build/Chlewrics chlewrics.tex
 
 electronica:
-	$(LATEXMK) -jobname=Electronica_lyrics electronica.tex
+	$(LATEXMK) -jobname=Electronica_lyrics -auxdir=build/Electronica_lyrics electronica.tex
 
 pop:
-	$(LATEXMK) -jobname=Pop_lyrics pop.tex
+	$(LATEXMK) -jobname=Pop_lyrics -auxdir=build/Pop_lyrics pop.tex
 
 rockola:
-	$(LATEXMK) -jobname=Rockola_lyrics rockola.tex
+	$(LATEXMK) -jobname=Rockola_lyrics -auxdir=build/Rockola_lyrics rockola.tex
 
 generos:
-	$(LATEXMK) -jobname=Genres_lyrics generos.tex
+	$(LATEXMK) -jobname=Genres_lyrics -auxdir=build/Genres_lyrics generos.tex
 
 americana:
-	$(LATEXMK) -jobname=Americana_lyrics americana.tex
+	$(LATEXMK) -jobname=Americana_lyrics -auxdir=build/Americana_lyrics americana.tex
 
 internal:
-	$(LATEXMK) -jobname=Internal internal.tex
+	$(LATEXMK) -jobname=Internal -auxdir=build/Internal internal.tex
 
 stories:
-	$(LATEXMK) -jobname=Storytelling_lyrics stories.tex
+	$(LATEXMK) -jobname=Storytelling_lyrics -auxdir=build/Storytelling_lyrics stories.tex
 
 entourage:
-	$(LATEXMK) -jobname=Entourage_Lyrics entourage-eco.tex
+	$(LATEXMK) -jobname=Entourage_Lyrics -auxdir=build/Entourage_Lyrics entourage-eco.tex
 
 ricochets:
-	$(LATEXMK) -jobname=Ricochets_lyrics ricochets.tex
+	$(LATEXMK) -jobname=Ricochets_lyrics -auxdir=build/Ricochets_lyrics ricochets.tex
 
 original:
-	$(LATEXMK) -jobname=Original_lyrics original.tex
+	$(LATEXMK) -jobname=Original_lyrics -auxdir=build/Original_lyrics original.tex
 
 personal:
-	$(LATEXMK) -jobname=Personal_lyrics personal.tex
+	$(LATEXMK) -jobname=Personal_lyrics -auxdir=build/Personal_lyrics personal.tex
 
 bable:
-	$(LATEXMK) -jobname=Bable_lyrics bable.tex
+	$(LATEXMK) -jobname=Bable_lyrics -auxdir=build/Bable_lyrics bable.tex
 
 clean:
-	-$(LATEXMK) -c -jobname=Chlewrics chlewrics.tex
-	-$(LATEXMK) -c -jobname=Electronica_lyrics electronica.tex
-	-$(LATEXMK) -c -jobname=Pop_lyrics pop.tex
-	-$(LATEXMK) -c -jobname=Rockola_lyrics rockola.tex
-	-$(LATEXMK) -c -jobname=Genres_lyrics generos.tex
-	-$(LATEXMK) -c -jobname=Americana_lyrics americana.tex
-	-$(LATEXMK) -c -jobname=Internal internal.tex
-	-$(LATEXMK) -c -jobname=Storytelling_lyrics stories.tex
-	-$(LATEXMK) -c -jobname=Entourage_Lyrics entourage-eco.tex
-	-$(LATEXMK) -c -jobname=Ricochets_lyrics ricochets.tex
-	-$(LATEXMK) -c -jobname=Original_lyrics original.tex
-	-$(LATEXMK) -c -jobname=Personal_lyrics personal.tex
-	-$(LATEXMK) -c -jobname=Bable_lyrics bable.tex
+	-$(LATEXMK) -c -jobname=Chlewrics -auxdir=build/Chlewrics chlewrics.tex
+	-$(LATEXMK) -c -jobname=Electronica_lyrics -auxdir=build/Electronica_lyrics electronica.tex
+	-$(LATEXMK) -c -jobname=Pop_lyrics -auxdir=build/Pop_lyrics pop.tex
+	-$(LATEXMK) -c -jobname=Rockola_lyrics -auxdir=build/Rockola_lyrics rockola.tex
+	-$(LATEXMK) -c -jobname=Genres_lyrics -auxdir=build/Genres_lyrics generos.tex
+	-$(LATEXMK) -c -jobname=Americana_lyrics -auxdir=build/Americana_lyrics americana.tex
+	-$(LATEXMK) -c -jobname=Internal -auxdir=build/Internal internal.tex
+	-$(LATEXMK) -c -jobname=Storytelling_lyrics -auxdir=build/Storytelling_lyrics stories.tex
+	-$(LATEXMK) -c -jobname=Entourage_Lyrics -auxdir=build/Entourage_Lyrics entourage-eco.tex
+	-$(LATEXMK) -c -jobname=Ricochets_lyrics -auxdir=build/Ricochets_lyrics ricochets.tex
+	-$(LATEXMK) -c -jobname=Original_lyrics -auxdir=build/Original_lyrics original.tex
+	-$(LATEXMK) -c -jobname=Personal_lyrics -auxdir=build/Personal_lyrics personal.tex
+	-$(LATEXMK) -c -jobname=Bable_lyrics -auxdir=build/Bable_lyrics bable.tex
 	-rm -f songs.idx songs.ind songs.ilg tags.idx tags.ind tags.ilg
 
 distclean: clean

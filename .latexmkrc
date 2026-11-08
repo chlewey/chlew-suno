@@ -7,10 +7,12 @@
 $pdf_mode = 4;                                             # 4 = lualatex -> pdf
 $lualatex = 'lualatex -interaction=nonstopmode -file-line-error -synctex=1 %O %S';
 
-# songs.idx/songs.ind/tags.idx/tags.ind (imakeidx, packages `songs` and
-# `tags`) are SHARED, fixed filenames across every songbook in this
-# directory -- each build overwrites them from scratch. Never build more
-# than one songbook at a time: no `latexmk -jobs=N`, no `make -j`.
+# imakeidx names its indexes songs.* and tags.* in every songbook. build.ps1
+# and the Makefile pass -auxdir=build/<JobName>, so each book keeps its own
+# copies (and its .aux/.toc/.log/.fls/.fdb_latexmk) in its own directory and
+# an unchanged book is not rerun just because another book was built.
+# Building without -auxdir writes them to the root again and brings back
+# the shared-file reruns.
 $max_repeat = 5;
 
 # what `latexmk -c` removes (keeps the PDF; use -C / distclean for that too)

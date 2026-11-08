@@ -105,39 +105,41 @@
 \contentsline {section}{Two Years in Södermalm}{111}{}%
 \contentsline {section}{Leading the Jump}{112}{}%
 \contentsline {section}{Soledad y Compañía}{113}{}%
-\contentsline {part}{\partnumberline {IV}More}{115}{}%
-\contentsline {chapter}{\chapternumberline {9}Experimental}{117}{}%
-\contentsline {section}{Colombia, Tu Papá}{118}{}%
-\contentsline {section}{Co Co Co Co}{119}{}%
-\contentsline {section}{Kapu Lema}{120}{}%
-\contentsline {section}{Badiba Buka}{121}{}%
-\contentsline {section}{Tiempo Real}{122}{}%
-\contentsline {section}{dij Schdzjarvk}{123}{}%
-\contentsline {section}{dij Schdzjarvk}{124}{}%
-\contentsline {section}{Parará Pa Pa}{125}{}%
-\contentsline {section}{O ku pater de nos}{126}{}%
-\contentsline {section}{Cheese Spoon Paseo}{127}{}%
-\contentsline {section}{Wetzing Sacquia}{128}{}%
-\contentsline {chapter}{\chapternumberline {10}Partial Authorship}{129}{}%
-\contentsline {section}{Message trop tard}{130}{}%
-\contentsline {section}{Pío}{131}{}%
-\contentsline {section}{The Fault in Your Character}{132}{}%
-\contentsline {section}{Tracing the Ink}{133}{}%
-\contentsline {section}{Swim Pool Submit}{134}{}%
-\contentsline {section}{Tiny Suits}{135}{}%
-\contentsline {section}{You Owe Me Nought}{136}{}%
-\contentsline {section}{Paths of Grief}{137}{}%
-\contentsline {section}{Nothing More}{138}{}%
-\contentsline {section}{Sin complicaciones}{139}{}%
-\contentsline {section}{Don't Be Evil Yourself}{140}{}%
-\contentsline {section}{The Wanting Remains}{141}{}%
-\contentsline {chapter}{\chapternumberline {11}AI Mimicry}{143}{}%
-\contentsline {section}{Top of the Curve}{144}{}%
-\contentsline {section}{Ripping the Page}{145}{}%
-\contentsline {section}{Liberation, Mostly}{146}{}%
-\contentsline {section}{Window Seat}{147}{}%
-\contentsline {section}{The Long Way to Paris}{148}{}%
-\contentsline {section}{Lo que se ve}{149}{}%
-\contentsline {section}{Behind the Condor}{150}{}%
-\contentsline {section}{Between Buffalo and Boston}{151}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{153}{}%
+\contentsline {section}{Dreaming Is Cheap}{114}{}%
+\contentsline {section}{Life's What Happens}{115}{}%
+\contentsline {part}{\partnumberline {IV}More}{117}{}%
+\contentsline {chapter}{\chapternumberline {9}Experimental}{119}{}%
+\contentsline {section}{Colombia, Tu Papá}{120}{}%
+\contentsline {section}{Co Co Co Co}{121}{}%
+\contentsline {section}{Kapu Lema}{122}{}%
+\contentsline {section}{Badiba Buka}{123}{}%
+\contentsline {section}{Tiempo Real}{124}{}%
+\contentsline {section}{dij Schdzjarvk}{125}{}%
+\contentsline {section}{dij Schdzjarvk}{126}{}%
+\contentsline {section}{Parará Pa Pa}{127}{}%
+\contentsline {section}{O ku pater de nos}{128}{}%
+\contentsline {section}{Cheese Spoon Paseo}{129}{}%
+\contentsline {section}{Wetzing Sacquia}{130}{}%
+\contentsline {chapter}{\chapternumberline {10}Partial Authorship}{131}{}%
+\contentsline {section}{Message trop tard}{132}{}%
+\contentsline {section}{Pío}{133}{}%
+\contentsline {section}{The Fault in Your Character}{134}{}%
+\contentsline {section}{Tracing the Ink}{135}{}%
+\contentsline {section}{Swim Pool Submit}{136}{}%
+\contentsline {section}{Tiny Suits}{137}{}%
+\contentsline {section}{You Owe Me Nought}{138}{}%
+\contentsline {section}{Paths of Grief}{139}{}%
+\contentsline {section}{Nothing More}{140}{}%
+\contentsline {section}{Sin complicaciones}{141}{}%
+\contentsline {section}{Don't Be Evil Yourself}{142}{}%
+\contentsline {section}{The Wanting Remains}{143}{}%
+\contentsline {chapter}{\chapternumberline {11}AI Mimicry}{145}{}%
+\contentsline {section}{Top of the Curve}{146}{}%
+\contentsline {section}{Ripping the Page}{147}{}%
+\contentsline {section}{Liberation, Mostly}{148}{}%
+\contentsline {section}{Window Seat}{149}{}%
+\contentsline {section}{The Long Way to Paris}{150}{}%
+\contentsline {section}{Lo que se ve}{151}{}%
+\contentsline {section}{Behind the Condor}{152}{}%
+\contentsline {section}{Between Buffalo and Boston}{153}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{155}{}%

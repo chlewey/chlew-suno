@@ -11,6 +11,7 @@
 \contentsline {section}{Two Ways to Think}{13}{}%
 \contentsline {section}{Keep On Rolling}{14}{}%
 \contentsline {section}{Columbia’s Neighbors and Countries}{15}{}%
+\contentsline {section}{Stars Keep Watch}{16}{}%
 \contentsline {chapter}{\chapternumberline {2}The Blues Shelf}{17}{}%
 \contentsline {section}{The Good Guy's Dilemma}{18}{}%
 \contentsline {section}{Traga tuitera}{19}{}%
@@ -127,45 +128,52 @@
 \contentsline {section}{Where Your Yes Begins}{140}{}%
 \contentsline {section}{The Door Left Open}{141}{}%
 \contentsline {section}{Two Hard Hearts}{142}{}%
-\contentsline {part}{\partnumberline {II}Soul}{143}{}%
-\contentsline {chapter}{\chapternumberline {9}The Jazz Wing}{147}{}%
-\contentsline {section}{Another Log About Nothing}{148}{}%
-\contentsline {section}{Digital Skies}{149}{}%
-\contentsline {section}{Andrea at Break}{150}{}%
-\contentsline {section}{Hidden Things' Keeper}{151}{}%
-\contentsline {section}{Xumi}{152}{}%
-\contentsline {section}{Aurora In Bogotá}{153}{}%
-\contentsline {section}{Aurora in Green}{154}{}%
-\contentsline {section}{Bogotá Ledger}{155}{}%
-\contentsline {section}{Punta Espada 2026}{156}{}%
-\contentsline {section}{Terms of the Split}{157}{}%
-\contentsline {section}{Teterboro Tarmac}{158}{}%
-\contentsline {section}{Third Time’s Coffee}{159}{}%
-\contentsline {section}{Tide Like Gold}{160}{}%
-\contentsline {section}{Timbales in Blue}{161}{}%
-\contentsline {section}{Under That Wide Brim}{162}{}%
-\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{163}{}%
-\contentsline {section}{Velvet File Cabinet}{164}{}%
-\contentsline {chapter}{\chapternumberline {10}Pews \& Bridges}{165}{}%
-\contentsline {section}{Polilla en las flamas}{166}{}%
-\contentsline {section}{Fallen Messenger}{167}{}%
-\contentsline {section}{Fallen Messenger}{168}{}%
-\contentsline {section}{Not In The Creed}{169}{}%
-\contentsline {section}{Not Misreading Intention}{170}{}%
-\contentsline {section}{Pews and Bridges}{171}{}%
-\contentsline {section}{Talk To Me}{172}{}%
-\contentsline {section}{What The Book Leaves Out}{173}{}%
-\contentsline {section}{What Was Left Behind}{174}{}%
-\contentsline {section}{Which God Stands Still}{175}{}%
-\contentsline {section}{Yes It Can}{176}{}%
-\contentsline {section}{Show Me the Proof}{177}{}%
-\contentsline {section}{Define What You Mean}{178}{}%
-\contentsline {chapter}{\chapternumberline {11}Velvet \& Grit}{181}{}%
-\contentsline {section}{So Wrong}{182}{}%
-\contentsline {section}{Southern Static}{183}{}%
-\contentsline {section}{Blue Optra Morning}{184}{}%
-\contentsline {section}{Everybody Knows Henry}{185}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{186}{}%
-\contentsline {section}{Private Flight}{187}{}%
-\contentsline {section}{Your Room or Mine}{188}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{189}{}%
+\contentsline {section}{Don't Mistake the Bridge for Home}{143}{}%
+\contentsline {section}{Stopped Before the Edge}{145}{}%
+\contentsline {section}{Where the Water Meets Me}{146}{}%
+\contentsline {section}{Keep Your Hands Kind}{147}{}%
+\contentsline {section}{O Come}{148}{}%
+\contentsline {part}{\partnumberline {II}Soul}{151}{}%
+\contentsline {chapter}{\chapternumberline {9}The Jazz Wing}{155}{}%
+\contentsline {section}{Another Log About Nothing}{156}{}%
+\contentsline {section}{Digital Skies}{157}{}%
+\contentsline {section}{Andrea at Break}{158}{}%
+\contentsline {section}{Hidden Things' Keeper}{159}{}%
+\contentsline {section}{Xumi}{160}{}%
+\contentsline {section}{Aurora In Bogotá}{161}{}%
+\contentsline {section}{Aurora in Green}{162}{}%
+\contentsline {section}{Bogotá Ledger}{163}{}%
+\contentsline {section}{Punta Espada 2026}{164}{}%
+\contentsline {section}{Terms of the Split}{165}{}%
+\contentsline {section}{Teterboro Tarmac}{166}{}%
+\contentsline {section}{Third Time’s Coffee}{167}{}%
+\contentsline {section}{Tide Like Gold}{168}{}%
+\contentsline {section}{Timbales in Blue}{169}{}%
+\contentsline {section}{Under That Wide Brim}{170}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{171}{}%
+\contentsline {section}{Velvet File Cabinet}{172}{}%
+\contentsline {chapter}{\chapternumberline {10}Pews \& Bridges}{173}{}%
+\contentsline {section}{Polilla en las flamas}{174}{}%
+\contentsline {section}{Fallen Messenger}{175}{}%
+\contentsline {section}{Fallen Messenger}{176}{}%
+\contentsline {section}{Not In The Creed}{177}{}%
+\contentsline {section}{Not Misreading Intention}{178}{}%
+\contentsline {section}{Pews and Bridges}{179}{}%
+\contentsline {section}{Talk To Me}{180}{}%
+\contentsline {section}{What The Book Leaves Out}{181}{}%
+\contentsline {section}{What Was Left Behind}{182}{}%
+\contentsline {section}{Which God Stands Still}{183}{}%
+\contentsline {section}{Yes It Can}{184}{}%
+\contentsline {section}{Show Me the Proof}{185}{}%
+\contentsline {section}{Define What You Mean}{186}{}%
+\contentsline {section}{Dwell in Us}{188}{}%
+\contentsline {section}{Make Our Hearts a Cradle}{189}{}%
+\contentsline {chapter}{\chapternumberline {11}Velvet \& Grit}{191}{}%
+\contentsline {section}{So Wrong}{192}{}%
+\contentsline {section}{Southern Static}{193}{}%
+\contentsline {section}{Blue Optra Morning}{194}{}%
+\contentsline {section}{Everybody Knows Henry}{195}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{196}{}%
+\contentsline {section}{Private Flight}{197}{}%
+\contentsline {section}{Your Room or Mine}{198}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{199}{}%
