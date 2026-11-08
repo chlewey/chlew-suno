@@ -160,8 +160,12 @@ Current shape of the restructured books (names only, no counts):
 - House styles: stories = long photographic paragraphs; internal = short one-liners;
   rockola = triangle still life (guitar lower-left, two objects); personal = two flat
   fields (matte black and white) split by a jagged gold-leaf seam, objects in full color;
-  entourage-eco profiles = photorealistic portraits (Xumi's prompt is adapted from the
-  owner's canonical character description).
+  entourage-eco = comic-book illustration (clear-line characters, gouache backgrounds,
+  one place and one moment, Thomas never face-on; the house-style paragraph and
+  character looks are in the proposals file and `covers/entourage-eco/characters.yaml`).
+  The old photorealistic prompts live in `entourage-eco-cover-proposals-photorealistic.md`,
+  which `gen_covers.py` does not read. Headings that are not albums must use `###`, or
+  `gen_covers.py` merges them into the next album's title.
 
 ## Owner preferences (carry into every session)
 
