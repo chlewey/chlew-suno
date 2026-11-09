@@ -19,8 +19,9 @@ recorded per song.
   songbooks.
 - Build: LuaLaTeX through latexmk (`.latexmkrc`), `make <book>` or `build.ps1`.
   Targets: chlewrics electronica pop rockola generos americana internal stories
-  entourage ricochets original personal bable. The `.idx/.ind` files are shared:
-  never `make -j`. The cloud container has no LaTeX engine, so Claude cannot build;
+  entourage ricochets original personal bable. Each book keeps its intermediates
+  (including the songs/tags indexes) in `build/<JobName>/` via `-auxdir`; only
+  PDFs and `.synctex.gz` stay in the root. The cloud container has no LaTeX engine, so Claude cannot build;
   say so and ask the owner to run `make` instead of claiming a layout was checked.
 - `MANUAL.md` documents `suno_fetch.py` and `desong.py`; read it before touching the
   import workflow.
@@ -35,7 +36,7 @@ recorded per song.
 | `original.tex` | Original lyrics only, first appearance of each song (no re-genres/adaptations) |
 | `entourage-eco.tex` | The *Thomas' Entourage* universe: characters, stories, arcs |
 | `ricochets.tex` | The *Ricochets* novel |
-| `generos.tex`, `pop.tex`, `rockola.tex`, `electronica.tex` | Genre songbooks |
+| `generos.tex`, `pop.tex`, `rockola.tex`, `electronica.tex`, `americana.tex` | Genre songbooks |
 
 Regenerate a part/chapter outline with a short script that scans
 `\part{}`/`\chapter{}`/`\input{}` (do not trust old outlines, albums move often).
@@ -63,11 +64,22 @@ Current shape of the restructured books (names only, no counts):
 
 ```
 \songtitle{Title}
+\setin{2019-07-08}                     % optional: in-story date of the events
 \tag*{2026}\tag{genre}\tag{original-lyrics}...\label{sec:slug}   % label only when other notes \pageref it
 \begin{notes} ... \end{notes}
 \begin{style} Suno style prompt, verbatim \end{style}
 \begin{lyrics} \songpart{Verse 1} lines ending in \\ ... \end{lyrics}
 ```
+
+### Event date (`\setin`)
+
+- `\setin{...}` is the date *inside the story* (Entourage, Ricochets, autobiographical
+  albums, other stories), unlike `\tag*{YYYY}`, which is the lyrics' origin. It goes on
+  its own line right after `\songtitle` and prints like the datelines of the Entourage
+  story book (small ISO date under the title).
+- ISO with the precision that is known: `2019`, `2019-07`, `2019-07-08`; ranges as
+  `2018/2020`. For Entourage songs the story book (Overleaf project *Entourage*) is the
+  authority; otherwise the owner confirms. Leave it out rather than guess.
 
 ### Tags
 

@@ -95,6 +95,11 @@
 }
 
 \newcommand\songtitle[1]{\clearpage\section{#1}\index[songs]{#1}}
+% \setin{2009-08-13} -- in-story date of the events (not the lyrics' year,
+% which is \tag*{YYYY}). One line right after \songtitle, printed like the
+% datelines of the Entourage story book. ISO precision as known: 2019,
+% 2019-07, 2019-07-08; ranges as 2018/2020.
+\newcommand\setin[1]{\par\noindent{\small\qquad #1}\par\@afterindentfalse\@afterheading}
 \newenvironment{notes}{\subsection*{Notes}}{}
 \newenvironment{prompt}{\subsection*{Prompt}}{}
 \newenvironment{style}{\subsection*{Style}\par\small\raggedright\hyphenpenalty=10000\exhyphenpenalty=10000\sloppy}{}
