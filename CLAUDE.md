@@ -79,7 +79,9 @@ Current shape of the restructured books (names only, no counts):
   story book (small ISO date under the title).
 - ISO with the precision that is known: `2019`, `2019-07`, `2019-07-08`; ranges as
   `2018/2020`. For Entourage songs the story book (Overleaf project *Entourage*) is the
-  authority; otherwise the owner confirms. Leave it out rather than guess.
+  authority, then `reference/travellog-*.csv` in that project; otherwise the owner
+  confirms. Leave it out when the date cannot be found and for timeless songs
+  (portraits, character profiles, songs not tied to one episode).
 
 ### Tags
 
