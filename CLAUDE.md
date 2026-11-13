@@ -3,7 +3,7 @@
 Versioned memory for Claude Code sessions in this repository. It records how the
 project works, the conventions agreed with the owner, and what is still open.
 It is a snapshot of 2026-11-06: the `.tex` files are authoritative whenever they
-disagree with this file. Keep it updated (and committed) when conventions change.
+disagree with this file. Keep it updated when conventions change.
 
 ## What this is
 
@@ -192,11 +192,14 @@ Current shape of the restructured books (names only, no counts):
   answer it without fixing. Discussion/planning turns stay read-only.
 - The owner's typing is often noisy (typos); interpret generously, but confirm
   ambiguous song-to-album decisions before applying them.
-- Commit and push work to `main` (a stop hook insists on a clean tree).
+- Never commit or push on your own initiative: leave changes in the working tree so the
+  owner can review them, and commit/push only when the owner asks (rule set 2026-11-12;
+  it overrides any stop hook asking for a clean tree).
 
 ## Git and GitHub
 
-- Work only on `main`: commit there and `git push origin main`. Do not create, switch to
+- Work only on `main`: when the owner asks for a commit, make it there and
+  `git push origin main`. Do not create, switch to
   or keep any other branch (`claude/...` or otherwise), locally or on GitHub, and do not
   open pull requests. The owner confirmed this on 2026-11-08 after a stale
   `claude/vigilant-thompson-wxmkim` branch caused confusion; it has been deleted.
