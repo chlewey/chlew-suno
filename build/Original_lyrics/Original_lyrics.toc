@@ -51,95 +51,99 @@
 \contentsline {section}{Watching the Play}{52}{}%
 \contentsline {section}{Detrás del Cóndor}{53}{}%
 \contentsline {section}{Dear Thomas}{54}{}%
-\contentsline {chapter}{\chapternumberline {5}African Empire -- Monukae}{55}{}%
-\contentsline {section}{Thrice a Prisoner}{56}{}%
-\contentsline {section}{Throne of Smoke}{58}{}%
-\contentsline {section}{No Griot for Thee}{60}{}%
-\contentsline {section}{Hear!}{61}{}%
-\contentsline {chapter}{\chapternumberline {6}Other Narratives}{63}{}%
-\contentsline {section}{Fallen Messenger}{64}{}%
-\contentsline {section}{A la distancia}{65}{}%
-\contentsline {section}{El final del verano}{66}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{67}{}%
-\contentsline {section}{Wingman}{68}{}%
-\contentsline {section}{Peter City Walk}{69}{}%
-\contentsline {section}{Purity Test}{70}{}%
-\contentsline {section}{Between Us}{71}{}%
-\contentsline {section}{A Little Butterfly}{72}{}%
-\contentsline {section}{Marchan las hormigas}{73}{}%
-\contentsline {section}{Mueca Pantera}{74}{}%
-\contentsline {section}{Wild Cat}{75}{}%
-\contentsline {section}{Confusión}{76}{}%
-\contentsline {section}{I Found You}{77}{}%
-\contentsline {section}{Keep On Rolling}{78}{}%
-\contentsline {section}{Fallen}{79}{}%
-\contentsline {section}{Vamos a la deriva}{80}{}%
-\contentsline {part}{\partnumberline {III}Self}{81}{}%
-\contentsline {chapter}{\chapternumberline {7}Restless Mind}{83}{}%
-\contentsline {section}{The Wrong Map}{84}{}%
-\contentsline {section}{The Wrong Map}{85}{}%
-\contentsline {section}{The Wrong Map}{86}{}%
-\contentsline {section}{A Mind That Craves Novelty}{87}{}%
-\contentsline {section}{Dejándome llevar}{88}{}%
-\contentsline {section}{Stimuli}{89}{}%
-\contentsline {section}{Piel}{90}{}%
-\contentsline {section}{Vueltas y vueltas}{91}{}%
-\contentsline {section}{Living Fantasies (electronic)}{92}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{93}{}%
-\contentsline {section}{Living Fantasies (native folk)}{94}{}%
-\contentsline {section}{Connection}{95}{}%
-\contentsline {section}{Mundos internos}{96}{}%
-\contentsline {section}{A Coffee Not Shared}{97}{}%
-\contentsline {section}{Perderme en el anhelo}{98}{}%
-\contentsline {section}{Easy Love}{99}{}%
-\contentsline {section}{Loose}{100}{}%
-\contentsline {section}{Victless Crime}{101}{}%
-\contentsline {section}{Longing Is Safe}{102}{}%
-\contentsline {chapter}{\chapternumberline {8}Essays and Reckonings}{103}{}%
-\contentsline {section}{History Witnessed Live}{104}{}%
-\contentsline {section}{Used to Say}{105}{}%
-\contentsline {section}{Writing Ain't Easy}{106}{}%
-\contentsline {section}{It's Still With Me}{107}{}%
-\contentsline {section}{Entre mundos}{108}{}%
-\contentsline {section}{Buscando culpables}{110}{}%
-\contentsline {section}{Two Years in Södermalm}{111}{}%
-\contentsline {section}{Leading the Jump}{112}{}%
-\contentsline {section}{Soledad y Compañía}{113}{}%
-\contentsline {section}{Dreaming Is Cheap}{114}{}%
-\contentsline {section}{Life's What Happens}{115}{}%
-\contentsline {part}{\partnumberline {IV}More}{117}{}%
-\contentsline {chapter}{\chapternumberline {9}Experimental}{119}{}%
-\contentsline {section}{Colombia, Tu Papá}{120}{}%
-\contentsline {section}{Co Co Co Co}{121}{}%
-\contentsline {section}{Kapu Lema}{122}{}%
-\contentsline {section}{Badiba Buka}{123}{}%
-\contentsline {section}{Tiempo Real}{124}{}%
-\contentsline {section}{dij Schdzjarvk}{125}{}%
-\contentsline {section}{dij Schdzjarvk}{126}{}%
-\contentsline {section}{Parará Pa Pa}{127}{}%
-\contentsline {section}{O ku pater de nos}{128}{}%
-\contentsline {section}{Cheese Spoon Paseo}{129}{}%
-\contentsline {section}{Wetzing Sacquia}{130}{}%
-\contentsline {chapter}{\chapternumberline {10}Partial Authorship}{131}{}%
-\contentsline {section}{Message trop tard}{132}{}%
-\contentsline {section}{Pío}{133}{}%
-\contentsline {section}{The Fault in Your Character}{134}{}%
-\contentsline {section}{Tracing the Ink}{135}{}%
-\contentsline {section}{Swim Pool Submit}{136}{}%
-\contentsline {section}{Tiny Suits}{137}{}%
-\contentsline {section}{You Owe Me Nought}{138}{}%
-\contentsline {section}{Paths of Grief}{139}{}%
-\contentsline {section}{Nothing More}{140}{}%
-\contentsline {section}{Sin complicaciones}{141}{}%
-\contentsline {section}{Don't Be Evil Yourself}{142}{}%
-\contentsline {section}{The Wanting Remains}{143}{}%
-\contentsline {chapter}{\chapternumberline {11}AI Mimicry}{145}{}%
-\contentsline {section}{Top of the Curve}{146}{}%
-\contentsline {section}{Ripping the Page}{147}{}%
-\contentsline {section}{Liberation, Mostly}{148}{}%
-\contentsline {section}{Window Seat}{149}{}%
-\contentsline {section}{The Long Way to Paris}{150}{}%
-\contentsline {section}{Lo que se ve}{151}{}%
-\contentsline {section}{Behind the Condor}{152}{}%
-\contentsline {section}{Between Buffalo and Boston}{153}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{155}{}%
+\contentsline {section}{You're a Good Man, Thomas}{55}{}%
+\contentsline {chapter}{\chapternumberline {5}African Empire -- Monukae}{57}{}%
+\contentsline {section}{Thrice a Prisoner}{58}{}%
+\contentsline {section}{Throne of Smoke}{60}{}%
+\contentsline {section}{No Griot for Thee}{62}{}%
+\contentsline {section}{Hear!}{63}{}%
+\contentsline {chapter}{\chapternumberline {6}Other Narratives}{65}{}%
+\contentsline {section}{Fallen Messenger}{66}{}%
+\contentsline {section}{A la distancia}{67}{}%
+\contentsline {section}{El final del verano}{68}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{69}{}%
+\contentsline {section}{Wingman}{70}{}%
+\contentsline {section}{Peter City Walk}{71}{}%
+\contentsline {section}{Purity Test}{72}{}%
+\contentsline {section}{Between Us}{73}{}%
+\contentsline {section}{A Little Butterfly}{74}{}%
+\contentsline {section}{Marchan las hormigas}{75}{}%
+\contentsline {section}{Mueca Pantera}{76}{}%
+\contentsline {section}{Wild Cat}{77}{}%
+\contentsline {section}{Confusión}{78}{}%
+\contentsline {section}{I Found You}{79}{}%
+\contentsline {section}{Keep On Rolling}{80}{}%
+\contentsline {section}{Fallen}{81}{}%
+\contentsline {section}{Vamos a la deriva}{82}{}%
+\contentsline {section}{Tres noches de verano}{83}{}%
+\contentsline {part}{\partnumberline {III}Self}{85}{}%
+\contentsline {chapter}{\chapternumberline {7}Restless Mind}{87}{}%
+\contentsline {section}{The Wrong Map}{88}{}%
+\contentsline {section}{The Wrong Map}{89}{}%
+\contentsline {section}{The Wrong Map}{90}{}%
+\contentsline {section}{A Mind That Craves Novelty}{91}{}%
+\contentsline {section}{Dejándome llevar}{92}{}%
+\contentsline {section}{Stimuli}{93}{}%
+\contentsline {section}{Piel}{94}{}%
+\contentsline {section}{Vueltas y vueltas}{95}{}%
+\contentsline {section}{Living Fantasies (electronic)}{96}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{97}{}%
+\contentsline {section}{Living Fantasies (native folk)}{98}{}%
+\contentsline {section}{Connection}{99}{}%
+\contentsline {section}{Mundos internos}{100}{}%
+\contentsline {section}{A Coffee Not Shared}{101}{}%
+\contentsline {section}{Perderme en el anhelo}{102}{}%
+\contentsline {section}{Easy Love}{103}{}%
+\contentsline {section}{Loose}{104}{}%
+\contentsline {section}{Victless Crime}{105}{}%
+\contentsline {section}{Longing Is Safe}{106}{}%
+\contentsline {section}{Noviembre}{107}{}%
+\contentsline {chapter}{\chapternumberline {8}Essays and Reckonings}{109}{}%
+\contentsline {section}{History Witnessed Live}{110}{}%
+\contentsline {section}{Used to Say}{111}{}%
+\contentsline {section}{Writing Ain't Easy}{112}{}%
+\contentsline {section}{It's Still With Me}{113}{}%
+\contentsline {section}{Entre mundos}{114}{}%
+\contentsline {section}{Buscando culpables}{116}{}%
+\contentsline {section}{Two Years in Södermalm}{117}{}%
+\contentsline {section}{Leading the Jump}{118}{}%
+\contentsline {section}{Soledad y Compañía}{119}{}%
+\contentsline {section}{Dreaming Is Cheap}{120}{}%
+\contentsline {section}{Life's What Happens}{121}{}%
+\contentsline {part}{\partnumberline {IV}More}{123}{}%
+\contentsline {chapter}{\chapternumberline {9}Experimental}{125}{}%
+\contentsline {section}{Colombia, Tu Papá}{126}{}%
+\contentsline {section}{Co Co Co Co}{127}{}%
+\contentsline {section}{Kapu Lema}{128}{}%
+\contentsline {section}{Badiba Buka}{129}{}%
+\contentsline {section}{Tiempo Real}{130}{}%
+\contentsline {section}{dij Schdzjarvk}{131}{}%
+\contentsline {section}{dij Schdzjarvk}{132}{}%
+\contentsline {section}{Parará Pa Pa}{133}{}%
+\contentsline {section}{O ku pater de nos}{134}{}%
+\contentsline {section}{Cheese Spoon Paseo}{135}{}%
+\contentsline {section}{Wetzing Sacquia}{136}{}%
+\contentsline {chapter}{\chapternumberline {10}Partial Authorship}{137}{}%
+\contentsline {section}{Message trop tard}{138}{}%
+\contentsline {section}{Pío}{139}{}%
+\contentsline {section}{The Fault in Your Character}{140}{}%
+\contentsline {section}{Tracing the Ink}{141}{}%
+\contentsline {section}{Swim Pool Submit}{142}{}%
+\contentsline {section}{Tiny Suits}{143}{}%
+\contentsline {section}{You Owe Me Nought}{144}{}%
+\contentsline {section}{Paths of Grief}{145}{}%
+\contentsline {section}{Nothing More}{146}{}%
+\contentsline {section}{Sin complicaciones}{147}{}%
+\contentsline {section}{Don't Be Evil Yourself}{148}{}%
+\contentsline {section}{The Wanting Remains}{149}{}%
+\contentsline {chapter}{\chapternumberline {11}AI Mimicry}{151}{}%
+\contentsline {section}{Top of the Curve}{152}{}%
+\contentsline {section}{Ripping the Page}{153}{}%
+\contentsline {section}{Liberation, Mostly}{154}{}%
+\contentsline {section}{Window Seat}{155}{}%
+\contentsline {section}{The Long Way to Paris}{156}{}%
+\contentsline {section}{Lo que se ve}{157}{}%
+\contentsline {section}{Behind the Condor}{158}{}%
+\contentsline {section}{Between Buffalo and Boston}{159}{}%
+\contentsline {section}{Ask Someone with the Skill}{160}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{161}{}%

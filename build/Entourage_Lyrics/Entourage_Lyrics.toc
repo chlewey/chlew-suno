@@ -178,94 +178,100 @@
 \contentsline {section}{Pacifica Miles}{185}{}%
 \contentsline {section}{Villa Jaguar}{186}{}%
 \contentsline {section}{La distancia justa}{187}{}%
-\contentsline {section}{Gabi’s Shoulder}{188}{}%
-\contentsline {section}{After the Lights}{190}{}%
-\contentsline {section}{Melgar Table}{191}{}%
-\contentsline {chapter}{\chapternumberline {16}Stories - Part III}{193}{}%
-\contentsline {section}{Public Face}{194}{}%
-\contentsline {section}{Moon at the Cabin}{195}{}%
-\contentsline {section}{Cabin at Sunrise}{196}{}%
-\contentsline {section}{Dear Thomas}{197}{}%
-\contentsline {section}{Where the Tide Turns}{198}{}%
-\contentsline {section}{Not an Infrastructure Guy}{199}{}%
-\contentsline {section}{Stay a Little Longer}{200}{}%
-\contentsline {section}{Weird}{201}{}%
-\contentsline {section}{Night-long Embrace}{202}{}%
-\contentsline {section}{Stay Here Beside Me}{203}{}%
-\contentsline {section}{Well-Meaning Conspiracies}{204}{}%
-\contentsline {section}{Ciudad Punta Espada}{205}{}%
-\contentsline {section}{Meet Me at Punta Espada}{206}{}%
-\contentsline {section}{Two Roads Refusing to Divide}{207}{}%
-\contentsline {chapter}{\chapternumberline {17}Stories - Part IV}{209}{}%
-\contentsline {section}{Mis brazos, no a mí}{210}{}%
-\contentsline {section}{When It Falls Apart}{211}{}%
-\contentsline {section}{Her Own Place}{213}{}%
-\contentsline {section}{Not a Messenger}{214}{}%
-\contentsline {section}{Don't Mistake the Bridge for Home}{215}{}%
-\contentsline {section}{Stopped Before the Edge}{217}{}%
-\contentsline {section}{Where the Water Meets Me}{218}{}%
-\contentsline {section}{Keep Your Hands Kind}{219}{}%
-\contentsline {chapter}{\chapternumberline {18}Thomas gaze}{221}{}%
-\contentsline {section}{La puerta abierta}{222}{}%
-\contentsline {section}{Wheels Up}{223}{}%
-\contentsline {section}{Line of Credit}{224}{}%
-\contentsline {section}{Ibiza Hunt}{225}{}%
-\contentsline {section}{Last Kiss at Potsdam}{226}{}%
-\contentsline {section}{Landscape}{227}{}%
-\contentsline {section}{Efficient and Charming}{228}{}%
-\contentsline {section}{Borrowed Time}{229}{}%
-\contentsline {section}{That Night}{231}{}%
-\contentsline {section}{Carbonia in the Rear Window}{232}{}%
-\contentsline {section}{Vicky's Impossible Chart}{233}{}%
-\contentsline {section}{Delicate Swan}{234}{}%
-\contentsline {section}{A Night To Remember}{235}{}%
-\contentsline {section}{Devirtualizing}{236}{}%
-\contentsline {section}{Just Out of Range}{237}{}%
-\contentsline {section}{Tracing the Ink}{238}{}%
-\contentsline {section}{The Woman from the Storm}{239}{}%
-\contentsline {section}{Little Guajiro}{241}{}%
-\contentsline {section}{My Delicate Verse}{242}{}%
-\contentsline {section}{After the Bliss}{243}{}%
-\contentsline {chapter}{\chapternumberline {19}Rotterdam Leg}{245}{}%
-\contentsline {section}{Serious Enquires}{246}{}%
-\contentsline {section}{Private Flight}{247}{}%
-\contentsline {section}{Teterboro Tarmac}{248}{}%
-\contentsline {section}{Rotterdam First}{249}{}%
-\contentsline {section}{Reasonable Attribution}{250}{}%
-\contentsline {section}{Tallinn Window}{251}{}%
-\contentsline {section}{Where's the Fun}{252}{}%
-\contentsline {section}{I'm Gonna Be Boring}{253}{}%
-\contentsline {section}{For Now}{254}{}%
-\contentsline {section}{Baguettine}{255}{}%
-\contentsline {section}{That Kind}{256}{}%
-\contentsline {section}{Footnotes and Maps}{257}{}%
-\contentsline {section}{Measured Sip}{258}{}%
-\contentsline {section}{Just Trains}{259}{}%
-\contentsline {section}{Queens Changes Fast}{260}{}%
-\contentsline {section}{Refuel First}{261}{}%
-\contentsline {section}{First Checkpoint}{263}{}%
-\contentsline {section}{No Signal Yet}{264}{}%
-\contentsline {section}{Baseline Cleared}{265}{}%
-\contentsline {section}{Chicken Sandwich Deal}{266}{}%
-\contentsline {chapter}{\chapternumberline {20}Tallin Series}{267}{}%
-\contentsline {section}{Tucanito to Tallinn}{268}{}%
-\contentsline {section}{Semestermap in Tallinn}{269}{}%
-\contentsline {section}{Tallinn By January}{270}{}%
-\contentsline {section}{Tallinn To Riga}{271}{}%
-\contentsline {section}{Villa in Sardinia}{272}{}%
-\contentsline {section}{Eight March Locked In}{273}{}%
-\contentsline {section}{Teal in Carbonia}{274}{}%
-\contentsline {chapter}{\chapternumberline {21}Tallin Stories}{275}{}%
-\contentsline {section}{Steel \& Violet}{276}{}%
-\contentsline {section}{Warm Hidden in the Cold}{277}{}%
-\contentsline {section}{So Wrong}{278}{}%
-\contentsline {section}{Extension of Friendship}{279}{}%
-\contentsline {section}{Catching Up}{280}{}%
-\contentsline {section}{Carroll Gardens}{281}{}%
-\contentsline {section}{Sincere}{283}{}%
-\contentsline {section}{I Thought We Were Home}{284}{}%
-\contentsline {section}{Carbonia Villa Blues}{285}{}%
-\contentsline {section}{\textarabic {\sffamily کوچه‌ی دیگر} (Kuche-ye Digar)}{286}{}%
+\contentsline {section}{White Hat (Same Weight)}{188}{}%
+\contentsline {section}{Too High to Say}{190}{}%
+\contentsline {section}{Everyone Says Yes}{191}{}%
+\contentsline {section}{Gabi’s Shoulder}{192}{}%
+\contentsline {section}{After the Lights}{194}{}%
+\contentsline {section}{Melgar Table}{195}{}%
+\contentsline {chapter}{\chapternumberline {16}Stories - Part III}{197}{}%
+\contentsline {section}{Public Face}{198}{}%
+\contentsline {section}{Moon at the Cabin}{199}{}%
+\contentsline {section}{Cabin at Sunrise}{200}{}%
+\contentsline {section}{Dear Thomas}{201}{}%
+\contentsline {section}{Where the Tide Turns}{202}{}%
+\contentsline {section}{Not an Infrastructure Guy}{203}{}%
+\contentsline {section}{Stay a Little Longer}{204}{}%
+\contentsline {section}{Weird}{205}{}%
+\contentsline {section}{Night-long Embrace}{206}{}%
+\contentsline {section}{Stay Here Beside Me}{207}{}%
+\contentsline {section}{Well-Meaning Conspiracies}{208}{}%
+\contentsline {section}{Ciudad Punta Espada}{209}{}%
+\contentsline {section}{Meet Me at Punta Espada}{210}{}%
+\contentsline {section}{Two Roads Refusing to Divide}{211}{}%
+\contentsline {chapter}{\chapternumberline {17}Stories - Part IV}{213}{}%
+\contentsline {section}{Mis brazos, no a mí}{214}{}%
+\contentsline {section}{When It Falls Apart}{215}{}%
+\contentsline {section}{Her Own Place}{217}{}%
+\contentsline {section}{Not a Messenger}{218}{}%
+\contentsline {section}{Shoulders}{219}{}%
+\contentsline {section}{You're a Good Man, Thomas}{220}{}%
+\contentsline {section}{Don't Mistake the Bridge for Home}{221}{}%
+\contentsline {section}{Stopped Before the Edge}{223}{}%
+\contentsline {section}{Where the Water Meets Me}{224}{}%
+\contentsline {section}{Keep Your Hands Kind}{225}{}%
+\contentsline {section}{Lines Not Crossed}{226}{}%
+\contentsline {chapter}{\chapternumberline {18}Thomas gaze}{227}{}%
+\contentsline {section}{La puerta abierta}{228}{}%
+\contentsline {section}{Wheels Up}{229}{}%
+\contentsline {section}{Line of Credit}{230}{}%
+\contentsline {section}{Ibiza Hunt}{231}{}%
+\contentsline {section}{Last Kiss at Potsdam}{232}{}%
+\contentsline {section}{Landscape}{233}{}%
+\contentsline {section}{Efficient and Charming}{234}{}%
+\contentsline {section}{Borrowed Time}{235}{}%
+\contentsline {section}{That Night}{237}{}%
+\contentsline {section}{Carbonia in the Rear Window}{238}{}%
+\contentsline {section}{Vicky's Impossible Chart}{239}{}%
+\contentsline {section}{Delicate Swan}{240}{}%
+\contentsline {section}{A Night To Remember}{241}{}%
+\contentsline {section}{Devirtualizing}{242}{}%
+\contentsline {section}{Just Out of Range}{243}{}%
+\contentsline {section}{Tracing the Ink}{244}{}%
+\contentsline {section}{The Woman from the Storm}{245}{}%
+\contentsline {section}{Little Guajiro}{247}{}%
+\contentsline {section}{My Delicate Verse}{248}{}%
+\contentsline {section}{After the Bliss}{249}{}%
+\contentsline {chapter}{\chapternumberline {19}Rotterdam Leg}{251}{}%
+\contentsline {section}{Serious Enquires}{252}{}%
+\contentsline {section}{Private Flight}{253}{}%
+\contentsline {section}{Teterboro Tarmac}{254}{}%
+\contentsline {section}{Rotterdam First}{255}{}%
+\contentsline {section}{Reasonable Attribution}{256}{}%
+\contentsline {section}{Tallinn Window}{257}{}%
+\contentsline {section}{Where's the Fun}{258}{}%
+\contentsline {section}{I'm Gonna Be Boring}{259}{}%
+\contentsline {section}{For Now}{260}{}%
+\contentsline {section}{Baguettine}{261}{}%
+\contentsline {section}{That Kind}{262}{}%
+\contentsline {section}{Footnotes and Maps}{263}{}%
+\contentsline {section}{Measured Sip}{264}{}%
+\contentsline {section}{Just Trains}{265}{}%
+\contentsline {section}{Queens Changes Fast}{266}{}%
+\contentsline {section}{Refuel First}{267}{}%
+\contentsline {section}{First Checkpoint}{269}{}%
+\contentsline {section}{No Signal Yet}{270}{}%
+\contentsline {section}{Baseline Cleared}{271}{}%
+\contentsline {section}{Chicken Sandwich Deal}{272}{}%
+\contentsline {chapter}{\chapternumberline {20}Tallin Series}{273}{}%
+\contentsline {section}{Tucanito to Tallinn}{274}{}%
+\contentsline {section}{Semestermap in Tallinn}{275}{}%
+\contentsline {section}{Tallinn By January}{276}{}%
+\contentsline {section}{Tallinn To Riga}{277}{}%
+\contentsline {section}{Villa in Sardinia}{278}{}%
+\contentsline {section}{Eight March Locked In}{279}{}%
+\contentsline {section}{Teal in Carbonia}{280}{}%
+\contentsline {chapter}{\chapternumberline {21}Tallin Stories}{281}{}%
+\contentsline {section}{Steel \& Violet}{282}{}%
+\contentsline {section}{Warm Hidden in the Cold}{283}{}%
+\contentsline {section}{So Wrong}{284}{}%
+\contentsline {section}{Extension of Friendship}{285}{}%
+\contentsline {section}{Catching Up}{286}{}%
+\contentsline {section}{Carroll Gardens}{287}{}%
+\contentsline {section}{Sincere}{289}{}%
+\contentsline {section}{I Thought We Were Home}{290}{}%
+\contentsline {section}{Carbonia Villa Blues}{291}{}%
+\contentsline {section}{\textarabic {\sffamily کوچه‌ی دیگر} (Kuche-ye Digar)}{292}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -284,70 +290,75 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Paolo’s Text}{287}{}%
-\contentsline {section}{Quiet Cracked Routine}{288}{}%
-\contentsline {chapter}{\chapternumberline {22}Summer 2019}{289}{}%
-\contentsline {section}{Roads Run North}{290}{}%
-\contentsline {section}{Where Your Yes Begins}{291}{}%
-\contentsline {section}{Just the Road}{292}{}%
-\contentsline {section}{Going with the Tenderness}{293}{}%
-\contentsline {section}{Between the Ground and the Clouds}{294}{}%
-\contentsline {section}{Make a Room Your Own}{295}{}%
-\contentsline {section}{The Night Say What It Knew}{297}{}%
-\contentsline {section}{Noted and Continued}{298}{}%
-\contentsline {section}{A Small Season}{299}{}%
-\contentsline {section}{Small Season}{301}{}%
-\contentsline {chapter}{\chapternumberline {23}Sylvia's diary}{303}{}%
-\contentsline {section}{Il più bello del liceo}{304}{}%
-\contentsline {section}{Peccato d'aprile}{305}{}%
-\contentsline {section}{Casa non è}{307}{}%
-\contentsline {section}{Qualcosa di vero}{309}{}%
-\contentsline {section}{Sa fiamma}{311}{}%
-\contentsline {section}{Sin complicaciones}{313}{}%
-\contentsline {section}{She Notices}{314}{}%
-\contentsline {section}{Resto qui}{315}{}%
-\contentsline {chapter}{\chapternumberline {24}Kadri's Ledger}{317}{}%
-\contentsline {section}{By the Office Door}{318}{}%
-\contentsline {section}{Beyond the Frame}{319}{}%
-\contentsline {section}{Winter Moves, and I Remain}{320}{}%
-\contentsline {section}{Filed Under Fine}{321}{}%
-\contentsline {section}{Borrowed Calm}{322}{}%
-\contentsline {section}{Keep the Thread}{323}{}%
-\contentsline {chapter}{\chapternumberline {25}Gabi's bio}{325}{}%
-\contentsline {section}{Potsdam After the Fall}{326}{}%
-\contentsline {section}{Garage Lines}{327}{}%
-\contentsline {section}{Welding Certificate}{328}{}%
-\contentsline {section}{Queens Weld Shop}{329}{}%
-\contentsline {section}{Summer of Potsdam}{330}{}%
-\contentsline {section}{Summer Of Thirteen}{331}{}%
-\contentsline {section}{Mariain}{332}{}%
-\contentsline {section}{Inherited Heat}{333}{}%
-\contentsline {section}{Clean Cut Winter}{334}{}%
-\contentsline {section}{Thomas In August}{335}{}%
-\contentsline {section}{What Thomas Gave}{336}{}%
-\contentsline {section}{Official Partner}{337}{}%
-\contentsline {section}{Potsdam 2021}{338}{}%
-\contentsline {section}{Queens Studio Key}{339}{}%
-\contentsline {section}{The Cleaner Exit}{340}{}%
-\contentsline {section}{Before Barcelona}{341}{}%
-\contentsline {section}{Still A Promise}{342}{}%
-\contentsline {chapter}{\chapternumberline {26}London To Punta}{343}{}%
-\contentsline {section}{London to Punta}{344}{}%
-\contentsline {section}{Air Jaguar}{345}{}%
-\contentsline {section}{Punta Espada}{347}{}%
-\contentsline {chapter}{\chapternumberline {27}A New York Night}{349}{}%
-\contentsline {section}{Carry On Reset}{350}{}%
-\contentsline {section}{Jersey Summers}{351}{}%
-\contentsline {section}{Thursday's Plans}{352}{}%
-\contentsline {section}{Five Sharp Dinner}{353}{}%
-\contentsline {section}{Bring Claire}{354}{}%
-\contentsline {section}{East Side Table}{355}{}%
-\contentsline {section}{Ross Dock Lunch}{356}{}%
-\contentsline {section}{Hell's Kitchen Dress}{357}{}%
-\contentsline {part}{\partnumberline {IV}Extras}{359}{}%
-\contentsline {chapter}{\chapternumberline {28}Translations}{361}{}%
-\contentsline {section}{Diana carries her own gravity}{362}{}%
-\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{363}{}%
+\contentsline {section}{Paolo’s Text}{293}{}%
+\contentsline {section}{Quiet Cracked Routine}{294}{}%
+\contentsline {chapter}{\chapternumberline {22}Summer 2019}{295}{}%
+\contentsline {section}{Roads Run North}{296}{}%
+\contentsline {section}{Where Your Yes Begins}{297}{}%
+\contentsline {section}{Just the Road}{298}{}%
+\contentsline {section}{Going with the Tenderness}{299}{}%
+\contentsline {section}{Between the Ground and the Clouds}{300}{}%
+\contentsline {section}{Make a Room Your Own}{301}{}%
+\contentsline {section}{The Night Say What It Knew}{303}{}%
+\contentsline {section}{Noted and Continued}{304}{}%
+\contentsline {section}{A Small Season}{305}{}%
+\contentsline {section}{Small Season}{307}{}%
+\contentsline {chapter}{\chapternumberline {23}Sylvia's diary}{309}{}%
+\contentsline {section}{Il più bello del liceo}{310}{}%
+\contentsline {section}{Peccato d'aprile}{311}{}%
+\contentsline {section}{Casa non è}{313}{}%
+\contentsline {section}{Qualcosa di vero}{315}{}%
+\contentsline {section}{Sa fiamma}{317}{}%
+\contentsline {section}{Stay A Little}{319}{}%
+\contentsline {section}{A Cabin Waiting Past the Palms}{320}{}%
+\contentsline {section}{Learning How to Stand Here}{321}{}%
+\contentsline {section}{Folded in My Coat}{322}{}%
+\contentsline {section}{Elmetto azzurro}{323}{}%
+\contentsline {section}{Sin complicaciones}{324}{}%
+\contentsline {section}{She Notices}{325}{}%
+\contentsline {section}{Resto qui}{326}{}%
+\contentsline {chapter}{\chapternumberline {24}Kadri's Ledger}{329}{}%
+\contentsline {section}{By the Office Door}{330}{}%
+\contentsline {section}{Beyond the Frame}{331}{}%
+\contentsline {section}{Winter Moves, and I Remain}{332}{}%
+\contentsline {section}{Filed Under Fine}{333}{}%
+\contentsline {section}{Borrowed Calm}{334}{}%
+\contentsline {section}{Keep the Thread}{335}{}%
+\contentsline {chapter}{\chapternumberline {25}Gabi's bio}{337}{}%
+\contentsline {section}{Potsdam After the Fall}{338}{}%
+\contentsline {section}{Garage Lines}{339}{}%
+\contentsline {section}{Welding Certificate}{340}{}%
+\contentsline {section}{Queens Weld Shop}{341}{}%
+\contentsline {section}{Summer of Potsdam}{342}{}%
+\contentsline {section}{Summer Of Thirteen}{343}{}%
+\contentsline {section}{Mariain}{344}{}%
+\contentsline {section}{Inherited Heat}{345}{}%
+\contentsline {section}{Clean Cut Winter}{346}{}%
+\contentsline {section}{Thomas In August}{347}{}%
+\contentsline {section}{What Thomas Gave}{348}{}%
+\contentsline {section}{Official Partner}{349}{}%
+\contentsline {section}{Potsdam 2021}{350}{}%
+\contentsline {section}{Queens Studio Key}{351}{}%
+\contentsline {section}{The Cleaner Exit}{352}{}%
+\contentsline {section}{Before Barcelona}{353}{}%
+\contentsline {section}{Still A Promise}{354}{}%
+\contentsline {chapter}{\chapternumberline {26}London To Punta}{355}{}%
+\contentsline {section}{London to Punta}{356}{}%
+\contentsline {section}{Air Jaguar}{357}{}%
+\contentsline {section}{Punta Espada}{359}{}%
+\contentsline {chapter}{\chapternumberline {27}A New York Night}{361}{}%
+\contentsline {section}{Carry On Reset}{362}{}%
+\contentsline {section}{Jersey Summers}{363}{}%
+\contentsline {section}{Thursday's Plans}{364}{}%
+\contentsline {section}{Five Sharp Dinner}{365}{}%
+\contentsline {section}{Bring Claire}{366}{}%
+\contentsline {section}{East Side Table}{367}{}%
+\contentsline {section}{Ross Dock Lunch}{368}{}%
+\contentsline {section}{Hell's Kitchen Dress}{369}{}%
+\contentsline {part}{\partnumberline {IV}Extras}{371}{}%
+\contentsline {chapter}{\chapternumberline {28}Translations}{373}{}%
+\contentsline {section}{Diana carries her own gravity}{374}{}%
+\contentsline {section}{\textarabic {\sffamily ديانا كاتحمل ثقلها} (Diana Kathmil Tqlha)}{375}{}%
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
@@ -368,39 +379,39 @@
 \xpg@aux {}{english}
 \xpg@aux {}{arabic}
 \xpg@aux {}{english}
-\contentsline {section}{Unopened Door}{364}{}%
-\contentsline {section}{Choosing Here}{365}{}%
-\contentsline {section}{Petrovna}{367}{}%
-\contentsline {section}{Luciafestens dugg}{368}{}%
-\contentsline {section}{The Other Local Girl}{369}{}%
-\contentsline {section}{Little Trouble Tonight}{371}{}%
-\contentsline {section}{Your Room or Mine}{372}{}%
-\contentsline {section}{My Kind of Friend}{373}{}%
-\contentsline {section}{När dörren var öppen}{374}{}%
-\contentsline {section}{After the Door Was Open}{375}{}%
-\contentsline {section}{Behind the Condor}{376}{}%
-\contentsline {chapter}{\chapternumberline {29}Adaptations}{377}{}%
-\contentsline {section}{Vor Barcelona (English)}{378}{}%
-\contentsline {section}{Gabi}{379}{}%
-\contentsline {section}{At The Cabin}{380}{}%
-\contentsline {section}{Natalia in Milan}{381}{}%
-\contentsline {section}{Delicate Swan}{382}{}%
-\contentsline {section}{Last Kiss at Potsdam}{383}{}%
-\contentsline {section}{Name-Shaped Silence}{384}{}%
-\contentsline {section}{That Kiss}{385}{}%
-\contentsline {section}{Kelidi Degar}{386}{}%
-\contentsline {section}{Nothing More}{387}{}%
-\contentsline {section}{I Need My Aurora}{388}{}%
-\contentsline {section}{No Titles}{389}{}%
-\contentsline {section}{Landing (soft rock)}{390}{}%
-\contentsline {chapter}{\chapternumberline {30}Meta and adjacent}{391}{}%
-\contentsline {section}{Into the Digital Night}{392}{}%
-\contentsline {section}{A Little Universe}{393}{}%
-\contentsline {section}{A Ground I Choose}{394}{}%
-\contentsline {section}{Leave the Door Unlatched}{395}{}%
-\contentsline {section}{Routes Keep Moving}{396}{}%
-\contentsline {section}{Blank Scraps}{397}{}%
-\contentsline {section}{Torn-Out Spaces}{398}{}%
-\contentsline {chapter}{\chapternumberline {31}Drafts}{399}{}%
-\contentsline {section}{Vor Barcelona}{400}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{401}{}%
+\contentsline {section}{Unopened Door}{376}{}%
+\contentsline {section}{Choosing Here}{377}{}%
+\contentsline {section}{Petrovna}{379}{}%
+\contentsline {section}{Luciafestens dugg}{380}{}%
+\contentsline {section}{The Other Local Girl}{381}{}%
+\contentsline {section}{Little Trouble Tonight}{383}{}%
+\contentsline {section}{Your Room or Mine}{384}{}%
+\contentsline {section}{My Kind of Friend}{385}{}%
+\contentsline {section}{När dörren var öppen}{386}{}%
+\contentsline {section}{After the Door Was Open}{387}{}%
+\contentsline {section}{Behind the Condor}{388}{}%
+\contentsline {chapter}{\chapternumberline {29}Adaptations}{389}{}%
+\contentsline {section}{Vor Barcelona (English)}{390}{}%
+\contentsline {section}{Gabi}{391}{}%
+\contentsline {section}{At The Cabin}{392}{}%
+\contentsline {section}{Natalia in Milan}{393}{}%
+\contentsline {section}{Delicate Swan}{394}{}%
+\contentsline {section}{Last Kiss at Potsdam}{395}{}%
+\contentsline {section}{Name-Shaped Silence}{396}{}%
+\contentsline {section}{That Kiss}{397}{}%
+\contentsline {section}{Kelidi Degar}{398}{}%
+\contentsline {section}{Nothing More}{399}{}%
+\contentsline {section}{I Need My Aurora}{400}{}%
+\contentsline {section}{No Titles}{401}{}%
+\contentsline {section}{Landing (soft rock)}{402}{}%
+\contentsline {chapter}{\chapternumberline {30}Meta and adjacent}{403}{}%
+\contentsline {section}{Into the Digital Night}{404}{}%
+\contentsline {section}{A Little Universe}{405}{}%
+\contentsline {section}{A Ground I Choose}{406}{}%
+\contentsline {section}{Leave the Door Unlatched}{407}{}%
+\contentsline {section}{Routes Keep Moving}{408}{}%
+\contentsline {section}{Blank Scraps}{409}{}%
+\contentsline {section}{Torn-Out Spaces}{410}{}%
+\contentsline {chapter}{\chapternumberline {31}Drafts}{411}{}%
+\contentsline {section}{Vor Barcelona}{412}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{413}{}%

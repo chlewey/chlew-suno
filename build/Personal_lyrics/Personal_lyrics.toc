@@ -1,67 +1,75 @@
 \xpg@aux {}{english}
 \contentsline {chapter}{\chapternumberline {1}Biographical I: Twentieth Century}{1}{}%
 \contentsline {section}{Every Little Letter}{2}{}%
-\contentsline {section}{Adi In The Locker}{3}{}%
-\contentsline {section}{The Questions Kept On Shaping}{4}{}%
-\contentsline {section}{Havana-Bound}{5}{}%
-\contentsline {section}{Lost in What}{6}{}%
-\contentsline {section}{Two Years in Södermalm}{7}{}%
-\contentsline {section}{Två år på Söder}{8}{}%
-\contentsline {section}{Memoria de humo}{9}{}%
-\contentsline {section}{Sofa at Midnight}{10}{}%
-\contentsline {section}{Ale On The Sofa}{11}{}%
-\contentsline {section}{Leading the Jump}{12}{}%
-\contentsline {section}{On the Road to Chachagüí}{13}{}%
-\contentsline {chapter}{\chapternumberline {2}Biographical II: Twenty-First Century}{15}{}%
-\contentsline {section}{Ventana de noviembre}{16}{}%
-\contentsline {section}{Parked Outside the Classroom}{17}{}%
-\contentsline {section}{A Bag Sleeping in Jamaica}{18}{}%
-\contentsline {section}{Tuit y Ceniza}{19}{}%
-\contentsline {section}{Arrow Throwing Rat}{20}{}%
-\contentsline {section}{Unconfessed}{21}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{22}{}%
-\contentsline {section}{Baltic and Bogotá}{24}{}%
-\contentsline {section}{Bogotá Cathedral}{25}{}%
-\contentsline {section}{History Witnessed Live}{26}{}%
-\contentsline {section}{Life's What Happens}{27}{}%
-\contentsline {chapter}{\chapternumberline {3}Soul and craves}{29}{}%
-\contentsline {section}{No Excuse}{30}{}%
-\contentsline {section}{Irrelevant Conversations}{32}{}%
-\contentsline {section}{A Mind That Craves Novelty}{33}{}%
-\contentsline {section}{Dejándome llevar}{34}{}%
-\contentsline {section}{Stimuli}{35}{}%
-\contentsline {section}{Piel}{36}{}%
-\contentsline {section}{Connection}{37}{}%
-\contentsline {section}{Living Fantasies (electronic)}{38}{}%
-\contentsline {section}{Vueltas y vueltas}{39}{}%
-\contentsline {section}{Mundos internos}{40}{}%
-\contentsline {section}{A Coffee Not Shared}{41}{}%
-\contentsline {section}{Perderme en el anhelo}{42}{}%
-\contentsline {section}{Easy Love}{43}{}%
-\contentsline {section}{Loose}{44}{}%
-\contentsline {section}{Victless Crime}{45}{}%
-\contentsline {section}{¿Qué busco?}{46}{}%
-\contentsline {section}{What I'm Allowed to Need}{47}{}%
-\contentsline {section}{A Body Without a Name}{48}{}%
-\contentsline {section}{Longing Is Safe}{49}{}%
-\contentsline {chapter}{\chapternumberline {4}The self}{51}{}%
-\contentsline {section}{Temblando}{52}{}%
-\contentsline {section}{Vulnerable}{53}{}%
-\contentsline {section}{The Loaded Mind}{54}{}%
-\contentsline {section}{Modo Pararrayos}{55}{}%
-\contentsline {section}{Lightning Rod Mode}{56}{}%
-\contentsline {section}{Multiply the Delay}{57}{}%
-\contentsline {section}{The Fault in Your Character}{58}{}%
-\contentsline {section}{The Wrong Map}{59}{}%
-\contentsline {section}{Time to Stop}{60}{}%
-\contentsline {section}{Entre mundos}{61}{}%
-\contentsline {section}{Used to Say}{63}{}%
-\contentsline {section}{Buscando culpables}{64}{}%
-\contentsline {section}{Kvar i mig}{65}{}%
-\contentsline {section}{Se Acabó la Discusión}{66}{}%
-\contentsline {section}{Soledad y Compañía}{67}{}%
-\contentsline {section}{Let You Sit With Me}{68}{}%
-\contentsline {chapter}{\chapternumberline {5}Extra stuff}{69}{}%
-\contentsline {section}{Writing Ain't Easy}{70}{}%
-\contentsline {section}{Weather and Memory}{71}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{73}{}%
+\contentsline {section}{Static on the Radio}{3}{}%
+\contentsline {section}{The Town Was Gone}{4}{}%
+\contentsline {section}{The Jingle Before the Words}{5}{}%
+\contentsline {section}{Adi In The Locker}{6}{}%
+\contentsline {section}{The Questions Kept On Shaping}{7}{}%
+\contentsline {section}{Havana-Bound}{8}{}%
+\contentsline {section}{Lost in What}{9}{}%
+\contentsline {section}{A Borrowed Time}{10}{}%
+\contentsline {section}{Two Years in Södermalm}{11}{}%
+\contentsline {section}{Två år på Söder}{12}{}%
+\contentsline {section}{Memoria de humo}{13}{}%
+\contentsline {section}{Sofa at Midnight}{14}{}%
+\contentsline {section}{Ale On The Sofa}{15}{}%
+\contentsline {section}{Leading the Jump}{16}{}%
+\contentsline {section}{On the Road to Chachagüí}{17}{}%
+\contentsline {chapter}{\chapternumberline {2}Biographical II: Twenty-First Century}{19}{}%
+\contentsline {section}{Bound for Guayaquil}{20}{}%
+\contentsline {section}{Ventana de noviembre}{21}{}%
+\contentsline {section}{Parked Outside the Classroom}{22}{}%
+\contentsline {section}{Parked Beside the Door}{23}{}%
+\contentsline {section}{A Bag Sleeping in Jamaica}{24}{}%
+\contentsline {section}{Tuit y Ceniza}{25}{}%
+\contentsline {section}{The Bridge Before I Named It}{26}{}%
+\contentsline {section}{October Calls}{27}{}%
+\contentsline {section}{Arrow Throwing Rat}{28}{}%
+\contentsline {section}{Unconfessed}{29}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{30}{}%
+\contentsline {section}{Baltic and Bogotá}{32}{}%
+\contentsline {section}{Bogotá Cathedral}{33}{}%
+\contentsline {section}{History Witnessed Live}{34}{}%
+\contentsline {section}{Life's What Happens}{35}{}%
+\contentsline {chapter}{\chapternumberline {3}Soul and craves}{37}{}%
+\contentsline {section}{No Excuse}{38}{}%
+\contentsline {section}{Irrelevant Conversations}{40}{}%
+\contentsline {section}{A Mind That Craves Novelty}{41}{}%
+\contentsline {section}{Dejándome llevar}{42}{}%
+\contentsline {section}{Stimuli}{43}{}%
+\contentsline {section}{Piel}{44}{}%
+\contentsline {section}{Connection}{45}{}%
+\contentsline {section}{Living Fantasies (electronic)}{46}{}%
+\contentsline {section}{Vueltas y vueltas}{47}{}%
+\contentsline {section}{Mundos internos}{48}{}%
+\contentsline {section}{A Coffee Not Shared}{49}{}%
+\contentsline {section}{Perderme en el anhelo}{50}{}%
+\contentsline {section}{Easy Love}{51}{}%
+\contentsline {section}{Loose}{52}{}%
+\contentsline {section}{Victless Crime}{53}{}%
+\contentsline {section}{¿Qué busco?}{54}{}%
+\contentsline {section}{What I'm Allowed to Need}{55}{}%
+\contentsline {section}{A Body Without a Name}{56}{}%
+\contentsline {section}{Longing Is Safe}{57}{}%
+\contentsline {chapter}{\chapternumberline {4}The self}{59}{}%
+\contentsline {section}{Temblando}{60}{}%
+\contentsline {section}{Vulnerable}{61}{}%
+\contentsline {section}{The Loaded Mind}{62}{}%
+\contentsline {section}{Modo Pararrayos}{63}{}%
+\contentsline {section}{Lightning Rod Mode}{64}{}%
+\contentsline {section}{Multiply the Delay}{65}{}%
+\contentsline {section}{The Fault in Your Character}{66}{}%
+\contentsline {section}{The Wrong Map}{67}{}%
+\contentsline {section}{Time to Stop}{68}{}%
+\contentsline {section}{Entre mundos}{69}{}%
+\contentsline {section}{Used to Say}{71}{}%
+\contentsline {section}{Buscando culpables}{72}{}%
+\contentsline {section}{Kvar i mig}{73}{}%
+\contentsline {section}{Se Acabó la Discusión}{74}{}%
+\contentsline {section}{Soledad y Compañía}{75}{}%
+\contentsline {section}{Let You Sit With Me}{76}{}%
+\contentsline {chapter}{\chapternumberline {5}Extra stuff}{77}{}%
+\contentsline {section}{Writing Ain't Easy}{78}{}%
+\contentsline {section}{Weather and Memory}{79}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{81}{}%

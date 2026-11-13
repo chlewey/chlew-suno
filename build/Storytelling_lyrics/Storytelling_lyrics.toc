@@ -157,54 +157,66 @@
 \contentsline {section}{Gabi in Focus}{181}{}%
 \contentsline {section}{Stone Wall Portrait}{182}{}%
 \contentsline {section}{Grace in the Gale}{183}{}%
-\contentsline {chapter}{\chapternumberline {18}Fantasy portraits and temptation}{185}{}%
-\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{186}{}%
-\contentsline {section}{Parapet of Ash}{187}{}%
-\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{188}{}%
-\contentsline {section}{Fallen Messenger}{189}{}%
-\contentsline {section}{Fallen Messenger}{190}{}%
-\contentsline {section}{Ute Där Vinden Vänder}{191}{}%
-\contentsline {section}{Zelma in the Mist}{192}{}%
-\contentsline {section}{Crimson Wall Portrait}{193}{}%
-\contentsline {section}{Moonstone Veil}{194}{}%
-\contentsline {section}{Brass Eyed Siren}{195}{}%
-\contentsline {section}{Molten Sunlight}{196}{}%
-\contentsline {section}{I Found You}{197}{}%
-\contentsline {section}{You Found Me}{198}{}%
-\contentsline {section}{Fallen}{199}{}%
-\contentsline {section}{Was I an Angel Once?}{200}{}%
-\contentsline {part}{\partnumberline {V}Self}{201}{}%
-\contentsline {chapter}{\chapternumberline {19}Life progression}{203}{}%
-\contentsline {section}{Every Little Letter}{204}{}%
-\contentsline {section}{Adi In The Locker}{205}{}%
-\contentsline {section}{Havana-Bound}{206}{}%
-\contentsline {section}{Lost in What}{207}{}%
-\contentsline {section}{Two Years in Södermalm}{208}{}%
-\contentsline {section}{Två år på Söder}{209}{}%
-\contentsline {section}{Sofa at Midnight}{210}{}%
-\contentsline {section}{Ale On The Sofa}{211}{}%
-\contentsline {section}{On the Road to Chachagüí}{212}{}%
-\contentsline {section}{Parked Outside the Classroom}{213}{}%
-\contentsline {section}{A Bag Sleeping in Jamaica}{214}{}%
-\contentsline {section}{Unconfessed}{215}{}%
-\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{216}{}%
-\contentsline {chapter}{\chapternumberline {20}Life arcs}{219}{}%
-\contentsline {section}{Arrow Throwing Rat}{220}{}%
-\contentsline {section}{Bogotá Cathedral}{221}{}%
-\contentsline {section}{Паутина Андрея}{222}{}%
-\contentsline {section}{Tuit y Ceniza}{223}{}%
-\contentsline {section}{Baltic and Bogotá}{224}{}%
-\contentsline {section}{Memoria de humo}{225}{}%
-\contentsline {section}{Ventana de noviembre}{226}{}%
-\contentsline {section}{Leading the Jump}{227}{}%
-\contentsline {section}{The Questions Kept On Shaping}{228}{}%
-\contentsline {part}{\partnumberline {VI}Thematic Cycles}{229}{}%
-\contentsline {chapter}{\chapternumberline {21}Summery}{231}{}%
-\contentsline {section}{El final del verano}{232}{}%
-\contentsline {section}{End of the Summer}{233}{}%
-\contentsline {section}{La Fin de l'Été}{234}{}%
-\contentsline {section}{Slutet av Sommaren}{235}{}%
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{236}{}%
+\contentsline {section}{Hold Still A Moment}{184}{}%
+\contentsline {section}{The Unfinished Line}{185}{}%
+\contentsline {section}{You Are Beautiful}{186}{}%
+\contentsline {section}{Steady as the Line}{187}{}%
+\contentsline {chapter}{\chapternumberline {18}Fantasy portraits and temptation}{189}{}%
+\contentsline {section}{Obsidian Winglight (Succubus Portrait)}{190}{}%
+\contentsline {section}{Parapet of Ash}{191}{}%
+\contentsline {section}{Cyan Eyes in Moss (Bioluminescent Vigil)}{192}{}%
+\contentsline {section}{Fallen Messenger}{193}{}%
+\contentsline {section}{Fallen Messenger}{194}{}%
+\contentsline {section}{Ute Där Vinden Vänder}{195}{}%
+\contentsline {section}{Zelma in the Mist}{196}{}%
+\contentsline {section}{Crimson Wall Portrait}{197}{}%
+\contentsline {section}{Moonstone Veil}{198}{}%
+\contentsline {section}{Brass Eyed Siren}{199}{}%
+\contentsline {section}{Molten Sunlight}{200}{}%
+\contentsline {section}{I Found You}{201}{}%
+\contentsline {section}{You Found Me}{202}{}%
+\contentsline {section}{Fallen}{203}{}%
+\contentsline {section}{Was I an Angel Once?}{204}{}%
+\contentsline {part}{\partnumberline {V}Self}{205}{}%
+\contentsline {chapter}{\chapternumberline {19}Life progression}{207}{}%
+\contentsline {section}{Every Little Letter}{208}{}%
+\contentsline {section}{The Town Was Gone}{209}{}%
+\contentsline {section}{The Jingle Before the Words}{210}{}%
+\contentsline {section}{Adi In The Locker}{211}{}%
+\contentsline {section}{Havana-Bound}{212}{}%
+\contentsline {section}{Lost in What}{213}{}%
+\contentsline {section}{Two Years in Södermalm}{214}{}%
+\contentsline {section}{Två år på Söder}{215}{}%
+\contentsline {section}{Sofa at Midnight}{216}{}%
+\contentsline {section}{Ale On The Sofa}{217}{}%
+\contentsline {section}{On the Road to Chachagüí}{218}{}%
+\contentsline {section}{Bound for Guayaquil}{219}{}%
+\contentsline {section}{Parked Outside the Classroom}{220}{}%
+\contentsline {section}{A Bag Sleeping in Jamaica}{221}{}%
+\contentsline {section}{The Bridge Before I Named It}{222}{}%
+\contentsline {section}{October Calls}{223}{}%
+\contentsline {section}{Unconfessed}{224}{}%
+\contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{225}{}%
+\contentsline {chapter}{\chapternumberline {20}Life arcs}{227}{}%
+\contentsline {section}{Arrow Throwing Rat}{228}{}%
+\contentsline {section}{Bogotá Cathedral}{229}{}%
+\contentsline {section}{Паутина Андрея}{230}{}%
+\contentsline {section}{Tuit y Ceniza}{231}{}%
+\contentsline {section}{Baltic and Bogotá}{232}{}%
+\contentsline {section}{Static on the Radio}{233}{}%
+\contentsline {section}{A Borrowed Time}{234}{}%
+\contentsline {section}{Memoria de humo}{235}{}%
+\contentsline {section}{Ventana de noviembre}{236}{}%
+\contentsline {section}{Parked Beside the Door}{237}{}%
+\contentsline {section}{Leading the Jump}{238}{}%
+\contentsline {section}{The Questions Kept On Shaping}{239}{}%
+\contentsline {part}{\partnumberline {VI}Thematic Cycles}{241}{}%
+\contentsline {chapter}{\chapternumberline {21}Summery}{243}{}%
+\contentsline {section}{El final del verano}{244}{}%
+\contentsline {section}{End of the Summer}{245}{}%
+\contentsline {section}{La Fin de l'Été}{246}{}%
+\contentsline {section}{Slutet av Sommaren}{247}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{248}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -225,8 +237,8 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Era o final do verão}{237}{}%
-\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{238}{}%
+\contentsline {section}{Era o final do verão}{249}{}%
+\contentsline {section}{\textjapanese {湖畔フェス} (Kohan fesu)}{250}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -247,57 +259,58 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{Era el final del verano}{239}{}%
-\contentsline {section}{El final del verano (balada)}{240}{}%
-\contentsline {section}{El final del verano (bolero)}{241}{}%
-\contentsline {chapter}{\chapternumberline {22}Death Sea and hospitality}{243}{}%
-\contentsline {section}{Dead Sea's Barren Dreams}{244}{}%
-\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{245}{}%
-\contentsline {section}{The Laws of Hospitality}{246}{}%
-\contentsline {section}{The Laws of the Stranger}{247}{}%
-\contentsline {chapter}{\chapternumberline {23}Ilva and Khamid}{249}{}%
-\contentsline {section}{Vinterfrostleende}{250}{}%
-\contentsline {section}{Ökenskor av Salt}{251}{}%
-\contentsline {section}{Nyckelharpa Under Asfalt}{252}{}%
-\contentsline {chapter}{\chapternumberline {24}Fatherhood}{253}{}%
-\contentsline {section}{Secreto de padre}{254}{}%
-\contentsline {section}{The Man I Taught You To Be}{256}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{257}{}%
-\contentsline {section}{Said and Done}{258}{}%
-\contentsline {part}{\partnumberline {VII}Thematic Albums}{261}{}%
-\contentsline {chapter}{\chapternumberline {25}Cats}{263}{}%
-\contentsline {section}{Little Velvet Ghost}{264}{}%
-\contentsline {section}{Blue-Point Mischief}{265}{}%
-\contentsline {section}{Tabby Parade}{266}{}%
-\contentsline {section}{Battle for the Throne}{267}{}%
-\contentsline {section}{Home Until It Does}{268}{}%
-\contentsline {section}{Liam Guards the Light}{269}{}%
-\contentsline {section}{Run, Little Benny}{270}{}%
-\contentsline {section}{Mueca Pantera}{271}{}%
-\contentsline {chapter}{\chapternumberline {26}Fleeting intimacy and power dynamics}{273}{}%
-\contentsline {section}{Passenger-Side Switch}{274}{}%
-\contentsline {section}{She'll let you know}{275}{}%
-\contentsline {section}{Wild Cat}{276}{}%
-\contentsline {section}{Wild Cat, Wild Flower}{277}{}%
-\contentsline {section}{Paper Cup Kisses}{278}{}%
-\contentsline {section}{Sin Retorno}{279}{}%
-\contentsline {section}{Se Acabó la Discusión}{280}{}%
-\contentsline {section}{You Owe Me Nought}{281}{}%
-\contentsline {section}{Feel Free to Leave}{282}{}%
-\contentsline {section}{No me debes nada}{283}{}%
-\contentsline {chapter}{\chapternumberline {27}Waiting, nostalgia and melancholy}{285}{}%
-\contentsline {section}{September Night}{286}{}%
-\contentsline {section}{Tres tazas de café frío}{287}{}%
-\contentsline {section}{Top of the Curve}{288}{}%
-\contentsline {section}{Réquiem por el último cassette}{289}{}%
-\contentsline {section}{Kijana Msomi}{290}{}%
-\contentsline {section}{Stone Mason Bridge}{291}{}%
-\contentsline {section}{Between Us}{292}{}%
-\contentsline {section}{A la distancia}{293}{}%
-\contentsline {section}{Watching from a Distance}{294}{}%
-\contentsline {section}{Rain Check}{295}{}%
-\contentsline {chapter}{\chapternumberline {28}Pursuit, surveillance and betrayal}{297}{}%
-\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{298}{}%
+\contentsline {section}{Era el final del verano}{251}{}%
+\contentsline {section}{El final del verano (balada)}{252}{}%
+\contentsline {section}{El final del verano (bolero)}{253}{}%
+\contentsline {chapter}{\chapternumberline {22}Death Sea and hospitality}{255}{}%
+\contentsline {section}{Dead Sea's Barren Dreams}{256}{}%
+\contentsline {section}{Se Lēoþ of Sodoma and Gomorra}{257}{}%
+\contentsline {section}{The Laws of Hospitality}{258}{}%
+\contentsline {section}{The Laws of the Stranger}{259}{}%
+\contentsline {chapter}{\chapternumberline {23}Ilva and Khamid}{261}{}%
+\contentsline {section}{Vinterfrostleende}{262}{}%
+\contentsline {section}{Ökenskor av Salt}{263}{}%
+\contentsline {section}{Nyckelharpa Under Asfalt}{264}{}%
+\contentsline {chapter}{\chapternumberline {24}Fatherhood}{265}{}%
+\contentsline {section}{Secreto de padre}{266}{}%
+\contentsline {section}{The Man I Taught You To Be}{268}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{269}{}%
+\contentsline {section}{Said and Done}{270}{}%
+\contentsline {part}{\partnumberline {VII}Thematic Albums}{273}{}%
+\contentsline {chapter}{\chapternumberline {25}Cats}{275}{}%
+\contentsline {section}{Little Velvet Ghost}{276}{}%
+\contentsline {section}{Blue-Point Mischief}{277}{}%
+\contentsline {section}{Tabby Parade}{278}{}%
+\contentsline {section}{Battle for the Throne}{279}{}%
+\contentsline {section}{Home Until It Does}{280}{}%
+\contentsline {section}{Liam Guards the Light}{281}{}%
+\contentsline {section}{Run, Little Benny}{282}{}%
+\contentsline {section}{Mueca Pantera}{283}{}%
+\contentsline {chapter}{\chapternumberline {26}Fleeting intimacy and power dynamics}{285}{}%
+\contentsline {section}{Passenger-Side Switch}{286}{}%
+\contentsline {section}{She'll let you know}{287}{}%
+\contentsline {section}{Wild Cat}{288}{}%
+\contentsline {section}{Wild Cat, Wild Flower}{289}{}%
+\contentsline {section}{Paper Cup Kisses}{290}{}%
+\contentsline {section}{Sin Retorno}{291}{}%
+\contentsline {section}{Se Acabó la Discusión}{292}{}%
+\contentsline {section}{You Owe Me Nought}{293}{}%
+\contentsline {section}{Feel Free to Leave}{294}{}%
+\contentsline {section}{No me debes nada}{295}{}%
+\contentsline {chapter}{\chapternumberline {27}Waiting, nostalgia and melancholy}{297}{}%
+\contentsline {section}{September Night}{298}{}%
+\contentsline {section}{Tres tazas de café frío}{299}{}%
+\contentsline {section}{Top of the Curve}{300}{}%
+\contentsline {section}{Réquiem por el último cassette}{301}{}%
+\contentsline {section}{Kijana Msomi}{302}{}%
+\contentsline {section}{Stone Mason Bridge}{303}{}%
+\contentsline {section}{Between Us}{304}{}%
+\contentsline {section}{A la distancia}{305}{}%
+\contentsline {section}{Watching from a Distance}{306}{}%
+\contentsline {section}{Rain Check}{307}{}%
+\contentsline {section}{Tres noches de verano}{308}{}%
+\contentsline {chapter}{\chapternumberline {28}Pursuit, surveillance and betrayal}{309}{}%
+\contentsline {section}{\textjapanese {止まるな影} (Tomaruna Kage)}{310}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -314,44 +327,44 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{Drones sobre el maizal}{299}{}%
-\contentsline {section}{The Final Offer}{300}{}%
-\contentsline {section}{The Long Way to Paris}{301}{}%
-\contentsline {chapter}{\chapternumberline {29}Children's songs and small creatures}{303}{}%
-\contentsline {section}{A Little Butterfly}{304}{}%
-\contentsline {section}{Marchan las hormigas}{305}{}%
-\contentsline {section}{Pío}{306}{}%
-\contentsline {section}{Peter City Walk}{307}{}%
-\contentsline {section}{Confusión}{308}{}%
-\contentsline {section}{Window Seat}{309}{}%
-\contentsline {section}{The Door Left Open}{310}{}%
-\contentsline {section}{Two Hard Hearts}{311}{}%
-\contentsline {chapter}{\chapternumberline {30}Uncomplicated life}{313}{}%
-\contentsline {section}{Un día}{314}{}%
-\contentsline {section}{La noche en que bailamos sin música}{315}{}%
-\contentsline {section}{Keep On Rolling}{316}{}%
-\contentsline {section}{Roule encore}{317}{}%
-\contentsline {section}{Sigue Rumbeando}{318}{}%
-\contentsline {section}{Lo que se ve}{319}{}%
-\contentsline {section}{Live Light, Love Loud}{320}{}%
-\contentsline {section}{Life's What Happens}{321}{}%
-\contentsline {section}{Life's What Occurs}{322}{}%
-\contentsline {section}{Put Out the Little Fires}{323}{}%
-\contentsline {part}{\partnumberline {VIII}Form and Craft}{325}{}%
-\contentsline {chapter}{\chapternumberline {31}Fragments}{327}{}%
-\contentsline {section}{Peccato bello}{328}{}%
-\contentsline {section}{Comfort Zones}{329}{}%
-\contentsline {section}{Svarta Ögon-Glasbell}{330}{}%
-\contentsline {section}{Kein Feuer}{331}{}%
-\contentsline {section}{Gota a gota}{332}{}%
-\contentsline {section}{Cataplún Zap!}{333}{}%
-\contentsline {section}{Street Corner Zambomba}{334}{}%
-\contentsline {section}{Pacificate}{335}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{336}{}%
-\contentsline {section}{The Night}{337}{}%
-\contentsline {section}{Ik schreef mijn naam in}{338}{}%
-\contentsline {section}{Тепло без якоря}{339}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{340}{}%
+\contentsline {section}{Drones sobre el maizal}{311}{}%
+\contentsline {section}{The Final Offer}{312}{}%
+\contentsline {section}{The Long Way to Paris}{313}{}%
+\contentsline {chapter}{\chapternumberline {29}Children's songs and small creatures}{315}{}%
+\contentsline {section}{A Little Butterfly}{316}{}%
+\contentsline {section}{Marchan las hormigas}{317}{}%
+\contentsline {section}{Pío}{318}{}%
+\contentsline {section}{Peter City Walk}{319}{}%
+\contentsline {section}{Confusión}{320}{}%
+\contentsline {section}{Window Seat}{321}{}%
+\contentsline {section}{The Door Left Open}{322}{}%
+\contentsline {section}{Two Hard Hearts}{323}{}%
+\contentsline {chapter}{\chapternumberline {30}Uncomplicated life}{325}{}%
+\contentsline {section}{Un día}{326}{}%
+\contentsline {section}{La noche en que bailamos sin música}{327}{}%
+\contentsline {section}{Keep On Rolling}{328}{}%
+\contentsline {section}{Roule encore}{329}{}%
+\contentsline {section}{Sigue Rumbeando}{330}{}%
+\contentsline {section}{Lo que se ve}{331}{}%
+\contentsline {section}{Live Light, Love Loud}{332}{}%
+\contentsline {section}{Life's What Happens}{333}{}%
+\contentsline {section}{Life's What Occurs}{334}{}%
+\contentsline {section}{Put Out the Little Fires}{335}{}%
+\contentsline {part}{\partnumberline {VIII}Form and Craft}{337}{}%
+\contentsline {chapter}{\chapternumberline {31}Fragments}{339}{}%
+\contentsline {section}{Peccato bello}{340}{}%
+\contentsline {section}{Comfort Zones}{341}{}%
+\contentsline {section}{Svarta Ögon-Glasbell}{342}{}%
+\contentsline {section}{Kein Feuer}{343}{}%
+\contentsline {section}{Gota a gota}{344}{}%
+\contentsline {section}{Cataplún Zap!}{345}{}%
+\contentsline {section}{Street Corner Zambomba}{346}{}%
+\contentsline {section}{Pacificate}{347}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{348}{}%
+\contentsline {section}{The Night}{349}{}%
+\contentsline {section}{Ik schreef mijn naam in}{350}{}%
+\contentsline {section}{Тепло без якоря}{351}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{352}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -362,7 +375,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{341}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{353}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -373,19 +386,20 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{342}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{343}{}%
-\contentsline {section}{dij Schdzjarvk}{344}{}%
-\contentsline {section}{Doopi-Do-Doos}{345}{}%
-\contentsline {section}{Anama'inreesü tüa}{346}{}%
-\contentsline {section}{Kijana Msomi (short)}{347}{}%
-\contentsline {section}{Binwe, Jan-Alan}{348}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{349}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{350}{}%
-\contentsline {section}{En upersonlig skjebne}{351}{}%
-\contentsline {chapter}{\chapternumberline {32}Covers}{353}{}%
-\contentsline {section}{La perrilla (pasillo)}{354}{}%
-\contentsline {section}{La perrilla (dance)}{355}{}%
-\contentsline {section}{Diamond Depth August}{356}{}%
-\contentsline {section}{Tu puro vivir}{357}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{359}{}%
+\contentsline {section}{Xumi}{354}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{355}{}%
+\contentsline {section}{dij Schdzjarvk}{356}{}%
+\contentsline {section}{Doopi-Do-Doos}{357}{}%
+\contentsline {section}{Anama'inreesü tüa}{358}{}%
+\contentsline {section}{Kijana Msomi (short)}{359}{}%
+\contentsline {section}{Binwe, Jan-Alan}{360}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{361}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{362}{}%
+\contentsline {section}{En upersonlig skjebne}{363}{}%
+\contentsline {chapter}{\chapternumberline {32}Covers}{365}{}%
+\contentsline {section}{La perrilla (pasillo)}{366}{}%
+\contentsline {section}{La perrilla (dance)}{367}{}%
+\contentsline {section}{Diamond Depth August}{368}{}%
+\contentsline {section}{Tu puro vivir}{369}{}%
+\contentsline {section}{Ero Cras}{370}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{371}{}%

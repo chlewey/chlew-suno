@@ -147,6 +147,7 @@
 \contentsline {section}{Si no te hace falta}{171}{}%
 \contentsline {section}{They Multiply}{172}{}%
 \contentsline {section}{Between Us}{173}{}%
+\contentsline {section}{Tres noches de verano}{174}{}%
 \contentsline {chapter}{\chapternumberline {10}Lyrical Trance \& Techno}{175}{}%
 \contentsline {section}{Iros de risk}{176}{}%
 \contentsline {section}{Si pienso}{177}{}%
@@ -213,20 +214,22 @@
 \contentsline {section}{Iron Pulse}{241}{}%
 \contentsline {section}{Static Lullaby}{242}{}%
 \contentsline {section}{Celebrate the Child}{243}{}%
-\contentsline {part}{\partnumberline {VI}Street Corner Riot}{245}{}%
-\contentsline {chapter}{\chapternumberline {14}The Multilingual Electroswing Matrix}{249}{}%
-\contentsline {section}{Je hais ma haine}{250}{}%
-\contentsline {section}{Dig}{251}{}%
-\contentsline {section}{Peccato bello}{252}{}%
-\contentsline {section}{Comfort Zones}{253}{}%
-\contentsline {section}{Kein Feuer}{254}{}%
-\contentsline {section}{Street Corner Zambomba}{255}{}%
-\contentsline {section}{Pacificate}{256}{}%
-\contentsline {section}{Jadhibiat Diana Alkhasa}{257}{}%
-\contentsline {section}{Ik schreef mijn naam in}{258}{}%
-\contentsline {section}{Liis Talveuks}{259}{}%
-\contentsline {section}{Тепло без якоря}{260}{}%
-\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{261}{}%
+\contentsline {section}{Bound for Guayaquil}{244}{}%
+\contentsline {section}{Hold Still A Moment}{245}{}%
+\contentsline {part}{\partnumberline {VI}Street Corner Riot}{247}{}%
+\contentsline {chapter}{\chapternumberline {14}The Multilingual Electroswing Matrix}{251}{}%
+\contentsline {section}{Je hais ma haine}{252}{}%
+\contentsline {section}{Dig}{253}{}%
+\contentsline {section}{Peccato bello}{254}{}%
+\contentsline {section}{Comfort Zones}{255}{}%
+\contentsline {section}{Kein Feuer}{256}{}%
+\contentsline {section}{Street Corner Zambomba}{257}{}%
+\contentsline {section}{Pacificate}{258}{}%
+\contentsline {section}{Jadhibiat Diana Alkhasa}{259}{}%
+\contentsline {section}{Ik schreef mijn naam in}{260}{}%
+\contentsline {section}{Liis Talveuks}{261}{}%
+\contentsline {section}{Тепло без якоря}{262}{}%
+\contentsline {section}{\textjapanese {夏の終わりだった} (Natsu no owari datta)}{263}{}%
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
@@ -237,7 +240,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{japanese}
 \xpg@aux {}{english}
-\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{262}{}%
+\contentsline {section}{\textkorean {여름의 끝이었어} (Yeoreum-ui kkeutieosseo)}{264}{}%
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
@@ -248,15 +251,15 @@
 \xpg@aux {}{english}
 \xpg@aux {}{korean}
 \xpg@aux {}{english}
-\contentsline {section}{Xumi}{263}{}%
-\contentsline {section}{Tres Ciutats, Una Veu}{264}{}%
-\contentsline {section}{dij Schdzjarvk}{265}{}%
-\contentsline {section}{Doopi-Do-Doos}{266}{}%
-\contentsline {section}{Anama'inreesü tüa}{267}{}%
-\contentsline {section}{Kijana Msomi (short)}{268}{}%
-\contentsline {section}{Kelidi Degar}{269}{}%
-\contentsline {section}{Binwe, Jan-Alan}{270}{}%
-\contentsline {section}{Iníon an fhoghlaí mhara}{271}{}%
-\contentsline {section}{En upersonlig skjebne}{272}{}%
-\contentsline {section}{Αοιδό δε θα ʼχεις}{273}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{275}{}%
+\contentsline {section}{Xumi}{265}{}%
+\contentsline {section}{Tres Ciutats, Una Veu}{266}{}%
+\contentsline {section}{dij Schdzjarvk}{267}{}%
+\contentsline {section}{Doopi-Do-Doos}{268}{}%
+\contentsline {section}{Anama'inreesü tüa}{269}{}%
+\contentsline {section}{Kijana Msomi (short)}{270}{}%
+\contentsline {section}{Kelidi Degar}{271}{}%
+\contentsline {section}{Binwe, Jan-Alan}{272}{}%
+\contentsline {section}{Iníon an fhoghlaí mhara}{273}{}%
+\contentsline {section}{En upersonlig skjebne}{274}{}%
+\contentsline {section}{Αοιδό δε θα ʼχεις}{275}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{277}{}%

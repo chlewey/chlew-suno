@@ -27,6 +27,7 @@
 \contentsline {section}{Feel Free to Leave}{31}{}%
 \contentsline {section}{Fallen}{32}{}%
 \contentsline {section}{Something to Chew On}{33}{}%
+\contentsline {section}{The Town Was Gone}{34}{}%
 \contentsline {chapter}{\chapternumberline {3}Country \& Country-Rap}{35}{}%
 \contentsline {section}{Second Gun Salesman}{36}{}%
 \contentsline {section}{Petals and Ink}{37}{}%
@@ -45,135 +46,147 @@
 \contentsline {section}{Columbia’s History}{50}{}%
 \contentsline {section}{Just the Road}{51}{}%
 \contentsline {section}{Small Season}{52}{}%
-\contentsline {chapter}{\chapternumberline {4}Outlaw, Alt-Country \& Heartland}{55}{}%
-\contentsline {section}{Four Women}{56}{}%
-\contentsline {section}{Before That Blows}{57}{}%
-\contentsline {section}{Don't Break Her Heart, Old Friend}{58}{}%
-\contentsline {section}{Miguel Morocho}{59}{}%
-\contentsline {section}{One Year No Call}{60}{}%
-\contentsline {section}{Said and Done}{61}{}%
-\contentsline {section}{Scraper Road}{63}{}%
-\contentsline {section}{The Storage Unit}{64}{}%
-\contentsline {section}{Factory Door}{65}{}%
-\contentsline {section}{Little Trouble Tonight}{66}{}%
-\contentsline {section}{After the Door Was Open}{67}{}%
-\contentsline {section}{We're Drifting}{68}{}%
-\contentsline {chapter}{\chapternumberline {5}The Tallinn Folk-Rock Cycle}{69}{}%
-\contentsline {section}{Le phases de Thomas}{70}{}%
-\contentsline {section}{Extension of Friendship}{71}{}%
-\contentsline {section}{Eight March Locked In}{72}{}%
-\contentsline {section}{Fragments at La Dorada}{73}{}%
-\contentsline {section}{Semestermap in Tallinn}{75}{}%
-\contentsline {section}{Some Things Survive}{76}{}%
-\contentsline {section}{Tallinn By January}{77}{}%
-\contentsline {section}{Tallinn To Riga}{78}{}%
-\contentsline {section}{Teal in Carbonia}{79}{}%
-\contentsline {section}{Tucanito to Tallinn}{80}{}%
-\contentsline {section}{Villa in Sardinia}{81}{}%
-\contentsline {section}{By the Office Door}{82}{}%
-\contentsline {section}{Borrowed Calm}{83}{}%
-\contentsline {section}{The Night Say What It Knew}{84}{}%
-\contentsline {chapter}{\chapternumberline {6}The Indie-Folk Notebook}{85}{}%
-\contentsline {section}{Library to Longing}{86}{}%
-\contentsline {section}{Pacifica Miles}{87}{}%
-\contentsline {section}{A Drunk Without A Drop}{88}{}%
-\contentsline {section}{A Drunk Without A Drop (Remix)}{89}{}%
-\contentsline {section}{Copper In The Pines}{90}{}%
-\contentsline {section}{Frictionless}{91}{}%
-\contentsline {section}{Name-Shaped Silence}{92}{}%
-\contentsline {section}{Paper Cup Engine}{93}{}%
-\contentsline {section}{Rough Diamond}{94}{}%
-\contentsline {section}{Réquiem por el último cassette}{95}{}%
-\contentsline {section}{Thursday Counter}{96}{}%
-\contentsline {section}{The Emperor’s New Clothes}{97}{}%
-\contentsline {section}{Check My Privilege}{98}{}%
-\contentsline {section}{Writing Takes Its Toll}{99}{}%
-\contentsline {section}{Victless Crime}{101}{}%
-\contentsline {section}{Not an Infrastructure Guy}{102}{}%
-\contentsline {section}{After the Bliss}{103}{}%
-\contentsline {section}{What I'm Allowed to Need}{104}{}%
-\contentsline {section}{Rain Check}{105}{}%
-\contentsline {chapter}{\chapternumberline {7}Ballads \& Bare Folk}{107}{}%
-\contentsline {section}{No Middle Seat}{108}{}%
-\contentsline {section}{Carolina by Gate 9}{109}{}%
-\contentsline {section}{Claire Jones, My Love}{110}{}%
-\contentsline {section}{Uneekwa En Urbo}{111}{}%
-\contentsline {section}{Arrow Throwing Rat}{112}{}%
-\contentsline {section}{Badiba Buka}{113}{}%
-\contentsline {section}{Barrera de inicio}{114}{}%
-\contentsline {section}{Categorical Error}{115}{}%
-\contentsline {section}{Efficient and Charming}{116}{}%
-\contentsline {section}{Le cœur léger}{117}{}%
-\contentsline {section}{Living Fantasies (native folk)}{118}{}%
-\contentsline {section}{September at the Window}{119}{}%
-\contentsline {section}{September Night}{120}{}%
-\contentsline {section}{Stone Mason Bridge}{121}{}%
-\contentsline {section}{The Spark in Her Eyes}{122}{}%
-\contentsline {section}{Señora Rosario's House}{123}{}%
-\contentsline {section}{Five Small Scenes}{124}{}%
-\contentsline {section}{Home Until It Does}{125}{}%
-\contentsline {section}{A Ground I Choose}{126}{}%
-\contentsline {section}{Leave the Door Unlatched}{127}{}%
-\contentsline {chapter}{\chapternumberline {8}Road Folk \& Folk Anthems}{129}{}%
-\contentsline {section}{Canta la Ruta}{130}{}%
-\contentsline {section}{The Turned Back}{131}{}%
-\contentsline {section}{Indiana Highway}{132}{}%
-\contentsline {section}{On the Road to Chachagüí}{133}{}%
-\contentsline {section}{A Bag Sleeping in Jamaica}{134}{}%
-\contentsline {section}{Hold the Line}{135}{}%
-\contentsline {section}{Pass the Bread}{136}{}%
-\contentsline {section}{Dvigitt At The Table}{137}{}%
-\contentsline {section}{Lo que se ve}{138}{}%
-\contentsline {section}{A Crown With Bounds}{139}{}%
-\contentsline {section}{Where Your Yes Begins}{140}{}%
-\contentsline {section}{The Door Left Open}{141}{}%
-\contentsline {section}{Two Hard Hearts}{142}{}%
-\contentsline {section}{Don't Mistake the Bridge for Home}{143}{}%
-\contentsline {section}{Stopped Before the Edge}{145}{}%
-\contentsline {section}{Where the Water Meets Me}{146}{}%
-\contentsline {section}{Keep Your Hands Kind}{147}{}%
-\contentsline {section}{O Come}{148}{}%
-\contentsline {part}{\partnumberline {II}Soul}{151}{}%
-\contentsline {chapter}{\chapternumberline {9}The Jazz Wing}{155}{}%
-\contentsline {section}{Another Log About Nothing}{156}{}%
-\contentsline {section}{Digital Skies}{157}{}%
-\contentsline {section}{Andrea at Break}{158}{}%
-\contentsline {section}{Hidden Things' Keeper}{159}{}%
-\contentsline {section}{Xumi}{160}{}%
-\contentsline {section}{Aurora In Bogotá}{161}{}%
-\contentsline {section}{Aurora in Green}{162}{}%
-\contentsline {section}{Bogotá Ledger}{163}{}%
-\contentsline {section}{Punta Espada 2026}{164}{}%
-\contentsline {section}{Terms of the Split}{165}{}%
-\contentsline {section}{Teterboro Tarmac}{166}{}%
-\contentsline {section}{Third Time’s Coffee}{167}{}%
-\contentsline {section}{Tide Like Gold}{168}{}%
-\contentsline {section}{Timbales in Blue}{169}{}%
-\contentsline {section}{Under That Wide Brim}{170}{}%
-\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{171}{}%
-\contentsline {section}{Velvet File Cabinet}{172}{}%
-\contentsline {chapter}{\chapternumberline {10}Pews \& Bridges}{173}{}%
-\contentsline {section}{Polilla en las flamas}{174}{}%
-\contentsline {section}{Fallen Messenger}{175}{}%
-\contentsline {section}{Fallen Messenger}{176}{}%
-\contentsline {section}{Not In The Creed}{177}{}%
-\contentsline {section}{Not Misreading Intention}{178}{}%
-\contentsline {section}{Pews and Bridges}{179}{}%
-\contentsline {section}{Talk To Me}{180}{}%
-\contentsline {section}{What The Book Leaves Out}{181}{}%
-\contentsline {section}{What Was Left Behind}{182}{}%
-\contentsline {section}{Which God Stands Still}{183}{}%
-\contentsline {section}{Yes It Can}{184}{}%
-\contentsline {section}{Show Me the Proof}{185}{}%
-\contentsline {section}{Define What You Mean}{186}{}%
-\contentsline {section}{Dwell in Us}{188}{}%
-\contentsline {section}{Make Our Hearts a Cradle}{189}{}%
-\contentsline {chapter}{\chapternumberline {11}Velvet \& Grit}{191}{}%
-\contentsline {section}{So Wrong}{192}{}%
-\contentsline {section}{Southern Static}{193}{}%
-\contentsline {section}{Blue Optra Morning}{194}{}%
-\contentsline {section}{Everybody Knows Henry}{195}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{196}{}%
-\contentsline {section}{Private Flight}{197}{}%
-\contentsline {section}{Your Room or Mine}{198}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{199}{}%
+\contentsline {section}{October Calls}{54}{}%
+\contentsline {section}{The Unfinished Line}{55}{}%
+\contentsline {chapter}{\chapternumberline {4}Outlaw, Alt-Country \& Heartland}{57}{}%
+\contentsline {section}{Four Women}{58}{}%
+\contentsline {section}{Before That Blows}{59}{}%
+\contentsline {section}{Don't Break Her Heart, Old Friend}{60}{}%
+\contentsline {section}{Miguel Morocho}{61}{}%
+\contentsline {section}{One Year No Call}{62}{}%
+\contentsline {section}{Said and Done}{63}{}%
+\contentsline {section}{Scraper Road}{65}{}%
+\contentsline {section}{The Storage Unit}{66}{}%
+\contentsline {section}{Factory Door}{67}{}%
+\contentsline {section}{Little Trouble Tonight}{68}{}%
+\contentsline {section}{After the Door Was Open}{69}{}%
+\contentsline {section}{We're Drifting}{70}{}%
+\contentsline {chapter}{\chapternumberline {5}The Tallinn Folk-Rock Cycle}{71}{}%
+\contentsline {section}{Le phases de Thomas}{72}{}%
+\contentsline {section}{Extension of Friendship}{73}{}%
+\contentsline {section}{Eight March Locked In}{74}{}%
+\contentsline {section}{Fragments at La Dorada}{75}{}%
+\contentsline {section}{Semestermap in Tallinn}{77}{}%
+\contentsline {section}{Some Things Survive}{78}{}%
+\contentsline {section}{Tallinn By January}{79}{}%
+\contentsline {section}{Tallinn To Riga}{80}{}%
+\contentsline {section}{Teal in Carbonia}{81}{}%
+\contentsline {section}{Tucanito to Tallinn}{82}{}%
+\contentsline {section}{Villa in Sardinia}{83}{}%
+\contentsline {section}{By the Office Door}{84}{}%
+\contentsline {section}{Borrowed Calm}{85}{}%
+\contentsline {section}{The Night Say What It Knew}{86}{}%
+\contentsline {section}{Shoulders}{87}{}%
+\contentsline {section}{Lines Not Crossed}{88}{}%
+\contentsline {section}{White Hat (Same Weight)}{89}{}%
+\contentsline {chapter}{\chapternumberline {6}The Indie-Folk Notebook}{91}{}%
+\contentsline {section}{Library to Longing}{92}{}%
+\contentsline {section}{Pacifica Miles}{93}{}%
+\contentsline {section}{A Drunk Without A Drop}{94}{}%
+\contentsline {section}{A Drunk Without A Drop (Remix)}{95}{}%
+\contentsline {section}{Copper In The Pines}{96}{}%
+\contentsline {section}{Frictionless}{97}{}%
+\contentsline {section}{Name-Shaped Silence}{98}{}%
+\contentsline {section}{Paper Cup Engine}{99}{}%
+\contentsline {section}{Rough Diamond}{100}{}%
+\contentsline {section}{Réquiem por el último cassette}{101}{}%
+\contentsline {section}{Thursday Counter}{102}{}%
+\contentsline {section}{The Emperor’s New Clothes}{103}{}%
+\contentsline {section}{Check My Privilege}{104}{}%
+\contentsline {section}{Writing Takes Its Toll}{105}{}%
+\contentsline {section}{Victless Crime}{107}{}%
+\contentsline {section}{Not an Infrastructure Guy}{108}{}%
+\contentsline {section}{After the Bliss}{109}{}%
+\contentsline {section}{What I'm Allowed to Need}{110}{}%
+\contentsline {section}{Rain Check}{111}{}%
+\contentsline {chapter}{\chapternumberline {7}Ballads \& Bare Folk}{113}{}%
+\contentsline {section}{No Middle Seat}{114}{}%
+\contentsline {section}{Carolina by Gate 9}{115}{}%
+\contentsline {section}{Claire Jones, My Love}{116}{}%
+\contentsline {section}{Uneekwa En Urbo}{117}{}%
+\contentsline {section}{Arrow Throwing Rat}{118}{}%
+\contentsline {section}{Badiba Buka}{119}{}%
+\contentsline {section}{Barrera de inicio}{120}{}%
+\contentsline {section}{Categorical Error}{121}{}%
+\contentsline {section}{Efficient and Charming}{122}{}%
+\contentsline {section}{Le cœur léger}{123}{}%
+\contentsline {section}{Living Fantasies (native folk)}{124}{}%
+\contentsline {section}{September at the Window}{125}{}%
+\contentsline {section}{September Night}{126}{}%
+\contentsline {section}{Stone Mason Bridge}{127}{}%
+\contentsline {section}{The Spark in Her Eyes}{128}{}%
+\contentsline {section}{Señora Rosario's House}{129}{}%
+\contentsline {section}{Five Small Scenes}{130}{}%
+\contentsline {section}{Home Until It Does}{131}{}%
+\contentsline {section}{A Ground I Choose}{132}{}%
+\contentsline {section}{Leave the Door Unlatched}{133}{}%
+\contentsline {chapter}{\chapternumberline {8}Road Folk \& Folk Anthems}{135}{}%
+\contentsline {section}{Canta la Ruta}{136}{}%
+\contentsline {section}{The Turned Back}{137}{}%
+\contentsline {section}{Indiana Highway}{138}{}%
+\contentsline {section}{On the Road to Chachagüí}{139}{}%
+\contentsline {section}{A Bag Sleeping in Jamaica}{140}{}%
+\contentsline {section}{Hold the Line}{141}{}%
+\contentsline {section}{Pass the Bread}{142}{}%
+\contentsline {section}{Dvigitt At The Table}{143}{}%
+\contentsline {section}{Lo que se ve}{144}{}%
+\contentsline {section}{A Crown With Bounds}{145}{}%
+\contentsline {section}{Where Your Yes Begins}{146}{}%
+\contentsline {section}{The Door Left Open}{147}{}%
+\contentsline {section}{Two Hard Hearts}{148}{}%
+\contentsline {section}{Don't Mistake the Bridge for Home}{149}{}%
+\contentsline {section}{Stopped Before the Edge}{151}{}%
+\contentsline {section}{Where the Water Meets Me}{152}{}%
+\contentsline {section}{Keep Your Hands Kind}{153}{}%
+\contentsline {section}{O Come}{154}{}%
+\contentsline {section}{Ask Someone with the Skill}{156}{}%
+\contentsline {section}{Steady as the Line}{157}{}%
+\contentsline {part}{\partnumberline {II}Soul}{159}{}%
+\contentsline {chapter}{\chapternumberline {9}The Jazz Wing}{163}{}%
+\contentsline {section}{Another Log About Nothing}{164}{}%
+\contentsline {section}{Digital Skies}{165}{}%
+\contentsline {section}{Andrea at Break}{166}{}%
+\contentsline {section}{Hidden Things' Keeper}{167}{}%
+\contentsline {section}{Xumi}{168}{}%
+\contentsline {section}{Aurora In Bogotá}{169}{}%
+\contentsline {section}{Aurora in Green}{170}{}%
+\contentsline {section}{Bogotá Ledger}{171}{}%
+\contentsline {section}{Punta Espada 2026}{172}{}%
+\contentsline {section}{Terms of the Split}{173}{}%
+\contentsline {section}{Teterboro Tarmac}{174}{}%
+\contentsline {section}{Third Time’s Coffee}{175}{}%
+\contentsline {section}{Tide Like Gold}{176}{}%
+\contentsline {section}{Timbales in Blue}{177}{}%
+\contentsline {section}{Under That Wide Brim}{178}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{179}{}%
+\contentsline {section}{Velvet File Cabinet}{180}{}%
+\contentsline {chapter}{\chapternumberline {10}Pews \& Bridges}{181}{}%
+\contentsline {section}{Polilla en las flamas}{182}{}%
+\contentsline {section}{Fallen Messenger}{183}{}%
+\contentsline {section}{Fallen Messenger}{184}{}%
+\contentsline {section}{Not In The Creed}{185}{}%
+\contentsline {section}{Not Misreading Intention}{186}{}%
+\contentsline {section}{Pews and Bridges}{187}{}%
+\contentsline {section}{Talk To Me}{188}{}%
+\contentsline {section}{What The Book Leaves Out}{189}{}%
+\contentsline {section}{What Was Left Behind}{190}{}%
+\contentsline {section}{Which God Stands Still}{191}{}%
+\contentsline {section}{Yes It Can}{192}{}%
+\contentsline {section}{Show Me the Proof}{193}{}%
+\contentsline {section}{Define What You Mean}{194}{}%
+\contentsline {section}{Dwell in Us}{196}{}%
+\contentsline {section}{Make Our Hearts a Cradle}{197}{}%
+\contentsline {section}{Come to Our Souls}{198}{}%
+\contentsline {section}{Mary, Prepare Us}{199}{}%
+\contentsline {section}{Joseph, Bring Us Close to Jesus}{200}{}%
+\contentsline {section}{By the Grace of Your Holy}{201}{}%
+\contentsline {chapter}{\chapternumberline {11}Velvet \& Grit}{203}{}%
+\contentsline {section}{So Wrong}{204}{}%
+\contentsline {section}{Southern Static}{205}{}%
+\contentsline {section}{Blue Optra Morning}{206}{}%
+\contentsline {section}{Everybody Knows Henry}{207}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{208}{}%
+\contentsline {section}{Private Flight}{209}{}%
+\contentsline {section}{Your Room or Mine}{210}{}%
+\contentsline {section}{It Changes}{211}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{213}{}%

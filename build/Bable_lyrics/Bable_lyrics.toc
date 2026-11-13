@@ -43,6 +43,7 @@
 \contentsline {section}{Resto qui}{48}{}%
 \contentsline {section}{Cuore In Guerra}{50}{}%
 \contentsline {section}{Il più bello del liceo}{51}{}%
+\contentsline {section}{Elmetto azzurro}{52}{}%
 \contentsline {chapter}{\chapternumberline {4}German}{53}{}%
 \contentsline {section}{La Barrera}{54}{}%
 \contentsline {section}{Vor Barcelona (Deutsch)}{55}{}%
@@ -54,6 +55,7 @@
 \contentsline {section}{Manet Id}{61}{}%
 \contentsline {section}{Patria Invicta}{62}{}%
 \contentsline {section}{Stellae Ex Pulvere}{63}{}%
+\contentsline {section}{Ero Cras}{64}{}%
 \contentsline {chapter}{\chapternumberline {6}Romance}{65}{}%
 \contentsline {section}{Sa fiamma}{66}{}%
 \contentsline {section}{Su peccadu meu}{68}{}%
