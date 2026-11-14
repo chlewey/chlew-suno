@@ -79,8 +79,10 @@ Current shape of the restructured books (names only, no counts):
   story book (small ISO date under the title).
 - ISO with the precision that is known: `2019`, `2019-07`, `2019-07-08`; ranges as
   `2018/2020`. For Entourage songs the story book (Overleaf project *Entourage*) is the
-  authority, then `reference/travellog-*.csv` in that project; otherwise the owner
-  confirms. Leave it out when the date cannot be found and for timeless songs
+  authority, then `reference/travellog-*.csv` in that project. For Ricochets songs
+  `reference/timeline.json` in the Overleaf project *Ricochets* is canonical (present-day
+  narrative 2005-06-21 to about 2005-09-29; chapter 6 is the 2004-04-22/23 flashback).
+  Otherwise the owner confirms. Leave it out when the date cannot be found and for timeless songs
   (portraits, character profiles, songs not tied to one episode).
 
 ### Tags

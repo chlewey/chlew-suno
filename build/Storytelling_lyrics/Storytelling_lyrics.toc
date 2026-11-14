@@ -193,9 +193,9 @@
 \contentsline {section}{Bound for Guayaquil}{219}{}%
 \contentsline {section}{Parked Outside the Classroom}{220}{}%
 \contentsline {section}{A Bag Sleeping in Jamaica}{221}{}%
-\contentsline {section}{The Bridge Before I Named It}{222}{}%
-\contentsline {section}{October Calls}{223}{}%
-\contentsline {section}{Unconfessed}{224}{}%
+\contentsline {section}{Unconfessed}{222}{}%
+\contentsline {section}{The Bridge Before I Named It}{223}{}%
+\contentsline {section}{October Calls}{224}{}%
 \contentsline {section}{Ugenito: A Traveler’s Götterdämmerung}{225}{}%
 \contentsline {chapter}{\chapternumberline {20}Life arcs}{227}{}%
 \contentsline {section}{Arrow Throwing Rat}{228}{}%
