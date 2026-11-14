@@ -36,6 +36,7 @@ PROPOSAL_DOCS = {
     'rockola': ROOT / 'covers' / 'rockola' / 'rockola-cover-proposals.md',
     'pop': ROOT / 'covers' / 'pop' / 'pop-cover-proposals.md',
     'generos': ROOT / 'covers' / 'generos' / 'generos-cover-proposals.md',
+    'americana': ROOT / 'covers' / 'americana' / 'americana-cover-proposals.md',
     'personal': ROOT / 'covers' / 'personal' / 'personal-cover-proposals.md',
     'internal': ROOT / 'covers' / 'internal' / 'internal-cover-proposals.md',
     'bable': ROOT / 'covers' / 'bable' / 'bable-cover-proposals.md',
