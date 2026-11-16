@@ -163,7 +163,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
-\contentsline {section}{\textchinese {兩種心動} (Liǎng zhǒng xīndòng)}{176}{}%
+\contentsline {section}{\textchinese {兩種心動} (Liang zhong xindong)}{176}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}

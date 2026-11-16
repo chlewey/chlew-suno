@@ -9,14 +9,14 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 | # | Vignette | Ch. / date | Singer · genre | Status |
 |---|---|---|---|---|
 | 1 | Pizza, Soda and Paperwork | *The Deal* · 2001-10-26 | Müller · trova / corrido | COVERED |
-| 2 | Two Bottles of Wild Turkey | ch13 (flashback) · 2004-04-19 | Carlson · southern-gothic outlaw country | PARTIAL |
+| 2 | Two Bottles of Wild Turkey | ch13 (flashback) · 2004-04-19 | Carlson · southern-gothic outlaw country | COVERED |
 | 3 | The Road to Plantation | ch6 · 2004-04-22 | Marta · Americana ballad | PARTIAL |
-| 4 | ¡No pasó nada! | ch6 · 2004-04-22/23 | Carolina · Colombian pop ballad (Spanish) | NEW |
+| 4 | ¡No pasó nada! | ch6 · 2004-04-22/23 | Carolina · Colombian pop ballad (Spanish) | COVERED |
 | 5 | Ally or Foe | ch6 · 2004-04-23 | Müller / Perez · noir | COVERED |
 | 6 | Forgetting Her Face | ch1 · 2005-06-21 | Carlson · rock | COVERED |
-| 7 | Vous ?! — Ça *te* dérange ? | ch1 · 2005-06-21 | Sophie / Müller · French-English cabaret swing | NEW |
+| 7 | Vous ?! — Ça *te* dérange ? | ch1 · 2005-06-21 | Sophie / Müller · 2000s sophisti-pop with chanson (French duet) | COVERED |
 | 8 | Coffee and Bread | ch1 · 2005-06-22 | Müller / Sobal · noir | COVERED |
-| 9 | Not Even Mine | ch2 · 2005-06-25 | Müller · swampy blues-rock | NEW |
+| 9 | Not Even Mine | ch2 · 2005-06-25 | Müller · swampy blues-rock | COVERED |
 | 10 | Even Paranoids Have Enemies | ch2, ch7 · 2005-06/07 | Harris · noir | COVERED |
 | 11 | Lucky Bastard | ch3 · 2005-06-27 | Carlson · alt-country | NEW |
 | 12 | Alright, Soldier | ch4 · 2005-07-01 | Carlson · spy-noir trip-hop | NEW |
@@ -44,7 +44,7 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 | 34 | For Keaton | ch22 · est. 2005-09-29 | Gonzalez · gritty Miami soul | NEW |
 | 35 | What the Other Is Supposed to Be | ch22 · est. 2005-09-29 | Carlson / Müller · minimal piano-ambient | NEW |
 
-16 NEW, 4 PARTIAL, 15 COVERED.
+13 NEW, 3 PARTIAL, 19 COVERED.
 
 ## Vignettes
 
@@ -60,7 +60,7 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 - **Where / who:** "A small, polished bar in Boynton Beach"; John Carlson, Miguel Morocho
 - **Scene:** "Two bottles of Wild Turkey. One already empty." A drunk Carlson sketches the garage set-up: "Not targeted. That's the point." Morocho slides him a burner phone: "Whatever you decide-- dump it on Wednesday."
 - **Song angle:** Carlson's slurred plan, heard in hindsight as a confession. Slow southern-gothic outlaw country.
-- **Existing songs:** none centered on it. *Morocho* (gabisson) gives it four lines ("entre copas se pactó").
+- **Existing songs:** *Two Bottles of Wild Turkey* (rataflechera, 2026-11; outlaw country). *Morocho* (gabisson) also gives it four lines ("entre copas se pactó").
 
 ### 3. The Road to Plantation
 - **Chapter / date:** ch6 Flashbacks, 2004-04-22
@@ -74,7 +74,7 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 - **Where / who:** Sandra's home, Bogotá; Sandra Roa, Carolina Müller Roa
 - **Scene:** A call comes from Spitz's office. Sandra yells "¡No pasó nada!", "a fake angry face; but Sandra's eyes reveal she is crying." She sinks to the floor against the coffee table. Carolina, hurt by the scream, sits beside her instead of asking.
 - **Song angle:** Carolina, about seventeen, choosing comfort over answers. Spanish-language Colombian pop ballad.
-- **Existing songs:** none (*Heart to Heart* and *Lo que queda* are profiles)
+- **Existing songs:** *¡No pasó nada!* (rataflechera, 2026-11; pop ballad). *Heart to Heart* and *Lo que queda* are profiles.
 
 ### 5. Ally or Foe
 - **Chapter / date:** ch6 Flashbacks, 2004-04-23
@@ -94,8 +94,8 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 - **Chapter / date:** ch1 The Hangover, 2005-06-21
 - **Where / who:** hotel bar with the Old King Cole mural, New York, then 55th Street; Fabián Müller, Sophie Durand
 - **Scene:** By the second cocktail they are on "tu". When he slips back to "vous" she fakes offence ("Vous ?!"), and he corrects himself ("Ça te dérange ?"). She waves away the contract talk: "I want fun. And a famous New York pizza."
-- **Song angle:** a flirtation duet that turns on the switch from vous to tu. French-English cabaret swing.
-- **Existing songs:** none (*Smoke and Steel* and *Le Rêve des Autres* are profiles; *Ricochets Hangover* mentions the pizza in passing)
+- **Song angle:** a flirtation duet that turns on the switch from vous to tu. Written as 2000s sophisti-pop with chanson elements, French lyrics (first proposed as French-English cabaret swing).
+- **Existing songs:** *Vous ?! — Ça te dérange ?* (rataflechera, 2026-11). *Smoke and Steel* and *Le Rêve des Autres* are profiles; *Ricochets Hangover* mentions the pizza in passing.
 
 ### 8. Coffee and Bread
 - **Chapter / date:** ch1 The Hangover, 2005-06-22
@@ -109,7 +109,7 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 - **Where / who:** Henry Little's backyard barbecue, Long Island; Fabián Müller, Henry Little
 - **Scene:** Little, in a black Nirvana T-shirt, asks what happened that night. Müller: "Reports can't be trusted. Not even mine." They wanted Gunther dead, he says, and the lawyer too. Then Little calls him to the grill: "let's not make Mrs. Little wait."
 - **Song angle:** a fixer's backyard confession in Müller's voice. Swampy blues-rock.
-- **Existing songs:** none (*Everybody Knows Henry* and *Henry Little* are profiles)
+- **Existing songs:** *Not Even Mine* (rataflechera, 2026-11; blues-rock). *Everybody Knows Henry* and *Henry Little* are profiles.
 
 ### 10. Even Paranoids Have Enemies
 - **Chapter / date:** ch2 Routine Breaking (folder, undated) and ch7 A Pause (meeting, 2005-07)
@@ -302,7 +302,7 @@ Status: **NEW** = no song centered on the scene; **PARTIAL** = touched by a song
 
 - **Vuelta a Bal Harbour:** the scene is in ch20 (est. 2005-09-27/28), not ch21; the lyrics match ch20 line for line. Its `\setin` is currently `2005-09-28/2005-09-29`.
 - **Two weeks vs. ten days:** in ch13 Morocho says "Two weeks ago…", but the gap from ch11 (about 08-21) to ch13 (about 08-31) is about ten days (timeline issue T-005).
-- **Montoya in ch5:** Fabián says Montoya "se accidentó", but Óscar says "Juan Pablo llegó como de décimo". The two lines contradict each other. The ch5 date still holds through Wimbledon and Alonso.
+- **Montoya in ch5:** Fabián says Montoya "se accidentó", but Óscar says "Juan Pablo llegó como de décimo". The two lines contradict each other, and neither matches the race: on 2005-07-03 Montoya retired on lap 46 from third place (hydraulics per Wikipedia, engine per Racing-Reference), without a crash. Alonso won. The ch5 date still holds through Wimbledon and Alonso.
 - **Names that vary in the text:**
   - "Ernesto Mojica" in ch17, where the canonical name is Néstor.
   - "Rey Piros" in ch18–19, against "Rey Pilos" elsewhere.

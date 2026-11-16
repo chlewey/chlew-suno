@@ -149,7 +149,7 @@
 \contentsline {section}{They Multiply}{174}{}%
 \contentsline {section}{Between Us}{175}{}%
 \contentsline {section}{Tres noches de verano}{176}{}%
-\contentsline {section}{\textchinese {三個夏夜} (Sān ge xià yè)}{177}{}%
+\contentsline {section}{\textchinese {三個夏夜} (San ge xia ye)}{177}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}

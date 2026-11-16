@@ -403,7 +403,7 @@
 \contentsline {section}{Make-Believe World}{437}{}%
 \contentsline {section}{Alone or Only Alone}{438}{}%
 \contentsline {section}{It Changes}{439}{}%
-\contentsline {section}{\textchinese {三個夏夜} (Sān ge xià yè)}{440}{}%
+\contentsline {section}{\textchinese {三個夏夜} (San ge xia ye)}{440}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}

@@ -227,7 +227,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
-\contentsline {section}{\textchinese {兩種心動} (Liǎng zhǒng xīndòng)}{107}{}%
+\contentsline {section}{\textchinese {兩種心動} (Liang zhong xindong)}{107}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}
@@ -240,7 +240,7 @@
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
-\contentsline {section}{\textchinese {三個夏夜} (Sān ge xià yè)}{108}{}%
+\contentsline {section}{\textchinese {三個夏夜} (San ge xia ye)}{108}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}

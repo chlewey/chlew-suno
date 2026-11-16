@@ -3,11 +3,11 @@
 \contentsline {section}{Same Old Circle}{2}{}%
 \contentsline {section}{¿Aceptás el trato?}{3}{}%
 \contentsline {section}{Pizza on the Table}{4}{}%
-\contentsline {section}{Tolemaida Wedding}{5}{}%
-\contentsline {section}{Boynton Bound}{6}{}%
-\contentsline {section}{Two Bottles of Wild Turkey}{7}{}%
-\contentsline {section}{Town and Country}{8}{}%
-\contentsline {section}{¡No pasó nada!}{9}{}%
+\contentsline {section}{Inter-Flota Caerá}{5}{}%
+\contentsline {section}{Tolemaida Wedding}{6}{}%
+\contentsline {section}{Boynton Bound}{7}{}%
+\contentsline {section}{Two Bottles of Wild Turkey}{8}{}%
+\contentsline {section}{Town and Country}{9}{}%
 \contentsline {chapter}{\chapternumberline {2}Promotion}{11}{}%
 \contentsline {section}{Ricochets Hangover}{12}{}%
 \contentsline {section}{Destinies Overlap}{13}{}%
@@ -45,25 +45,25 @@
 \contentsline {section}{Steady Hands}{48}{}%
 \contentsline {section}{Andrea in the Doorway}{49}{}%
 \contentsline {chapter}{\chapternumberline {5}Fragments and Summaries}{51}{}%
-\contentsline {section}{Hold Your Breath}{52}{}%
-\contentsline {section}{Fragments at La Dorada}{53}{}%
-\contentsline {section}{One Year No Call}{55}{}%
-\contentsline {section}{Valise sur le tarmac}{56}{}%
-\contentsline {section}{Hangar at Olaya}{57}{}%
-\contentsline {section}{Blue Optra Morning}{58}{}%
-\contentsline {section}{Sophie Durand}{59}{}%
-\contentsline {section}{Miguel Morocho}{60}{}%
-\contentsline {section}{Florida Wire}{61}{}%
-\contentsline {section}{Inter-Flota Caerá}{62}{}%
-\contentsline {section}{Mémoire En miettes}{63}{}%
-\contentsline {section}{Swim Pool Submit}{64}{}%
-\contentsline {section}{Tiny Suits}{65}{}%
-\contentsline {section}{A Narrow Way}{66}{}%
-\contentsline {section}{The Lens Cannot Know}{67}{}%
-\contentsline {section}{Keep Your Eyes Open}{68}{}%
-\contentsline {section}{Wrong Enough}{69}{}%
-\contentsline {section}{Vous ?! — Ça te dérange ?}{70}{}%
-\contentsline {section}{Not Even Mine}{72}{}%
+\contentsline {section}{¡No pasó nada!}{52}{}%
+\contentsline {section}{The Lens Cannot Know}{53}{}%
+\contentsline {section}{Mémoire En miettes}{54}{}%
+\contentsline {section}{Vous ?! — Ça te dérange ?}{55}{}%
+\contentsline {section}{A Narrow Way}{57}{}%
+\contentsline {section}{Not Even Mine}{58}{}%
+\contentsline {section}{Hold Your Breath}{59}{}%
+\contentsline {section}{Fragments at La Dorada}{60}{}%
+\contentsline {section}{One Year No Call}{62}{}%
+\contentsline {section}{Miguel Morocho}{63}{}%
+\contentsline {section}{Valise sur le tarmac}{64}{}%
+\contentsline {section}{Hangar at Olaya}{65}{}%
+\contentsline {section}{Blue Optra Morning}{66}{}%
+\contentsline {section}{Sophie Durand}{67}{}%
+\contentsline {section}{Florida Wire}{68}{}%
+\contentsline {section}{Swim Pool Submit}{69}{}%
+\contentsline {section}{Tiny Suits}{70}{}%
+\contentsline {section}{Keep Your Eyes Open}{71}{}%
+\contentsline {section}{Wrong Enough}{72}{}%
 \contentsline {chapter}{\chapternumberline {6}Inspired}{73}{}%
 \contentsline {section}{El corrido de Carlson}{74}{}%
 \contentsline {section}{Two Faces in the Ledger}{75}{}%

@@ -386,7 +386,7 @@
 \contentsline {section}{You Owe Me Nought}{303}{}%
 \contentsline {section}{Feel Free to Leave}{304}{}%
 \contentsline {section}{No me debes nada}{305}{}%
-\contentsline {section}{\textchinese {兩種心動} (Liǎng zhǒng xīndòng)}{306}{}%
+\contentsline {section}{\textchinese {兩種心動} (Liang zhong xindong)}{306}{}%
 \xpg@aux {}{chinese}
 \xpg@aux {}{english}
 \xpg@aux {}{chinese}
