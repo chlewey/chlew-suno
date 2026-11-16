@@ -133,78 +133,105 @@
 \contentsline {section}{Blue-Point Mischief}{140}{}%
 \contentsline {section}{Headlights That Crush}{141}{}%
 \contentsline {section}{The Decay of Hatred}{142}{}%
-\contentsline {part}{\partnumberline {IV}Essays}{143}{}%
-\contentsline {chapter}{\chapternumberline {12}Debates, Satires \& Systems}{147}{}%
-\contentsline {section}{Cut Me Loose}{148}{}%
-\contentsline {section}{The Toxic Ghost}{149}{}%
-\contentsline {section}{El fin de la historia}{150}{}%
-\contentsline {section}{History Witnessed Live}{151}{}%
-\contentsline {section}{Пѣснь о Кругахъ Путей}{152}{}%
-\contentsline {section}{Balance of Three}{153}{}%
-\contentsline {section}{In the Time of Noah's Ark}{154}{}%
-\contentsline {section}{Dead Sea's barren dreams}{155}{}%
-\contentsline {section}{Buba Kiki Riot}{156}{}%
-\contentsline {section}{Limits of the Load}{157}{}%
-\contentsline {section}{The Country That Never Was}{158}{}%
-\contentsline {section}{Mouth of the Machine}{159}{}%
-\contentsline {section}{Draw the Line}{160}{}%
-\contentsline {section}{Liberation, Mostly}{161}{}%
-\contentsline {section}{Build It with Intention}{162}{}%
-\contentsline {part}{\partnumberline {V}Lyrical}{163}{}%
-\contentsline {chapter}{\chapternumberline {13}ADHD Chaos \& Executive Burnout}{167}{}%
-\contentsline {section}{Skälvning}{168}{}%
-\contentsline {section}{Monoestable}{169}{}%
-\contentsline {section}{Paper in the Grinder}{170}{}%
-\contentsline {section}{The Loaded Mind}{171}{}%
-\contentsline {section}{The Loaded Mind (defiant)}{172}{}%
-\contentsline {section}{The Wrong Map}{173}{}%
-\contentsline {section}{The Bitter Toll}{174}{}%
-\contentsline {section}{The Bitter Toll (Remix)}{175}{}%
-\contentsline {section}{The Fault in Your Character}{176}{}%
-\contentsline {section}{The Hardest Toll}{177}{}%
-\contentsline {section}{Let Me Finish}{178}{}%
-\contentsline {section}{Buildings Worlds}{179}{}%
-\contentsline {section}{Burn the Glass}{180}{}%
-\contentsline {section}{The Wrong Map}{181}{}%
-\contentsline {section}{Time to Stop}{182}{}%
-\contentsline {section}{Ripping the Page}{183}{}%
-\contentsline {chapter}{\chapternumberline {14}Confessions \& Small Defeats}{185}{}%
-\contentsline {section}{Je hais}{186}{}%
-\contentsline {section}{Je hais}{187}{}%
-\contentsline {section}{La haine que je te dois}{188}{}%
-\contentsline {section}{Siento}{189}{}%
-\contentsline {section}{Lluvia En Tu Mirada}{190}{}%
-\contentsline {section}{Still Unfinished}{191}{}%
-\contentsline {section}{No Excuse}{192}{}%
-\contentsline {section}{Your Role}{194}{}%
-\contentsline {section}{A Mind That Craves Novelty}{195}{}%
-\contentsline {section}{The Last Waltz of the Northern}{196}{}%
-\contentsline {section}{Migrant Echoes}{197}{}%
-\contentsline {section}{Siento}{198}{}%
-\contentsline {section}{Those Kinds of Crushes}{199}{}%
-\contentsline {chapter}{\chapternumberline {15}Life Stories in Rock}{201}{}%
-\contentsline {section}{Every Little Letter}{202}{}%
-\contentsline {section}{The Questions Kept On Shaping}{203}{}%
-\contentsline {section}{Havana-Bound}{204}{}%
-\contentsline {section}{Three Notebooks}{205}{}%
-\contentsline {section}{Leading the Jump}{206}{}%
-\contentsline {section}{Parked Outside the Classroom}{207}{}%
-\contentsline {section}{Bogotá Cathedral}{208}{}%
-\contentsline {section}{Två år på Söder}{209}{}%
-\contentsline {section}{Between Buffalo and Boston}{210}{}%
-\contentsline {section}{Static on the Radio}{211}{}%
-\contentsline {section}{The Jingle Before the Words}{212}{}%
-\contentsline {section}{A Borrowed Time}{213}{}%
-\contentsline {section}{Parked Beside the Door}{214}{}%
-\contentsline {section}{The Bridge Before I Named It}{215}{}%
-\contentsline {chapter}{\chapternumberline {16}Playful Escapes \& Candy Rock Parades}{217}{}%
-\contentsline {section}{Candy Rock Day}{218}{}%
-\contentsline {section}{Rainbow Candy Parade}{219}{}%
-\contentsline {section}{Peter City Walk}{220}{}%
-\contentsline {section}{Pastel Dream}{221}{}%
-\contentsline {section}{Where the Gentle Things Begin}{222}{}%
-\contentsline {section}{Keep On Rolling}{223}{}%
-\contentsline {section}{Window Seat}{224}{}%
-\contentsline {section}{Kimi sela}{225}{}%
-\contentsline {section}{Live Light, Love Loud}{226}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{227}{}%
+\contentsline {section}{Export Snow}{143}{}%
+\contentsline {section}{\textjapanese {ビル・パイ ―雪と薔薇―} (Bill Pi: Snow \& Roses)}{144}{}%
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\xpg@aux {}{japanese}
+\xpg@aux {}{english}
+\contentsline {section}{The Quiet Tongue}{145}{}%
+\contentsline {part}{\partnumberline {IV}Essays}{147}{}%
+\contentsline {chapter}{\chapternumberline {12}Debates, Satires \& Systems}{151}{}%
+\contentsline {section}{Cut Me Loose}{152}{}%
+\contentsline {section}{The Toxic Ghost}{153}{}%
+\contentsline {section}{El fin de la historia}{154}{}%
+\contentsline {section}{History Witnessed Live}{155}{}%
+\contentsline {section}{Пѣснь о Кругахъ Путей}{156}{}%
+\contentsline {section}{Balance of Three}{157}{}%
+\contentsline {section}{In the Time of Noah's Ark}{158}{}%
+\contentsline {section}{Dead Sea's barren dreams}{159}{}%
+\contentsline {section}{Buba Kiki Riot}{160}{}%
+\contentsline {section}{Limits of the Load}{161}{}%
+\contentsline {section}{The Country That Never Was}{162}{}%
+\contentsline {section}{Mouth of the Machine}{163}{}%
+\contentsline {section}{Draw the Line}{164}{}%
+\contentsline {section}{Liberation, Mostly}{165}{}%
+\contentsline {section}{Build It with Intention}{166}{}%
+\contentsline {part}{\partnumberline {V}Lyrical}{167}{}%
+\contentsline {chapter}{\chapternumberline {13}ADHD Chaos \& Executive Burnout}{171}{}%
+\contentsline {section}{Skälvning}{172}{}%
+\contentsline {section}{Monoestable}{173}{}%
+\contentsline {section}{Paper in the Grinder}{174}{}%
+\contentsline {section}{The Loaded Mind}{175}{}%
+\contentsline {section}{The Loaded Mind (defiant)}{176}{}%
+\contentsline {section}{The Wrong Map}{177}{}%
+\contentsline {section}{The Bitter Toll}{178}{}%
+\contentsline {section}{The Bitter Toll (Remix)}{179}{}%
+\contentsline {section}{The Fault in Your Character}{180}{}%
+\contentsline {section}{The Hardest Toll}{181}{}%
+\contentsline {section}{Let Me Finish}{182}{}%
+\contentsline {section}{Buildings Worlds}{183}{}%
+\contentsline {section}{Burn the Glass}{184}{}%
+\contentsline {section}{The Wrong Map}{185}{}%
+\contentsline {section}{Time to Stop}{186}{}%
+\contentsline {section}{Ripping the Page}{187}{}%
+\contentsline {chapter}{\chapternumberline {14}Confessions \& Small Defeats}{189}{}%
+\contentsline {section}{Je hais}{190}{}%
+\contentsline {section}{Je hais}{191}{}%
+\contentsline {section}{La haine que je te dois}{192}{}%
+\contentsline {section}{Siento}{193}{}%
+\contentsline {section}{Lluvia En Tu Mirada}{194}{}%
+\contentsline {section}{Still Unfinished}{195}{}%
+\contentsline {section}{No Excuse}{196}{}%
+\contentsline {section}{Your Role}{198}{}%
+\contentsline {section}{A Mind That Craves Novelty}{199}{}%
+\contentsline {section}{The Last Waltz of the Northern}{200}{}%
+\contentsline {section}{Migrant Echoes}{201}{}%
+\contentsline {section}{Siento}{202}{}%
+\contentsline {section}{Those Kinds of Crushes}{203}{}%
+\contentsline {chapter}{\chapternumberline {15}Life Stories in Rock}{205}{}%
+\contentsline {section}{Every Little Letter}{206}{}%
+\contentsline {section}{The Questions Kept On Shaping}{207}{}%
+\contentsline {section}{Havana-Bound}{208}{}%
+\contentsline {section}{Three Notebooks}{209}{}%
+\contentsline {section}{Leading the Jump}{210}{}%
+\contentsline {section}{Parked Outside the Classroom}{211}{}%
+\contentsline {section}{Bogotá Cathedral}{212}{}%
+\contentsline {section}{Två år på Söder}{213}{}%
+\contentsline {section}{Between Buffalo and Boston}{214}{}%
+\contentsline {section}{Static on the Radio}{215}{}%
+\contentsline {section}{The Jingle Before the Words}{216}{}%
+\contentsline {section}{A Borrowed Time}{217}{}%
+\contentsline {section}{Parked Beside the Door}{218}{}%
+\contentsline {section}{The Bridge Before I Named It}{219}{}%
+\contentsline {chapter}{\chapternumberline {16}Playful Escapes \& Candy Rock Parades}{221}{}%
+\contentsline {section}{Candy Rock Day}{222}{}%
+\contentsline {section}{Rainbow Candy Parade}{223}{}%
+\contentsline {section}{Peter City Walk}{224}{}%
+\contentsline {section}{Pastel Dream}{225}{}%
+\contentsline {section}{Where the Gentle Things Begin}{226}{}%
+\contentsline {section}{Keep On Rolling}{227}{}%
+\contentsline {section}{Window Seat}{228}{}%
+\contentsline {section}{Kimi sela}{229}{}%
+\contentsline {section}{Live Light, Love Loud}{230}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{231}{}%

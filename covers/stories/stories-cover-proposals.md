@@ -54,6 +54,12 @@ A vast, awe-inspiring science-fiction concept-art image of a gas giant's atmosph
 
 A warm, dimly lit overhead photograph of a small study desk: two glasses of whiskey catching lamplight, positioned between a black clerical Roman collar and a folded political pamphlet with bold "purity test" style lettering. A wooden rosary is draped loosely nearby. In the soft-focus background, a window reveals a small agricultural town at dusk with a single modest church steeple silhouetted against the sky. The mood is quietly tense, a private negotiation dressed as hospitality. Photorealistic still life, warm muted palette, wood and glass textures, shallow depth of field. No text overlay. Square 1:1 aspect ratio.
 
+## Bill Pi
+
+`covers/stories/bill-pi`
+
+A cold, late-night photograph of a dusty Bogotá bedroom in 1990, seen from the doorway: a single bare bulb, a swollen wooden door half open, and on a narrow bed an unzipped travel bag spilling bundled foreign banknotes beside a studded black leather jacket and a chain. On the nightstand, a sealed envelope, three worn notebooks, a cassette tape and a red rose lying across a small paper packet of white powder. Through the rain-streaked window, the blurred lights of a city at night and the faint outline of mountains. The mood is restless and furtive, a homecoming with someone close behind. Photorealistic, grainy late-1980s film look, cold blue-green light against the warm bulb, shallow depth of field. No text overlay.
+
 # Early Life
 
 ## Early 1990s

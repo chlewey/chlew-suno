@@ -69,7 +69,8 @@
 \contentsline {section}{Se Acabó la Discusión}{74}{}%
 \contentsline {section}{Soledad y Compañía}{75}{}%
 \contentsline {section}{Let You Sit With Me}{76}{}%
-\contentsline {chapter}{\chapternumberline {5}Extra stuff}{77}{}%
-\contentsline {section}{Writing Ain't Easy}{78}{}%
-\contentsline {section}{Weather and Memory}{79}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{81}{}%
+\contentsline {section}{The Quiet Tongue}{77}{}%
+\contentsline {chapter}{\chapternumberline {5}Extra stuff}{79}{}%
+\contentsline {section}{Writing Ain't Easy}{80}{}%
+\contentsline {section}{Weather and Memory}{81}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{83}{}%

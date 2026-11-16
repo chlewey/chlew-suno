@@ -110,6 +110,12 @@ A homemade Colombian nativity scene of small clay figures on moss and paper hill
 
 A chalkboard mid-diagram, an argument in branching arrows that never conclude. Square 1:1 aspect ratio.
 
+## Musical Essays
+
+`covers/internal/musical-essays`
+
+A smartphone lying face-up on a wooden table beside an acoustic guitar, its screen glowing with an unsent message whose lines dissolve into musical notes rising off the glass. Square 1:1 aspect ratio.
+
 ## Dilemmas and arguments
 
 `covers/internal/dilemmas-and-arguments`

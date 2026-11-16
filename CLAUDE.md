@@ -48,7 +48,7 @@ Current shape of the restructured books (names only, no counts):
   power dynamics, Waiting nostalgia and melancholy, Pursuit surveillance and betrayal,
   Children's songs and small creatures, Uncomplicated life) · Form and Craft.
 - **internal**: Personal Chronicle · Soul and Turmoil · Faith and Argument (Pray,
-  Brother I/II, *Essays*, *Dilemmas and arguments*) · Places · Social Commentary ·
+  Brother I/II/III, *Essays*, *Musical Essays*, *Dilemmas and arguments*) · Places · Social Commentary ·
   Nation and Ritual · Form and Craft (Meta, Acrostics, Instrumental I Tropical groove /
   II Other colors, Fragments, Adaptations I re-genres / II adapted lyrics / III
   cross-language). The old catch-all "More" no longer exists.
@@ -149,7 +149,9 @@ Current shape of the restructured books (names only, no counts):
   chapter is near it; leave a `%` comment naming split candidates (see the Monukae note
   in `original.tex`, Other Narratives).
 - Split by source, not by medium: *Essays* = originated as an essay/article/blog post/
-  unpublished essay; *Dilemmas and arguments* = originated in a discussion (Quora,
+  unpublished essay; *Musical Essays* = a thought developed as an essay directly in
+  song, with no finished text behind it (a tweet or thread, an unsent message, a
+  cartoon, a prompt); *Dilemmas and arguments* = originated in a discussion (Quora,
   Google+, comment threads); short social-media posts about inner states belong to
   Later Thoughts. AI conversations are not a criterion by themselves.
 - Stories *Life progression* = short single-episode stories in chronological order;
