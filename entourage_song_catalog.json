@@ -213,6 +213,46 @@
     "suno_url": ""
   },
   {
+    "title": "The Condor Line",
+    "slug": "the_condor_line",
+    "file": "chlewey/the_condor_line.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Claude",
+    "original_source": "free-verse seed by Carlos Thompson",
+    "theme": "Branding the Thomas Holdings Andean railway: Condor, Toucan, Macaws and freight",
+    "narrator": "Thomas",
+    "main_focus": "Condor railway plan",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Colombia; Ecuador; Peru; Bolivia; Venezuela",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/35234d70-a6df-4f24-b8c4-0e428b4a8266"
+  },
+  {
+    "title": "Condor Rising",
+    "slug": "condor_rising",
+    "file": "chlewey/condor_rising.tex",
+    "albums": [
+      "entourage-eco: Places and projects"
+    ],
+    "lyricist": "Grok",
+    "original_source": "free-verse seed by Carlos Thompson",
+    "theme": "The Condor railway brands rising over the Andes, cargo rolling behind",
+    "narrator": "Thomas",
+    "main_focus": "Condor railway plan",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Colombia; Ecuador; Peru; Bolivia; Venezuela",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/e6db5c11-8052-4797-ae02-c72da5e8b301"
+  },
+  {
     "title": "Vor Barcelona (Deutsch)",
     "slug": "vor_barcelona_deutsch",
     "file": "gabisson/vor_barcelona_deutsch.tex",
@@ -684,6 +724,27 @@
     "date_of_events": "",
     "intimacy": "absent",
     "suno_url": "https://suno.com/song/bb91e57b-e0a6-431e-99c0-0845e09563c5"
+  },
+  {
+    "title": "Detrás del Cóndor",
+    "slug": "detras_del_condor",
+    "file": "chlewey/detras_del_condor.tex",
+    "albums": [
+      "entourage-eco: Character profile: Thomas"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "The press piecing together Thomas García from the outside",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Sylvia"
+    ],
+    "location": "Bogotá (Ciudad Índigo); Punta Espada",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/a8f12021-dd5d-4f2f-b9d7-986b624a9c2d"
   },
   {
     "title": "Diana porte sa propre gravité",
@@ -2106,6 +2167,26 @@
     "suno_url": "https://suno.com/song/8657d30a-b8bb-44d3-90ae-25de3305cfff"
   },
   {
+    "title": "Not a Favor",
+    "slug": "not_a_favor",
+    "file": "wyomee/not_a_favor.tex",
+    "albums": [
+      "entourage-eco: Character profile: Xumi"
+    ],
+    "lyricist": "Claude",
+    "original_source": "expanded lore; Abu Dhabi section of Dubai by Carlos Thompson (written after the song)",
+    "theme": "Xumi working with Thomas on her own terms: slow capital, no boss, no favor",
+    "narrator": "Xumi",
+    "main_focus": "Xumi",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Abu Dhabi",
+    "date_of_events": "",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/0e97546d-7f66-47b6-ad90-dbd122f73134"
+  },
+  {
     "title": "Founding Footing in Barcelona",
     "slug": "founding_footing_in_barcelona",
     "file": "dvigitt/founding_footing_in_barcelona.tex",
@@ -2799,6 +2880,46 @@
     "suno_url": ""
   },
   {
+    "title": "Breakfast in My Bed",
+    "slug": "breakfast_in_my_bed",
+    "file": "wyomee/breakfast_in_my_bed.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "short story Gabi and Sylvia by Carlos Thompson (2026)",
+    "theme": "Gabi and Sylvia reunited: the line Gabi drew and crossed, and the morning after",
+    "narrator": "Gabi",
+    "main_focus": "Gabi and Sylvia",
+    "other_characters": [
+      "Sylvia"
+    ],
+    "location": "New York (Carroll Gardens)",
+    "date_of_events": "June 2021",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/d713f5c3-7809-4cff-aad9-901e241bc2c4"
+  },
+  {
+    "title": "Breakfast on a Tray",
+    "slug": "breakfast_on_a_tray",
+    "file": "wyomee/breakfast_on_a_tray.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "short story Gabi and Sylvia by Carlos Thompson (2026)",
+    "theme": "Sylvia's side of the reunion, ending with breakfast from Gabi's cupboards",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia and Gabi",
+    "other_characters": [
+      "Gabi"
+    ],
+    "location": "New York (Carroll Gardens)",
+    "date_of_events": "June 2021",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/0819d2ec-5840-4b6d-aab2-9a816a1a00f5"
+  },
+  {
     "title": "Last Night's Extranger",
     "slug": "last_nights_extranger",
     "file": "wyomee/last_nights_extranger.tex",
@@ -2887,6 +3008,26 @@
     "suno_url": ""
   },
   {
+    "title": "Villa Jaguar",
+    "slug": "villa_jaguar",
+    "file": "gabisson/villa_jaguar.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Suno",
+    "original_source": "news clip written by Carlos Thompson",
+    "theme": "The armed assault on Villa Jaguar and its toll, reported as news",
+    "narrator": "third person",
+    "main_focus": "Villa Jaguar assault",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Villa Jaguar, near Punta Espada (La Guajira)",
+    "date_of_events": "November 2023",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/01112a72-f241-42b9-ad96-c251f2ede833"
+  },
+  {
     "title": "La distancia justa",
     "slug": "la_distancia_justa",
     "file": "wyomee/la_distancia_justa.tex",
@@ -2906,6 +3047,66 @@
     "date_of_events": "2024",
     "intimacy": "absent",
     "suno_url": "https://suno.com/song/a20c60af-3839-443a-944c-d40150879c02"
+  },
+  {
+    "title": "White Hat (Same Weight)",
+    "slug": "white_hat_same_weight",
+    "file": "dvigitt/white_hat_same_weight.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Christmas 2024 and Full House by Carlos Thompson",
+    "theme": "Thomas to Sylvia: the white hat weighs the same; nobody is finished; keep your own handwriting",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "Christmas 2024",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/621651d0-3224-4253-b4e6-6b8d98f1efda"
+  },
+  {
+    "title": "Too High to Say",
+    "slug": "too_high_to_say",
+    "file": "dvigitt/too_high_to_say.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Christmas 2024 and Full House by Carlos Thompson",
+    "theme": "Carrying the full-house Christmas alone; asking others to hold the ladder",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Jairo",
+      "Claire",
+      "Pilar"
+    ],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "Christmas 2024",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/299e0c4a-7404-478e-a22e-8a5d10fb363c"
+  },
+  {
+    "title": "Everyone Says Yes",
+    "slug": "everyone_says_yes",
+    "file": "dvigitt/everyone_says_yes.tex",
+    "albums": [
+      "entourage-eco: Stories - Part II"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Christmas 2024 and Full House by Carlos Thompson",
+    "theme": "Everyone says yes to the man who pays: love or manners?",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "Christmas 2024",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/844ae9c3-1bb2-4daf-a71d-2134509f90e2"
   },
   {
     "title": "Gabi’s Shoulder",
@@ -3039,6 +3240,27 @@
     "date_of_events": "2026",
     "intimacy": "absent",
     "suno_url": ""
+  },
+  {
+    "title": "Dear Thomas",
+    "slug": "dear_thomas",
+    "file": "chlewey/dear_thomas.tex",
+    "albums": [
+      "entourage-eco: Stories - Part III"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Vicky to Thomas: Erika calling them girlfriends at his parents’ table, and why she still returns to his arms",
+    "narrator": "Vicky",
+    "main_focus": "Vicky and Erika",
+    "other_characters": [
+      "Thomas",
+      "Erika"
+    ],
+    "location": "Bogotá",
+    "date_of_events": "October 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/a58ff15b-29b1-45ac-b418-cf88f3740242"
   },
   {
     "title": "Where the Tide Turns",
@@ -3235,6 +3457,232 @@
     "date_of_events": "2020 onward",
     "intimacy": "absent",
     "suno_url": ""
+  },
+  {
+    "title": "Mis brazos, no a mí",
+    "slug": "mis_brazos_no_a_mi",
+    "file": "wyomee/mis_brazos_no_a_mi.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Shoulders by Carlos Thompson (with specific instructions)",
+    "theme": "Sylvia, grown, still running to his arms; what the embrace means",
+    "narrator": "Thomas",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Xumi"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/3dde4bed-868c-4e88-bedd-e38e237f24bb"
+  },
+  {
+    "title": "When It Falls Apart",
+    "slug": "when_it_falls_apart",
+    "file": "wyomee/when_it_falls_apart.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Shoulders by Carlos Thompson (with specific instructions)",
+    "theme": "Xumi weighing Pere against Karim, asking if his shoulder will still be there",
+    "narrator": "Thomas",
+    "main_focus": "Xumi",
+    "other_characters": [
+      "Sylvia",
+      "Natalia",
+      "Pere Joan",
+      "Karim"
+    ],
+    "location": "Barcelona",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/43a8445e-a8e5-47cb-80a1-405963eee610"
+  },
+  {
+    "title": "Her Own Place",
+    "slug": "her_own_place",
+    "file": "wyomee/her_own_place.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Shoulders by Carlos Thompson (with specific instructions)",
+    "theme": "Gabi playing matchmaker, then showing the place she made her own",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Sylvia"
+    ],
+    "location": "Barcelona (Sant Martí)",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/f8c5632f-60d3-483a-8dd8-42c7475cb1eb"
+  },
+  {
+    "title": "Not a Messenger",
+    "slug": "not_a_messenger",
+    "file": "wyomee/not_a_messenger.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Shoulders by Carlos Thompson (with specific instructions)",
+    "theme": "Erika refusing to hear Vicky's words through Thomas; a train to London together",
+    "narrator": "Thomas",
+    "main_focus": "Erika",
+    "other_characters": [
+      "Vicky"
+    ],
+    "location": "Utrecht; London",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/e0edf65a-d1c1-44a8-8722-8f72d6cc89b1"
+  },
+  {
+    "title": "Shoulders",
+    "slug": "shoulders",
+    "file": "wyomee/shoulders.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "DeepSeek",
+    "original_source": "Shoulders by Carlos Thompson",
+    "theme": "The women come to Thomas not for money or name but for a shoulder",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Sylvia",
+      "Gabi",
+      "Xumi",
+      "Erika"
+    ],
+    "location": "Barcelona; Utrecht",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/0945bd77-1c2a-4bde-9c37-c98f292bbffe"
+  },
+  {
+    "title": "You're a Good Man, Thomas",
+    "slug": "youre_a_good_man_thomas",
+    "file": "wyomee/youre_a_good_man_thomas.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "Claire telling Thomas he is a good man: what a dark man would have done instead",
+    "narrator": "Claire",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Sylvia",
+      "Xumi",
+      "Erika"
+    ],
+    "location": "London",
+    "date_of_events": "November 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/1b7b5d8e-1cbb-4dbd-a956-c482ff1c9126"
+  },
+  {
+    "title": "Don't Mistake the Bridge for Home",
+    "slug": "dont_mistake_the_bridge_for_home",
+    "file": "gabisson/dont_mistake_the_bridge_for_home.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Lines Not Crossed by Carlos Thompson",
+    "theme": "Thomas and Zahra driving from the villa; the pütchipü’üi and what progress should mean",
+    "narrator": "Thomas and Zahra (duet)",
+    "main_focus": "Thomas and Zahra",
+    "other_characters": [],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "December 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/7c5d19ff-f88e-4682-9ec2-105bd01c9806"
+  },
+  {
+    "title": "Stopped Before the Edge",
+    "slug": "stopped_before_the_edge",
+    "file": "gabisson/stopped_before_the_edge.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Lines Not Crossed by Carlos Thompson",
+    "theme": "A hand on the road back, a turn off the convoy, a kiss stopped short",
+    "narrator": "Thomas and Zahra (duet)",
+    "main_focus": "Thomas and Zahra",
+    "other_characters": [],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "December 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/1d4ba23f-0fc4-451a-b3d9-0b2aed68077e"
+  },
+  {
+    "title": "Where the Water Meets Me",
+    "slug": "where_the_water_meets_me",
+    "file": "gabisson/where_the_water_meets_me.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Lines Not Crossed by Carlos Thompson",
+    "theme": "On the beach near her family: no answers asked, each walking a different way",
+    "narrator": "Thomas and Zahra (duet)",
+    "main_focus": "Thomas and Zahra",
+    "other_characters": [],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "December 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/e00f43e8-ab73-45d0-90eb-be5dfb789bf7"
+  },
+  {
+    "title": "Keep Your Hands Kind",
+    "slug": "keep_your_hands_kind",
+    "file": "gabisson/keep_your_hands_kind.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Lines Not Crossed by Carlos Thompson",
+    "theme": "Thomas naming a want he will not act on; Gabi reading him without confession",
+    "narrator": "Thomas; Gabi",
+    "main_focus": "Thomas and Zahra",
+    "other_characters": [
+      "Gabi",
+      "Mihai",
+      "Jan-Alan",
+      "Michael",
+      "Natalia"
+    ],
+    "location": "Punta Espada (La Guajira); Kraków",
+    "date_of_events": "December 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/86a765c5-bd9f-4d75-919a-21180a0e32da"
+  },
+  {
+    "title": "Lines Not Crossed",
+    "slug": "lines_not_crossed",
+    "file": "gabisson/lines_not_crossed.tex",
+    "albums": [
+      "entourage-eco: Stories - Part IV"
+    ],
+    "lyricist": "DeepSeek",
+    "original_source": "Lines Not Crossed by Carlos Thompson",
+    "theme": "Zahra's visit with her husband: old romance, a Wayuu council, a kiss that stops short",
+    "narrator": "third person",
+    "main_focus": "Thomas and Zahra",
+    "other_characters": [
+      "Jan-Alan"
+    ],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "December 2026",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/e431a399-e03f-4996-9222-d91c456e9ca4"
   },
   {
     "title": "La puerta abierta",
@@ -3491,6 +3939,46 @@
     "suno_url": ""
   },
   {
+    "title": "Devirtualizing",
+    "slug": "devirtualizing",
+    "file": "gabisson/devirtualizing.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Devirtualizing section of Dubai by Carlos Thompson",
+    "theme": "Meeting Fiona face to face after knowing her online",
+    "narrator": "Thomas",
+    "main_focus": "Fiona",
+    "other_characters": [],
+    "location": "London",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/eaf4fcca-12c1-4bb7-9f03-f9783345a670"
+  },
+  {
+    "title": "Just Out of Range",
+    "slug": "just_out_of_range",
+    "file": "gabisson/just_out_of_range.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "The Flight section of Dubai by Carlos Thompson",
+    "theme": "Claire, Fiona and Xumi talking in the cabin while Thomas drifts out of range",
+    "narrator": "Thomas",
+    "main_focus": "Claire, Fiona and Xumi",
+    "other_characters": [
+      "Claire",
+      "Fiona",
+      "Xumi"
+    ],
+    "location": "flight to Dubai",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/1da94ef1-d2eb-47c0-bfb3-34e6374bbc0d"
+  },
+  {
     "title": "Tracing the Ink",
     "slug": "tracing_the_ink",
     "file": "rataflechera/tracing_the_ink.tex",
@@ -3527,6 +4015,28 @@
     "date_of_events": "2022 (memory of a Patagonian charter)",
     "intimacy": "absent",
     "suno_url": ""
+  },
+  {
+    "title": "Little Guajiro",
+    "slug": "little_guajiro",
+    "file": "gabisson/little_guajiro.tex",
+    "albums": [
+      "entourage-eco: Thomas gaze"
+    ],
+    "lyricist": "Suno",
+    "original_source": "short story Embotado by Carlos Thompson",
+    "theme": "The attack on the meeting at the main house, the bunker, and the numbness until he breaks down",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Natalia",
+      "Pilar",
+      "Erika"
+    ],
+    "location": "Villa Jaguar (La Guajira); the Baltic",
+    "date_of_events": "November 2023",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/d1a6f98a-5e22-4c7b-93af-b44c4f92dec0"
   },
   {
     "title": "My Delicate Verse",
@@ -4131,6 +4641,24 @@
     "suno_url": ""
   },
   {
+    "title": "Warm Hidden in the Cold",
+    "slug": "warm_hidden_in_the_cold",
+    "file": "wyomee/warm_hidden_in_the_cold.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "The start of Thomas and Kadri: a party, the boundary she set, the warmth in her cold",
+    "narrator": "Thomas",
+    "main_focus": "Kadri",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "October 2018",
+    "intimacy": "explicit",
+    "suno_url": "https://suno.com/song/505575bc-2c1c-4a01-a430-5dc681f3e711"
+  },
+  {
     "title": "So Wrong",
     "slug": "so_wrong",
     "file": "gabisson/so_wrong.tex",
@@ -4210,6 +4738,24 @@
     "date_of_events": "2019",
     "intimacy": "absent",
     "suno_url": ""
+  },
+  {
+    "title": "Sincere",
+    "slug": "sincere",
+    "file": "gabisson/sincere.tex",
+    "albums": [
+      "entourage-eco: Tallin Stories"
+    ],
+    "lyricist": "Carlos Thompson",
+    "original_source": "",
+    "theme": "The start of Thomas and Zahra: a Farsi mix-up, coffee dates, an agreement that changed in her mind",
+    "narrator": "Thomas",
+    "main_focus": "Zahra",
+    "other_characters": [],
+    "location": "Tallinn",
+    "date_of_events": "2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/0ed11a70-44ee-4c15-bc2f-9fd31684ef3d"
   },
   {
     "title": "I Thought We Were Home",
@@ -4314,6 +4860,259 @@
     "suno_url": ""
   },
   {
+    "title": "Roads Run North",
+    "slug": "roads_run_north",
+    "file": "gabisson/roads_run_north.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "first section of Summer 2019 by Carlos Thompson",
+    "theme": "Liis's goodbye, a night with Kadri, the summer road north and west with the children and Erika",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Liis",
+      "Kadri",
+      "Erika",
+      "Gabi",
+      "Diana"
+    ],
+    "location": "Tallinn; Riga; Stockholm; Jönköping; Hamburg; Utrecht; Rotterdam",
+    "date_of_events": "summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/2e9fe498-bd45-4d7e-b232-1843cafeb942"
+  },
+  {
+    "title": "Where Your Yes Begins",
+    "slug": "where_your_yes_begins",
+    "file": "gabisson/where_your_yes_begins.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "second section of Summer 2019 by Carlos Thompson",
+    "theme": "Two queen beds and Claire's line; a kiss that was hers to give",
+    "narrator": "Thomas",
+    "main_focus": "Claire",
+    "other_characters": [],
+    "location": "Rotterdam; Teterboro; Dallas",
+    "date_of_events": "July 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/d17d546f-41ae-4b01-9f46-f369338ff52e"
+  },
+  {
+    "title": "Just the Road",
+    "slug": "just_the_road",
+    "file": "rataflechera/just_the_road.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "third section of Summer 2019 by Carlos Thompson",
+    "theme": "Texas alone: Dallas with Amanda, a ranch near Wichita Falls, Austin, a sticker to Diana",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Claire",
+      "Fernando",
+      "Amanda",
+      "Bob",
+      "Diana"
+    ],
+    "location": "Dallas; Wichita Falls; Austin",
+    "date_of_events": "summer 2019",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/a5a62abd-85a5-4747-8fb3-f205493aee50"
+  },
+  {
+    "title": "Going with the Tenderness",
+    "slug": "going_with_the_tenderness",
+    "file": "rataflechera/going_with_the_tenderness.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "fourth section of Summer 2019 by Carlos Thompson",
+    "theme": "A week in New York finding Gabi again, ending in \"come with me to Bogotá\"",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Erika"
+    ],
+    "location": "Dallas; New York",
+    "date_of_events": "summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/54befe0a-08cc-400e-a56a-7e4a1e3f6bcf"
+  },
+  {
+    "title": "Between the Ground and the Clouds",
+    "slug": "between_the_ground_and_the_clouds",
+    "file": "rataflechera/between_the_ground_and_the_clouds.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "fifth section of Summer 2019 by Carlos Thompson",
+    "theme": "Flying to Bogotá with Claire and Gabi; lunch with his parents and Lucía; Claire's unanswered question",
+    "narrator": "Thomas",
+    "main_focus": "Thomas, Claire and Gabi",
+    "other_characters": [
+      "Claire",
+      "Gabi",
+      "Pilar",
+      "Lucía"
+    ],
+    "location": "Teterboro; Bogotá",
+    "date_of_events": "August 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/b32d8987-0c04-4b60-b041-bb3d4a710726"
+  },
+  {
+    "title": "Make a Room Your Own",
+    "slug": "make_a_room_your_own",
+    "file": "rataflechera/make_a_room_your_own.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "sixth section of Summer 2019 by Carlos Thompson",
+    "theme": "A working week in New York, a careful lunch with Claire, Gabi in her own world at Carroll Gardens",
+    "narrator": "Thomas",
+    "main_focus": "Gabi",
+    "other_characters": [
+      "Claire",
+      "Mariain"
+    ],
+    "location": "New York (Carroll Gardens)",
+    "date_of_events": "August 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/7da27d0a-3d49-41dd-afc4-14df906e42bd"
+  },
+  {
+    "title": "The Night Say What It Knew",
+    "slug": "the_night_say_what_it_knew",
+    "file": "rataflechera/the_night_say_what_it_knew.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "seventh section of Summer 2019 by Carlos Thompson",
+    "theme": "Gabi's \"I'm in\", a night with Claire in Tallinn, and coffee with Kadri as the semester opens",
+    "narrator": "Thomas",
+    "main_focus": "Thomas and Claire",
+    "other_characters": [
+      "Gabi",
+      "Claire",
+      "Kadri"
+    ],
+    "location": "New York; Tallinn",
+    "date_of_events": "late summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/90f36c53-f66d-4786-89d9-3f3de70f34fc"
+  },
+  {
+    "title": "Noted and Continued",
+    "slug": "noted_and_continued",
+    "file": "wyomee/noted_and_continued.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Suno",
+    "original_source": "summary plan by Claude for sections 3 to 7 of Summer 2019 by Carlos Thompson",
+    "theme": "The summer from Texas to New York, Bogotá, Carroll Gardens and back to Tallinn",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Mariain",
+      "Kadri"
+    ],
+    "location": "Texas; New York; Bogotá; Tallinn",
+    "date_of_events": "summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/4aa65ee2-6acd-472c-a4ad-363238929a17"
+  },
+  {
+    "title": "A Small Season",
+    "slug": "a_small_season",
+    "file": "wyomee/a_small_season.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Summer 2019 by Carlos Thompson and additional context (with specific instructions)",
+    "theme": "The whole summer in four verses; the rule of \"one night, one tour, a small season\" cracking",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Liis",
+      "Kadri",
+      "Diana",
+      "Erika",
+      "Claire",
+      "Gabi",
+      "Pilar",
+      "Lucía",
+      "Mariain"
+    ],
+    "location": "Tallinn; Rotterdam; Texas; New York; Bogotá",
+    "date_of_events": "summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/4789a46f-ab2e-41a5-8900-576e6648a43d"
+  },
+  {
+    "title": "Small Season",
+    "slug": "small_season",
+    "file": "wyomee/small_season.tex",
+    "albums": [
+      "entourage-eco: Summer 2019"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Summer 2019 by Carlos Thompson and additional context (with specific instructions)",
+    "theme": "A man with a rule and a rented car, until the season will not leave",
+    "narrator": "Thomas",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Liis",
+      "Kadri",
+      "Diana",
+      "Erika",
+      "Claire",
+      "Gabi",
+      "Pilar",
+      "Lucía",
+      "Mariain"
+    ],
+    "location": "Tallinn; Rotterdam; Texas; New York; Bogotá",
+    "date_of_events": "summer 2019",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/9b784183-6389-4a0f-b274-ad16500e15c8"
+  },
+  {
+    "title": "Il più bello del liceo",
+    "slug": "il_più_bello_del_liceo",
+    "file": "wyomee/il_più_bello_del_liceo.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Grok",
+    "original_source": "free-verse seed by Carlos Thompson",
+    "theme": "A bet with Alessia over Matteo, the school's best-looking boy, won and found a faulty trophy",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Alessia",
+      "Matteo",
+      "Roberto"
+    ],
+    "location": "Sardinia",
+    "date_of_events": "ca. 2019–2020",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/73c4ebaa-f42e-4e72-a9a1-4e4cc021da4e"
+  },
+  {
     "title": "Peccato d'aprile",
     "slug": "peccato_daprile",
     "file": "wyomee/peccato_daprile.tex",
@@ -4398,6 +5197,105 @@
     "date_of_events": "2020",
     "intimacy": "implicit",
     "suno_url": ""
+  },
+  {
+    "title": "Stay A Little",
+    "slug": "stay_a_little",
+    "file": "gabisson/stay_a_little.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Sylvia's diary entries in Christmas 2024 by Carlos Thompson",
+    "theme": "Arriving at Villa Jaguar: the shore with Jairo, the cranes, Susana, the family flying in",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Jairo",
+      "Susana",
+      "Thomas"
+    ],
+    "location": "Villa Jaguar (La Guajira)",
+    "date_of_events": "December 2024",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/6b78f547-5ec0-443c-90ea-ce92a952cf61"
+  },
+  {
+    "title": "A Cabin Waiting Past the Palms",
+    "slug": "a_cabin_waiting_past_the_palms",
+    "file": "gabisson/a_cabin_waiting_past_the_palms.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Sylvia's diary entries in Christmas 2024 by Carlos Thompson",
+    "theme": "Christmas Eve at Villa Jaguar and a small secret out at the cabin past the palms",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Gabi",
+      "Lucy"
+    ],
+    "location": "Villa Jaguar (La Guajira)",
+    "date_of_events": "December 2024",
+    "intimacy": "implicit",
+    "suno_url": "https://suno.com/song/219709ff-9824-4a49-a889-1fe42ba168f7"
+  },
+  {
+    "title": "Learning How to Stand Here",
+    "slug": "learning_how_to_stand_here",
+    "file": "gabisson/learning_how_to_stand_here.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Sylvia's diary entries in Christmas 2024 by Carlos Thompson",
+    "theme": "A blue hard hat, meetings in Spanish, notes by hand, and her family arriving from Sardinia",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [
+      "Thomas"
+    ],
+    "location": "Punta Espada (La Guajira)",
+    "date_of_events": "December 2024",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/0f493072-e96f-4281-ac00-65e8ed889c12"
+  },
+  {
+    "title": "Folded in My Coat",
+    "slug": "folded_in_my_coat",
+    "file": "gabisson/folded_in_my_coat.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Sylvia's diary entries in Christmas 2024 by Carlos Thompson",
+    "theme": "After Christmas: the farm, New Year's fireworks from a barge, an old suspicion let go, the flight back",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "Villa Jaguar (La Guajira); Barcelona",
+    "date_of_events": "December 2024 – January 2025",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/bc053dfc-2cbf-42fd-97e8-1d25c861795b"
+  },
+  {
+    "title": "Elmetto azzurro",
+    "slug": "elmetto_azzurro",
+    "file": "dvigitt/elmetto_azzurro.tex",
+    "albums": [
+      "entourage-eco: Sylvia's diary"
+    ],
+    "lyricist": "Claude",
+    "original_source": "Christmas 2024 and Full House by Carlos Thompson",
+    "theme": "The blue hard hat and the dream of the white one: half grown, half still a daughter",
+    "narrator": "Sylvia",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "Punta Espada (La Guajira); Barcelona",
+    "date_of_events": "December 2024 – January 2025",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/8cccd01e-8874-42e2-8b20-801706aea680"
   },
   {
     "title": "Sin complicaciones",
@@ -5417,6 +6315,27 @@
     "suno_url": "https://suno.com/song/f72af552-d2d1-437c-82ea-96b3f473ea6d"
   },
   {
+    "title": "Behind the Condor",
+    "slug": "behind_the_condor",
+    "file": "chlewey/behind_the_condor.tex",
+    "albums": [
+      "entourage-eco: Translations"
+    ],
+    "lyricist": "Claude (English adaptation)",
+    "original_source": "Detrás del Cóndor by Carlos Thompson",
+    "theme": "The press piecing together Thomas García from the outside",
+    "narrator": "third person",
+    "main_focus": "Thomas",
+    "other_characters": [
+      "Gabi",
+      "Sylvia"
+    ],
+    "location": "Bogotá (Ciudad Índigo); Punta Espada",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/ca14f0a9-dfd1-493c-8b99-47126aca9ec4"
+  },
+  {
     "title": "Vor Barcelona (English)",
     "slug": "vor_barcelona_english",
     "file": "gabisson/vor_barcelona_english.tex",
@@ -5754,6 +6673,60 @@
     "suno_url": "https://suno.com/song/de0b6226-3661-40da-bdef-c4d8fff893f4"
   },
   {
+    "title": "Routes Keep Moving",
+    "slug": "routes_keep_moving",
+    "file": "dvigitt/routes_keep_moving.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Stories and Arcs section of Claude's analysis of the Entourage album covers (not canon)",
+    "theme": "Routes in pencil, records that outlast them, and who is watching whom",
+    "narrator": "second person",
+    "main_focus": "the Entourage songbook",
+    "other_characters": [],
+    "location": "Rotterdam; London; Punta Espada",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/18be9ee4-b4cc-4a4d-bda3-2ec1d61eb73a"
+  },
+  {
+    "title": "Blank Scraps",
+    "slug": "blank_scraps",
+    "file": "dvigitt/blank_scraps.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Patterns section of Claude's analysis of the Entourage album covers (not canon)",
+    "theme": "Six scraps in several scripts, and what won't cross over in translation",
+    "narrator": "first person",
+    "main_focus": "the Entourage songbook",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/2232b875-80ed-4a3c-a8aa-9c2be18af803"
+  },
+  {
+    "title": "Torn-Out Spaces",
+    "slug": "tornout_spaces",
+    "file": "dvigitt/tornout_spaces.tex",
+    "albums": [
+      "entourage-eco: Meta and adjacent"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Patterns section of Claude's analysis of the Entourage album covers (not canon)",
+    "theme": "Translation as torn-out spaces: a voice rearranged that still remains",
+    "narrator": "first person",
+    "main_focus": "the Entourage songbook",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/732babe7-fd72-4358-9e4a-932a00060dd8"
+  },
+  {
     "title": "Vor Barcelona",
     "slug": "vor_barcelona",
     "file": "gabisson/vor_barcelona.tex",
@@ -5988,5 +6961,77 @@
     "date_of_events": "",
     "intimacy": "absent",
     "suno_url": ""
+  },
+  {
+    "title": "Hold Still A Moment",
+    "slug": "hold_still_a_moment",
+    "file": "wyomee/hold_still_a_moment.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Stable Diffusion portrait of Sylvia Lai (2024)",
+    "theme": "Sylvia beside a bear: the living moment over the picture",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Sylvia",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/c0c32f49-7ccd-4327-9f78-48f81405442c"
+  },
+  {
+    "title": "The Unfinished Line",
+    "slug": "the_unfinished_line",
+    "file": "wyomee/the_unfinished_line.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Stable Diffusion portrait of Mariain (2025)",
+    "theme": "Mariain in a gallery, and the words kept unsaid",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Mariain",
+    "other_characters": [],
+    "location": "a gallery",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/6ca3719a-1184-417b-b081-81b42322385d"
+  },
+  {
+    "title": "You Are Beautiful",
+    "slug": "you_are_beautiful",
+    "file": "wyomee/you_are_beautiful.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Stable Diffusion portrait of Xumi (2025)",
+    "theme": "The spark held without asking, friendship first",
+    "narrator": "an admirer (first/second person)",
+    "main_focus": "Xumi",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/f722fbc7-898b-4eb2-b4c9-0ffc1f32987b"
+  },
+  {
+    "title": "Steady as the Line",
+    "slug": "steady_as_the_line",
+    "file": "wyomee/steady_as_the_line.tex",
+    "albums": [
+      "stories: Entourage portraits"
+    ],
+    "lyricist": "Suno",
+    "original_source": "Stable Diffusion portrait of Pilar Venegas (2025)",
+    "theme": "Pilar at the doors, the corridor and the range: steady, skilled, composed",
+    "narrator": "her principal",
+    "main_focus": "Pilar",
+    "other_characters": [],
+    "location": "",
+    "date_of_events": "",
+    "intimacy": "absent",
+    "suno_url": "https://suno.com/song/86584058-fba6-4055-95e9-4344e3c1a2b4"
   }
 ]

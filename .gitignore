@@ -35,6 +35,7 @@ __pycache__/
 *.pyc
 
 .txt/
+/.voice/
 
 # secrets - never commit API keys/credentials
 .env

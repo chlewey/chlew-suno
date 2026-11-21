@@ -18,8 +18,8 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 8 | Coffee and Bread | ch1 · 2005-06-22 | Müller / Sobal · noir | COVERED |
 | 9 | Not Even Mine | ch2 · 2005-06-25 | Müller · swampy blues-rock | COVERED |
 | 10 | Even Paranoids Have Enemies | ch2, ch7 · 2005-06/07 | Harris · noir | COVERED |
-| 11 | Lucky Bastard | ch3 · 2005-06-27 | Carlson · alt-country | DRAFT |
-| 12 | Alright, Soldier | ch4 · 2005-07-01 | Carlson · spy-noir trip-hop | DRAFT |
+| 11 | Lucky Bastard | ch3 · 2005-06-27 | Carlson · alt-country | COVERED |
+| 12 | Alright, Soldier | ch4 · 2005-07-01 | Carlson · spy-noir trip-hop | COVERED |
 | 13 | Gang, bitte / Muller, un paso al costado | ch4 · 2005-07-01 | Carolina | COVERED |
 | 14 | The Glue | ch5 · 2005-07-03 | family portrait | COVERED |
 | 15 | Can You Come Get Me? | ch8 · 2005-07 (week) | Lida · Bogotá rock ballad | DRAFT |
@@ -44,7 +44,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 34 | For Keaton | ch22 · est. 2005-09-29 | Gonzalez · gritty Miami soul | NEW |
 | 35 | What the Other Is Supposed to Be | ch22 · est. 2005-09-29 | Carlson / Müller · minimal piano-ambient | NEW |
 
-9 NEW, 5 DRAFT, 2 PARTIAL, 19 COVERED.
+9 NEW, 3 DRAFT, 2 PARTIAL, 21 COVERED.
 
 ## Vignettes
 
@@ -68,7 +68,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Scene:** "Assuming everything is okay, John Carlson doesn't call Sarah back." He goes out to celebrate with his team instead. Then comes Gonzalez's call. On the drive, Marta blames him, then asks his forgiveness in tears and embraces him.
 - **Song angle:** Marta's voice, from anger to forgiveness within one car ride. Acoustic Americana ballad.
 - **Existing songs:** *Town and Country* covers the day in broad strokes. The voicemails and Marta's apology are not sung.
-- **Draft:** written by the owner; the `.suno.txt` is not yet in this repository
+- **Draft:** `lyric_drafts/road_to_plantation.suno.txt`
 
 ### 4. ¡No pasó nada!
 - **Chapter / date:** ch6 Flashbacks, 2004-04-22/23 (the text doesn't fix whether this is that night or the next day)
@@ -124,16 +124,14 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** Parque de la 93, Bogotá, near noon; John Carlson
 - **Scene:** Going over his notes, Carlson writes "A family guy?", then "Or just a facade?" He remembers how at ease Müller and Sandra were together, more than he ever was with Sarah, and writes "Lucky bastard!" Then he looks at the clouds and grins, "realizing how he is starting to think like a local."
 - **Song angle:** envy turning into an unexpected sense of belonging. Alt-country that moves from sun into rain.
-- **Existing songs:** none
-- **Draft:** `lyric_drafts/lucky_bastard.suno.txt`
+- **Existing songs:** *Lucky Bastard* (rataflechera, 2026-11; alt-country), from `lyric_drafts/lucky_bastard.suno.txt`
 
 ### 12. Alright, Soldier
 - **Chapter / date:** ch4 All Roads, 2005-07-01
 - **Where / who:** Müller's empty house above the Bogotá Savanna; John Carlson, Lida André (by phone)
 - **Scene:** Carlson stands at the window in latex gloves when Lida calls. "I'm out in a walk," he lies, and she signs off with "Alright, soldier." Afterwards he finds the Outlook folder *Nerviger Kripo*.
 - **Song angle:** a burglar's lie to the one person he doesn't want to lie to. Spy-noir trip-hop.
-- **Existing songs:** none
-- **Draft:** `lyric_drafts/alright_soldier.suno.txt`
+- **Existing songs:** *Alright, Soldier* (rataflechera, 2026-11; trip-hop), from `lyric_drafts/alright_soldier.suno.txt`
 
 ### 13. Gang, bitte / Muller, un paso al costado
 - **Chapter / date:** ch4 All Roads, 2005-07-01
@@ -182,7 +180,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Scene:** Carolina gets changua with almojábanas, and Fabián gets a calentado montañero. "Her bowl. Pale. Soft. Bogotano. His plate. Heavy. Decisive. Paisa." "Me saliste demasiado rola," he says, and she steals a piece of his chorizo. "Me tienes todo el día." That afternoon she asks in German whether he deals drugs, and he writes "Es könnten sich Mikrofone im Haus befinden" in the newspaper margin.
 - **Song angle:** Fabián on their last easy morning, before the question. An Andean bambuco or pasillo that darkens at the end.
 - **Existing songs:** none for the breakfast. One stanza of *Carolina* covers the afternoon.
-- **Draft:** written by the owner; the `.suno.txt` is not yet in this repository
+- **Draft:** `lyric_drafts/demasiado_rola.suno.txt`
 
 ### 20. After I Cross That Gate
 - **Chapter / date:** ch12 Vertrek, est. 2005-08-22
