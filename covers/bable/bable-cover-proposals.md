@@ -1,10 +1,18 @@
 # Europe
 
-## Swedish
+## Swedish I: Personal Verse
 
 `covers/bable/swedish`
 
 A single-panel comic illustration in clean ligne-claire style: crisp black ink outlines, flat bright colors, subtle halftone dot shading. A young man stands at a frosted window of an old Södermalm apartment on a snowy winter night, looking down at a Lucia procession passing in the street below, a line of white-robed singers carrying candles. Faintly reflected in the window glass, a pair of dark eyes looks back at him. A single empty speech balloon floats near the singers. Cool blues and candle-gold accents. Hand-drawn, not photographic. No maps, no flags, no lettering or text anywhere. Square 1:1 aspect ratio.
+
+> Note: Made for the former single album *Swedish*; after the split it stays with the first volume (the slug keeps the original name).
+
+## Swedish II: Stories
+
+`covers/bable/swedish-stories`
+
+A single-panel comic illustration in clean ligne-claire style: crisp black ink outlines, flat bright colors, subtle halftone dot shading. A young woman with a field notebook sits by the window of a night train compartment; outside the glass, snowy Swedish pines, and reflected in it, a dry Caribbean coast where a half-built city rises between desert and sea. On the seat beside her lies a nyckelharpa, and a single lit candle stands on the window ledge. A single empty speech balloon floats near the reflection. Cool blues against warm desert ochre, candle-gold accents. Hand-drawn, not photographic. No maps, no flags, no lettering or text anywhere. Square 1:1 aspect ratio.
 
 ## French
 

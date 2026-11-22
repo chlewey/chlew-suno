@@ -10,7 +10,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 |---|---|---|---|---|
 | 1 | Pizza, Soda and Paperwork | *The Deal* · 2001-10-26 | Müller · trova / corrido | COVERED |
 | 2 | Two Bottles of Wild Turkey | ch13 (flashback) · 2004-04-19 | Carlson · southern-gothic outlaw country | COVERED |
-| 3 | The Road to Plantation | ch6 · 2004-04-22 | Marta · Americana ballad | DRAFT |
+| 3 | The Road to Plantation | ch6 · 2004-04-22 | Marta · Americana ballad | COVERED |
 | 4 | ¡No pasó nada! | ch6 · 2004-04-22/23 | Carolina · Colombian pop ballad (Spanish) | COVERED |
 | 5 | Ally or Foe | ch6 · 2004-04-23 | Müller / Perez · noir | COVERED |
 | 6 | Forgetting Her Face | ch1 · 2005-06-21 | Carlson · rock | COVERED |
@@ -22,11 +22,11 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 12 | Alright, Soldier | ch4 · 2005-07-01 | Carlson · spy-noir trip-hop | COVERED |
 | 13 | Gang, bitte / Muller, un paso al costado | ch4 · 2005-07-01 | Carolina | COVERED |
 | 14 | The Glue | ch5 · 2005-07-03 | family portrait | COVERED |
-| 15 | Can You Come Get Me? | ch8 · 2005-07 (week) | Lida · Bogotá rock ballad | DRAFT |
+| 15 | Can You Come Get Me? | ch8 · 2005-07 (week) | Lida · Bogotá rock ballad | COVERED |
 | 16 | Never in the Room | ch10 · 2005-08-15/16 | surveillance | COVERED |
 | 17 | One Year, No Call | ch11 · est. 2005-08-21 | Carlson / Morocho | COVERED |
 | 18 | Valise sur le tarmac | ch11 · est. 2005-08-21 | Carolina / Sophie | COVERED |
-| 19 | Demasiado rola | ch12 · est. 2005-08-22 | Fabián · bambuco / pasillo | DRAFT |
+| 19 | Demasiado rola | ch12 · est. 2005-08-22 | Fabián · bambuco / pasillo | COVERED |
 | 20 | After I Cross That Gate | ch12 · est. 2005-08-22 | Lida / Carlson · dream-pop duet | PARTIAL |
 | 21 | Line of Fire | ch13 · est. 2005-08-31 | Morocho · minor-key salsa / bolero | NEW |
 | 22 | Compliance Is Not an Exit | ch13 · est. 2005-08-31 | Müller / Little | COVERED |
@@ -44,7 +44,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 34 | For Keaton | ch22 · est. 2005-09-29 | Gonzalez · gritty Miami soul | NEW |
 | 35 | What the Other Is Supposed to Be | ch22 · est. 2005-09-29 | Carlson / Müller · minimal piano-ambient | NEW |
 
-9 NEW, 3 DRAFT, 2 PARTIAL, 21 COVERED.
+9 NEW, 2 PARTIAL, 24 COVERED.
 
 ## Vignettes
 
@@ -67,8 +67,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** a bar in West Palm Beach, then Jackson Memorial, then a car to Plantation; John Carlson, Miguel Perea, Andrew Gonzalez, Marta (Sarah's sister)
 - **Scene:** "Assuming everything is okay, John Carlson doesn't call Sarah back." He goes out to celebrate with his team instead. Then comes Gonzalez's call. On the drive, Marta blames him, then asks his forgiveness in tears and embraces him.
 - **Song angle:** Marta's voice, from anger to forgiveness within one car ride. Acoustic Americana ballad.
-- **Existing songs:** *Town and Country* covers the day in broad strokes. The voicemails and Marta's apology are not sung.
-- **Draft:** `lyric_drafts/road_to_plantation.suno.txt`
+- **Existing songs:** *The Road to Plantation* (rataflechera, 2026-11; Americana ballad), from `lyric_drafts/road_to_plantation.suno.txt`. *Town and Country* covers the day in broad strokes.
 
 ### 4. ¡No pasó nada!
 - **Chapter / date:** ch6 Flashbacks, 2004-04-22/23 (the text doesn't fix whether this is that night or the next day)
@@ -152,8 +151,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** a tienda in Normandía, then the sidewalk, Bogotá; John Carlson, Lida André, Óscar Julián
 - **Scene:** "Una uva y una empanada," then a boxed half-bottle of aguardiente: "He doesn't like it. Never has. The taste should be enough to stop him. It isn't." The phone shows "John Amerikaan": "I'm not feeling well. Can you come get me?" Lida wipes his lip. The shop owner had kept his backpack: "Y también dejó este cuaderno sobre la mesa."
 - **Song angle:** Lida's voice answering the call; a relapse and a rescue. Bogotá rock ballad.
-- **Existing songs:** none centered on it (the Lida songs cover her stay in general)
-- **Draft:** `lyric_drafts/can_you_come_get_me.suno.txt`
+- **Existing songs:** *Can You Come Get Me?* (rataflechera, 2026-11; Bogotá rock ballad), from `lyric_drafts/can_you_come_get_me.suno.txt`. The other Lida songs cover her stay in general.
 
 ### 16. Never in the Room
 - **Chapter / date:** ch10 The Heat, 2005-08-15/16
@@ -179,8 +177,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** the kitchen of Müller's house, Bogotá; Fabián Müller, Carolina, Alma Quinchía
 - **Scene:** Carolina gets changua with almojábanas, and Fabián gets a calentado montañero. "Her bowl. Pale. Soft. Bogotano. His plate. Heavy. Decisive. Paisa." "Me saliste demasiado rola," he says, and she steals a piece of his chorizo. "Me tienes todo el día." That afternoon she asks in German whether he deals drugs, and he writes "Es könnten sich Mikrofone im Haus befinden" in the newspaper margin.
 - **Song angle:** Fabián on their last easy morning, before the question. An Andean bambuco or pasillo that darkens at the end.
-- **Existing songs:** none for the breakfast. One stanza of *Carolina* covers the afternoon.
-- **Draft:** `lyric_drafts/demasiado_rola.suno.txt`
+- **Existing songs:** *Demasiado rola* (rataflechera, 2026-11; bambuco / pasillo), from `lyric_drafts/demasiado_rola.suno.txt`. One stanza of *Carolina* also covers the afternoon.
 
 ### 20. After I Cross That Gate
 - **Chapter / date:** ch12 Vertrek, est. 2005-08-22

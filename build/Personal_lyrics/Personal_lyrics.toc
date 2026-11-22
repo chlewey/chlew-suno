@@ -70,6 +70,7 @@
 \contentsline {section}{Soledad y Compañía}{75}{}%
 \contentsline {section}{Let You Sit With Me}{76}{}%
 \contentsline {section}{The Quiet Tongue}{77}{}%
+\contentsline {section}{Too Smart for Your Own Good}{78}{}%
 \contentsline {chapter}{\chapternumberline {5}Extra stuff}{79}{}%
 \contentsline {section}{Writing Ain't Easy}{80}{}%
 \contentsline {section}{Weather and Memory}{81}{}%

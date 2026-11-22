@@ -146,4 +146,6 @@
 \contentsline {section}{Behind the Condor}{158}{}%
 \contentsline {section}{Between Buffalo and Boston}{159}{}%
 \contentsline {section}{Ask Someone with the Skill}{160}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{161}{}%
+\contentsline {section}{Fail Out Loud}{161}{}%
+\contentsline {section}{Build It All the Way}{162}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{163}{}%

@@ -452,6 +452,7 @@
 \contentsline {section}{Life's What Happens}{343}{}%
 \contentsline {section}{Life's What Occurs}{344}{}%
 \contentsline {section}{Put Out the Little Fires}{345}{}%
+\contentsline {section}{Fail Out Loud}{346}{}%
 \contentsline {part}{\partnumberline {VIII}Form and Craft}{347}{}%
 \contentsline {chapter}{\chapternumberline {32}Fragments}{349}{}%
 \contentsline {section}{Peccato bello}{350}{}%

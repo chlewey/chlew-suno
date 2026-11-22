@@ -24,11 +24,19 @@ An overhead photograph of an open case dossier on a worn metal desk under a sing
 
 A half-open wooden door photographed at a slight angle, an old brass key still resting in its lock, warm interior lamp light spilling through the gap into a dim hallway beyond. On a small side table just inside the door, two passports lie stacked with their photo pages angled to almost — but not quite — mirror each other, alongside two boarding-pass stubs fanned slightly apart. A worn denim shirt hangs from a hook on the doorframe. The mood is intimate but peripheral, like a story glimpsed from just outside its main room. Warm sepia interior tones fade into cool blue hallway shadow past the door's edge. Photorealistic still life, soft directional light, shallow depth of field. A small typed tag hanging from the doorknob reads "SUPPLEMENTAL — EXTENDED". Square 1:1 aspect ratio.
 
-## Fragments and Summaries
+## Fragments I: April 2004 to July 2005
 
 `covers/ricochets/fragments-and-summaries`
 
 An overhead photograph of a case file spread open across a metal desk, its topmost page stamped diagonally in faded red ink with the word "SUMMARY." Tucked among the scattered papers are a small hidden microphone with a coiled wire trailing off the desk's edge, a luggage tag still clipped to a torn boarding-pass stub, and a grainy black-and-white surveillance photograph of a poolside gathering glimpsed through a fence. Warm, dusty gold desk-lamp light dominates the papers, while the surveillance photo beneath carries a cooler, tarmac-blue cast. Photorealistic evidentiary still life, shallow depth of field, condensed dossier / highlight-reel mood. Small red-stamped title "SUMMARY" visible in the top corner. Square 1:1 aspect ratio.
+
+> Note: Made for the former single album *Fragments and Summaries*; after the split it stays with the first volume (the slug keeps the original name).
+
+## Fragments II: August and September 2005
+
+`covers/ricochets/fragments-and-summaries-ii`
+
+An overhead photograph of a second case file spread open across a scratched metal desk at night, its topmost page stamped diagonally in faded red ink with the word "SUMMARY II." Among the scattered papers lie a folded newspaper open at a half-finished crossword with a line of handwriting in the margin, a clear evidence bag holding a passport and a silver flip phone, a hangar boarding pass for a small private plane, and a creased map of Everglades canals marked in pencil. A single cool desk lamp lights the papers from one side, the rest of the desk falling into blue-gray shadow; a faint tarmac-blue cast on the map. Photorealistic evidentiary still life, shallow depth of field, condensed dossier / highlight-reel mood. Small red-stamped title "SUMMARY II" visible in the top corner. Square 1:1 aspect ratio.
 
 ## Inspired
 

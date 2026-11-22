@@ -44,27 +44,33 @@
 \contentsline {section}{Heart to Heart}{47}{}%
 \contentsline {section}{Steady Hands}{48}{}%
 \contentsline {section}{Andrea in the Doorway}{49}{}%
-\contentsline {chapter}{\chapternumberline {5}Fragments and Summaries}{51}{}%
-\contentsline {section}{¡No pasó nada!}{52}{}%
-\contentsline {section}{The Lens Cannot Know}{53}{}%
-\contentsline {section}{Mémoire En miettes}{54}{}%
-\contentsline {section}{Vous ?! — Ça te dérange ?}{55}{}%
-\contentsline {section}{A Narrow Way}{57}{}%
-\contentsline {section}{Not Even Mine}{58}{}%
-\contentsline {section}{Hold Your Breath}{59}{}%
-\contentsline {section}{Fragments at La Dorada}{60}{}%
-\contentsline {section}{One Year No Call}{62}{}%
-\contentsline {section}{Miguel Morocho}{63}{}%
-\contentsline {section}{Valise sur le tarmac}{64}{}%
-\contentsline {section}{Hangar at Olaya}{65}{}%
-\contentsline {section}{Blue Optra Morning}{66}{}%
-\contentsline {section}{Sophie Durand}{67}{}%
-\contentsline {section}{Florida Wire}{68}{}%
-\contentsline {section}{Swim Pool Submit}{69}{}%
-\contentsline {section}{Tiny Suits}{70}{}%
-\contentsline {section}{Keep Your Eyes Open}{71}{}%
-\contentsline {section}{Wrong Enough}{72}{}%
-\contentsline {chapter}{\chapternumberline {6}Inspired}{73}{}%
-\contentsline {section}{El corrido de Carlson}{74}{}%
-\contentsline {section}{Two Faces in the Ledger}{75}{}%
-\contentsline {section}{Two Women One Case}{76}{}%
+\contentsline {chapter}{\chapternumberline {5}Fragments I: April 2004 to July 2005}{51}{}%
+\contentsline {section}{The Road to Plantation}{52}{}%
+\contentsline {section}{¡No pasó nada!}{54}{}%
+\contentsline {section}{The Lens Cannot Know}{55}{}%
+\contentsline {section}{Mémoire En miettes}{56}{}%
+\contentsline {section}{Vous ?! — Ça te dérange ?}{57}{}%
+\contentsline {section}{A Narrow Way}{59}{}%
+\contentsline {section}{Not Even Mine}{60}{}%
+\contentsline {section}{Lucky Bastard}{61}{}%
+\contentsline {section}{Alright, Soldier}{62}{}%
+\contentsline {section}{Can You Come Get Me?}{63}{}%
+\contentsline {chapter}{\chapternumberline {6}Fragments II: August and September 2005}{65}{}%
+\contentsline {section}{Hold Your Breath}{66}{}%
+\contentsline {section}{Fragments at La Dorada}{67}{}%
+\contentsline {section}{One Year No Call}{69}{}%
+\contentsline {section}{Miguel Morocho}{70}{}%
+\contentsline {section}{Valise sur le tarmac}{71}{}%
+\contentsline {section}{Hangar at Olaya}{72}{}%
+\contentsline {section}{Blue Optra Morning}{73}{}%
+\contentsline {section}{Sophie Durand}{74}{}%
+\contentsline {section}{Demasiado rola}{75}{}%
+\contentsline {section}{Florida Wire}{76}{}%
+\contentsline {section}{Swim Pool Submit}{77}{}%
+\contentsline {section}{Tiny Suits}{78}{}%
+\contentsline {section}{Keep Your Eyes Open}{79}{}%
+\contentsline {section}{Wrong Enough}{80}{}%
+\contentsline {chapter}{\chapternumberline {7}Inspired}{81}{}%
+\contentsline {section}{El corrido de Carlson}{82}{}%
+\contentsline {section}{Two Faces in the Ledger}{83}{}%
+\contentsline {section}{Two Women One Case}{84}{}%
