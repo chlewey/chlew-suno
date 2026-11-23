@@ -31,3 +31,24 @@ Write the songs still missing from `lyric_drafts/ricochets-vignettes.md` (status
 - [ ] 33. Sargento Michael Pierce (ch21)
 - [ ] 34. For Keaton (ch22)
 - [ ] 35. What the Other Is Supposed to Be (ch22)
+
+## Empty `temp/`
+
+322 songs are still in `temp/`. Move each to the author directory of its Suno account (`chlewey`, `rataflechera`, `wyomee`, `gabisson`, `dvigitt`), or leave it in `temp/` with the reason noted.
+
+## Songbook structure (from CLAUDE.md "Open items")
+
+- [ ] Decide the crossover exceptions: *Se Acabó la Discusión* (rockola Confessions too?), *Every Step, Every Stripe* (generos Country & Outlaw too?), *Call Me Xumi* (pop Misc too?)
+- [ ] Rockola coherence pass; rename *Operatic Portals*, which now holds single-character spotlights
+- [ ] Pautina (`temp/pautina_andreya`): add to `personal.tex` or record why not
+- [ ] *Five Reasons to Celebrate* is tagged `xumi` but is not in Xumi's profile chapter
+- [ ] Regenerate `docs/songbook-index.csv` from the `.tex` sources
+
+## Covers
+
+- [ ] List the `\albumcover` paths with no image file (short script) and generate the missing covers
+- [ ] Add `covers/entourage-eco/meta-and-adjacent` to the entourage-eco proposals file
+
+## Release build
+
+- [ ] `make all` (or `build.ps1`) on the author's machine with no LaTeX errors, then review the PDFs
