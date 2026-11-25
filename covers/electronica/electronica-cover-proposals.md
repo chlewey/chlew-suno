@@ -46,6 +46,12 @@ A neon signal-bars icon mounted above an apartment hallway door at night, its li
 
 A neon-outlined camera-shutter iris merged with the outline of a single eye, glowing deep violet against a near-black wall. A faint, thin neon wireframe silhouette of a small drone crosses in front of it mid-flight, rendered in a cooler blue line. Photorealistic night photography, moody obsidian-dark palette, gothic and slightly uncanny mood. No text overlay. Square 1:1 aspect ratio.
 
+## Græville (Deep House)
+
+`covers/electronica/graeville-deep-house`
+
+A neon-outlined steaming cup of cocoa glowing warm amber on a rain-streaked bedroom window at night, set against the faint neon outline of a high stone wall that dissolves upward into a spiral tower, drawn in a cool glass-bell blue line. A soft pink neon circle and a single vertical neon stroke, a zero and a one, hover side by side above the cup. Photorealistic night photography, deep indigo palette with warm and cool neon spill, dreamy and introspective mood. No text overlay. Square 1:1 aspect ratio.
+
 # Essays
 
 ## Scientific Logic Meets the Bass Drop (Essays)

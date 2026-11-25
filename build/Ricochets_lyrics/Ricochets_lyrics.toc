@@ -65,12 +65,16 @@
 \contentsline {section}{Blue Optra Morning}{73}{}%
 \contentsline {section}{Sophie Durand}{74}{}%
 \contentsline {section}{Demasiado rola}{75}{}%
-\contentsline {section}{Florida Wire}{76}{}%
-\contentsline {section}{Swim Pool Submit}{77}{}%
-\contentsline {section}{Tiny Suits}{78}{}%
-\contentsline {section}{Keep Your Eyes Open}{79}{}%
-\contentsline {section}{Wrong Enough}{80}{}%
-\contentsline {chapter}{\chapternumberline {7}Inspired}{81}{}%
-\contentsline {section}{El corrido de Carlson}{82}{}%
-\contentsline {section}{Two Faces in the Ledger}{83}{}%
-\contentsline {section}{Two Women One Case}{84}{}%
+\contentsline {section}{After I Cross That Gate}{76}{}%
+\contentsline {section}{Line of Fire}{77}{}%
+\contentsline {section}{Florida Wire}{78}{}%
+\contentsline {section}{Didn't You Learn Your Lesson?}{79}{}%
+\contentsline {section}{C'est dommage}{80}{}%
+\contentsline {section}{Swim Pool Submit}{81}{}%
+\contentsline {section}{Tiny Suits}{82}{}%
+\contentsline {section}{Keep Your Eyes Open}{83}{}%
+\contentsline {section}{Wrong Enough}{84}{}%
+\contentsline {chapter}{\chapternumberline {7}Inspired}{85}{}%
+\contentsline {section}{El corrido de Carlson}{86}{}%
+\contentsline {section}{Two Faces in the Ledger}{87}{}%
+\contentsline {section}{Two Women One Case}{88}{}%

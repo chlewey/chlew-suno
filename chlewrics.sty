@@ -89,12 +89,16 @@
 % cover to the right of the chapter blurb that follows it. Falls back to
 % a flat gray square when no .png/.jpg/.jpeg exists yet at that path, so
 % chapters render correctly before any actual artwork is dropped in.
+% The fallback writes "No file <path>.<ext>." to the log for each extension:
+% latexmk records those as missing dependencies, so the book is rebuilt
+% when the image appears (otherwise latexmk reports "Nothing to do").
 \newcommand\albumcover[1]{%
 \begin{wrapfigure}{r}{112mm}
 \centering
 \IfFileExists{#1.png}{\includegraphics[width=112mm,height=112mm]{#1.png}}{%
 \IfFileExists{#1.jpg}{\includegraphics[width=112mm,height=112mm]{#1.jpg}}{%
 \IfFileExists{#1.jpeg}{\includegraphics[width=112mm,height=112mm]{#1.jpeg}}{%
+\typeout{No file #1.png.}\typeout{No file #1.jpg.}\typeout{No file #1.jpeg.}%
 {\color{gray!50}\rule{112mm}{112mm}}}}}%
 \end{wrapfigure}%
 }
