@@ -46,7 +46,7 @@ A neon signal-bars icon mounted above an apartment hallway door at night, its li
 
 A neon-outlined camera-shutter iris merged with the outline of a single eye, glowing deep violet against a near-black wall. A faint, thin neon wireframe silhouette of a small drone crosses in front of it mid-flight, rendered in a cooler blue line. Photorealistic night photography, moody obsidian-dark palette, gothic and slightly uncanny mood. No text overlay. Square 1:1 aspect ratio.
 
-## Gr\ae ville (Deep House)
+## Græville (Deep House)
 
 `covers/electronica/graeville-deep-house`
 
