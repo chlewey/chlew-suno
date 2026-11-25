@@ -24,6 +24,12 @@ A warm, candlelit overhead still-life photograph on a dark wooden table: a West 
 
 A stately overhead photograph on a polished colonial courthouse table: an ornate royal crown resting atop an open parliamentary charter with elegant handwritten script, a white quill pen and a red wax seal beside it. Warm brass candlelight and deep red velvet cloth beneath the crown add ceremonial richness. Behind the table, out of focus through a tall window, a wide tidewater river is visible under soft daylight, evoking a Williamsburg-style colonial setting. No flag or banner imagery anywhere in the frame. Photorealistic still life, warm wood tones, brass and velvet textures, dignified and formal mood, shallow depth of field. A small engraved title reading "KINGDOM OF COLUMBIA" along the bottom edge. Square 1:1 aspect ratio.
 
+## British Louisiana
+
+`covers/stories/british-louisiana`
+
+A stately overhead photograph on a worn mahogany counting-house desk in eighteenth-century New Orleans: a hand-colored 1780s map of the lower Mississippi, with Louisiana washed in British red against a pale Spanish Florida, partly covered by a folded letter closed with a red wax seal. Beside it rest a brass key, a small sack of coarse salt spilling onto the map, and an iron cannonball. Through a tall shuttered window behind the desk, out of focus, a river quay with moored sailing ships under hazy Gulf light. Warm candle and daylight mix, aged paper, brass and dark wood textures, quiet tension before a siege. Photorealistic still life, shallow depth of field. No flag or banner imagery anywhere in the frame. A small engraved title reading "BRITISH LOUISIANA" along the bottom edge. Square 1:1 aspect ratio.
+
 ## Panamax
 
 `covers/stories/panamax`

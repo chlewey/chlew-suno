@@ -148,52 +148,62 @@
 \contentsline {section}{O Come}{162}{}%
 \contentsline {section}{Ask Someone with the Skill}{164}{}%
 \contentsline {section}{Steady as the Line}{165}{}%
-\contentsline {part}{\partnumberline {II}Soul}{167}{}%
-\contentsline {chapter}{\chapternumberline {9}The Jazz Wing}{171}{}%
-\contentsline {section}{Another Log About Nothing}{172}{}%
-\contentsline {section}{Digital Skies}{173}{}%
-\contentsline {section}{Andrea at Break}{174}{}%
-\contentsline {section}{Hidden Things' Keeper}{175}{}%
-\contentsline {section}{Xumi}{176}{}%
-\contentsline {section}{Aurora In Bogotá}{177}{}%
-\contentsline {section}{Aurora in Green}{178}{}%
-\contentsline {section}{Bogotá Ledger}{179}{}%
-\contentsline {section}{Punta Espada 2026}{180}{}%
-\contentsline {section}{Terms of the Split}{181}{}%
-\contentsline {section}{Teterboro Tarmac}{182}{}%
-\contentsline {section}{Third Time’s Coffee}{183}{}%
-\contentsline {section}{Tide Like Gold}{184}{}%
-\contentsline {section}{Timbales in Blue}{185}{}%
-\contentsline {section}{Under That Wide Brim}{186}{}%
-\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{187}{}%
-\contentsline {section}{Velvet File Cabinet}{188}{}%
-\contentsline {chapter}{\chapternumberline {10}Pews \& Bridges}{189}{}%
-\contentsline {section}{Polilla en las flamas}{190}{}%
-\contentsline {section}{Fallen Messenger}{191}{}%
-\contentsline {section}{Fallen Messenger}{192}{}%
-\contentsline {section}{Not In The Creed}{193}{}%
-\contentsline {section}{Not Misreading Intention}{194}{}%
-\contentsline {section}{Pews and Bridges}{195}{}%
-\contentsline {section}{Talk To Me}{196}{}%
-\contentsline {section}{What The Book Leaves Out}{197}{}%
-\contentsline {section}{What Was Left Behind}{198}{}%
-\contentsline {section}{Which God Stands Still}{199}{}%
-\contentsline {section}{Yes It Can}{200}{}%
-\contentsline {section}{Show Me the Proof}{201}{}%
-\contentsline {section}{Define What You Mean}{202}{}%
-\contentsline {section}{Dwell in Us}{204}{}%
-\contentsline {section}{Make Our Hearts a Cradle}{205}{}%
-\contentsline {section}{Come to Our Souls}{206}{}%
-\contentsline {section}{Mary, Prepare Us}{207}{}%
-\contentsline {section}{Joseph, Bring Us Close to Jesus}{208}{}%
-\contentsline {section}{By the Grace of Your Holy}{209}{}%
-\contentsline {chapter}{\chapternumberline {11}Velvet \& Grit}{211}{}%
-\contentsline {section}{So Wrong}{212}{}%
-\contentsline {section}{Southern Static}{213}{}%
-\contentsline {section}{Blue Optra Morning}{214}{}%
-\contentsline {section}{Everybody Knows Henry}{215}{}%
-\contentsline {section}{Living Fantasies (neo soul)}{216}{}%
-\contentsline {section}{Private Flight}{217}{}%
-\contentsline {section}{Your Room or Mine}{218}{}%
-\contentsline {section}{It Changes}{219}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{221}{}%
+\contentsline {chapter}{\chapternumberline {9}British Louisiana Broadsides}{167}{}%
+\contentsline {section}{Trois pavillons sur le quai}{168}{}%
+\contentsline {section}{No Seat for Transylvania}{169}{}%
+\contentsline {section}{A King Across the Ocean}{170}{}%
+\contentsline {section}{An Island and a Northwest}{171}{}%
+\contentsline {section}{The Oath at Nashborough}{172}{}%
+\contentsline {section}{The Letter Going North}{173}{}%
+\contentsline {section}{War by Precedent}{174}{}%
+\contentsline {part}{\partnumberline {II}Soul}{175}{}%
+\contentsline {chapter}{\chapternumberline {10}The Jazz Wing}{179}{}%
+\contentsline {section}{Another Log About Nothing}{180}{}%
+\contentsline {section}{Digital Skies}{181}{}%
+\contentsline {section}{Andrea at Break}{182}{}%
+\contentsline {section}{Hidden Things' Keeper}{183}{}%
+\contentsline {section}{Xumi}{184}{}%
+\contentsline {section}{Aurora In Bogotá}{185}{}%
+\contentsline {section}{Aurora in Green}{186}{}%
+\contentsline {section}{Bogotá Ledger}{187}{}%
+\contentsline {section}{Punta Espada 2026}{188}{}%
+\contentsline {section}{Terms of the Split}{189}{}%
+\contentsline {section}{Teterboro Tarmac}{190}{}%
+\contentsline {section}{Third Time’s Coffee}{191}{}%
+\contentsline {section}{Tide Like Gold}{192}{}%
+\contentsline {section}{Timbales in Blue}{193}{}%
+\contentsline {section}{Under That Wide Brim}{194}{}%
+\contentsline {section}{Velvet \& Gold (Penthouse Portraits)}{195}{}%
+\contentsline {section}{Velvet File Cabinet}{196}{}%
+\contentsline {section}{Close Enough to Hear Him}{197}{}%
+\contentsline {chapter}{\chapternumberline {11}Pews \& Bridges}{199}{}%
+\contentsline {section}{Polilla en las flamas}{200}{}%
+\contentsline {section}{Fallen Messenger}{201}{}%
+\contentsline {section}{Fallen Messenger}{202}{}%
+\contentsline {section}{Not In The Creed}{203}{}%
+\contentsline {section}{Not Misreading Intention}{204}{}%
+\contentsline {section}{Pews and Bridges}{205}{}%
+\contentsline {section}{Talk To Me}{206}{}%
+\contentsline {section}{What The Book Leaves Out}{207}{}%
+\contentsline {section}{What Was Left Behind}{208}{}%
+\contentsline {section}{Which God Stands Still}{209}{}%
+\contentsline {section}{Yes It Can}{210}{}%
+\contentsline {section}{Show Me the Proof}{211}{}%
+\contentsline {section}{Define What You Mean}{212}{}%
+\contentsline {section}{Dwell in Us}{214}{}%
+\contentsline {section}{Make Our Hearts a Cradle}{215}{}%
+\contentsline {section}{Come to Our Souls}{216}{}%
+\contentsline {section}{Mary, Prepare Us}{217}{}%
+\contentsline {section}{Joseph, Bring Us Close to Jesus}{218}{}%
+\contentsline {section}{By the Grace of Your Holy}{219}{}%
+\contentsline {chapter}{\chapternumberline {12}Velvet \& Grit}{221}{}%
+\contentsline {section}{So Wrong}{222}{}%
+\contentsline {section}{Southern Static}{223}{}%
+\contentsline {section}{Blue Optra Morning}{224}{}%
+\contentsline {section}{Everybody Knows Henry}{225}{}%
+\contentsline {section}{Living Fantasies (neo soul)}{226}{}%
+\contentsline {section}{Private Flight}{227}{}%
+\contentsline {section}{Your Room or Mine}{228}{}%
+\contentsline {section}{It Changes}{229}{}%
+\contentsline {section}{Across the Florida Line}{230}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{231}{}%

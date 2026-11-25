@@ -106,6 +106,7 @@
 \contentsline {section}{Demasiado rola}{125}{}%
 \contentsline {section}{Pan y vino}{126}{}%
 \contentsline {section}{Canto en la memoria}{127}{}%
+\contentsline {section}{Demasiado rola (Remix)}{128}{}%
 \contentsline {chapter}{\chapternumberline {8}Bolero \& Ballad}{129}{}%
 \contentsline {section}{Chiq}{130}{}%
 \contentsline {section}{Hombre de sociedad}{131}{}%
@@ -124,6 +125,7 @@
 \contentsline {section}{No me debes nada}{145}{}%
 \contentsline {section}{La distancia justa}{146}{}%
 \contentsline {section}{Soledad y Compañía}{147}{}%
+\contentsline {section}{Line of Fire}{148}{}%
 \contentsline {chapter}{\chapternumberline {9}Corridos \& Rock en Español}{149}{}%
 \contentsline {section}{Gustavo Cerati que no estás con nosotros}{150}{}%
 \contentsline {section}{Corona de alambre}{151}{}%

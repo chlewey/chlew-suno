@@ -48,6 +48,12 @@ An overhead flatlay photograph on an open antique atlas page showing a rural Ame
 
 An overhead flatlay photograph on an open antique atlas page showing a winding road from the Andes down to a Caribbean coast, faintly visible beneath the objects. An acoustic guitar with a woven Wayuu strap rests diagonally across the map, beside a round loaf of bread on a folded linen cloth. Warm late-afternoon light, communal and open-air. Eclectic mixed textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
 
+## British Louisiana Broadsides
+
+`covers/americana/british-louisiana-broadsides`
+
+An overhead flatlay photograph on an open antique atlas page showing the lower Mississippi, the Cumberland River and the Georgia-Florida border, faintly visible beneath the objects. A weathered Cajun fiddle rests diagonally across the map, beside a printed broadside sheet with a red wax seal and a goose quill. Warm candlelit amber light with smoky shadows at the edges, aged paper and varnished wood textures, photorealistic still life. No text overlay. Square 1:1 aspect ratio.
+
 # Soul
 
 ## The Jazz Wing

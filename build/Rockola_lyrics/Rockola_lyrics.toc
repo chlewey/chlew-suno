@@ -236,4 +236,5 @@
 \contentsline {section}{Window Seat}{232}{}%
 \contentsline {section}{Kimi sela}{233}{}%
 \contentsline {section}{Live Light, Love Loud}{234}{}%
-\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{235}{}%
+\contentsline {section}{Croc song}{235}{}%
+\contentsline {appendix}{\chapternumberline {A}Songs in Other Songbooks}{237}{}%
