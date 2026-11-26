@@ -27,11 +27,11 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 17 | One Year, No Call | ch11 · est. 2005-08-21 | Carlson / Morocho | COVERED |
 | 18 | Valise sur le tarmac | ch11 · est. 2005-08-21 | Carolina / Sophie | COVERED |
 | 19 | Demasiado rola | ch12 · est. 2005-08-22 | Fabián · bambuco / pasillo | COVERED |
-| 20 | After I Cross That Gate | ch12 · est. 2005-08-22 | Lida / Carlson · dream-pop duet | DRAFT |
-| 21 | Line of Fire | ch13 · est. 2005-08-31 | Morocho · minor-key salsa / bolero | DRAFT |
+| 20 | After I Cross That Gate | ch12 · est. 2005-08-22 | Lida / Carlson · dream-pop duet | COVERED |
+| 21 | Line of Fire | ch13 · est. 2005-08-31 | Morocho · minor-key salsa / bolero | COVERED |
 | 22 | Compliance Is Not an Exit | ch13 · est. 2005-08-31 | Müller / Little | COVERED |
-| 23 | Didn't You Learn Your Lesson? | ch14 · est. 2005-09-01 | Perez vs. Carlson · spoken word / hip-hop | DRAFT |
-| 24 | C'est dommage | ch14 · est. 2005-09-01 | Sophie · chanson / downtempo | DRAFT |
+| 23 | Didn't You Learn Your Lesson? | ch14 · est. 2005-09-01 | Perez vs. Carlson · spoken word / hip-hop | COVERED |
+| 24 | C'est dommage | ch14 · est. 2005-09-01 | Sophie · chanson / downtempo | COVERED |
 | 25 | I Needed Him to Be Guilty | ch15 · est. 2005-09-02 | Carlson · slow heartland rock | NEW |
 | 26 | Swim Pool Summit | ch16 · est. 2005-09-02/04 | Morocho and the bosses | COVERED |
 | 27 | The Second Kind of Fool | ch16 · est. 2005-09-02/04 | Müller / Sophie · chanson-pop duet | NEW |
@@ -44,7 +44,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 34 | For Keaton | ch22 · est. 2005-09-29 | Gonzalez · gritty Miami soul | NEW |
 | 35 | What the Other Is Supposed to Be | ch22 · est. 2005-09-29 | Carlson / Müller · minimal piano-ambient | NEW |
 
-6 NEW, 1 PARTIAL, 4 DRAFT, 24 COVERED.
+6 NEW, 1 PARTIAL, 28 COVERED.
 
 ## Vignettes
 
