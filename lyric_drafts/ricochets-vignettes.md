@@ -27,11 +27,11 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 17 | One Year, No Call | ch11 · est. 2005-08-21 | Carlson / Morocho | COVERED |
 | 18 | Valise sur le tarmac | ch11 · est. 2005-08-21 | Carolina / Sophie | COVERED |
 | 19 | Demasiado rola | ch12 · est. 2005-08-22 | Fabián · bambuco / pasillo | COVERED |
-| 20 | After I Cross That Gate | ch12 · est. 2005-08-22 | Lida / Carlson · dream-pop duet | PARTIAL |
-| 21 | Line of Fire | ch13 · est. 2005-08-31 | Morocho · minor-key salsa / bolero | NEW |
+| 20 | After I Cross That Gate | ch12 · est. 2005-08-22 | Lida / Carlson · dream-pop duet | COVERED |
+| 21 | Line of Fire | ch13 · est. 2005-08-31 | Morocho · minor-key salsa / bolero | COVERED |
 | 22 | Compliance Is Not an Exit | ch13 · est. 2005-08-31 | Müller / Little | COVERED |
-| 23 | Didn't You Learn Your Lesson? | ch14 · est. 2005-09-01 | Perez vs. Carlson · spoken word / hip-hop | NEW |
-| 24 | C'est dommage | ch14 · est. 2005-09-01 | Sophie · chanson / downtempo | NEW |
+| 23 | Didn't You Learn Your Lesson? | ch14 · est. 2005-09-01 | Perez vs. Carlson · spoken word / hip-hop | COVERED |
+| 24 | C'est dommage | ch14 · est. 2005-09-01 | Sophie · chanson / downtempo | COVERED |
 | 25 | I Needed Him to Be Guilty | ch15 · est. 2005-09-02 | Carlson · slow heartland rock | NEW |
 | 26 | Swim Pool Summit | ch16 · est. 2005-09-02/04 | Morocho and the bosses | COVERED |
 | 27 | The Second Kind of Fool | ch16 · est. 2005-09-02/04 | Müller / Sophie · chanson-pop duet | NEW |
@@ -44,7 +44,7 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 | 34 | For Keaton | ch22 · est. 2005-09-29 | Gonzalez · gritty Miami soul | NEW |
 | 35 | What the Other Is Supposed to Be | ch22 · est. 2005-09-29 | Carlson / Müller · minimal piano-ambient | NEW |
 
-9 NEW, 2 PARTIAL, 24 COVERED.
+6 NEW, 1 PARTIAL, 28 COVERED.
 
 ## Vignettes
 
@@ -184,14 +184,15 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** a taxi to El Dorado, then international departures; John Carlson, Lida André
 - **Scene:** "Something real... at least until you cross that gate." "It'll be real *after* I cross that gate." At the airport he spots the Müllers. "Please… forget about him. Just tonight."
 - **Song angle:** a duet that refuses to be either a romance or a goodbye. Dream-pop ballad.
-- **Existing songs:** partial. The outro of *The Healer and the Hurting* touches the farewell, and the boardinghouse goodbyes ("Vete antes de que me hagas llorar") are in *Señora Rosario's House*. The taxi dialogue is not sung.
+- **Existing songs:** partial. The outro of *The Healer and the Hurting* touches the farewell, and the boardinghouse goodbyes ("Vete antes de que me hagas llorar") are in *Señora Rosario's House*. The taxi dialogue is drafted as a duet in `lyric_drafts/after_i_cross_that_gate.suno.txt` (not yet rendered).
 
 ### 21. Line of Fire
 - **Chapter / date:** ch13 The Glades, est. 2005-08-31
 - **Where / who:** Morocho's fifth-floor office, Cali; John Carlson, Miguel Morocho
 - **Scene:** A plastic bag sits on the desk: "A passport. Credit cards. A Motorola Razr." Morocho pours himself rum while Carlson sticks to Coke. "She put herself in the line of fire… The daughter… no one anticipated." Five minutes later: "Let's get some lunch."
 - **Song angle:** Morocho as a velvet-voiced host delivering the worst truth. Minor-key Cali salsa or bolero.
-- **Existing songs:** none centered on it
+- **Note:** the items were taken by petty muggers after the April 2004 garage shooting and later recovered by Morocho's people (the passport was seized in Panama from someone trying to use it).
+- **Existing songs:** drafted in `lyric_drafts/line_of_fire.suno.txt` (not yet rendered).
 
 ### 22. Compliance Is Not an Exit
 - **Chapter / date:** ch13 The Glades, est. 2005-08-31
@@ -204,14 +205,14 @@ Status: **NEW** = no song centered on the scene; **DRAFT** = lyrics drafted (`.s
 - **Where / who:** the DEA conference room in Brickell, over the river; John Carlson, Armando Perez, Maurice Bard
 - **Scene:** Perez breaks the script: "You even got your child killed… Didn't you learn your lesson?" Carlson doesn't react, and "realizes that his lack of reaction is itself a reaction."
 - **Song angle:** the interrogator's voice against Carlson's silence. Sparse spoken word or hip-hop.
-- **Existing songs:** none (*The Asset* is a Perez profile)
+- **Existing songs:** drafted in `lyric_drafts/didnt_you_learn_your_lesson.suno.txt` (not yet rendered; Carlson's interior voice only, no dialogue). *The Asset* is a Perez profile.
 
 ### 24. C'est dommage
 - **Chapter / date:** ch14 Agent Perez, est. 2005-09-01
-- **Where / who:** the Bal Harbour apartment facing the night sea; Sophie Durand, Fabián Müller
+- **Where / who:** Fabián's Bal Harbour apartment (his property and second home), facing the night sea; Sophie Durand, Fabián Müller
 - **Scene:** "Je suis né à la montagne… la mer m'a toujours fasciné." Beers, and the lights of boats and planes. "Je pourrais m'habituer à ce mode de vie. C'est dommage que ce ne soit pas avec toi."
 - **Song angle:** Sophie, tender and resigned. French chanson or downtempo.
-- **Existing songs:** none
+- **Existing songs:** drafted in `lyric_drafts/cest_dommage.suno.txt` (not yet rendered; Sophie reports Fabián's lines, no dialogue).
 
 ### 25. I Needed Him to Be Guilty
 - **Chapter / date:** ch15 Game On, est. 2005-09-02
